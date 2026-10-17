@@ -88,7 +88,8 @@ select.pill{appearance:none;cursor:pointer}
 .tb i{width:9px;height:9px;border-radius:50%;background:var(--c);box-shadow:0 0 10px var(--c)}
 .tb:hover{color:var(--ink);border-color:var(--c)}
 .tb.on{color:#000;background:var(--c);border-color:var(--c)}
-.tb.on i{background:#000;box-shadow:none}
+.tb.on i{background:currentColor;box-shadow:none}
+.tb.all.on{color:var(--bg)}
 
 /* tracks */
 .track{margin:44px 0 56px}
@@ -230,8 +231,8 @@ const md=s=>{if(window.marked)return marked.parse(s);
   close();return o};
 
 /* theme */
-const applyTheme=t=>{document.documentElement.dataset.theme=t;$("#theme").textContent=t=="paper"?"◑ night":"◐ paper";store.set("theme",t)};
-applyTheme(store.get("theme","night"));
+const applyTheme=t=>{document.documentElement.dataset.theme=t;$("#theme").textContent=t=="paper"?"◑ night":"◐ paper";store.set("theme2",t)};
+applyTheme(store.get("theme2","paper"));
 $("#theme").onclick=()=>applyTheme(document.documentElement.dataset.theme=="paper"?"night":"paper");
 
 /* logo */
@@ -239,17 +240,17 @@ $("#logo").innerHTML=[..."Signal"].map((c,i)=>i==1?`<span><em>${c}</em></span>`:
 
 /* neural-net background */
 (()=>{const c=$("#net"),x=c.getContext("2d");let W,H,P=[],m={x:-999,y:-999};
-const cols=["#22d3ee","#a78bfa","#f472b6","#34d399","#fbbf24","#fb7185"];
+const cols=["#22d3ee","#a78bfa","#f472b6","#34d399","#fbbf24","#fb7185"],dk=["#0891b2","#7c3aed","#db2777","#059669","#d97706","#e11d48"];
 function rs(){W=c.width=innerWidth*devicePixelRatio;H=c.height=innerHeight*devicePixelRatio;c.style.width=innerWidth+"px";c.style.height=innerHeight+"px";
- const n=Math.min(90,Math.floor(innerWidth*innerHeight/16000));P=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,vx:(Math.random()-.5)*.3,vy:(Math.random()-.5)*.3,c:cols[Math.random()*6|0]}))}
+ const n=Math.min(90,Math.floor(innerWidth*innerHeight/16000));P=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,vx:(Math.random()-.5)*.3,vy:(Math.random()-.5)*.3,i:Math.random()*6|0})).map(p=>({...p,c:cols[p.i],d:dk[p.i]}))}
 addEventListener("resize",rs);addEventListener("mousemove",e=>{m.x=e.clientX*devicePixelRatio;m.y=e.clientY*devicePixelRatio});rs();
 const R=140*devicePixelRatio;
 (function f(){x.clearRect(0,0,W,H);const paper=document.documentElement.dataset.theme=="paper";
  for(const p of P){p.x+=p.vx;p.y+=p.vy;if(p.x<0||p.x>W)p.vx*=-1;if(p.y<0||p.y>H)p.vy*=-1;
   const dx=p.x-m.x,dy=p.y-m.y,d=Math.hypot(dx,dy);if(d<R){p.x+=dx/d*.8;p.y+=dy/d*.8}}
  for(let i=0;i<P.length;i++)for(let j=i+1;j<P.length;j++){const a=P[i],b=P[j],d=Math.hypot(a.x-b.x,a.y-b.y);
-  if(d<R){x.strokeStyle=a.c;x.globalAlpha=(1-d/R)*(paper?.18:.28);x.lineWidth=devicePixelRatio;x.beginPath();x.moveTo(a.x,a.y);x.lineTo(b.x,b.y);x.stroke()}}
- x.globalAlpha=paper?.5:.8;for(const p of P){x.fillStyle=p.c;x.beginPath();x.arc(p.x,p.y,1.6*devicePixelRatio,0,7);x.fill()}
+  if(d<R){x.strokeStyle=paper?a.d:a.c;x.globalAlpha=(1-d/R)*(paper?.55:.28);x.lineWidth=devicePixelRatio;x.beginPath();x.moveTo(a.x,a.y);x.lineTo(b.x,b.y);x.stroke()}}
+ x.globalAlpha=paper?1:.8;for(const p of P){x.fillStyle=paper?p.d:p.c;x.beginPath();x.arc(p.x,p.y,(paper?2.6:1.6)*devicePixelRatio,0,7);x.fill()}
  x.globalAlpha=1;if(!matchMedia("(prefers-reduced-motion: reduce)").matches)requestAnimationFrame(f)})();
 })();
 
@@ -289,7 +290,7 @@ function render(){
    ${rest.length>6?`<button class="more" id="more">${showAll?"− show fewer":"+ "+(rest.length-6)+" more headlines"}</button>`:""}</div>`;
    const mb=$("#more");if(mb)mb.onclick=()=>{showAll=!showAll;render()}}
   // track nav
-  $("#tnav").innerHTML=`<button class="tb ${filter=="all"?"on":""}" style="--c:var(--ink)" data-f="all"><i></i>All tracks</button>`+
+  $("#tnav").innerHTML=`<button class="tb all ${filter=="all"?"on":""}" style="--c:var(--ink)" data-f="all"><i></i>All tracks</button>`+
    D.tracks.map(t=>`<button class="tb ${filter==t.id?"on":""}" style="--c:${t.color}" data-f="${t.id}"><i></i>${esc(t.name)}</button>`).join("");
   {const on=$(".tb.on"),nv=$("#tnav");if(on)nv.scrollLeft=on.offsetLeft-nv.clientWidth/2+on.offsetWidth/2}
   $$(".tb").forEach(b=>b.onclick=()=>{filter=b.dataset.f;render();$("#tnav").scrollIntoView({behavior:"smooth"})});
