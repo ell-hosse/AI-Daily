@@ -24,7 +24,7 @@
 Each paper comes with:
 - its **main figure** from the paper
 - a **one-line TL;DR**
-- a **~1 A4 page plain-language summary**: the problem · the idea · how it works · results · why it matters · caveats
+- a **~1 A4 page plain-language summary**: in one sentence · background · the problem · the idea · how it works · results · why it matters · caveats · key terms
 - links to the **arXiv page, PDF and discussion**
 
 Past issues are kept in an archive — pick any date from the menu at the top right of the site.

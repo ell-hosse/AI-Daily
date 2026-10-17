@@ -24,9 +24,32 @@ For each paper:
 - `tldr`: one sentence, plain English
 - `image`: the main figure URL. Fetch `https://arxiv.org/html/<id>` and take the first real figure (usually `.../x1.png`), as an absolute URL. If none, null.
 - `abs_url`: https://arxiv.org/abs/<id>, `pdf_url`: https://arxiv.org/pdf/<id>
-- `summary_md`: ~450–600 words (one A4 page), plain language for a busy engineer, using exactly these markdown headings:
-  `## The problem`, `## The idea`, `## How it works`, `## Results`, `## Why it matters`, `## Caveats`.
-  Read the abstract and, when possible, the arXiv HTML intro/results. Explain jargon briefly. No invented numbers. Write in your own words (no copying sentences).
+- `summary_md`: ~550–700 words (one A4 page). See "How to write the summary" below.
+
+### How to write the summary
+**Reader:** a smart, curious person who is NOT an expert in this paper's sub-field (think: a good engineer from a different area, or a first-year grad student). They should finish it truly understanding what was done and why it matters — detailed, but never confusing.
+
+**Research first.** Read the abstract AND the arXiv HTML version (intro, method, main results, limitations). Don't summarize from the abstract alone; the detail comes from the body of the paper.
+
+**Use exactly these markdown headings:**
+- `## In one sentence`: what the paper does, in words a non-expert gets instantly.
+- `## Background you need`: 2–4 short sentences giving the minimum context: what this area is about and the key terms the rest of the summary relies on, each defined simply.
+- `## The problem`: what is broken, slow, expensive or missing today, and why people care. Make it concrete (who is affected, what it costs).
+- `## The idea`: the core insight, explained with an everyday analogy or comparison (e.g. "like a librarian who…").
+- `## How it works`: 3–5 numbered steps walking through the method in plain words. Keep the important specifics (what the model sees, what it changes, what is trained), but explain each one.
+- `## Results`: the main findings with real numbers from the paper, and what each number means in practice (e.g. "2× faster means a reply that took 4 seconds now takes 2"). Say what it was compared against.
+- `## Why it matters`: who benefits and what this could change in real products or research.
+- `## Caveats`: honest limits: what wasn't tested, costs, open questions.
+- `## Key terms`: a short bulleted mini-glossary (3–6 terms) with a one-line plain definition each.
+
+**Style rules**
+- Short sentences (aim under 20 words). Short paragraphs (2–4 sentences). Active voice.
+- Every technical term gets explained in plain words the first time it appears, e.g. "the KV cache (the model's short-term memory of what it has already read)".
+- Prefer concrete examples over abstract statements. Use at least one analogy.
+- No unexplained acronyms, no math notation, no hype words ("revolutionary", "game-changing").
+- Never invent numbers or claims; if the paper doesn't say, don't say it.
+- Write entirely in your own words (no copied sentences from the paper).
+- Before saving, reread it as the non-expert reader: if any sentence would make them stop and google something, rewrite it.
 
 ## 3. Write files
 `docs/data/latest.json` and `docs/data/archive/<YYYY-MM-DD>.json` (identical), shape:
