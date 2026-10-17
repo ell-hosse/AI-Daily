@@ -1,6 +1,6 @@
 # ⚡ AI-Daily
 
-**Daily AI news and trending papers in plain English — updated every morning at 6:45 AM Eastern Time (Toronto).**
+**Daily AI news and trending papers in plain English — updated every morning at 6:15 AM Eastern Time (Toronto).**
 
 👉 **Live site: [ell-hosse.github.io/AI-Daily](https://ell-hosse.github.io/AI-Daily/)**
 
