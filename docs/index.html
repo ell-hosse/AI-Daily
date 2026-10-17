@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Signal — Daily AI Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<style>
+:root{--bg:#06070d;--panel:rgba(255,255,255,.04);--line:rgba(255,255,255,.09);--text:#e8eaf2;--mute:#8b90a8;--accent:#7cf3ff}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font:15px/1.6 Inter,system-ui,sans-serif;min-height:100vh;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+/* animated aurora + grid backdrop */
+.bg{position:fixed;inset:0;z-index:-2;overflow:hidden}
+.bg i{position:absolute;width:60vmax;height:60vmax;border-radius:50%;filter:blur(110px);opacity:.28;animation:float 26s ease-in-out infinite}
+.bg i:nth-child(1){background:#22d3ee;top:-25vmax;left:-15vmax}
+.bg i:nth-child(2){background:#a855f7;top:-10vmax;right:-25vmax;animation-delay:-9s}
+.bg i:nth-child(3){background:#f43f5e;bottom:-35vmax;left:20vmax;animation-delay:-17s;opacity:.16}
+@keyframes float{50%{transform:translate(6vmax,5vmax) scale(1.1)}}
+.grid{position:fixed;inset:0;z-index:-1;background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:56px 56px;mask-image:radial-gradient(ellipse at 50% 0%,#000 30%,transparent 75%);opacity:.5}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+/* header */
+header{padding:56px 0 28px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.logo{font:700 15px 'JetBrains Mono';letter-spacing:.2em;display:flex;align-items:center;gap:10px}
+.logo b{width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 18px var(--accent);animation:pulse 2s infinite}
+@keyframes pulse{50%{opacity:.35}}
+select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:8px 12px;font:13px 'JetBrains Mono';backdrop-filter:blur(10px)}
+h1{font:700 clamp(40px,7vw,86px)/1 'Space Grotesk';letter-spacing:-.04em;margin:40px 0 14px;background:linear-gradient(100deg,#fff 30%,#7cf3ff 60%,#c084fc 85%);-webkit-background-clip:text;color:transparent}
+.sub{color:var(--mute);font:14px 'JetBrains Mono'}
+/* sections */
+section{margin:46px 0}
+.h2{display:flex;align-items:baseline;gap:14px;margin-bottom:20px}
+.h2 h2{font:700 26px 'Space Grotesk';letter-spacing:-.02em}
+.h2 span{font:12px 'JetBrains Mono';color:var(--mute)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:22px;position:sticky;top:0;z-index:5;padding:12px 0;background:linear-gradient(var(--bg) 70%,transparent)}
+.chip{border:1px solid var(--line);background:var(--panel);padding:7px 14px;border-radius:99px;font:500 13px Inter;cursor:pointer;transition:.2s;color:var(--mute)}
+.chip:hover{color:var(--text)}
+.chip.on{color:#000;background:var(--c,#fff);border-color:transparent;box-shadow:0 0 22px -4px var(--c,#fff)}
+/* news */
+.news{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.n{border:1px solid var(--line);background:var(--panel);backdrop-filter:blur(12px);border-radius:16px;padding:18px;transition:.25s;display:flex;flex-direction:column;gap:8px}
+.n:first-child{grid-column:span 2;background:linear-gradient(135deg,rgba(124,243,255,.1),rgba(192,132,252,.08))}
+.n:first-child h3{font-size:22px}
+.n:hover{transform:translateY(-3px);border-color:rgba(124,243,255,.4)}
+.n .src{font:600 11px 'JetBrains Mono';letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.n h3{font:600 16px/1.35 'Space Grotesk'}
+.n p{color:var(--mute);font-size:13.5px}
+/* papers */
+.track{margin-bottom:40px}
+.track-h{display:flex;align-items:center;gap:10px;font:600 13px 'JetBrains Mono';letter-spacing:.12em;text-transform:uppercase;margin-bottom:14px;color:var(--c)}
+.track-h::before{content:"";width:28px;height:2px;background:var(--c);box-shadow:0 0 10px var(--c)}
+.papers{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:18px}
+.p{border:1px solid var(--line);background:var(--panel);border-radius:20px;overflow:hidden;cursor:pointer;transition:.3s;display:flex;flex-direction:column;position:relative}
+.p:hover{transform:translateY(-4px);border-color:var(--c);box-shadow:0 20px 50px -20px var(--c)}
+.fig{height:200px;background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+.fig img{width:100%;height:100%;object-fit:contain;padding:10px;transition:.5s}
+.p:hover .fig img{transform:scale(1.04)}
+.fig.none{background:radial-gradient(circle at 30% 30%,var(--c),transparent 60%),#0d0f1a}
+.fig.none::after{content:"∑";font:700 64px 'Space Grotesk';color:rgba(255,255,255,.25)}
+.body{padding:18px 20px 20px;display:flex;flex-direction:column;gap:10px;flex:1}
+.meta{display:flex;gap:8px;flex-wrap:wrap;font:11px 'JetBrains Mono';color:var(--mute)}
+.tag{padding:2px 8px;border-radius:6px;border:1px solid var(--line)}
+.p h3{font:600 18px/1.3 'Space Grotesk'}
+.p .tl{color:var(--mute);font-size:13.5px;flex:1}
+.read{font:600 12px 'JetBrains Mono';color:var(--c);letter-spacing:.05em}
+/* modal */
+.modal{position:fixed;inset:0;background:rgba(3,4,8,.78);backdrop-filter:blur(8px);z-index:20;display:none;align-items:flex-start;justify-content:center;overflow-y:auto;padding:40px 16px}
+.modal.open{display:flex;animation:fade .25s}
+@keyframes fade{from{opacity:0}}
+.sheet{max-width:820px;width:100%;background:#0c0e18;border:1px solid var(--line);border-radius:24px;overflow:hidden;box-shadow:0 30px 120px -30px var(--c)}
+.sheet .fig{height:auto;max-height:380px}
+.sheet .fig img{max-height:380px}
+.sheet .in{padding:28px 32px 36px}
+.sheet h2{font:700 28px/1.2 'Space Grotesk';letter-spacing:-.02em;margin:10px 0 6px}
+.authors{color:var(--mute);font-size:13px}
+.btns{display:flex;gap:10px;margin:18px 0 6px;flex-wrap:wrap}
+.btn{padding:9px 16px;border-radius:10px;font:600 13px 'JetBrains Mono';border:1px solid var(--line)}
+.btn.pri{background:var(--c);color:#000;border-color:transparent}
+.md{margin-top:18px;font-size:15.5px;line-height:1.75;color:#d4d7e4}
+.md h2{font:600 13px 'JetBrains Mono';letter-spacing:.14em;text-transform:uppercase;color:var(--c);margin:26px 0 8px}
+.md p{margin-bottom:10px}.md ul{padding-left:20px}
+.x{position:sticky;top:0;float:right;margin:14px;width:38px;height:38px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid var(--line);font-size:18px;cursor:pointer;z-index:2}
+footer{color:var(--mute);font:12px 'JetBrains Mono';padding:40px 0 60px;text-align:center}
+.empty{color:var(--mute);font:13px 'JetBrains Mono';padding:20px;border:1px dashed var(--line);border-radius:14px}
+@media(max-width:640px){.n:first-child{grid-column:auto}.papers{grid-template-columns:1fr}.sheet .in{padding:22px}}
+</style>
+</head>
+<body>
+<div class="bg"><i></i><i></i><i></i></div><div class="grid"></div>
+<div class="wrap">
+<header>
+  <div class="top"><div class="logo"><b></b>SIGNAL // AI BRIEF</div><select id="day"></select></div>
+  <h1 id="title">Today in AI.</h1>
+  <div class="sub" id="sub">loading…</div>
+</header>
+
+<section id="news-sec">
+  <div class="h2"><h2>Headlines</h2><span>last 24h · curated from major outlets</span></div>
+  <div class="news" id="news"></div>
+</section>
+
+<section>
+  <div class="h2"><h2>Papers worth your time</h2><span>trending + fresh · tap for a 1-page plain-English read</span></div>
+  <div class="chips" id="chips"></div>
+  <div id="tracks"></div>
+</section>
+<footer>researched auto-built daily by GitHub Actions · sources: Hugging Face Daily Papers, arXiv, tech press RSSamp; written daily by Claude · sources: Hugging Face Papers, arXiv, tech press</footer>
+</div>
+
+<div class="modal" id="modal"><div class="sheet" id="sheet"></div></div>
+
+<script>
+const $=s=>document.querySelector(s), esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let D=null, filter="all";
+const ago=ts=>{const h=Math.round((Date.now()/1000-ts)/3600);return h<1?"just now":h<24?h+"h ago":Math.round(h/24)+"d ago"};
+
+async function load(file){
+  const r=await fetch(file+"?v="+Date.now()); D=await r.json(); render();
+}
+function render(){
+  const d=new Date(D.date+"T12:00:00");
+  $("#title").textContent=d.toLocaleDateString(undefined,{weekday:"long"})+"'s signal.";
+  const np=D.tracks.reduce((a,t)=>a+t.papers.length,0);
+  $("#sub").textContent=`${d.toLocaleDateString(undefined,{month:"long",day:"numeric",year:"numeric"})} · ${D.news.length} headlines · ${np} papers · ~${np*3+5} min read`;
+  $("#news").innerHTML=D.news.length?D.news.map(n=>`<a class="n" href="${esc(n.url)}" target="_blank" rel="noopener">
+    <div class="src">${esc(n.source)} · ${ago(n.ts)}</div><h3>${esc(n.title)}</h3><p>${esc(n.summary)}</p></a>`).join(""):`<div class="empty">No headlines fetched today.</div>`;
+  $("#chips").innerHTML=[`<button class="chip ${filter=="all"?"on":""}" data-f="all">All tracks</button>`]
+    .concat(D.tracks.map(t=>`<button class="chip ${filter==t.id?"on":""}" style="--c:${t.color}" data-f="${t.id}">${esc(t.name)}</button>`)).join("");
+  document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{filter=b.dataset.f;render()});
+  $("#tracks").innerHTML=D.tracks.filter(t=>filter=="all"||t.id==filter).map(t=>`
+    <div class="track" style="--c:${t.color}"><div class="track-h">${esc(t.name)}</div>
+    <div class="papers">${t.papers.length?t.papers.map((p,i)=>card(p,t,i)).join(""):`<div class="empty">Nothing notable today.</div>`}</div></div>`).join("");
+  document.querySelectorAll(".p").forEach(el=>el.onclick=()=>open(el.dataset.t,+el.dataset.i));
+}
+const fig=(p)=>p.image?`<div class="fig"><img src="${esc(p.image)}" loading="lazy" alt="" onerror="this.parentNode.classList.add('none');this.remove()"></div>`:`<div class="fig none"></div>`;
+function card(p,t,i){
+  return `<article class="p" data-t="${t.id}" data-i="${i}">${fig(p)}<div class="body">
+  <div class="meta"><span class="tag">${esc(p.source)}</span>${p.upvotes?`<span class="tag">▲ ${p.upvotes}</span>`:""}<span class="tag">${esc(p.id)}</span></div>
+  <h3>${esc(p.title)}</h3><div class="tl">${esc(p.tldr)}</div><div class="read">READ THE 1-PAGE SUMMARY →</div></div></article>`;
+}
+function open(tid,i){
+  const t=D.tracks.find(x=>x.id==tid), p=t.papers[i];
+  $("#sheet").style.setProperty("--c",t.color);
+  $("#sheet").innerHTML=`<button class="x" onclick="closeM()">✕</button>${fig(p)}<div class="in">
+   <div class="meta"><span class="tag" style="color:${t.color}">${esc(t.name)}</span><span class="tag">${esc(p.id)}</span></div>
+   <h2>${esc(p.title)}</h2><div class="authors">${esc(p.authors.join(", "))}</div>
+   <div class="btns"><a class="btn pri" href="${p.abs_url}" target="_blank" rel="noopener">arXiv page</a><a class="btn" href="${p.pdf_url}" target="_blank" rel="noopener">PDF</a>
+   <a class="btn" href="https://huggingface.co/papers/${p.id}" target="_blank" rel="noopener">Discussion</a></div>
+   <div class="md">${marked.parse(p.summary_md||"")}</div></div>`;
+  $("#modal").classList.add("open"); document.body.style.overflow="hidden";
+}
+function closeM(){$("#modal").classList.remove("open");document.body.style.overflow=""}
+$("#modal").onclick=e=>{if(e.target.id=="modal")closeM()};
+addEventListener("keydown",e=>e.key=="Escape"&&closeM());
+
+(async()=>{
+  let days=[]; try{days=await (await fetch("data/index.json?v="+Date.now())).json()}catch{}
+  $("#day").innerHTML=days.length?days.map(d=>`<option value="${d}">${d}</option>`).join(""):`<option>latest</option>`;
+  $("#day").onchange=e=>load("data/archive/"+e.target.value+".json");
+  load("data/latest.json").catch(()=>$("#sub").textContent="No digest yet — run the workflow once from the Actions tab.");
+})();
+</script>
+</body>
+</html>

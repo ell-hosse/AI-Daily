@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-16",
+ "generated": "sample",
+ "news": [
+  {
+   "title": "Sample headline \u2014 real news appears after the first run",
+   "url": "https://github.com",
+   "source": "Setup",
+   "summary": "Run the workflow once from the Actions tab to replace this.",
+   "image": null,
+   "ts": 1792204041.6752024
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "0000.00000",
+     "title": "Sample paper for Autonomous Systems",
+     "authors": [
+      "Your Digest Bot"
+     ],
+     "source": "sample",
+     "upvotes": 0,
+     "tldr": "Placeholder until the first daily build.",
+     "image": null,
+     "abs_url": "https://arxiv.org",
+     "pdf_url": "https://arxiv.org",
+     "summary_md": "## The problem\nThis is sample text shown before the first automatic run.\n\n## The idea\nOnce the GitHub workflow runs, each card gets a real trending paper, its main figure, and a ~1-page plain-English summary.\n\n## Why it matters\nYou stop chasing feeds; the brief comes to you."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "0000.00000",
+     "title": "Sample paper for Inference Optimization",
+     "authors": [
+      "Your Digest Bot"
+     ],
+     "source": "sample",
+     "upvotes": 0,
+     "tldr": "Placeholder until the first daily build.",
+     "image": null,
+     "abs_url": "https://arxiv.org",
+     "pdf_url": "https://arxiv.org",
+     "summary_md": "## The problem\nThis is sample text shown before the first automatic run.\n\n## The idea\nOnce the GitHub workflow runs, each card gets a real trending paper, its main figure, and a ~1-page plain-English summary.\n\n## Why it matters\nYou stop chasing feeds; the brief comes to you."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "0000.00000",
+     "title": "Sample paper for Transformer Optimization",
+     "authors": [
+      "Your Digest Bot"
+     ],
+     "source": "sample",
+     "upvotes": 0,
+     "tldr": "Placeholder until the first daily build.",
+     "image": null,
+     "abs_url": "https://arxiv.org",
+     "pdf_url": "https://arxiv.org",
+     "summary_md": "## The problem\nThis is sample text shown before the first automatic run.\n\n## The idea\nOnce the GitHub workflow runs, each card gets a real trending paper, its main figure, and a ~1-page plain-English summary.\n\n## Why it matters\nYou stop chasing feeds; the brief comes to you."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "0000.00000",
+     "title": "Sample paper for GPU Kernels",
+     "authors": [
+      "Your Digest Bot"
+     ],
+     "source": "sample",
+     "upvotes": 0,
+     "tldr": "Placeholder until the first daily build.",
+     "image": null,
+     "abs_url": "https://arxiv.org",
+     "pdf_url": "https://arxiv.org",
+     "summary_md": "## The problem\nThis is sample text shown before the first automatic run.\n\n## The idea\nOnce the GitHub workflow runs, each card gets a real trending paper, its main figure, and a ~1-page plain-English summary.\n\n## Why it matters\nYou stop chasing feeds; the brief comes to you."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "0000.00000",
+     "title": "Sample paper for Autonomous Robotics",
+     "authors": [
+      "Your Digest Bot"
+     ],
+     "source": "sample",
+     "upvotes": 0,
+     "tldr": "Placeholder until the first daily build.",
+     "image": null,
+     "abs_url": "https://arxiv.org",
+     "pdf_url": "https://arxiv.org",
+     "summary_md": "## The problem\nThis is sample text shown before the first automatic run.\n\n## The idea\nOnce the GitHub workflow runs, each card gets a real trending paper, its main figure, and a ~1-page plain-English summary.\n\n## Why it matters\nYou stop chasing feeds; the brief comes to you."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "0000.00000",
+     "title": "Sample paper for LLM & VLM",
+     "authors": [
+      "Your Digest Bot"
+     ],
+     "source": "sample",
+     "upvotes": 0,
+     "tldr": "Placeholder until the first daily build.",
+     "image": null,
+     "abs_url": "https://arxiv.org",
+     "pdf_url": "https://arxiv.org",
+     "summary_md": "## The problem\nThis is sample text shown before the first automatic run.\n\n## The idea\nOnce the GitHub workflow runs, each card gets a real trending paper, its main figure, and a ~1-page plain-English summary.\n\n## Why it matters\nYou stop chasing feeds; the brief comes to you."
+    }
+   ]
+  }
+ ]
+}
