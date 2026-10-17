@@ -77,12 +77,14 @@ select.pill{appearance:none;cursor:pointer}
 .li .n{font:12px 'JetBrains Mono';color:var(--mute);padding-top:3px}
 .li h4{font:500 15.5px/1.35 'Space Grotesk'}
 .li:hover h4{color:var(--accent)}
+.li p{color:var(--mute);font-size:13.5px;line-height:1.5;margin-top:5px}
 .li small{display:block;font:11px 'JetBrains Mono';color:var(--mute);margin-top:4px;letter-spacing:.05em}
 .more{margin-top:14px;font:12px 'JetBrains Mono';color:var(--accent);text-align:left}
 
 /* track nav */
-.tnav{display:flex;gap:10px;flex-wrap:wrap;position:sticky;top:0;z-index:5;padding:14px 0;margin-bottom:10px;background:linear-gradient(var(--bg) 75%,transparent)}
-.tb{display:flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--card);backdrop-filter:blur(10px);border-radius:99px;padding:8px 15px 8px 10px;font:500 13px Inter;color:var(--mute);transition:.25s}
+.tnav{display:flex;gap:8px;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;position:sticky;top:0;z-index:5;padding:12px 20px;margin:0 -20px 10px;background:color-mix(in srgb,var(--bg) 95%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line);mask-image:linear-gradient(90deg,transparent,#000 20px,#000 calc(100% - 28px),transparent)}
+.tnav::-webkit-scrollbar{display:none}
+.tb{flex:none;white-space:nowrap;display:flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--card);backdrop-filter:blur(10px);border-radius:99px;padding:8px 15px 8px 10px;font:500 13px Inter;color:var(--mute);transition:.25s}
 .tb i{width:9px;height:9px;border-radius:50%;background:var(--c);box-shadow:0 0 10px var(--c)}
 .tb:hover{color:var(--ink);border-color:var(--c)}
 .tb.on{color:#000;background:var(--c);border-color:var(--c)}
@@ -282,12 +284,13 @@ function render(){
   if(!D.news.length){$("#news").innerHTML=`<div class="empty">No headlines in this issue.</div>`}
   else{const [l,...rest]=D.news,shown=showAll?rest:rest.slice(0,6);
    $("#news").innerHTML=`<a class="lead" href="${esc(l.url)}" target="_blank" rel="noopener"><div class="src">Top story · ${esc(l.source)} · ${ago(l.ts)}</div><h3>${esc(l.title)}</h3><p>${esc(l.summary)}</p><div class="go">READ AT ${esc(l.source).toUpperCase()} ↗</div></a>
-   <div class="list">${shown.map((n,i)=>`<a class="li" href="${esc(n.url)}" target="_blank" rel="noopener"><span class="n">${String(i+2).padStart(2,"0")}</span><div><h4>${esc(n.title)}</h4><small>${esc(n.source)} · ${ago(n.ts)}</small></div></a>`).join("")}
+   <div class="list">${shown.map((n,i)=>`<a class="li" href="${esc(n.url)}" target="_blank" rel="noopener"><span class="n">${String(i+2).padStart(2,"0")}</span><div><h4>${esc(n.title)}</h4>${n.summary?`<p>${esc(n.summary)}</p>`:""}<small>${esc(n.source)} · ${ago(n.ts)}</small></div></a>`).join("")}
    ${rest.length>6?`<button class="more" id="more">${showAll?"− show fewer":"+ "+(rest.length-6)+" more headlines"}</button>`:""}</div>`;
    const mb=$("#more");if(mb)mb.onclick=()=>{showAll=!showAll;render()}}
   // track nav
   $("#tnav").innerHTML=`<button class="tb ${filter=="all"?"on":""}" style="--c:var(--ink)" data-f="all"><i></i>All tracks</button>`+
    D.tracks.map(t=>`<button class="tb ${filter==t.id?"on":""}" style="--c:${t.color}" data-f="${t.id}"><i></i>${esc(t.name)}</button>`).join("");
+  {const on=$(".tb.on"),nv=$("#tnav");if(on)nv.scrollLeft=on.offsetLeft-nv.clientWidth/2+on.offsetWidth/2}
   $$(".tb").forEach(b=>b.onclick=()=>{filter=b.dataset.f;render();$("#tnav").scrollIntoView({behavior:"smooth"})});
   // tracks
   $("#tracks").innerHTML=D.tracks.map((t,ti)=>filter!="all"&&filter!=t.id?"":`
