@@ -33,7 +33,7 @@ Past issues are kept in an archive — pick any date from the menu at the top ri
 
 No servers, no API keys, no cost beyond a Claude plan.
 
-1. A **scheduled Claude task** runs every day at 6:45 AM ET.
+1. A **scheduled Claude task** runs every day at 6:15 AM ET.
 2. It follows [`DIGEST_INSTRUCTIONS.md`](DIGEST_INSTRUCTIONS.md): searches the news, finds trending papers on Hugging Face Papers and arXiv, reads them, and writes the summaries.
 3. It saves the issue as JSON in `docs/data/` and pushes it to this repo.
 4. **GitHub Pages** republishes the site automatically.
