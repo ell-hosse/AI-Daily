@@ -179,8 +179,18 @@ footer{border-top:1px solid var(--line);padding:30px 0 60px;display:flex;justify
 .rv{opacity:0;transform:translateY(16px);transition:opacity .35s,transform .35s cubic-bezier(.2,.8,.2,1)}
 .rv.in-view{opacity:1;transform:none}
 
+/* issue switch loader */
+html.busy,html.busy body{overflow:hidden}
+.ld{position:fixed;inset:0;z-index:100;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;background:color-mix(in srgb,var(--bg) 55%,transparent);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);opacity:0;visibility:hidden;transition:opacity .18s,visibility .18s;touch-action:none;overscroll-behavior:contain}
+.ld.on{opacity:1;visibility:visible}
+.ld .lb{width:min(260px,64vw);height:4px;border-radius:4px;background:var(--line);overflow:hidden}
+.ld .lb i{display:block;height:100%;width:0;border-radius:4px;background:var(--accent);box-shadow:0 0 12px var(--accent)}
+.ld.on .lb i{width:85%;transition:width .7s cubic-bezier(.2,.8,.2,1)}
+.ld.done .lb i{width:100%;transition:width .15s}
+.ld small{font:11px 'JetBrains Mono';letter-spacing:.12em;color:var(--mute)}
+
 @media(max-width:860px){.news,.pg,.track:nth-child(even) .pg{grid-template-columns:1fr}.stats{gap:16px}.th .idx{font-size:48px}}
-@media(prefers-reduced-motion:reduce){*:not(.tk){animation:none!important;transition:none!important}.rv{opacity:1;transform:none}.tk{animation-duration:140s}}
+@media(prefers-reduced-motion:reduce){*:not(.tk):not(.ld):not(.ld *){animation:none!important;transition:none!important}.rv{opacity:1;transform:none}.tk{animation-duration:140s}}
 </style>
 </head>
 <body>
@@ -204,6 +214,8 @@ footer{border-top:1px solid var(--line);padding:30px 0 60px;display:flex;justify
     </div>
   </header>
 </div>
+
+<div class="ld" id="ld" role="status" aria-live="polite" aria-hidden="true"><div class="lb"><i></i></div><small>LOADING ISSUE…</small></div>
 
 <div class="ticker"><div class="tk" id="tk"></div></div>
 
@@ -367,11 +379,26 @@ addEventListener("keydown",e=>{
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in-view");io.unobserve(e.target)}}),{threshold:.08});
 function reveal(){$$(".rv:not(.in-view)").forEach(el=>io.observe(el))}
 
+/* issue switch: brief blocking overlay so the change is visible */
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+const block=e=>e.preventDefault();
+async function switchIssue(file){
+  const ld=$("#ld"),root=document.documentElement;
+  root.classList.add("busy");ld.classList.remove("done");ld.setAttribute("aria-hidden","false");
+  addEventListener("wheel",block,{passive:false});addEventListener("touchmove",block,{passive:false});
+  void ld.offsetWidth;ld.classList.add("on");
+  try{await Promise.all([load(file),wait(650)])}
+  catch{$("#date").textContent="Couldn't load that issue — try again."}
+  ld.classList.add("done");scrollTo({top:0,behavior:"instant"});await wait(180);
+  ld.classList.remove("on");ld.setAttribute("aria-hidden","true");root.classList.remove("busy");
+  removeEventListener("wheel",block);removeEventListener("touchmove",block);
+}
+
 /* boot */
 (async()=>{
   let days=[];try{days=await (await fetch("data/index.json?v="+Date.now())).json()}catch{}
   $("#day").innerHTML=days.length?days.map(d=>`<option value="${d}">${new Date(d+"T12:00:00").toLocaleDateString(undefined,{month:"short",day:"numeric",year:"numeric"})}</option>`).join(""):`<option>latest</option>`;
-  $("#day").onchange=e=>{filter="all";showAll=false;load("data/archive/"+e.target.value+".json")};
+  $("#day").onchange=e=>{filter="all";showAll=false;switchIssue("data/archive/"+e.target.value+".json")};
   load("data/latest.json").catch(()=>$("#date").textContent="No issue yet — the first one lands tomorrow morning.");
 })();
 </script>
