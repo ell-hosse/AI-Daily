@@ -232,8 +232,8 @@ const md=s=>{if(window.marked)return marked.parse(s);
   close();return o};
 
 /* theme */
-const applyTheme=t=>{document.documentElement.dataset.theme=t;$("#theme").textContent=t=="paper"?"◑ night":"◐ paper";store.set("theme2",t)};
-applyTheme(store.get("theme2","paper"));
+const applyTheme=t=>{document.documentElement.dataset.theme=t;$("#theme").textContent=t=="paper"?"◑ night":"◐ paper";store.set("theme3",t)};
+applyTheme(store.get("theme3","night"));
 $("#theme").onclick=()=>applyTheme(document.documentElement.dataset.theme=="paper"?"night":"paper");
 
 /* logo */
