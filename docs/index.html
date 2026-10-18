@@ -178,7 +178,7 @@ footer{border-top:1px solid var(--line);padding:30px 0 60px;display:flex;justify
     <div class="live"><i></i>LIVE · DAILY AI INTELLIGENCE</div>
     <div class="ctrl">
       <select class="pill" id="day" aria-label="Pick an issue"></select>
-      <button class="pill" id="theme" title="Switch theme">◐ paper</button>
+      <button class="pill" id="theme" title="Switch theme">☀ light</button>
     </div>
   </div>
 
@@ -232,7 +232,7 @@ const md=s=>{if(window.marked)return marked.parse(s);
   close();return o};
 
 /* theme */
-const applyTheme=t=>{document.documentElement.dataset.theme=t;$("#theme").textContent=t=="paper"?"◑ night":"◐ paper";store.set("theme3",t)};
+const applyTheme=t=>{document.documentElement.dataset.theme=t;$("#theme").textContent=t=="paper"?"☾ dark":"☀ light";store.set("theme3",t)};
 applyTheme(store.get("theme3","night"));
 $("#theme").onclick=()=>applyTheme(document.documentElement.dataset.theme=="paper"?"night":"paper");
 
