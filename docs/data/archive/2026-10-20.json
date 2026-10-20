@@ -1,0 +1,382 @@
+{
+ "date": "2026-10-20",
+ "generated": "2026-10-20T06:13:23-04:00",
+ "news": [
+  {
+   "title": "OpenAI races to lock in funding ahead of Anthropic's IPO",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say",
+   "source": "Reuters (via The Star)",
+   "summary": "OpenAI is reportedly pushing to secure investor commitments for a roughly $30B round that could value it above $1.4 trillion, aiming to close before Anthropic's expected public listing.",
+   "image": null,
+   "ts": 1792447200
+  },
+  {
+   "title": "U.S. bans DeepSeek from federal agency systems",
+   "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+   "source": "CNBC",
+   "summary": "DHS ordered federal civilian agencies to strip DeepSeek technology from their IT systems and barred them from buying its products, invoking a 2018 supply-chain security law.",
+   "image": null,
+   "ts": 1792497600
+  },
+  {
+   "title": "Canadian news publishers sue Anthropic in Ontario",
+   "url": "https://globalnews.ca/news/12108024/anthropic-news-lawsuits-ontario/",
+   "source": "Global News",
+   "summary": "Publishers including Postmedia and The Globe and Mail filed a copyright suit in Ontario alleging Anthropic used their journalism without permission to train Claude; the claims have not been tested in court.",
+   "image": null,
+   "ts": 1792429200
+  },
+  {
+   "title": "How one hacker used AI agents to break into scores of sites",
+   "url": "https://money.usnews.com/investing/news/articles/2026-10-19/exclusive-how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites",
+   "source": "Reuters (via U.S. News)",
+   "summary": "A Reuters exclusive details how a single attacker used largely autonomous AI agents and a few thousand dollars to breach more than 100 company websites, a sign of how cheap offensive hacking has become.",
+   "image": null,
+   "ts": 1792404000
+  },
+  {
+   "title": "Tenstorrent raises $1.5B at a $6.2B valuation",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "source": "TechCrunch",
+   "summary": "Jim Keller's AI chip startup closed a $1.5B Series E that more than doubles its valuation, money it will use to scale its open, RISC-V-based alternative to Nvidia hardware.",
+   "image": null,
+   "ts": 1792411200
+  },
+  {
+   "title": "Amazon takes aim at Nvidia's CUDA moat with TorchNeuron",
+   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "source": "TechCrunch",
+   "summary": "AWS released a public beta of TorchNeuron, which lets developers move PyTorch workloads onto its Trainium chips with little more than a configuration change.",
+   "image": null,
+   "ts": 1792425600
+  },
+  {
+   "title": "Microsoft unveils tools to monitor and corral rogue AI agents",
+   "url": "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/",
+   "source": "GeekWire",
+   "summary": "Microsoft added agent risk controls, including Guardian Agents, that let enterprises score agent behavior and restrict, require approval for, or shut down agents that act out of bounds.",
+   "image": null,
+   "ts": 1792422000
+  },
+  {
+   "title": "Inside Prometheus, Meta's gigawatt-scale AI supercluster",
+   "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+   "source": "Engineering at Meta",
+   "summary": "Meta detailed the engineering behind Prometheus, its gigawatt-class Ohio cluster where it trained its Muse models, including reliability work that sharply cut training interruptions.",
+   "image": null,
+   "ts": 1792429200
+  },
+  {
+   "title": "OpenAI boosts ChatGPT on COBOL and other legacy languages",
+   "url": "https://openai.com/index/low-resource-programming-languages/",
+   "source": "OpenAI",
+   "summary": "OpenAI published new evaluations for low-resource programming languages like COBOL and Fortran and reported big gains in its latest models' ability to write and migrate legacy code.",
+   "image": null,
+   "ts": 1792504800
+  },
+  {
+   "title": "ChatGPT can now read and act on your open Chrome tabs",
+   "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+   "source": "The Decoder",
+   "summary": "ChatGPT's Chrome integration now uses open tabs as context and can take actions inside them, such as filling out forms or downloading files.",
+   "image": null,
+   "ts": 1792501200
+  },
+  {
+   "title": "Inception releases Mercury 3 diffusion LLM",
+   "url": "https://www.unite.ai/inception-releases-mercury-3-its-flagship-diffusion-llm/",
+   "source": "Unite.AI",
+   "summary": "Inception's flagship diffusion language model claims over 1,000 tokens per second and a 1M-token context, pitching speed as an edge over autoregressive rivals.",
+   "image": null,
+   "ts": 1792486800
+  },
+  {
+   "title": "MiniMax launches faster, cheaper M3.1 Flash model",
+   "url": "https://www.minimax.io/blog/minimax-m31f",
+   "source": "MiniMax",
+   "summary": "MiniMax released M3.1 Flash, a lower-cost model with claimed coding and computer-use improvements, confirmed as the mystery 'Space Bunny' model tested in OpenCode.",
+   "image": null,
+   "ts": 1792476000
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2610.17560",
+     "title": "EdgeWise: Bringing Long-Horizon Agents to the Edge via Selective Cloud Delegation",
+     "authors": [
+      "Zeru Shi",
+      "Jindong Jiang",
+      "Ryo Hachiuma",
+      "Yonggan Fu",
+      "Byung-Kwan Lee",
+      "Peter Belcak",
+      "Saurav Muralidharan",
+      "Ayush Agarwal"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 26,
+     "tldr": "A small local model learns to handle most steps of long coding tasks itself and call a costly cloud model only for the hard ones, cutting cloud bills by up to 62% with no loss in success rate.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.17560",
+     "pdf_url": "https://arxiv.org/pdf/2610.17560",
+     "summary_md": "## In one sentence\nEdgeWise lets a small AI model on your own computer do most of the work on long coding tasks, and call an expensive cloud model only for the few steps that really need it.\n\n## Background you need\nAn AI agent is a language model that works in a loop: it reads, runs a command, looks at the result, and decides the next step. Long-horizon tasks, like fixing a bug in a real codebase, can take dozens of these steps. A small language model (a few billion parameters) can run on a local machine for free. A frontier cloud model is much smarter but is billed for every word it reads and writes.\n\n## The problem\nSerious coding agents usually send every step to a frontier cloud model. Many steps are easy, like listing files, so paying top prices for them wastes money. But a small local model alone cannot finish hard tasks.\n\n## The idea\nThe authors first ran an experiment where random steps were handed to the cloud. With about 40% of steps sent to the cloud, some runs came close to full-cloud quality. The lesson: *which* steps get help matters more than *how many*. Think of a junior engineer who does routine work alone and calls a senior colleague only for the tricky edits. EdgeWise trains the small model to be that junior engineer who knows when to ask.\n\n## How it works\n1. **The local model leads.** A 9-billion-parameter model (Qwen3.5-9B) runs on the device and handles each step by default.\n2. **It can raise its hand.** At any step, the small model can choose to delegate. The cloud model (GPT-5.5 or Opus 4.8 in the tests) then takes that one step, and control returns to the local model.\n3. **Format training.** Fine-tuning on examples teaches the small model how to say \"delegate this step.\"\n4. **Reinforcement learning with per-step credit.** It then learns by trial and error. It is rewarded for solving the task and lightly penalized for calling the cloud too often. During training only, a cheaper model (GPT-5.4-mini) reviews each delegation choice, so good and bad calls get individual feedback rather than one score for the whole task.\n5. **No extra router at run time.** After training, the small model decides alone. The authors also test a training-free option where an outside judge model decides at every step.\n\n## Results\nTests used two coding-agent benchmarks, SWE-ReBench and Terminal-Bench 2.1, with up to 80 turns per task. Cost counts only cloud fees.\n- On SWE-ReBench with GPT-5.5, EdgeWise solved 66.36% of tasks within three tries, versus 63.64% for GPT-5.5 alone. The cloud bill fell from $598.08 to $283.02, about 53% cheaper.\n- The headline claim is up to 62% lower cost on SWE-ReBench and 34% on Terminal-Bench 2.1, while matching or beating the cloud-only agent.\n- Averaged over two cloud models and two benchmarks, cost dropped by about 45% with no average loss in three-try success.\n- The per-step feedback mattered. Without it, first-try success on Terminal-Bench fell from 71.91% to 65.17%, and the model called the cloud 8.97 times per task instead of 5.80.\n- Trained in one agent framework, it still cut cost by at least 25% in three others.\n- On an NVIDIA DGX Spark desktop machine, cloud costs fell by about half with similar success.\n\n## Why it matters\nHalving a coding agent's cloud bill without losing quality is a direct saving for any company running them. It also keeps more work and data on local hardware. The cloud turned out to be needed mostly for hard edits and cross-file reading, a useful guide for agent designers.\n\n## Caveats\nCost counts only cloud fees; the electricity and hardware for the local model are left out. Speed and energy were not measured. Only coding tasks were tested; research or computer-use agents are future work. With Opus 4.8 on Terminal-Bench, first-try success trailed the cloud-only agent. The training-time reviewer is itself a model and can be wrong.\n\n## Key terms\n- **Agent:** a language model that acts in steps, using tools and reading results.\n- **Small language model:** a compact model cheap enough to run on local hardware.\n- **Delegation:** handing one step to a stronger, paid cloud model.\n- **Reinforcement learning:** training by trial and error with rewards.\n- **Pass@3:** the share of tasks solved in at least one of three attempts."
+    },
+    {
+     "id": "2610.18861",
+     "title": "Hybrid Reasoning Agents",
+     "authors": [
+      "Jiaru Zou",
+      "Yunzhe Qi",
+      "Sirui Chen",
+      "Federico Bianchi",
+      "Shang Zhu",
+      "Pan Lu",
+      "Jingrui He",
+      "James Zou"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 37,
+     "tldr": "AI agents that think silently in their internal number format and switch to text only to use tools score higher while using 35-55% fewer tokens and running up to 2.6x faster.",
+     "image": "https://arxiv.org/html/2610.18861v1/plots/Probe_Analyses_New.png",
+     "abs_url": "https://arxiv.org/abs/2610.18861",
+     "pdf_url": "https://arxiv.org/pdf/2610.18861",
+     "summary_md": "## In one sentence\nHybrid Reasoning Agents let an AI model think silently in its own internal format and switch to normal text only when it needs to use a tool or show its work.\n\n## Background you need\nLarge language models normally \"think\" by writing words, one at a time, before answering. This written thinking is called chain-of-thought. Every word costs compute and time. Inside the model, each word starts as a long list of numbers called a hidden state. Latent reasoning means feeding these number lists straight back into the model, skipping the step of turning them into words.\n\n## The problem\nAgents that search the web or run code need text: tool commands must be written out, and tool results come back as text. But writing out every thought makes them slow and costly. Latent reasoning is faster, yet it cannot call tools and is hard for humans to check. So far, builders had to pick one: readable but slow, or fast but blind to tools.\n\n## The idea\nLet the model do both inside one answer. It is like a chess player who calculates moves silently in their head, then speaks only to announce a move or ask the referee something. The agent thinks in numbers when it is just reasoning, and switches to words when it needs to act.\n\n## How it works\n1. **A small bridge called HybridLink.** It is a light add-on (about 10 million parameters on a 4-billion-parameter model). It converts the model's output numbers back into the format the model expects as input, so silent thinking steps fit naturally.\n2. **Mode switches by special markers.** A start-latent marker begins silent thinking. The model leaves silent mode when its internal state lands closest to the end-latent marker. Silent steps can be mapped to their nearest words, giving a rough readable trace.\n3. **Memory that keeps everything.** Text, silent thoughts and tool results all stay in the model's working memory across turns, without being re-written as text.\n4. **Two training stages.** First, supervised training on 54,000 example hybrid trajectories teaches the model to use the bridge. Then reinforcement learning (trial and error with rewards) teaches it when to think silently and when to act. Rewards cover correctness, format and tool use only; mode choice is learned on its own.\n\n## Results\nThe team built agents from Qwen3 base models at 4, 8 and 14 billion parameters and tested them on 11 benchmarks in math, science, medicine, search and agent tasks.\n- On GAIA, a test of multi-step assistant tasks, the 14B agent scored 52.4. Two frontier models in the comparison table scored 41.7 (Kimi-K3) and 37.9 (GPT-5.6-Luna).\n- On the AIME 2025 math contest, the 8B agent scored 39.2, versus 36.3 for the same model trained with a standard text-only reinforcement method.\n- Overall, the authors report about 10.4% better results than matched text and latent baselines after reinforcement learning.\n- Efficiency: 35.5% to 54.7% fewer tokens, 1.8 to 2.6 times faster, and 2.7 to 3.7 times cheaper. A reply that took 26 seconds could take roughly 10 to 14 seconds.\n\n## Why it matters\nAgents are expensive because they think out loud at length. Cutting tokens by a third to a half, while keeping tool use, makes agents cheaper to run and faster to respond. Code, data and 8B and 14B checkpoints are public, so others can test it.\n\n## Caveats\nOnly one model family (Qwen3) was tested. Tool calls were capped at 10 per task. Standard serving software cannot yet run this kind of mixed generation, so the authors built their own. The readable versions of silent thoughts are rough approximations, and may not show what truly drove the agent's choices. That matters for safety reviews.\n\n## Key terms\n- **Chain-of-thought:** reasoning written out as text before an answer.\n- **Hidden state:** the model's internal list of numbers for each step.\n- **Latent reasoning:** thinking by passing hidden states back in, without writing words.\n- **HybridLink:** the small add-on that lets hidden states be reused as inputs.\n- **Reinforcement learning:** training by trial and error with rewards."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2610.14162",
+     "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+     "authors": [
+      "Hermann Kumbong",
+      "Ishan S. Khare",
+      "Iddah Mlauzi",
+      "Andrew Woen",
+      "Charles Ding",
+      "E. Kelly Buchanan",
+      "Simran Arora",
+      "Azalia Mirhoseini"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 7,
+     "tldr": "Generating text as a rough gist first and then filling in detail level by level, all in parallel, matches diffusion language models in quality while running 10-31x faster.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.14162",
+     "pdf_url": "https://arxiv.org/pdf/2610.14162",
+     "summary_md": "## In one sentence\nNext-Concept Modeling writes text the way a painter sketches: first a rough outline of the whole passage, then finer and finer detail, filling each layer all at once instead of word by word.\n\n## Background you need\nMost chatbots write one token (a word or word piece) at a time, so a 500-token answer needs 500 steps. Diffusion language models are an alternative. They start from a blank or noisy sequence and fill in all positions over many rounds, so they can write many tokens in parallel. Each round is one \"function evaluation\", meaning one full pass through the model.\n\n## The problem\nDiffusion language models promise speed but often need many rounds. Each round reprocesses the whole sequence, which is expensive. They also need large training budgets. Shortcuts that cut the number of rounds usually add extra training stages and make outputs less varied. So the speed promise is only partly kept.\n\n## The idea\nBorrow a trick from image generators that draw a tiny thumbnail first, then larger versions. NCM first squeezes text into a stack of codes. The top level is a short summary of the gist. Each lower level adds detail. The generator writes the short gist first, then each richer level in a single parallel step. The number of steps depends on the number of levels, not the length of the text.\n\n## How it works\n1. **Build a text compressor.** An encoder turns text into number vectors. These are stored as codes on several levels. Each level records what the levels above missed, and lower levels are longer. A decoder turns the full stack back into words.\n2. **Teach it to be useful when cut short.** During training, lower levels are randomly dropped. This forces the top levels to hold the most important meaning.\n3. **Freeze the compressor and train a generator.** A transformer learns to predict each level, coarse to fine. Every code inside one level is predicted at the same time, using the levels already written.\n4. **Generate.** At run time the model writes level one, then level two, and so on. The decoder converts the final stack into text. Early levels are short, so early steps are cheap.\n\n## Results\nThe models had about 100 million parameters. They were compared with diffusion models such as MDLM, DUO and LLaDA at similar size.\n- On LM1B, a news-sentence dataset, NCM wrote text with better quality scores than the strongest diffusion model and ran 21 times faster.\n- On OpenWebText, quality was similar and generation was about 10 times faster.\n- On XSum, a news summarization task, NCM matched the best diffusion model's summary score while being 31 times faster. A summary that took 31 seconds would take about 1 second.\n- It needed 4 to 11 times fewer model passes when writing freely, and 6 to 16 times fewer on summarization and translation.\n- Spending the saved time on generating and picking among more candidate summaries gave about 7% higher summary scores at the same time budget.\n- Training needed 4 to 5 times fewer training tokens than strong diffusion baselines.\n- On Sudoku puzzles it beat both word-by-word and diffusion models at every difficulty level.\n\n## Why it matters\nIf this scales, text generation could need far fewer passes through the model. That means faster replies and cheaper serving. Lower training data needs also matter as high-quality text gets scarce. Code, checkpoints and data are released.\n\n## Caveats\nAll tests used small models of about 100 million parameters; behavior at billions of parameters is unknown. Compressing text is hard to do perfectly, and one wrong token can change meaning or break code. Comparisons are mostly against diffusion models, not today's best word-by-word systems. Existing serving and quantization tools are built for word-by-word models, so NCM starts without that support.\n\n## Key terms\n- **Token:** a word or piece of a word that the model reads and writes.\n- **Diffusion language model:** a model that fills in all positions over several refinement rounds.\n- **Function evaluation:** one full pass through the model.\n- **Coarse-to-fine:** generating a rough version first, then adding detail.\n- **Codes:** compact symbols that stand for compressed chunks of text."
+    },
+    {
+     "id": "2610.23818",
+     "title": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
+     "authors": [
+      "Chiatzen Wang",
+      "Bill Xu",
+      "Haochen Gu",
+      "Hongyang Zhang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Relaxed speculative decoding rules accept more draft tokens per step but make answers about 1.5x longer, so real speed barely improves and accuracy often drops.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.23818",
+     "pdf_url": "https://arxiv.org/pdf/2610.23818",
+     "summary_md": "## In one sentence\nThis paper shows that some popular shortcuts for speeding up AI text generation look faster on paper but make the model ramble longer, so the real speedup mostly disappears and accuracy often drops.\n\n## Background you need\nSpeculative decoding is a common trick to make language models reply faster. A small, quick \"draft\" model guesses several next tokens (words or word pieces). The big \"target\" model checks the guesses in one pass and keeps the ones it agrees with. Each check is called a verification round. The usual speed measure is accepted tokens per round.\n\n## The problem\nIn the standard \"lossless\" version, the big model only keeps guesses it would have produced itself. The output is the same as without the trick, so more accepted tokens per round really means faster replies. Some newer \"relaxed\" rules accept guesses the big model would have rejected, to raise acceptance. Researchers kept reporting acceptance gains as speed gains. Nobody had checked whether the answers themselves changed length.\n\n## The idea\nSpeed is about the whole trip, not just how fast each step is. Picture a delivery driver who drives faster but takes a much longer route. Arriving later is still arriving later. The authors measured the whole route: answer length, number of rounds, clock time and accuracy.\n\n## How it works\n1. **Pick the shortcuts.** They tested five published relaxed rules that need no extra training, including CACTUS, mentored decoding and fuzzy speculative decoding.\n2. **Pick many model pairs.** Twelve draft-target pairs across four target models, including GPT-OSS-20B, Qwen3-8B, Llama-3.1-8B-Instruct and a DeepSeek-R1 distilled 8B model.\n3. **Pick varied tasks.** Grade-school and contest math, code writing, chat and long-document questions. That gave 360 combinations, each run against the lossless version on the same prompts.\n4. **Measure everything.** All runs used one H100 GPU with the vLLM serving software. The authors recorded tokens per round, answer length, rounds, time and accuracy.\n\n## Results\n- At the most relaxed settings, acceptance rose about 1.34 times on average. But answers got about 1.54 times longer on average. Length grew in 248 of 360 combinations.\n- So the number of rounds barely fell: the median ratio was 0.93, and 114 combinations needed *more* rounds than lossless.\n- Clock time on the main pairs was essentially unchanged (median ratio 1.01).\n- Accuracy dropped in 198 of 300 graded combinations. Code tasks were hit hardest.\n- The settings that cut rounds the most tended to lose the most accuracy. In one case, rounds fell to 0.44 times, but code accuracy fell from 58% to 2%.\n- Why: the extra accepted tokens are often ones the big model found unlikely. They push the model into longer reasoning. On easy math, it keeps writing after already giving the right answer. On hard math, it runs out of space before answering.\n\n## Why it matters\nTeams choosing inference tricks for real products could be fooled by acceptance numbers alone. This paper gives a simple rule: report answer length and verification rounds alongside acceptance, and judge methods end to end. It also suggests lossless speculative decoding remains the safe default for reasoning models.\n\n## Caveats\nOnly training-free, token-by-token relaxed rules were tested; trained methods may behave differently. Settings were compared at roughly matched acceptance, which is approximate. Some answers were cut off at the length limit, so the true length growth may be even larger. Timing came from specific servers with batch size 1, not busy production traffic.\n\n## Key terms\n- **Speculative decoding:** a small model guesses ahead and a big model checks the guesses.\n- **Verification round:** one checking pass by the big model.\n- **Lossless:** the speedup does not change what the model would have written.\n- **Relaxed verification:** accepting some guesses the big model would reject.\n- **Length inflation:** answers becoming longer because of relaxed acceptance."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2610.10114",
+     "title": "Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position",
+     "authors": [
+      "Xiaoran Liu",
+      "Ziwei He",
+      "Xipeng Qiu"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 31,
+     "tldr": "A controlled study of hybrid attention models shows linear-attention mixes gain more from long-text training while sliding-window mixes extrapolate better, and a chunked linear-attention trick reaches 16x training-free length extension.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.10114",
+     "pdf_url": "https://arxiv.org/pdf/2610.10114",
+     "summary_md": "## In one sentence\nThis paper studies language models that mix two kinds of attention. It explains why some mixes learn long documents better while others cope better with texts longer than they ever saw. It then offers a simple fix that lets one family stretch to 16 times its training length.\n\n## Background you need\nAttention is the part of a language model that lets each word look back at earlier words. \"Full\" attention looks at everything, so its cost grows with the square of the text length. Cheaper options exist. Sliding-window attention only looks at the last few thousand words. Linear attention squeezes the past into a fixed-size running summary. A \"hybrid\" model mixes full-attention layers with one of these cheaper kinds.\n\n## The problem\nMany new models are hybrids because they are cheaper on long inputs. But builders lack a clear picture of how each mix behaves. Two goals matter. The first is \"context extension\": getting better at long text after extra training on long documents. The second is \"length extrapolation\": handling texts longer than training, with no extra training.\n\n## The idea\nThe authors find a \"seesaw effect\". Linear-attention hybrids gain more from extra long-document training. Sliding-window hybrids extrapolate better to unseen lengths. They trace this to position sense, meaning how each layer knows how far apart two words are. Think of two readers. One remembers exact page numbers and gets lost past the last page they practised on. The other only knows \"nearby\" versus \"far\" and keeps reading calmly. The fix borrows the second reader's habit for the linear-attention layers.\n\n## How it works\n1. **Controlled experiments.** They trained many small models (376 million to 1 billion parameters, with a 3 billion check). Each first saw 50 billion tokens of 4,000-token text, then 5 billion tokens of 32,000-token text.\n2. **Many mixes.** Full attention was paired with sliding-window attention or with two linear-attention types, called GLA and GDN. Mixes were done layer by layer and head by head. Some full-attention layers used no position encoding at all.\n3. **Diagnosis.** They added random noise to different kinds of heads to see which mattered. They also tracked how sharply attention focuses.\n4. **Fix for linear attention.** Their \"sliding-window linear attention\" runs the linear layer over overlapping chunks of 4,096 tokens, moving 1,024 tokens at a time. So the layer never sees a distance larger than in training.\n5. **Fix for sliding windows.** For context extension, they widened the window and used a loss that emphasises long-range tokens.\n\n## Results\n- With the fix, GLA and GDN hybrids trained on 4,000-token text read 64,000-token text with no extra training. That is a 16-fold stretch.\n- At 64,000 tokens they found a single hidden fact (a \"needle in a haystack\" test) 100% of the time.\n- A 3-to-1 mix of position-aware heads to position-free heads worked best in most cases, inside and beyond training length.\n- Adding noise to the position-aware heads hurt long-context scores more than noising the position-free heads.\n- For sliding-window hybrids, a 2,048-token window gave the best context extension at both 376 million and 776 million parameters. Combined with the new loss, these models caught up with GDN hybrids.\n\n## Why it matters\nLabs building long-context models must choose an architecture before spending large compute budgets. This work gives them a map: pick linear-attention mixes if you will train on long text, sliding-window mixes if you need to go past training length. The chunking trick also offers longer reach almost for free.\n\n## Caveats\nAll models are small, at most 3 billion parameters. Training after pretraining, such as instruction tuning, was not studied. Scores on realistic long-document tasks were weak for these small models. The authors say some conclusions are still tentative. Other hybrid types, like sparse attention, are left for later papers in the series.\n\n## Key terms\n- **Hybrid model:** a model that mixes full attention with a cheaper attention type.\n- **Sliding-window attention:** attention that only looks back a fixed number of words.\n- **Linear attention:** attention that keeps a fixed-size running summary of the past.\n- **Length extrapolation:** working on texts longer than any seen in training, without retraining.\n- **Needle in a haystack:** a test that hides one fact in a long text and asks the model to find it."
+    },
+    {
+     "id": "2610.17191",
+     "title": "FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation",
+     "authors": [
+      "Zekun Shi",
+      "Alastair James Arthur Price"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 6,
+     "tldr": "FreeSolo uses short summaries only to locate relevant chunks of text, then reads the original words, letting small models trained on 4k tokens keep finding facts at up to 256k tokens with constant memory.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.17191",
+     "pdf_url": "https://arxiv.org/pdf/2610.17191",
+     "summary_md": "## In one sentence\nFreeSolo is a new attention design that lets a language model jump straight to the few relevant chunks of a very long text. It keeps working on texts far longer than it was trained on.\n\n## Background you need\nAttention lets each word in a model look back at earlier words. Normal \"full\" attention compares every word with every earlier word, so cost grows with the square of length. \"Linear-time\" models avoid this by keeping a fixed-size running summary, but a small summary forgets details. \"Sparse\" attention is a middle path: each word looks only at a chosen subset of earlier words.\n\n## The problem\nModels struggle with long inputs in two ways. Linear-time models cannot recall exact facts from far back. Full attention can, but becomes slow and memory hungry. Existing sparse methods often need costly extra training on long documents. Even then, they tend to fail on texts longer than that training. A standard model trained on 4,000-token text, in the authors' tests, scored zero on a long-text benchmark at 16,000 tokens.\n\n## The idea\nThink of a library with an index card for every shelf. You skim the cards to find the right shelves, then read the actual books there. FreeSolo does the same. It keeps short summaries of small groups of words, uses them only to find the right spots, then reads the original words in full.\n\n## How it works\n1. **Two branches per attention head.** A short-range branch looks at the last 512 words. A long-range branch finds and reads distant evidence. A learned weight blends their outputs.\n2. **Keypoint cells.** Earlier text is split into \"cells\" of 32 words. Each cell gets an average summary and an \"importance\" score. Each query picks the best 4 cells and reads every word inside them.\n3. **Avoiding position confusion.** The long-range branch ignores word positions when reading. So it is never confused by distances larger than any seen in training.\n4. **FS-L, the linear version.** Before choosing, each head keeps only the 64 most important cells plus the 8 newest. So the work per word stays constant, however long the text gets. It needs only about 5% extra training to adapt.\n5. **FS-B, the tree version.** This keeps every cell and organises them in search trees. A query walks down the trees to find good cells quickly, instead of checking them all.\n\n## Results\nModels of 341 million and 743 million parameters were trained on 4,000-token text, then tested on longer inputs with no further training.\n- On the RULER long-text benchmark at 16,000 tokens, the 743-million FS-B scored 30.4. Rivals scored 12.8 (Raven), 10.4 (GDN) and 0.0 (standard attention).\n- At 16,000 tokens FS-B found hidden facts 100, 88 and 84 times out of 100 on three needle tests.\n- On a single-needle test at 256,000 tokens, 64 times past training length, FS-L found the fact 85% of the time. One baseline, NAtS-L, scored zero.\n- Short-text quality held up: 56.2 average for FS-B versus 56.8 for standard attention at 743 million.\n- FS-L memory stayed flat from 4,000 to 256,000 tokens. At 131,000 tokens it processed input 1.5 times faster than standard attention.\n\n## Why it matters\nLong documents, codebases and chat histories are where models often fail. A method that stretches far past training length, without expensive long-text retraining, could cut the cost of long-context models.\n\n## Caveats\nTests stop at 743 million parameters, small by today's standards. Training was about 3 times slower than standard attention at 4,000 tokens, and the kernels are not yet tuned. FS-B generation was slow, about 19 words per second even with optimisations. FS-L can throw away evidence before a question arrives. Some tasks, like tracking variables, stayed hard for every model.\n\n## Key terms\n- **Sparse attention:** each word looks at only a chosen subset of earlier words.\n- **Keypoint cell:** a block of 32 consecutive words with a summary used for searching.\n- **Length extrapolation:** working on longer texts than seen in training, without retraining.\n- **RULER:** a benchmark of long-text tasks like finding and tracking facts.\n- **Needle in a haystack:** a test that hides a fact in a long text and asks the model to find it."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2610.05014",
+     "title": "MetaKernelBench: Measuring GPU Kernel Knowledge Transfer Beyond Code",
+     "authors": [
+      "Xueyi Chen",
+      "Shiyu Liu",
+      "Xin Jin",
+      "Yuhua Zheng",
+      "Xin Li",
+      "Haolei Bai",
+      "Junhan Zhu",
+      "Huan Wang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 21,
+     "tldr": "A benchmark of 74 GPU kernel tasks tests whether an agent's written lessons from one kernel language help in another, finding gains up to 29% but frequent harm when the notes come from a weaker attempt.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.05014",
+     "pdf_url": "https://arxiv.org/pdf/2610.05014",
+     "summary_md": "## In one sentence\nMetaKernelBench tests whether an AI agent's written notes from optimising a GPU program actually help a fresh attempt at the same task in a different programming language.\n\n## Background you need\nA GPU kernel is a small, highly tuned program that runs one operation, like attention, on a graphics chip. Writing fast kernels is a rare skill, so AI agents are now trained to write them. Kernels are often written in a domain-specific language (DSL), a programming language built for one job. Two such DSLs here are CuTe DSL from NVIDIA and TIRx from the Apache TVM project.\n\n## The problem\nMany kernel agents save \"lessons learned\" as plain-text notes, called skills, for later use. Yet existing benchmarks only grade each kernel for correctness and speed. Nobody measures whether those saved notes help next time. A note can also mislead, so stored experience might quietly make agents worse.\n\n## The idea\nPicture a chef writing a recipe card after cooking a dish on a gas stove. A second chef then cooks the same dish on an induction stove using only that card. Did the card help? MetaKernelBench runs this experiment for GPU kernels. Switching languages forces the note to carry real insight, not copy-paste code.\n\n## How it works\n1. **The problems.** There are 74 tasks from real AI workloads, in six families: attention, memory caches, linear attention, layer blocks, mixture-of-experts and quantisation. Each comes in a CuTe DSL version and a TIRx version.\n2. **Solo attempt.** An agent solves one version alone within 40 minutes and 10 test submissions. It then writes a skill note. The note is passed on even if the kernel failed.\n3. **Assisted attempt.** A fresh copy of the same model tackles the other language version. It sees only the note, not the old code.\n4. **Grading.** Kernels run on one NVIDIA B200 GPU. They are checked against a high-precision reference and timed against standard PyTorch. A failure turned into a pass counts as a big win; the reverse counts as a big loss.\n5. **Comparison.** The assisted result is compared with that model's own solo attempt on the same version.\n\n## Results\nSix models were tested, including GPT-5.6 Sol, DeepSeek-V4-Pro, GLM-5.3 and Gemini 3.7 Flash.\n- The average effect of notes ranged from a 19.1% loss to a 29.3% gain. GPT-5.6 Sol gained most, going from TIRx notes to CuTe DSL.\n- Four models improved in both directions.\n- Every model was hurt on many problems: 16% to 45% of them, depending on model and direction.\n- The key predictor was relative quality. When the note's source attempt beat the receiver's own solo attempt, the note helped 71.2% of the time. When it was worse, it hurt 53.8% of the time.\n- For the three larger models, 65% to 86% of harm came from the note itself, for example overconfident claims ruling out good options.\n\n## Why it matters\nTeams building self-improving coding agents often assume that saved experience is good. This benchmark shows notes can be a double-edged sword. It gives a way to measure memory quality, not just output quality. Agent builders can use it to decide which notes to keep, how to phrase them, and when to verify them.\n\n## Caveats\nOnly six models, one GPU type, one agent setup and one time budget were tested. The same model writes and reads each note, so writing skill and reading skill are mixed together. The study only reuses notes on the same problem. Whether notes help on new problems, new hardware, or over many rounds is untested. Findings about note content are correlations, not proof of cause.\n\n## Key terms\n- **GPU kernel:** a small, tuned program that runs one operation on a graphics chip.\n- **DSL (domain-specific language):** a programming language built for one kind of task.\n- **Skill note:** a plain-text summary of lessons an agent writes after an attempt.\n- **Transfer:** reusing knowledge from one setting to help in another.\n- **Harm rate:** the share of problems where the note made results clearly worse."
+    },
+    {
+     "id": "2610.22035",
+     "title": "ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models",
+     "authors": [
+      "Mianjie Yu",
+      "Zhongmin Zhao",
+      "Zizhao Mo",
+      "Jianxiong Liao",
+      "Wenxuan Li",
+      "Yulin Qiao",
+      "Huanle Xu",
+      "Wenquan Yang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "ETH trains large models on mixed chip generations by giving faster pipelines more data instead of more layers, reaching up to 2x faster training than prior systems.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.22035",
+     "pdf_url": "https://arxiv.org/pdf/2610.22035",
+     "summary_md": "## In one sentence\nETH is a training system that splits work fairly across a mix of older and newer AI chips. It gives faster chips more data rather than more model layers, speeding training up to 2 times.\n\n## Background you need\nBig models are trained across many chips at once. In pipeline parallelism, the model's layers are split into stages, each on its own chips, like stations on an assembly line. Data parallelism runs several copies of that line, each on different data, and averages what they learn. That averaging step is called All-Reduce: chips swap and combine their updates.\n\n## The problem\nMany clusters contain a mix of chip generations with different speeds and memory. Existing systems, such as HexiScale and Metis, balance them by giving faster chips more layers. But a chip's memory limits how many layers it can hold. Also, models have few layers, so moving one layer shifts work in big jumps. The authors measured speed gaps up to 1.92 times between chips, and up to 32% idle compute on chips short of memory. Idle chips waste money.\n\n## The idea\nPicture several checkout lanes with cashiers of different speeds. Instead of rearranging the lanes, you send more customers to the faster lanes. ETH builds several independent pipelines and gives each a different share of the data batch. Memory use depends mostly on the small chunk processed at a time, so faster chips get more work without needing more memory.\n\n## How it works\n1. **Group chips into pipelines.** ETH tries different ways to group the available chips into pipelines, and to order them into stages.\n2. **Tune each stage.** For each stage, it picks how to split work across chips, how many layers to hold, and what to recompute to save memory.\n3. **Hand out data.** A greedy step gives data chunks one at a time to whichever pipeline would finish soonest. All pipelines then end close together.\n4. **Fix mismatched averaging.** Pipelines may split model weights differently, so updates do not line up. ETH cuts updates into matching blocks, regroups them and merges transfers. This \"block-wise All-Reduce\" avoids wasteful padding.\n5. **Search fast.** The number of setups is huge, and searching could take longer than training. ETH caches past results, skips hopeless options early, and tries promising ones first.\n\nETH adds about 9,000 lines of Python to Megatron-LM, a popular training framework.\n\n## Results\nTests used Huawei Ascend 910B chips of three grades, plus NVIDIA A100 and RTX 3090 GPUs. Models were GPT-3 variants from 350 million to 175 billion parameters.\n- On Ascend mixes, ETH trained 1.36 to 2.00 times faster than HexiScale and 1.20 to 1.84 times faster than Metis. A 2 times speedup turns a ten-day run into five days.\n- On mixed NVIDIA GPUs, it trained 1.41 to 1.73 times faster than Metis and 1.67 to 1.95 times faster than HexiScale.\n- Finding a plan for a 175-billion model took about 38 to 43 times less time than with Metis.\n- Block-wise All-Reduce was 1.38 to 1.71 times faster than averaging each weight tensor separately.\n- Training loss for a 70-billion LLaMA-2 model matched baselines within about 0.1%, so results do not suffer.\n\n## Why it matters\nMost organisations cannot buy only the newest chips. They own a patchwork of hardware generations. ETH lets them use all of it efficiently, cutting training time and cost. It also helps in regions where top chips are scarce.\n\n## Caveats\nThe search uses heuristics, so it may miss the best setup. Only three kinds of parallelism are supported; splitting long sequences or experts across chips is not. The cost models assume one particular pipeline schedule. Gains rely on large total batch sizes, which give enough data chunks to balance finely.\n\n## Key terms\n- **Pipeline parallelism:** splitting a model's layers across chips, like stations on an assembly line.\n- **Data parallelism:** running copies of the model on different data, then averaging updates.\n- **All-Reduce:** the step where chips swap and combine their updates.\n- **Heterogeneous cluster:** a group of chips of different types or generations.\n- **Batch size:** how many examples the model processes per training step."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2610.25736",
+     "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+     "authors": [
+      "Chao Yu",
+      "Shu'ang Yu",
+      "Hao Lin",
+      "Hongzhi Zang",
+      "Yuxiang Yan",
+      "Chenxi Jiang",
+      "Zhen Guo",
+      "Chuankang Li"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 88,
+     "tldr": "A fleet of 96 robots improves its shared policy by matching each failure to a similar moment where another robot succeeded, reaching 93–99% success on five real tasks.",
+     "image": "https://cel-robot-learning.github.io/assets/fert/framework-v5.png",
+     "abs_url": "https://arxiv.org/abs/2610.25736",
+     "pdf_url": "https://arxiv.org/pdf/2610.25736",
+     "summary_md": "## In one sentence\nA fleet of 96 two-armed robots learns from its own successes: when one robot fails, the system finds moments where other robots handled a similar situation well and trains the shared policy on those.\n\n## Background you need\nA robot \"policy\" is the trained model that looks at camera images and joint positions and decides the next arm movement. Policies are usually trained first on human demonstrations, where a person remote-controls the robot. Once deployed, many identical robots run the same policy and produce a steady stream of attempts, some good and some bad.\n\n## The problem\nToday the common way to improve a deployed policy is human correction. An operator watches the robots and takes over the controls when one starts to fail. That correction becomes new training data. This works for a few robots, but it does not scale. Every extra robot needs more human attention, so the operator becomes the bottleneck. There are two more practical problems. Each attempt is long and only labelled with a single \"success\" or \"failure\", so it is hard to tell which part of a run is useful. And with dozens of machines, something is always crashing or losing its network connection.\n\n## The idea\nThe authors call their approach collective experience learning. Think of a call-centre team. When one agent fumbles a tricky question, a supervisor does not re-train them from scratch. Instead they pull up a recording of a colleague who handled the same question well and say \"do it like that\". Here, a robot's failure becomes a search query. The answer is a short clip from another robot that succeeded in a similar moment. No new human demonstration is needed.\n\n## How it works\n1. **Start from a decent policy.** The robots (dual-arm AgiBot G2 machines) begin with a policy trained on human demonstrations and then refined with a round of human corrections across several robots.\n2. **Collect experience as a fleet.** All robots run the policy at their own pace. Successful runs go into a shared, rolling store. Humans only label each run as success or failure and reset the scene.\n3. **Turn failures into searches.** For each failed run, the system takes the camera views and joint positions just before things went wrong. A frozen image model turns these into a compact description. A matching method that tolerates different speeds finds similar stretches inside successful runs.\n4. **Train on the matches.** The arm movements from those retrieved stretches become the training targets. They are sampled more often than ordinary data, so the policy focuses on the situations where it struggles.\n5. **Keep everything running.** A fault-tolerant training system restarts any crashed robot or server worker in place, throws away half-finished runs, and lets every other robot keep working. It also gives live robot control traffic priority over bulk data uploads.\n\n## Results\nThe team tested five real tasks: flower arranging, folding clothes, plugging in a phone charger, assembling a stool and packing a phone (a two-to-three-minute, multi-step job). Testing used two robots that never contributed training data, with 120 trials per task. Success rates landed between 93.3% and 99.2%.\n- Averaged over the five tasks, the human-correction method moved success from 36.3% to 81.0%. The new method reached 97.3%, cutting failures by 86%.\n- On phone packaging, success rose from 79.2% to 98.3%. Failures dropped from 25 to 2 in 120 tries.\n- Fleet size mattered. With the same collection time per robot, 4 robots reached 50.8%, 16 robots 86.7% and 96 robots 98.3%.\n- In the 96-robot run, 30 faults hit 22 robots, but they cost only 1.3% of total robot time.\n\n## Why it matters\nCompanies deploying robots in warehouses or factories pay heavily for human supervisors. This shows a path where a growing fleet improves faster precisely because it is bigger, while humans mostly just say \"worked\" or \"didn't\". The engineering for surviving constant faults is also useful for anyone running large robot experiments.\n\n## Caveats\nHumans are still needed to build the starting policy, label outcomes, reset scenes and repair hardware. With only 4 robots, phone packaging actually got worse than the starting policy, so small fleets may not benefit. All robots were the same model, and only five tasks were tested. The method can only copy behaviour some robot already managed; it cannot invent a new skill.\n\n## Key terms\n- **Policy:** the model that maps what a robot sees to how it moves.\n- **Fleet:** many identical robots running the same policy.\n- **Human correction:** an operator taking over a failing robot to create new training data.\n- **Retrieval:** searching a store of past data for the most similar examples.\n- **Fine-tuning:** further training an existing model on a smaller, focused dataset."
+    },
+    {
+     "id": "2610.26765",
+     "title": "HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation",
+     "authors": [
+      "Tianwei Luo",
+      "Yiming He",
+      "Hongjin Wu",
+      "Ting Pan",
+      "Debin Ren",
+      "Haorui Guo",
+      "Junlin Yang",
+      "Yuxin Zuo"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 4,
+     "tldr": "A simulated benchmark with 66 tasks across many robot arms and hands finds the best learned policy succeeds only 29.1% of the time.",
+     "image": "https://cdn-uploads.huggingface.co/production/uploads/6739b8405d4d88ae26140940/XRThbQQzft4zRxySTY3_u.png",
+     "abs_url": "https://arxiv.org/abs/2610.26765",
+     "pdf_url": "https://arxiv.org/pdf/2610.26765",
+     "summary_md": "## In one sentence\nHandsOn is a large simulated test arena for robot hands, and it shows that today's best learned policies succeed on fewer than a third of its everyday dexterous tasks.\n\n## Background you need\n\"Dexterous manipulation\" means using a multi-fingered robot hand, not a simple two-finger gripper, to do things like turning knobs or pressing a camera shutter. A \"benchmark\" is a fixed set of tasks and scoring rules that lets researchers compare methods fairly. A \"policy\" is the trained model that decides how the robot moves, based on what it sees.\n\n## The problem\nRobot hands are getting cheaper and more common, but it is hard to know whether a policy really generalises. Many studies test one arm, one hand and a handful of objects. A method that looks good there may break on a different hand or a new object. Real-world testing at scale is slow and expensive. The field lacked a shared, broad testbed covering many arms, hands, objects and combined tasks.\n\n## The idea\nThink of a driving test that is held in many different cars, on many roads, including some manoeuvres the learner never practised. HandsOn does this for robot hands. It mixes hardware, objects and task types, and keeps a separate set of tasks with no practice examples. That separation reveals whether a policy has learned skills or just memorised.\n\n## How it works\n1. **Build the world.** The benchmark runs in NVIDIA's Isaac Sim physics simulator. It supports five robot arms, six robot hands and about 200 objects: solid ones, ones with moving parts like drawers, and soft ones like cloth.\n2. **Collect examples.** The team gathered 18,000 human demonstrations, where people controlled the simulated hands to show how each task is done.\n3. **Define the tasks.** There are 66 human-checked tasks. \"Core-50\" has 50 tasks with demonstrations for training and testing. \"Transfer-16\" has 16 tasks with no demonstrations. These test transfer, chaining skills together, and handling soft objects.\n4. **Test two kinds of agents.** They trained several multi-task policies on the demonstrations. They also prompted a frontier language model, GPT-6, to control the hand through a simple \"move the hand here\" command, without any extra training.\n5. **Diagnose failures.** Each task is split into stages, so the team can see exactly where an attempt breaks down.\n\n## Results\nThe best trained policy, a \"world-action model\" called OpenWAM, reached 29.1% success on Core-50. FastWAM scored 26.4% and π0.5 scored 24.9%. Only 11 of the 50 core tasks passed 50% success for the best policy. Prompted GPT-6 reached 5.2% on Core-50 and 1.9% on Transfer-16, over 660 trials.\n\nSkill type made a big difference. Pushing and rolling objects reached 51.3%. Moving parts like doors reached 42.9%. Pick-and-place reached 34.9%. Using a tool on an object fell to 2.9%, precise fitting to 2.2%, and soft-object handling was 0%.\n\nThe failure analysis is telling. In a \"photograph the logo\" task, 774 of 778 attempts pressed the shutter before aiming. In a two-handed knob task, both hands reached the target in 38 of 800 attempts but held it together only 5 times.\n\n## Why it matters\nThe benchmark gives labs a common yardstick for hand dexterity, much as standard image datasets did for computer vision. Its stage-by-stage diagnostics point at concrete weaknesses: making firm contact, coordinating two hands, holding a finished state and getting steps in the right order. It also shows that a strong general language model cannot yet control fingers well by itself.\n\n## Caveats\nEverything is in simulation. The paper shows only qualitative real-robot clips, with no measured real-world success rates. Simulated contact and soft objects never match reality exactly. Each language-model task got ten episodes because of cost, so those numbers are noisy. Scores depend on which policies the authors chose to train.\n\n## Key terms\n- **Dexterous hand:** a robot hand with several jointed fingers.\n- **Benchmark:** a shared set of tasks and scores for comparing methods.\n- **Demonstration:** a recording of a human controlling the robot to show a task.\n- **Simulation:** a physics-based virtual world where robots can be tested cheaply.\n- **Transfer:** succeeding on a task the policy never saw examples of."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2610.12060",
+     "title": "Look Back, Think Ahead: Visual Memory on Demand for Efficient Multimodal Reasoning",
+     "authors": [
+      "Yicheng Xue",
+      "Han Wu",
+      "Jufeng Yang",
+      "Minjing Dong",
+      "Xinghao Chen",
+      "Hanting Chen",
+      "Jianyuan Guo"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Instead of throwing away image detail once, ViMoD keeps a compact summary and pulls back fine detail as reasoning needs it, beating pruning baselines at 20% of the visual tokens.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.12060",
+     "pdf_url": "https://arxiv.org/pdf/2610.12060",
+     "summary_md": "## In one sentence\nViMoD lets an image-reading AI keep only a compressed summary of a picture in view, and fetch the full-detail parts back on demand as its reasoning moves to new areas.\n\n## Background you need\nMultimodal language models read images by cutting them into many small patches, each turned into a \"visual token\" (a chunk the model processes, like a word). A high-resolution image can produce thousands of tokens. The model keeps all of them in its KV cache (its short-term memory of what it has already read). More tokens mean slower, more memory-hungry answers.\n\n## The problem\nTo save cost, many methods \"prune\" visual tokens: they decide once, before answering, which parts of the image to keep. That works for quick questions. But for multi-step reasoning, like solving a geometry problem from a diagram, the model's needs change. Early on it may look at a label. Later it needs a small angle marking it threw away. Once those details are gone, they cannot come back, and accuracy drops.\n\n## The idea\nPicture a student with a textbook. They keep a one-page summary on the desk, but the full book stays on the shelf. When their working reaches a new step, they pull down the exact page they need, then put it back. ViMoD keeps a cheap \"coarse\" summary of the image always in view, plus links to the original \"fine\" tokens. A small controller predicts, as the answer is written, which fine regions to bring in next.\n\n## How it works\n1. **Group and summarise.** A module called DART groups visual tokens into regions that adapt to the image content. Each group becomes a few compact coarse tokens. Each coarse token remembers which fine tokens it came from.\n2. **Watch the reasoning.** As the model writes each new word, a lightweight router called TRACE looks at the text written so far. It is trained to guess what evidence the next steps will need, not just what the model is looking at right now.\n3. **Hold or swap.** At each step TRACE either keeps the current set of detailed regions or updates it, adding, removing or clearing groups.\n4. **Feed the frozen model.** The original model is not retrained. It simply receives the coarse summary, the currently selected fine tokens and the text so far. Only the small add-on parts are trained, about 0.05% of the model's size.\n\n## Results\nThe team tested on Qwen3-VL-4B, an open 4-billion-parameter vision-language model. The target budget was 20% of the original visual tokens. They used eight visual reasoning benchmarks, mostly maths and logic from images, such as MathVista and MMMU-Pro. Scores were normalised so 100 means \"as good as using all tokens\".\n- ViMoD averaged 80.3. The strongest one-shot pruning method, DivPrune, averaged 57.8. That is a 39% relative gain.\n- An adapted rival using the same memory design but a simpler selection rule scored 73.0, so ViMoD still led by 7.4 points.\n- ViMoD came first on all eight benchmarks.\n\n## Why it matters\nCheaper image reasoning matters for phones, robots and any product that reads charts or documents. This work shows that what to keep in memory should change as the model thinks. The idea could carry over to long videos, where the needed frames also shift over time.\n\n## Caveats\nIt is not free. Keeping both the summary and the detailed tokens raised peak memory to 42.7 GB, above the 38.4 GB of the uncompressed model. Time to the first word is also slower than one-shot pruning. Only one model was tested. The 20% budget is an average, so actual usage varies by example.\n\n## Key terms\n- **Visual token:** one small piece of an image, processed like a word.\n- **KV cache:** the model's stored memory of everything it has read so far.\n- **Token pruning:** dropping tokens to save compute, usually once and for good.\n- **Coarse / fine tokens:** a compressed summary versus the original detailed pieces.\n- **Frozen backbone:** the main model, left unchanged while small add-ons are trained."
+    },
+    {
+     "id": "2610.12417",
+     "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+     "authors": [
+      "Zheyu Fan",
+      "Yue Zhang",
+      "Mingkai Deng",
+      "Kangrui Wang",
+      "Qineng Wang",
+      "Canyu Chen",
+      "Jie Hao",
+      "Xing Fan"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A 36,000-question video dataset about what changes when actions happen shows top AI models trail humans by 26 points, and training on it improves 22 of 26 other benchmarks.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.12417",
+     "pdf_url": "https://arxiv.org/pdf/2610.12417",
+     "summary_md": "## In one sentence\nWOVEN is a dataset of 36,000 \"before, action, after\" video puzzles that exposes a shared weakness in AI image-and-video models and shows that training on the right kind of puzzle fixes much of it.\n\n## Background you need\nMultimodal language models (MLLMs) are chatbots that also understand images and video. They are good at naming what is in a picture. They are weaker at reasoning about change: what happens if someone pushes this cup, or which action turned the first scene into the second. The authors call this \"visual transition reasoning\".\n\n## The problem\nModels struggle on many separate tests of spatial, physical, embodied and time-based reasoning. Researchers usually treat these as different problems with different datasets. The authors argue they share one root cause: the model cannot fill in the missing piece of a before-state, action and after-state chain. Without good training data for that skill, robots and assistants that rely on these models make basic mistakes about the physical world.\n\n## The idea\nThink of a children's puzzle book with three panels: a glass on a table, a hand reaching, and a blank third panel. \"What comes next?\" Or the middle panel is blank: \"What happened?\" WOVEN generates thousands of these puzzles with a video-generation model. It also asks which kind of reasoning each puzzle teaches, so training data can be chosen by skill rather than by topic.\n\n## How it works\n1. **Generate scenes.** A large open video generator, Wan2.2, starts from a real image and a described action. It produces the result, plus alternative outcomes from the same starting point.\n2. **Write questions.** Each clip becomes a four-option multiple-choice question. The wrong answers are built to match specific mistakes, like confusing cause and effect.\n3. **Label the skill.** The 36,076 items cover 20 scene types, 5 action types and 8 reasoning types. These fall into four families: causal, counterfactual (\"what if this hadn't happened?\"), physical and temporal.\n4. **Test and train.** The team tested 38 leading models. They then trained models on 11 subsets of about 2,000 items each and measured the effect on 26 outside benchmarks.\n\n## Results\nThe best model, GPT-5.4, scored 65.8% on WOVEN's test set. Humans averaged 92.3%. The gap did not close with larger models.\n\nTraining helped widely. Together, the 11 subsets improved 22 of 26 outside benchmarks by more than 2 points, with gains up to 27.3 points. On one spatial test, SAT, a small 3-billion-parameter model jumped from 37.3% to 64.7%. WOVEN data could also replace 30–50% of a task's own training data with similar accuracy.\n\nThe most useful finding concerns how to choose data. Subsets that taught the same reasoning family helped similar benchmarks. Subsets that only shared an action type did not. A recipe based on this beat a time-focused mix on held-out agent-action questions, 37.9% versus 34.4%.\n\n## Why it matters\nTeams building household robots or video assistants can use WOVEN both to spot this weakness and to train it away. The recipe offers practical advice: pick training data by the thinking step it teaches, not by what the scene looks like.\n\n## Caveats\nThe puzzles come from a video generator, which is not a faithful physics simulator, so some \"correct\" outcomes may be unrealistic. Only single-step changes were covered. The recipe failed for passive physics, and gains on still-image perception were absent. Some statistical tests were not corrected for making many comparisons.\n\n## Key terms\n- **MLLM:** a language model that can also take images or video as input.\n- **Visual transition reasoning:** working out the missing part of a before, action and after chain.\n- **Counterfactual:** reasoning about what would happen under a different action.\n- **Distractor:** a wrong answer option designed to look plausible.\n- **Transfer:** improvement on tests the model was not trained on."
+    }
+   ]
+  }
+ ]
+}
