@@ -1,0 +1,270 @@
+{
+ "date": "2026-10-22",
+ "generated": "2026-10-22T12:22:27+00:00",
+ "news": [
+  {
+   "title": "Anthropic previews Claude Duet, a proactive background agent",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Anthropic",
+   "summary": "Claude Duet flags things that need your attention, takes on delegated tasks and keeps working after you step away; it asks for approval before sending, paying or deleting. A waitlist is open to US Pro and Max subscribers on web, iOS and Android.",
+   "ts": 1792602000,
+   "image": null
+  },
+  {
+   "title": "OpenAI-led coalition patches critical PHP flaws found partly by AI",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+   "source": "OpenAI",
+   "summary": "PHP maintainers shipped fixes for two critical remote-code-execution bugs, one of which OpenAI's GPT-5.6 Sol model found and both of which Wiz found independently. OpenAI also proposed a five-stage framework for coordinating disclosure of flaws in widely used software.",
+   "ts": 1792598400,
+   "image": null
+  },
+  {
+   "title": "Recursive releases Flint, a laptop coding model it says AI largely built",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "source": "TechCrunch",
+   "summary": "Flint is a free, open 40B-parameter mixture-of-experts model with about 2.5B active parameters, built in under four months mostly by Recursive's automated research system. The startup says it beats other sub-50B models on SWE-Bench Verified.",
+   "ts": 1792614420,
+   "image": null
+  },
+  {
+   "title": "Walmart opens its store to AI shopping agents as Amazon blocks them",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "source": "TechCrunch",
+   "summary": "Walmart's new Agent Gateway lets approved agents search inventory and buy for shoppers, with separate agent profiles, spending limits and per-purchase approvals. Amazon, meanwhile, has started blocking agents from checking out.",
+   "ts": 1792611000,
+   "image": null
+  },
+  {
+   "title": "Legal AI startup Legora raises $550M at an $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "source": "TechCrunch",
+   "summary": "Atreides Management led the Series E, up from a $5.6B valuation in April. Legora says annual recurring revenue has doubled from $100M to over $200M and it will spend on North American growth.",
+   "ts": 1792608660,
+   "image": null
+  },
+  {
+   "title": "Mistral and NVIDIA team up on AI for industrial engineering",
+   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+   "source": "Mistral AI",
+   "summary": "The partners will link Mistral models with NVIDIA simulation tools and publish open datasets and benchmarks for agents doing computer-aided engineering and chip design. Mistral also says Mistral Large 4's weights are due at the end of October.",
+   "ts": 1792584000,
+   "image": null
+  },
+  {
+   "title": "Perplexity and NVIDIA train one model to be both teacher and student",
+   "url": "https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are",
+   "source": "Perplexity",
+   "summary": "JOLT gives a teacher copy of the model verified solutions so it can coach the student copy. It beats the GRPO baseline on math, coding and agent tasks, matching GRPO's MATH accuracy with 6.5x fewer training tokens.",
+   "ts": 1792594800,
+   "image": null
+  },
+  {
+   "title": "Amazon open-sources TorchNeuron to run PyTorch on Trainium",
+   "url": "https://aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+   "source": "Amazon",
+   "summary": "TorchNeuron lets existing PyTorch code run on Trainium2 and Trainium3 chips with a single settings change instead of a rewrite. Amazon released it under Apache 2.0 at the PyTorch Conference, another push against Nvidia's CUDA lock-in.",
+   "ts": 1792512000,
+   "image": null
+  },
+  {
+   "title": "Tenstorrent raises $1.5B at a $6.2B valuation",
+   "url": "https://newshub.medianet.com.au/2026/10/tenstorrent-announces-a-1-5b-series-e-at-a-6-2b-valuation/177312/",
+   "source": "Tenstorrent (press release)",
+   "summary": "The AI chip company's Series E was led by Trace Capital and Innovation X, with ARK, Fidelity and Morgan Stanley joining. The money will scale its Galaxy servers and its licensed AI and CPU designs.",
+   "ts": 1792501200,
+   "image": null
+  },
+  {
+   "title": "Youth-led group sets out AI demands for Congress",
+   "url": "https://www.semafor.com/article/10/21/2026/youth-led-ai-safety-group-demands-protections-for-young-users",
+   "source": "Semafor",
+   "summary": "Design It For Us built a 2027 AI platform from 700+ members in 40 states, calling for severe-risk safeguards, deepfake protections and states' right to set their own rules. It says Anthropic's leaked federal bill falls short.",
+   "ts": 1792591200,
+   "image": null
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2610.22200",
+     "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+     "authors": [
+      "Hanzhang Zhou",
+      "Long Li",
+      "Quyu Kong",
+      "Lei Wang",
+      "Panrong Tong",
+      "Long Chen",
+      "Tianyu Xia",
+      "Gongjie Zhang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 330,
+     "tldr": "An open toolkit that lets AI agents operate computers by writing small programs instead of single clicks, raising scores by about 20 points and halving the steps needed.",
+     "image": "https://arxiv.org/html/2610.22200v1/OpenGCUA_osw2_v10_C_reasoning_compact_same_order.png",
+     "abs_url": "https://arxiv.org/abs/2610.22200",
+     "pdf_url": "https://arxiv.org/pdf/2610.22200",
+     "summary_md": "## In one sentence\nOpenGCUA is an open toolkit that lets AI agents run a computer by writing small programs, not just clicking on screenshots, and it makes them both better and faster.\n\n## Background you need\nA \"computer-use agent\" is an AI model that operates a computer for you. It looks at the screen and sends mouse clicks and key presses. Most research agents work only through the graphical user interface (the windows, buttons and menus you see). The software that wraps the model and decides what it sees and how its actions run is called the \"harness.\"\n\n## The problem\nThe strongest computer-use systems today are closed. Their prompts, harnesses, training traces and device tools are not public. That makes it hard for researchers to compare designs or reproduce results.\n\nMeanwhile, open agents mostly follow a slow pattern. Take a screenshot, pick one action, take another screenshot, repeat. Many simple jobs need dozens of steps this way. Each step costs time and money, because the model must read a fresh image every time.\n\n## The idea\nLet the model write a short program for each step instead of one click. The program can mix clicks, typing, shell commands and browser control. It can loop, branch and check its own results before reporting back.\n\nThink of the difference between a cook told \"take one step, then look again,\" and a cook handed a recipe card. The recipe card lets you chain steps and react to what happens, without stopping to ask after every stir.\n\nThe second idea is to hand more choices to the model. The harness no longer forces a screenshot after every step. The model decides when it needs to look, and it keeps its own notes on progress.\n\n## How it works\n1. At each step, the model makes three choices: what to look at, how to act, and how to update its plan and notes.\n2. It can ask for a screenshot, or for the \"accessibility tree,\" a text list of on-screen elements that apps expose for screen readers. It can also ask for nothing.\n3. It writes one Python program that can drive the desktop, run shell commands, and control a web browser.\n4. The harness runs the program and returns its printed output, any errors, and any views the model asked for.\n5. The release also includes early versions of a harness for real Mac computers and a single programming interface that spans computers, browsers and phones.\n\n## Results\nThe authors tested eight leading models on OSWorld-v2, a benchmark of realistic desktop tasks scored with partial credit.\n\n- Compared with a clicks-only setup that batches actions, the full setup raised the average partial score by 19.6 points across all eight models.\n- It cut the number of steps per task by 53.0% on average.\n- The gap between the strongest and weakest models shrank by more than half.\n- Against a baseline that already had both clicks and shell access, code execution alone added 6.1 points and cut steps by 14.8%.\n- Letting the model choose when to take screenshots improved cache reuse by 10.5 and 14.4 percentage points for two models, with no loss in task scores. Better cache reuse means cheaper runs.\n\nOn four real Mac tasks, one open model used 19.4 times as many reasoning tokens as a leading closed model, yet finished fewer tasks.\n\n## Why it matters\nIt gives the research community a full, inspectable recipe for a modern computer agent. Anyone can now test how harness choices affect quality and cost. The step savings also point to cheaper, faster assistants for office work.\n\n## Caveats\nThis release contains no trained model. It only studies existing models through prompts and tooling. The real-device harness and cross-device toolkit are early versions. The real-computer test covers just four Mac tasks. The authors also note that a program checking its own work does not replace independent evaluation.\n\n## Key terms\n- **Computer-use agent:** an AI model that operates a computer through the screen, mouse and keyboard.\n- **Harness:** the surrounding software that feeds the model observations and carries out its actions.\n- **Graphical user interface:** the visual windows, buttons and menus people click on.\n- **Accessibility tree:** a structured text list of on-screen elements, originally built for screen readers.\n- **Partial score:** a grade that gives credit for completing part of a task, not only the whole thing.\n"
+    },
+    {
+     "id": "2610.20584",
+     "title": "Player-1: Learning to Play from Synthetic Experience",
+     "authors": [
+      "Mingyu Ouyang",
+      "Yiran Wang",
+      "Siyuan Hu",
+      "Xingyilang Yin",
+      "Huiqiang Sun",
+      "Guangzhi Wang",
+      "Junfu Pu",
+      "Cheng Cheng"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 347,
+     "tldr": "AI game-playing agents get much better at unseen games after practicing in sixteen small auto-graded training worlds, instead of only copying human recordings.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.20584",
+     "pdf_url": "https://arxiv.org/pdf/2610.20584",
+     "summary_md": "## In one sentence\nPlayer-1 teaches AI agents to play video games by letting them practice in sixteen small, auto-graded training games, rather than relying only on copying human players.\n\n## Background you need\nComputer-use agents are AI models that read the screen and press keys or move the mouse. Games are a hard test for them. They demand fast, precise and simultaneous inputs, such as aiming while running. \"Reinforcement learning\" is training by trial and error, where the model gets a score and adjusts to earn more.\n\n## The problem\nCurrent game agents learn mostly by imitation. They watch large sets of recorded human play and copy it. But recordings cover only a slice of the situations an agent can end up in. Once the agent drifts off the recorded path, it has no idea what to do.\n\nPractice environments would help. Yet real commercial games rarely expose a reliable score signal, and building many training worlds is costly. Standard agent controls are also too coarse. They lack ways to hold a key, turn the camera smoothly, or press two things at once.\n\n## The idea\nMany games share the same core skills: aiming, steering, moving through a space, fighting and clicking through menus. So you do not need every real game to train. You need cheap practice worlds that drill those shared skills.\n\nIt is like a driving school's cone course. The course is not a real city, but it trains steering and braking that carry over to any road.\n\n## How it works\n1. The authors extend the agent's controls. They add relative mouse motion for turning the camera, held inputs that last one control tick of 200 milliseconds, and combined actions that press several inputs at once.\n2. They gather 6,044 recorded gameplay sessions across 172 games, about 16.4 hours. Another AI model labels each one with an instruction and step-by-step visual reasoning.\n3. They first fine-tune two base models on these recordings. This is ordinary imitation learning.\n4. They build Player-1-Gym: sixteen synthetic 2D and 3D games across aiming, combat, driving, navigation and menu use. Each game computes a score from hidden game state, so success is checked automatically. Looks, camera, layout and control sensitivity are randomized.\n5. They then run reinforcement learning across all sixteen games at once, for 200 training rounds.\n\n## Results\nThey test on games the agent never trained on.\n\n- On MineDojo-300, a set of 300 Minecraft tasks, the smaller 9-billion-parameter model rose from 10.54% success after imitation to 38.33% after practice.\n- The larger model rose from 23.38% to 41.04%.\n- The strongest outside baseline, GameWAM, scored 12.63%.\n- On ViZDoom-10, ten maps of a classic shooter, the larger model's score was 83.7% above GameWAM's.\n- On GameWorld, 170 browser-game tasks, the larger model reached 17.25% success, versus 8.82% for the best outside baseline.\n\nTraining on more varied practice games improved transfer under a fixed budget. The share of combined actions rose from 64.7% to 93.2% during training, even though nothing rewarded them directly. In one case study, the small model finished a multi-step task in Watch Dogs 2, a commercial game it never saw.\n\n## Why it matters\nIt shows that cheap, synthetic practice can teach skills that carry over to real games. That lowers the need for huge piles of human recordings. The same recipe could help agents that must act quickly in other visual software.\n\n## Caveats\nAbsolute success rates are still low on harder benchmarks. Some results rest on only three trials per task. Training labels come from an AI annotator whose accuracy is not reported. Baselines were run through custom control adapters, which may not be perfectly faithful. Testing closed commercial models was skipped, partly because a full evaluation was estimated at about 110,000 US dollars.\n\n## Key terms\n- **Computer-use agent:** an AI model that controls software by reading the screen and sending inputs.\n- **Imitation learning:** training a model to copy recorded expert behavior.\n- **Reinforcement learning:** training by trial and error, guided by a score.\n- **Synthetic environment:** a purpose-built practice world, not a real product.\n- **Composite action:** pressing several keys or buttons in the same instant.\n- **Transfer:** skills learned in one setting working in a new one.\n"
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": []
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2610.28887",
+     "title": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
+     "authors": [
+      "Yujian Liu",
+      "Li An",
+      "Zelin He",
+      "Jacob Helwig",
+      "Jiabao Ji",
+      "Rohit Jain",
+      "Siyu Zhu",
+      "Shiyu Chang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 9,
+     "tldr": "A team of 16 AI research agents with different scientific backgrounds discovered a fast attention design that edges out the strongest existing one, and the team structure itself proved key.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.28887",
+     "pdf_url": "https://arxiv.org/pdf/2610.28887",
+     "summary_md": "## In one sentence\nA team of 16 AI \"researcher\" agents, each given a different scientific background, searched for a better design of a fast attention layer and found one that beats the current best hand-designed version.\n\n## Background you need\nLanguage models use a step called attention to decide which earlier words matter for the next one. Standard attention gets slower and hungrier for memory as the text grows. \"Linear attention\" is a cheaper family of designs that squeezes the past into a fixed-size memory, so cost grows only in step with text length. Gated DeltaNet 2 (called GDN2 here) is a strong recent design in this family, and it serves as the bar to beat.\n\n## The problem\nImproving these designs is slow, expensive work. Each idea needs code, a training run and an evaluation. Mature fields also tend to get stuck: people keep tweaking the same small corner of the design space.\n\nEarlier \"AI scientist\" systems usually let one agent, or one fixed pipeline, propose every idea. The authors argue that such setups do not test what different backgrounds and accumulated experience add. With a limited budget of experiments, you also need a smart way to decide who gets to try the next idea.\n\n## The idea\nRun the search like a well-managed research lab, not like a lone genius. Think of a lab that hires a statistician, a signal-processing engineer and a physicist. Each keeps their own lab notebook, and they all share results at group meetings. A manager gives more turns to whoever has been producing wins lately, but still lets the quieter members try.\n\n## How it works\n1. **Hire a diverse team.** Sixteen agents each get a distinct scientific profile, such as Bayesian filtering, streaming algorithms or dynamical systems. All of them run on the same underlying language model.\n2. **Pick who goes next.** In each of 80 rounds, a selection rule chooses one researcher. It favors recent strong performers but also gives less-tested members a chance.\n3. **Propose and review.** The chosen researcher proposes a change to the attention layer. A technical reviewer and a novelty reviewer critique it, and the idea is refined.\n4. **Build and test fairly.** The candidate is coded and trained with the same compute budget as the baseline. It must not train much slower than GDN2. It is scored on text prediction, common-sense questions and a \"find the hidden fact\" retrieval test.\n5. **Remember and share.** Each researcher keeps a private history of its own attempts. Every 10 rounds, the team's results are merged into a shared record.\n\n## Results\nThe winning design is called CFDN. It adds a small \"context vector\" next to GDN2's memory. This vector holds information useful to every query, and the main memory then fits whatever is left over.\n\nAt 1.3 billion parameters, CFDN beat GDN2 on every reported measure. Common-sense accuracy rose from 52.65% to 54.53%. Hidden-fact retrieval rose from 66.86% to 67.29%. Real-world retrieval rose from 32.52% to 33.41%. Prediction error (perplexity, lower is better) also dropped slightly, for example from 16.05 to 15.74 on Wikipedia text. Its compute per token is almost identical to GDN2's, about 0.01% higher.\n\nThe team setup mattered. On the search's combined score, the full system reached 1.04. Removing the scientific backgrounds dropped it to 0.54. Wiping memory between rounds gave 0.56. Choosing researchers at random gave 0.76. The team without backgrounds stopped improving after round 22, while the full team found its best design at round 68.\n\n## Why it matters\nIt is a concrete, measured case of AI agents improving a core model component. More importantly, it suggests that how you organize agents, not just how smart each one is, drives discovery.\n\n## Caveats\nEach team setup appears to be run only once, so some gaps could be luck. The gains at 1.3 billion parameters are small on several tests, under one point in some cases. The search used cheaper stand-in tests rather than full evaluations. Only one agent model and one research problem were studied. The paper does not report the total cost of the search.\n\n## Key terms\n- **Attention:** the part of a language model that decides which earlier words to focus on.\n- **Linear attention:** a cheaper attention design that keeps a fixed-size summary of the past.\n- **GDN2 (Gated DeltaNet 2):** a strong existing linear attention design used as the baseline.\n- **Perplexity:** a measure of how surprised a model is by real text; lower is better.\n- **Ablation:** an experiment that removes one part of a system to see how much it mattered.\n- **Exploration versus exploitation:** the trade-off between trying new options and sticking with ones that already work."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": []
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2610.22368",
+     "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
+     "authors": [
+      "Wenye Yu",
+      "Yijin Chen",
+      "Kaiyi Xiong",
+      "Wenbo Han",
+      "Wendi Chen",
+      "Yang Jin",
+      "Han Xue",
+      "Jun Lv"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Giving a robot a short memory of its own progress estimates, and letting it learn while it works, sharply raises success on long chores like folding laundry.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.22368",
+     "pdf_url": "https://arxiv.org/pdf/2610.22368",
+     "summary_md": "## In one sentence\nValue as Memory helps a robot finish long chores by feeding it a running sense of \"how well am I doing,\" and by letting it keep learning while it works.\n\n## Background you need\nModern robot \"policies\" are neural networks that turn camera images into motor commands. General-purpose ones are first trained on many demonstrations, then \"post-trained\" for a specific job. A \"value model\" is a second network that estimates how close the robot is to finishing. Reinforcement learning is training by trial and error toward a reward.\n\n## The problem\nLong chores like folding laundry create two headaches.\n\nFirst, the camera often cannot tell two moments apart. A half-folded shirt may look the same whether the robot just made progress or just messed up. The policy then cannot pick the right next move.\n\nSecond, most post-training happens offline. You collect a batch of attempts, stop, train, and redeploy. Feedback from the robot's real experience arrives slowly. On Box Assembly, the offline setup managed only 2 improvement rounds within the same training budget.\n\n## The idea\nGive the robot a short memory of its own progress scores. If the value model's estimate has been rising, things are going well. If it stalls or drops, something went wrong.\n\nIt is like a hiker checking a fitness tracker. The trail ahead may look the same either way, but seeing your pace fall tells you to change course.\n\nThen train online. Collect data and update the model at the same time, so the robot improves between attempts.\n\n## How it works\n1. The value model predicts task progress from zero to one. It starts from demonstration progress, then refines itself from success-or-failure outcomes.\n2. The action policy, built on the π0.5 robot model, receives the last few progress estimates as extra input. The authors call this \"value caching.\"\n3. Training runs in four stages. First, learn from demonstrations. Second, a warm-up stage of offline reinforcement learning. Third, humans step in to correct mistakes. Fourth, the robot practices alone and learns from simple pass-or-fail results.\n4. During online stages, the value and action models update in parallel while the robot keeps collecting data.\n\n## Results\nThey tested three real tasks: box assembly, laundry folding, and building a toy bus from six magnetic blocks.\n\n- Full method success: 96.7% on boxes, 88.9% on laundry, 76.7% on the bus.\n- Without value caching: 81.7%, 48.9% and 43.3%. That is an average gain of 29.4 percentage points from the memory alone.\n- A prior method called RECAP scored 71.7%, 64.4% and 43.3%.\n- Online learning beat matched offline training by 32.8 points on average.\n- Time per training step dropped by 57.8% on average. On box assembly, the online schedule ran 16 improvement rounds versus 2 offline.\n\nThe robot also recovered from mistakes more often. On laundry, it recovered 86.4% of the time, versus 58.8% without the memory.\n\n## Why it matters\nHousehold and factory chores are long and messy. A cheap progress signal that resolves ambiguity could make generalist robots far more reliable. Faster online learning also means less waiting between rounds of improvement on real hardware.\n\n## Caveats\nThe memory only helps if the progress estimates are accurate. That is why the warm-up stage is needed. All tests used one robot. Trial counts are small in places, and the spread between runs is wide on laundry. The math result shows what is possible, not what a trained network will reach. Code is not yet released.\n\n## Key terms\n- **Policy:** the network that maps what the robot sees to what it does.\n- **Value model:** a network that estimates how close the task is to done.\n- **Value caching:** feeding recent progress estimates back to the policy as memory.\n- **Partial observability:** when the camera view alone cannot tell different situations apart.\n- **Online learning:** updating the model while the robot is still collecting new experience.\n- **Post-training:** adapting a general pretrained model to a specific job.\n"
+    },
+    {
+     "id": "2610.20607",
+     "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+     "authors": [
+      "Zhefei Gong",
+      "Hefeifei Jiang",
+      "Zehao Wang",
+      "Jiachen Li"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A wheeled two-armed robot nearly doubles its task success in about thirty minutes of real practice by learning separate small corrections for its base and its arms.",
+     "image": "https://arxiv.org/html/2610.20607v1/teaser.png",
+     "abs_url": "https://arxiv.org/abs/2610.20607",
+     "pdf_url": "https://arxiv.org/pdf/2610.20607",
+     "summary_md": "## In one sentence\nHiRe-MoMa lets a wheeled two-armed robot fix its own mistakes in about half an hour of real practice, by learning small corrections on top of an existing skill.\n\n## Background you need\nA \"mobile manipulator\" is a robot with a moving base and one or more arms. A \"policy\" is the network that turns what the robot sees into motor commands. \"Reinforcement learning\" means training by trial and error toward a reward. \"Residual learning\" means keeping a trained policy frozen and learning only a small add-on correction.\n\n## The problem\nPolicies trained from human demonstrations often stumble in a new room or with new objects. They need fine-tuning on the real robot. That is hard for mobile manipulators for three reasons.\n\nImitation methods need lots of expert corrections, which are scarce. Standard reinforcement learning does not fit well with modern generative policies, such as diffusion models that produce actions by gradually refining noise. And simple add-on corrections treat base and arms as one big lump. A tiny base shift changes where the arm must reach, so the two corrections fight each other.\n\n## The idea\nRespect the robot's body. Correct the base first, then let the arm correction know what the base just did.\n\nThink of a waiter carrying a tray through a crowd. Their feet adjust, and their arms compensate for the feet, not the other way around.\n\nThe second idea is to use rare human help wisely. Instead of copying the human, the robot learns that the human's choice was worth more than its own.\n\n## How it works\n1. Keep the original policy frozen. It can be a Diffusion Policy or ACT, a common transformer-based imitation policy.\n2. Train a small correction policy whose output is added on top. Its size is capped so it cannot drift too far from the original behavior.\n3. Split the correction into two heads: one for the base and one for the arms. The arm head sees the base correction, but not the reverse.\n4. A \"critic,\" a network that scores how good an action is, learns from the robot's own attempts.\n5. When a human steps in through a virtual-reality headset, those actions go into a separate store. An extra training signal teaches the critic to rate the human's action above the robot's own.\n\n## Results\nTests used a TIAGo++ robot on three tasks, with 20 trials each: placing an object, sweeping litter with both arms, and a longer pick-and-place job.\n\n- With a Diffusion Policy base, average success rose from 39.2% to 75.0%.\n- Place Only went from 50% to 95%. Sweep Litter went from 45% to 90%. Pick Place went from 22.5% to 40%.\n- A single combined correction reached only 42.5% on average.\n- Learning directly from human corrections by copying them dropped to 6.7%. The authors say it overfit to the few corrections.\n- Average training took 31.7 minutes. Episodes got about 1.29 times shorter.\n- With an ACT base, the method averaged 77.5% across two tasks.\n\nSplitting base and arm corrections gave most of the gain. Human help covered under 20% of training, and the need for it fell over time.\n\n## Why it matters\nFine-tuning a real mobile robot usually takes many hours and lots of expert effort. Getting large gains in about thirty minutes, with little human input, makes on-site adaptation practical. The approach also works with different base policies.\n\n## Caveats\nEverything was tested on one robot model with 20 trials per condition and no repeated training runs. The long pick-and-place task stayed at 40%, partly due to hardware limits. A human must supervise each run. The authors say the policies are not yet reliable enough to run unsupervised around people. Some ablation averages do not match the per-task numbers exactly.\n\n## Key terms\n- **Mobile manipulator:** a robot that combines a moving base with arms.\n- **Residual policy:** a small learned correction added to a frozen existing policy.\n- **Critic:** a network that scores how good an action is in a given situation.\n- **Human intervention:** a person briefly taking control to show a better action.\n- **Diffusion Policy:** a robot policy that generates actions by step-by-step refining random noise.\n"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2610.28559",
+     "title": "Large Flow Language Models",
+     "authors": [
+      "Arnav Chavan",
+      "Chanhyuk Lee",
+      "Udbhav Bamba",
+      "Jaehoon Yoo",
+      "Seunghoon Hong",
+      "Aditi Raghunathan",
+      "Jinwoo Kim"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 12,
+     "tldr": "Lafa turns an ordinary word-by-word language model into one that drafts blocks of words in parallel, reaching up to about 2.5 times the speed at similar quality.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.28559",
+     "pdf_url": "https://arxiv.org/pdf/2610.28559",
+     "summary_md": "## In one sentence\nLafa is a language model that writes several words at once by gradually \"sharpening\" noise into text, and it runs up to about two and a half times faster than a normal model at similar quality.\n\n## Background you need\nMost chatbots are autoregressive: they write one token (a word or word piece) at a time, each after the last. Training them is fast, but writing is sequential, so long answers take many steps. Flow models are an alternative from image generation. They start from random noise and follow a learned path, step by step, until the noise becomes a clean result. Doing this for text means generating many tokens in parallel.\n\n## The problem\nWriting one token per step makes answers slow, and that delay is a main cost of running chatbots. Parallel alternatives exist, such as discrete diffusion models and multi-token prediction. But flow-based language models had only been shown at small scale on simple tasks. One earlier attempt to scale them up ran into training inefficiency. Similar efforts with diffusion models needed up to 500 billion training tokens to adapt an existing model.\n\n## The idea\nKeep the strengths of normal left-to-right writing, and use flows only inside short chunks. Think of a writer who drafts a whole sentence in rough pencil, then firms it up. They still move through the essay one sentence at a time. Each new chunk can \"see\" everything already written, but inside the chunk all words are refined together.\n\n## How it works\n1. **Split text into blocks.** Earlier text is handled the normal way, and each new block is generated as a group. Because earlier text never looks at the unfinished block, its stored computations can be reused. This trick is called prefix caching.\n2. **Refine the block from noise.** Each position in the block starts as noise in a continuous \"meaning space\" of word vectors. The model nudges it toward a real token. Earlier positions in the block are allowed to finish sooner, which gives a natural left-to-right lean.\n3. **Start from an existing model.** Rather than training from scratch, Lafa converts a pretrained one-token-at-a-time model. New timing controls start switched off, so the original model behaves the same at first. Training keeps the normal next-token objective alongside the new refining one.\n4. **Distill for speed.** A second \"student\" model learns to jump straight across the refining path in one or a few steps.\n5. **Draft and check.** In self-speculative decoding, the flow part drafts a block. The same model then checks the draft the normal way and keeps the parts it agrees with.\n\n## Results\nThe team trained versions with 0.5, 7 and 8 billion parameters. Each used fewer than 30 billion training tokens, far less than comparable diffusion adaptations. The authors report that Lafa matches or beats regular models on instruction following, math and coding. The 7-billion-parameter model reached 2.02 to 2.54 times the throughput of a regular model at matched or better quality. The authors say it beats similarly sized multi-token and diffusion models on the speed-versus-quality trade-off. They also report that flow training kept, and sometimes improved, the model's normal one-token-at-a-time skill.\n\n## Why it matters\nFaster text generation lowers the cost and wait time of every chatbot answer. This work suggests the speed tricks of image generation can carry over to large language models. Converting existing models cheaply makes the approach practical for teams that cannot train from scratch.\n\n## Caveats\nThis summary covers the method in detail but relies on the authors' headline claims for results, not every benchmark table. The speedups are measured against the authors' own regular-model baseline and setup. Real-world gains depend on hardware and serving software. The approach still writes blocks in order, so it is only partly parallel.\n\n## Key terms\n- **Autoregressive model:** a model that writes text one token at a time, left to right.\n- **Token:** a word or piece of a word, the unit a language model reads and writes.\n- **Flow model:** a generator that turns random noise into an output by following a learned path.\n- **Prefix caching:** saving the work done on earlier text so it is not repeated.\n- **Distillation:** training a smaller or faster model to copy a slower one.\n- **Speculative decoding:** drafting several tokens quickly, then checking them with a more careful pass."
+    },
+    {
+     "id": "2610.26825",
+     "title": "MemT-1.0: Towards Memory-Native Evolution",
+     "authors": [
+      "Zhiyu Li",
+      "Zeyu Zhang",
+      "Linyun Liu",
+      "Yiwei Bu",
+      "Chenyang Xi",
+      "Xichong Zhang",
+      "Yi Yu",
+      "Yu Yu"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 152,
+     "tldr": "MemT-1.0 gives a language model a built-in, fixed-size memory so it can handle long histories faster and with far less storage than re-reading everything.",
+     "image": "https://arxiv.org/html/2610.26825v1/figure_performance.png",
+     "abs_url": "https://arxiv.org/abs/2610.26825",
+     "pdf_url": "https://arxiv.org/pdf/2610.26825",
+     "summary_md": "## In one sentence\nMemT-1.0 builds a long-term memory directly into a language model, so it can remember long conversations and past experience without re-reading everything each time.\n\n## Background you need\nLanguage models only \"know\" what was in training plus the text in front of them, called the context. To remember a long history, systems usually paste it all back into the context, or fetch relevant snippets from a database. That second approach is called retrieval-augmented generation. A key-value cache (KV cache) is the stored working data a model keeps for every past token so it can refer back to them.\n\n## The problem\nRe-reading a long history is slow and memory-hungry. The KV cache grows with every token, so a 128,000-token history means a lot of stored data per user. Retrieval adds a separate system and can miss things. Memory that is \"bolted on\" this way limits how well a model can build up experience over long interactions, like an agent working on code for hours.\n\n## The idea\nGive the model its own built-in notepad that it updates as it reads. Picture a meeting where, instead of replaying the full recording each time, someone keeps a running summary. The summary stays a fixed size and gets revised with each new point. The model then consults that summary alongside its normal reading.\n\n## How it works\n1. **Add a memory block.** Selected layers of an existing model get an extra memory block that runs alongside normal attention. Its output is added on top, so the original model's behavior is kept.\n2. **Keep a running memory.** A \"dynamic local memory\" starts empty for each new task and is updated token by token. The update rule borrows from Gated DeltaNet 2, a design that can both erase and write information in a fixed-size memory.\n3. **Learn how to remember.** A set of trainable \"hyper memory\" weights learns, during training, how to store and use information. These stay fixed once the model is in use.\n4. **Expand capacity.** A component called Mixture-of-Storage is added to scale how much the memory can hold.\n5. **Train in two stages.** The model is further pre-trained and then post-trained on a 34-billion-token dataset.\n\n## Results\nTwo models were released. Nano is built on Qwen3.6-35B-A3B and has 36 billion parameters, 3 billion of which are active per step. Flash is built on DeepSeek-V4-Flash and has 288 billion parameters, 17 billion active.\n\nAcross 11 memory benchmarks, the authors report that both beat \"parametric memory\" baselines on average. Those are methods that store memories by changing model weights. Both are competitive with retrieval-based methods, and general skills are largely kept.\n\nWith a 128,000-token history, Nano ran about 1.86 times faster end to end than keeping a full KV cache. It needed about 66 times less persistent storage. On SWE-bench Verified and SWE-bench Multilingual, two software-fixing tests, stored experience improved average success and consistency. It performed about as well as giving the agent written notes from past runs.\n\n## Why it matters\nIf memory can live inside the model, long-running assistants get cheaper to serve. They store far less per user and can respond faster. It also points toward models that keep learning from experience during use, not only during training.\n\n## Caveats\nThe paper runs to 66 pages, and the numbers here are the authors' headline figures, not per-benchmark scores. \"Competitive with retrieval\" means it does not clearly beat retrieval. The speed and storage gains are reported for the smaller Nano model at one history length. The work comes from the team behind the prior model it extends.\n\n## Key terms\n- **Context:** the text a model can see at the moment it answers.\n- **KV cache (key-value cache):** stored working data for every past token, which grows with history length.\n- **Retrieval-augmented generation:** fetching relevant documents from a database and adding them to the context.\n- **Parametric memory:** storing knowledge by changing the model's own weights.\n- **Active parameters:** the share of a model's weights actually used for each token in a \"mixture-of-experts\" design.\n- **Gated DeltaNet 2:** a fixed-size memory design that can selectively erase and write information."
+    }
+   ]
+  }
+ ]
+}
