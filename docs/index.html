@@ -111,6 +111,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .th h3{font:700 22px 'Space Grotesk';letter-spacing:-.01em}
 .th small{display:block;font:11px 'JetBrains Mono';color:var(--mute);letter-spacing:.12em;text-transform:uppercase}
 .th .rule{flex:1;height:1px;background:linear-gradient(90deg,var(--c),transparent)}
+.th .rule.l{background:linear-gradient(270deg,var(--c),transparent)}
 .pg{display:grid;grid-template-columns:1.25fr 1fr;gap:22px}
 .track:nth-child(even) .pg{grid-template-columns:1fr 1.25fr}
 .pg.one,.track:nth-child(even) .pg.one{grid-template-columns:minmax(0,720px);justify-content:center}
@@ -324,7 +325,7 @@ function render(){
   // tracks
   $("#tracks").innerHTML=D.tracks.map((t,ti)=>filter!="all"&&filter!=t.id?"":`
    <div class="track rv" style="--c:${t.color}">
-    <div class="th"><span class="idx">${String(ti+1).padStart(2,"0")}</span><div><small>Track</small><h3>${esc(t.name)}</h3></div><div class="rule"></div></div>
+    <div class="th"><div class="rule l"></div><span class="idx">${String(ti+1).padStart(2,"0")}</span><div><small>Track</small><h3>${esc(t.name)}</h3></div><div class="rule"></div></div>
     <div class="pg${t.papers.length===1?" one":""}">${t.papers.length?t.papers.map((p,i)=>card(t,p,i)).join(""):`<div class="empty">Nothing notable in this track today.</div>`}</div>
    </div>`).join("");
   $$(".p").forEach(el=>{
