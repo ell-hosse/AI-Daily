@@ -113,6 +113,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .th .rule{flex:1;height:1px;background:linear-gradient(90deg,var(--c),transparent)}
 .pg{display:grid;grid-template-columns:1.25fr 1fr;gap:22px}
 .track:nth-child(even) .pg{grid-template-columns:1fr 1.25fr}
+.pg.one,.track:nth-child(even) .pg.one{grid-template-columns:minmax(0,720px);justify-content:center}
 .p{position:relative;border:1px solid var(--line);background:var(--card);backdrop-filter:blur(14px);border-radius:22px;overflow:hidden;cursor:pointer;display:flex;flex-direction:column;transform-style:preserve-3d;transition:border-color .3s,box-shadow .3s}
 .p:hover{border-color:var(--c);box-shadow:0 30px 60px -30px var(--c)}
 .p .shine{position:absolute;inset:0;pointer-events:none;background:radial-gradient(500px circle at var(--mx,50%) var(--my,50%),rgba(255,255,255,.08),transparent 40%);opacity:0;transition:.3s}
@@ -324,7 +325,7 @@ function render(){
   $("#tracks").innerHTML=D.tracks.map((t,ti)=>filter!="all"&&filter!=t.id?"":`
    <div class="track rv" style="--c:${t.color}">
     <div class="th"><span class="idx">${String(ti+1).padStart(2,"0")}</span><div><small>Track</small><h3>${esc(t.name)}</h3></div><div class="rule"></div></div>
-    <div class="pg">${t.papers.length?t.papers.map((p,i)=>card(t,p,i)).join(""):`<div class="empty">Nothing notable in this track today.</div>`}</div>
+    <div class="pg${t.papers.length===1?" one":""}">${t.papers.length?t.papers.map((p,i)=>card(t,p,i)).join(""):`<div class="empty">Nothing notable in this track today.</div>`}</div>
    </div>`).join("");
   $$(".p").forEach(el=>{
    el.onclick=()=>openP(flat.findIndex(f=>f.p.id==el.dataset.id));
