@@ -7,7 +7,7 @@ Find the most important AI news from the last ~24h (labs, models, products, poli
 Prefer original reporting (TechCrunch, The Verge, MIT Tech Review, Reuters, Ars Technica, company blogs). One item per story, max 3 per outlet.
 Each item: `title`, `url` (the real article URL you saw), `source`, `summary` (1–2 sentences in your own words), `image` (null is fine), `ts` (unix seconds, approximate is fine).
 
-## 2. Papers — 2 per track, 12 total
+## 2. Papers — 1 per track, 6 total
 Tracks (id / name / color):
 - autonomous / Autonomous Systems / #22d3ee
 - inference / Inference Optimization / #a78bfa
@@ -17,7 +17,7 @@ Tracks (id / name / color):
 - llm-vlm / LLM & VLM / #fb7185
 
 Where to look: huggingface.co/papers (trending, upvotes), arxiv.org/list/cs.LG|cs.CL|cs.RO|cs.DC|cs.CV/new, alphaxiv / paperswithcode trending.
-Prefer papers from the last ~7 days that are getting attention. Never repeat a paper id that appears in any file in `docs/data/archive/`.
+Pick the single most interesting paper for each track. Recent papers (last ~7 days) getting attention are good, but an older, truly interesting or influential paper is also welcome. Never repeat a paper id that appears in any file in `docs/data/archive/` (check every archive file before choosing).
 
 For each paper:
 - `id` (arXiv id, e.g. 2610.01234), `title`, `authors` (up to 8), `source` ("Hugging Face Trending" or "arXiv new"), `upvotes` (number or 0)
