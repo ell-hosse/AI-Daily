@@ -1,102 +1,102 @@
 {
- "date": "2026-10-23",
- "generated": "2026-10-23T10:01:58+00:00",
+ "date": "2026-10-24",
+ "generated": "2026-10-24T09:29:35+00:00",
  "news": [
   {
-   "title": "DeepSeek reportedly raises about $15B days after US federal ban",
-   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "title": "Outside auditors find holes in OpenAI's internal agent monitor",
+   "url": "https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/",
+   "source": "Reuters",
+   "summary": "METR and Redwood Research spent three weeks inside OpenAI probing the system that watches its internal coding agents for misbehaviour. They found several weaknesses, including one that could have let an agent hide hundreds of actions; OpenAI says it has patched some of them.",
+   "image": null,
+   "ts": 1792720800
+  },
+  {
+   "title": "OpenAI nears a $30B round at a lower $1.25T valuation",
+   "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+   "source": "CNBC",
+   "summary": "OpenAI is close to a bridge round of up to $30 billion led by UAE investors and Coatue ahead of a possible IPO. The pre-money valuation of about $1.25 trillion is below the $1.4 trillion it had pitched earlier.",
+   "image": null,
+   "ts": 1792724400
+  },
+  {
+   "title": "AWS capacity is sold out through 2027, Jassy says",
+   "url": "https://www.theinformation.com/briefings/aws-sold-capacity-2028-jassy-says",
+   "source": "The Information",
+   "summary": "Amazon CEO Andy Jassy said nearly all of AWS's cloud capacity for 2026 and most of 2027 is already committed, with chunks of 2028 gone too. He put Amazon's 2026 capital spending at about $220 billion.",
+   "image": null,
+   "ts": 1792785600
+  },
+  {
+   "title": "UK funds a £100M AI biosecurity lab backed by frontier labs",
+   "url": "https://www.bbc.com/news/articles/cqdjv8xllvyyo",
+   "source": "BBC News",
+   "summary": "The UK government will fund an independent non-profit lab to study how AI could be misused for biological threats. OpenAI and Anthropic have pledged compute and model access to the effort, part of a wider £600M package.",
+   "image": null,
+   "ts": 1792771200
+  },
+  {
+   "title": "Google will use Gmail and Photos data for ads if Personal Intelligence is on",
+   "url": "https://9to5google.com/2026/10/23/google-will-target-ads-based-on-gmail-photos-data-if-personal-intelligence-is-enabled/",
+   "source": "9to5Google",
+   "summary": "A privacy-policy update lets Google personalize ads using Gmail and Photos content for users who opt in to its connected AI features. Users who leave Personal Intelligence off are not affected.",
+   "image": null,
+   "ts": 1792767600
+  },
+  {
+   "title": "Canva launches its first in-house image-generation model",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
    "source": "TechCrunch",
-   "summary": "DeepSeek has reportedly closed a private round of roughly $15 billion led by Tencent and battery maker CATL. The raise lands just two days after a US order to strip its technology from federal agency systems.",
+   "summary": "Canva is rolling out its own image model to all users inside its design editor. It pitches the model as cheaper and easier to customize than third-party generators it relied on before.",
    "image": null,
-   "ts": 1792684800
+   "ts": 1792717200
   },
   {
-   "title": "China clears DeepSeek and MiniMax as its first approved AI exporters",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says",
-   "source": "Bloomberg",
-   "summary": "According to Chinese state media, DeepSeek and MiniMax are the first companies to finish registration under China's new AI export rules. That clears them to open-source and license their models to users abroad.",
+   "title": "Meta buys AI analytics startup Sundial",
+   "url": "https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial",
+   "source": "Axios",
+   "summary": "Meta acquired Sundial, an AI data-analytics startup founded by former Meta executives including Julie Zhuo. The team joins a new Meta data-analytics group; terms were not disclosed.",
    "image": null,
-   "ts": 1792735200
+   "ts": 1792774800
   },
   {
-   "title": "Microsoft says its MAI-DxO system beats doctors on hard diagnostic cases",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "source": "TechCrunch",
-   "summary": "A paper in Science reports that Microsoft's multi-agent diagnosis system solved 83% of complex New England Journal of Medicine case studies. Primary-care doctors working alone got 36% right on the same cases.",
+   "title": "Cambricon's profit jumps 148% as Chinese labs move off Nvidia",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3371959/cambricons-third-quarter-profit-surges-148-us210m-amid-push-replace-nvidia-chips",
+   "source": "South China Morning Post",
+   "summary": "Chinese AI chipmaker Cambricon reported third-quarter profit up 148% to about $210 million as domestic labs shift training work to its chips. Revenue still missed analyst forecasts.",
    "image": null,
-   "ts": 1792681200
+   "ts": 1792760400
   },
   {
-   "title": "Claude writes formal proofs for 123 open-source libraries and turns up hidden bugs",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "source": "Anthropic",
-   "summary": "Anthropic's Frontier Red Team and Theorem used Claude to produce machine-checked Rocq proofs for 239 fuzz-test entry points across 123 open-source libraries. The effort surfaced hundreds of bugs that ordinary testing had missed.",
+   "title": "PC shipments fall 21% as AI demand squeezes memory supply",
+   "url": "https://www.fonearena.com/blog/495602/global-pc-shipments-q3-2026-counterpoint.html",
+   "source": "Fonearena",
+   "summary": "Counterpoint data show global PC shipments fell 21% year over year in Q3 2026. Rising memory and component prices, driven by AI data-center demand, are blamed, and a further drop is expected in Q4.",
    "image": null,
-   "ts": 1792688400
+   "ts": 1792778400
   },
   {
-   "title": "OpenAI's models and Codex are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud/",
-   "source": "OpenAI",
-   "summary": "Google Cloud customers will be able to use OpenAI's frontier models and Codex through Model Garden and buy them via Google Cloud Marketplace. Eligible firms can count existing Google Cloud spending commitments toward them, with general availability due in the coming weeks.",
+   "title": "Agility Robotics standardizes Digit 5 humanoid on Nvidia IGX Thor",
+   "url": "https://www.unite.ai/agility-robotics-standardizes-digit-5-on-nvidia-igx-thor-compute/",
+   "source": "Unite.AI",
+   "summary": "Agility will use Nvidia's IGX Thor as the sole onboard computer for its next Digit humanoid. The company also said it has more than $300 million in multi-year orders.",
    "image": null,
-   "ts": 1792692000
+   "ts": 1792749600
   },
   {
-   "title": "Google DeepMind researchers quit over military AI work",
-   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-   "source": "BBC",
-   "summary": "Research engineer Sofia Liguori resigned this week and researcher Andreas Kirsch left earlier in October, the BBC reports, amid doubts that Google can see or control how the Pentagon uses its AI. Google says its public-sector contracts go through compliance reviews.",
+   "title": "Swedish government offices block ChatGPT and Claude",
+   "url": "https://www.dailynorthern.com/36084/swedish-government-offices-block-chatgpt-and-claude/",
+   "source": "Daily Northern",
+   "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers and direct employees to Microsoft Copilot instead. The move was announced on October 23.",
    "image": null,
-   "ts": 1792670400
+   "ts": 1792742400
   },
   {
-   "title": "Big AI labs hand four agent projects to the Linux Foundation",
-   "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox",
-   "source": "Linux Foundation",
-   "summary": "The Agentic AI Foundation took in four projects at AGNTCon: Agent Skills, Open Responses, OpenEnv and OpenSandbox. They were contributed by Anthropic, OpenAI, Hugging Face and Alibaba, putting shared agent plumbing under neutral governance.",
+   "title": "US banks scramble to contain third-party AI agents in customer accounts",
+   "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+   "source": "Axios",
+   "summary": "Banks including Morgan Stanley and Bank of America are working out how to handle unvetted AI agents that customers let into their accounts. The hard question is telling whether an agent's action matches what the customer actually asked for.",
    "image": null,
-   "ts": 1792677600
-  },
-  {
-   "title": "Nvidia lines up six suppliers to expand AI hardware capacity",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
-   "source": "NVIDIA",
-   "summary": "Announced around GTC Berlin, the deals expand substrate, interposer, testing and optical-engine capacity through 2028, including a planned 2.5x rise in substrate capacity. Nvidia also showed a prefabricated, container-style Vera Rubin data-center pod meant to cut build times from months to days.",
-   "image": null,
-   "ts": 1792663200
-  },
-  {
-   "title": "US Treasury proposes curbs on American investment in Chinese AI",
-   "url": "https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9",
-   "source": "Associated Press",
-   "summary": "A proposed rule implementing the 2025 outbound investment law would restrict US investment in AI and supercomputing in China and other countries of concern. It is now open for public comment.",
-   "image": null,
-   "ts": 1792695600
-  },
-  {
-   "title": "China-linked hackers used an agentic AI pentest tool to breach ConnectWise",
-   "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-   "source": "The Hacker News",
-   "summary": "Microsoft ties a supply-chain attack through ConnectWise Cloud Backup to the China-aligned group Storm-0940. The attackers used the ARTEX agentic penetration-testing framework to run password sprays against Microsoft 365 tenants at scale.",
-   "image": null,
-   "ts": 1792674000
-  },
-  {
-   "title": "Rivian buys world-model startup Third Dimension for robotaxi simulation",
-   "url": "https://finance.yahoo.com/technology/ai/articles/rivian-buys-world-model-startup-210505788.html",
-   "source": "Yahoo Finance",
-   "summary": "Rivian acquired Third Dimension, a 15-person London startup that turns images and video into 3D worlds that can be simulated. It will feed Rivian's self-driving and robotaxi work; terms were not disclosed.",
-   "image": null,
-   "ts": 1792702800
-  },
-  {
-   "title": "Micron workers in Taiwan stage the island's first chip-industry strike",
-   "url": "https://focustaiwan.tw/business/202610210014",
-   "source": "Focus Taiwan",
-   "summary": "Micron's Taoyuan union held a one-day strike on October 22, demanding that 15% of operating profits go to employees as AI memory demand lifts earnings. Micron reached a separate deal with its Taichung union the day before.",
-   "image": null,
-   "ts": 1792634400
+   "ts": 1792713600
   }
  ],
  "tracks": [
@@ -106,25 +106,25 @@
    "color": "#22d3ee",
    "papers": [
     {
-     "id": "2610.13166",
-     "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+     "id": "2610.14224",
+     "title": "Harness²: Recursive Agent Harnessing for an Open World",
      "authors": [
-      "Shun Zou",
-      "Ziyu Ma",
-      "Yi Zou",
-      "Yong Wang",
-      "Lin Chen",
-      "Zehui Chen",
-      "Guanhua Chen",
-      "Xiangxiang Chu"
+      "Ruiyao Xu",
+      "Yanfei Chen",
+      "Zhongying CuiZhu",
+      "Bhavana Dalvi Mishra",
+      "Yifei Ming",
+      "Han Yu",
+      "Rujun Han",
+      "Chen-Yu Lee"
      ],
-     "source": "arXiv new",
-     "upvotes": 0,
-     "tldr": "An automated pipeline builds long, realistic command-line tasks with the shortcuts removed, and a 27B open model trained on under 3,000 of them gains about 14 points on Terminal-Bench and keeps improving its work over 12-hour sessions.",
+     "source": "Hugging Face Trending",
+     "upvotes": 119,
+     "tldr": "Harness² lets an AI agent improve its own instructions, tools and memory by comparing tweaked versions side by side, raising scores on professional-work benchmarks by up to about 12 points without retraining the model.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.13166",
-     "pdf_url": "https://arxiv.org/pdf/2610.13166",
-     "summary_md": "## In one sentence\nThe authors built an automatic factory for long, realistic command-line tasks, trained a mid-sized open model on about 2,900 worked examples, and got an agent that keeps working productively for hours.\n\n## Background you need\nA terminal agent is an AI that does work by typing commands into a computer's command line and reading the output. A trajectory is the full record of one session: every command, result and decision. Agents learn largely through supervised fine-tuning (training a model to imitate good trajectories).\n\n## The problem\nReal professional work at a terminal is long. An engineer gathers evidence, tries something, reads the error, changes plans and hands over a finished result. Most agent training data is short, so models rarely see that whole arc.\n\nMaking long tasks automatically is tricky. An AI building a practice environment often does the hard part by accident. In one example, the core function already exists, so \"implement this feature\" shrinks to changing one constant. Piling on requirements does not help, because new steps need not depend on earlier ones.\n\n## The idea\nPicture an exam writer who gives each new exam to a colleague who has never seen it. If the colleague finishes in five minutes, the writer checks why, finds the answer hidden in the question, and rewrites it. Only then does the writer add a follow-up part that builds on the first answers. TerminalHorizon runs this \"outsider test, then patch the shortcut\" loop on terminal tasks.\n\n## How it works\n1. **Find real work.** A planner agent picks behaviors still missing from the dataset. A research agent mines documentation, code and bug reports for real tasks. A builder agent packages each one with instructions, an environment, a reference solution and a hidden grader.\n2. **Test with an outsider.** A separate \"challenger\" agent, not involved in building the task, tries to solve it from the public materials only. A review checks for crashes, leaked answers and unfair grading.\n3. **Close the shortcuts.** The system compares the intended work with what the challenger actually did. If work was skipped, it traces the cause and rebuilds the environment so implementing and debugging are needed again.\n4. **Grow the task in stages.** An evolution agent adds new requirements under the same goal. Each stage must depend on earlier results, for example by forcing the agent to inspect the current state.\n5. **Record and train.** A strong teacher model, DeepSeek-V4-Pro, solves the tasks. The authors keep 2,852 trajectories from 1,535 environments across 25 domains, then fine-tune Qwen3.5-27B into TerminalHorizon-27B.\n\n## Results\nThe trajectories average 52.8 back-and-forth turns, with 98 turns at the 90th percentile.\n\nThe trained model beats its base model on all 12 benchmarks tested. On Terminal-Bench 2.0, a standard test of command-line tasks, it scores 55.8%, up 14.2 points. On Terminal-Bench 2.1 it scores 60.67%, up 13.85 points. It also beats Terminal-Universe-27B, which used the same base model and about 32,000 trajectories, by 3 points. So it did better with less than a tenth of the data.\n\nOn AutomationBench, a business-automation test, the pass rate rises by 11.7 points. Math reasoning scores stay at or near their earlier levels. In 12-hour research case studies, the model kept experimenting after its first working answer and kept the improvements in its final output.\n\n## Why it matters\nTeams building coding and operations agents need data that teaches persistence and self-checking, not just quick fixes. This work suggests careful task design beats raw data volume. A 27-billion-parameter open model, small enough for many organizations to run, gets much better at long jobs.\n\n## Caveats\nAll results come from one base model and one, much larger, teacher model. The pipeline uses many AI agents, so making the data is not cheap. Evidence for multi-hour autonomy rests on a few case studies, not a benchmark. The authors say gains had not leveled off, so the right amount of such data is still unknown.\n\n## Key terms\n- **Terminal agent**: an AI that completes tasks by running commands and reading the results.\n- **Trajectory**: the step-by-step record of one agent session.\n- **Long-horizon task**: a job needing many dependent steps over a long time.\n- **Supervised fine-tuning**: extra training that teaches a model to copy good examples.\n- **Terminal-Bench**: a public benchmark that scores agents on real command-line tasks.\n"
+     "abs_url": "https://arxiv.org/abs/2610.14224",
+     "pdf_url": "https://arxiv.org/pdf/2610.14224",
+     "summary_md": "## In one sentence\nHarness² lets an AI agent rewrite its own working setup (its instructions, tools and helper files) while it does a task, then carry the lessons it learned into future tasks, all without retraining the underlying model.\n\n## Background you need\nAn LLM agent is a large language model that does multi-step work, such as running tools, writing files and checking results. The \"harness\" is everything wrapped around the model: the system prompt, safety rules, memory, reusable skills, tool tips, scripts and helper sub-agents. Recursive self-improvement means a system repeatedly edits its own setup to get better.\n\n## The problem\nMost attempts at self-improving agents assume there is an answer key. In coding, unit tests show whether an edit helped. Professional work, like drafting a report, has no automatic grader while the agent works. So the agent cannot tell if a harness change helped or hurt. Existing methods also tend to be tuned to one task type, so their improvements do not carry over to new kinds of work.\n\n## The idea\nHarness² swaps \"is this correct?\" for \"is this version better than the last?\" Think of a cook trying two tweaks to a recipe. They taste each version against the original and keep only clear improvements. Over time, they jot general lessons in a notebook for future recipes.\n\n## How it works\n1. **Treat the harness as editable files.** The harness is split into eight parts: system prompt, guardrails, memory, skills, tool guidance, scripts, sub-agents and a plug-in layer. The model's weights (its learned internal numbers) never change.\n2. **Propose.** The agent first does the task once with its current harness, as a reference run. It then drafts two candidate edits. One targets general agent weaknesses, such as planning or tool use. The other targets knowledge and rules specific to the current field.\n3. **Probe.** Each candidate is run on the same task under matched conditions. Its step-by-step trace and final output are compared with the reference run.\n4. **Compose.** Only edits backed by that evidence are merged into the harness. The loop can repeat in parallel or in sequence; with several results, an AI judge compares anonymized outputs and picks the winner.\n5. **Learn across tasks.** After each task, the system reviews its full edit history. It stores only evidence-backed lessons in a library that guides future tasks.\n\n## Results\nThe authors tested on three professional-work benchmarks: WorkBuddy-Bench, JobBench and LAB. They used two models, GLM-5 and Gemini 3.5 Flash, each running inside two existing agent harnesses, OpenCode and Codex. That makes four model-and-harness combinations, compared against their unmodified base harnesses.\n\n- The largest reported gains were up to 11.5 points on WorkBuddy-Bench, 4.5 points on JobBench and 11.8 percentage points on LAB.\n- A single improvement round generally raised WorkBuddy-Bench scores. GLM-5 gained more in absolute terms than Gemini 3.5 Flash.\n- Spending more effort on the per-task loop helped further. Parallel attempts added gains on JobBench and on partial pass rates in LAB.\n- Removing any single ingredient hurt results: the two scoped candidates, the lesson library, or the merge step. The scoped candidates mattered most on JobBench.\n\n## Why it matters\nTeams often cannot retrain their models, but they control the harness. Harness² offers a way to improve agents on open-ended work using only the model they already have. It also shows that comparisons can stand in for an answer key.\n\n## Caveats\nGains were not uniform. In one setting (Gemini under Codex on LAB partial pass rate), a competing method did better. Results depend on which model and harness are used, and the OpenCode-versus-Codex gap narrows but does not close. Testing covers only three benchmarks, two models and two harnesses. Each improvement round also needs extra full task runs, which adds compute cost.\n\n## Key terms\n- **Harness:** the instructions, tools, memory and helper code wrapped around a model that shape how it works.\n- **Verifier:** an automatic checker that says whether an answer is right.\n- **Propose–Probe–Compose:** draft candidate edits, test them against a reference run, keep only the proven changes.\n- **Recursion budget:** how many improvement attempts the system is allowed per task.\n"
     }
    ]
   },
@@ -134,25 +134,22 @@
    "color": "#a78bfa",
    "papers": [
     {
-     "id": "2608.08097",
-     "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+     "id": "2609.18063",
+     "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
      "authors": [
-      "Can Xiao",
-      "Sukmin Cho",
-      "Junbong We",
-      "Zhixiong Niu",
-      "Jianyi Cheng",
-      "Yiren Zhao",
-      "Youngjin Kwon",
-      "Yongqiang Xiong"
+      "Yu Lin",
+      "Yiming Wang",
+      "Runyuan Cai",
+      "Hanze Liu",
+      "Xiaodong Zeng"
      ],
      "source": "Hugging Face Trending",
-     "upvotes": 26,
-     "tldr": "OasisKV stores a model's memory in CPU RAM and uses a draft model's next-token guess to prefetch only the needed pieces onto the GPU, roughly doubling serving throughput with under one point of accuracy loss.",
-     "image": "https://arxiv.org/html/2608.08097v1/x1.png",
-     "abs_url": "https://arxiv.org/abs/2608.08097",
-     "pdf_url": "https://arxiv.org/pdf/2608.08097",
-     "summary_md": "## In one sentence\nOasisKV keeps most of a language model's working memory in cheap computer memory and uses a fast \"guess of the next word\" to fetch only the pieces the GPU will need, just before it needs them.\n\n## Background you need\nWhen a language model writes, it saves notes about every earlier word in a KV cache (its short-term memory of what it has read). That cache lives in HBM, the small but very fast memory on the GPU. Decoding means producing the answer one token (a word piece) at a time. Speculative decoding uses a small helper model to guess upcoming tokens cheaply.\n\n## The problem\nThe KV cache grows with every token. For a 32-billion-parameter model, one 32,700-token request needs about 8.6 GB. An 80 GB GPU then fits only about nine such requests at once, so long chats and long reasoning traces get expensive.\n\nMoving the cache to ordinary CPU memory frees space, but fetching it back is slow. Pulling even 10% of the needed notes over the PCIe link (the cable between CPU and GPU) on demand noticeably slows each token.\n\n## The idea\nThink of a chef with a tiny counter and a big pantry. Fetching ingredients only when a recipe step calls for them stalls the cooking. A smart assistant reads one step ahead and fetches what will be needed next, while the chef keeps working.\n\nOasisKV's assistant is the speculative-decoding helper. Its guess of the next token reveals which parts of memory the model will look at next.\n\n## How it works\n1. **Keep the full cache off the GPU.** All notes live in CPU memory. The GPU holds only a small working set: 128 blocks of 16 tokens, about 2,048 tokens, per attention head.\n2. **Look one step ahead.** An existing draft model (EAGLE-3) proposes the next token. Its query runs through the same attention call as the real token, so no separate predictor is trained.\n3. **Rank memory blocks.** Each block has a tiny summary, about one sixteenth of its size. The draft query scores every block, even ones not on the GPU, and picks the top ones. This guess matches the real next step's choice over 98% of the time.\n4. **Fetch in the background.** Three helper workers predict, select and copy blocks on separate GPU streams. The main computation waits only for the layer it is about to run. A cap limits swaps per step so the link never jams.\n5. **Extend across machines.** When one machine reads the prompt and another writes the answer, only the needed blocks are sent at first. Missing ones are fetched later, each at most once.\n\n## Results\nAccuracy stays close to full attention. On the LongBench v2 long-document test with Qwen3-8B, it scores 33.20 versus 33.60. On hard math and science reasoning, the average drops 0.35 points, while the older Quest and FreeKV methods lose 2.6 to 3.5 points.\n\nOn one H100 GPU, Qwen3-8B produces 2,083 tokens per second on AIME24 math problems, versus 1,235 for standard vLLM: 1.69 times the output on the same hardware. With 16,000-token contexts, it serves 90 to 95 requests at once instead of 22, for 2.1 times the throughput. For the large Qwen3-235B model on eight GPUs, the end-to-end gain is 1.20 times.\n\nIn the two-machine setup at 32,000 tokens, data sent per new request falls from 4.50 GB to 0.46 GB, about 9.7 times less.\n\n## Why it matters\nLong reasoning and long documents are where serving costs climb fastest. Fitting about four times as many users on one GPU cuts cost per answer. It reuses draft models many serving stacks already run.\n\n## Caveats\nThe draft guesses are used only for prefetching and then thrown away, so the usual speed-up from speculative decoding is not yet added. Gains shrink on very large models and small batches. Fetching more than about 10% of blocks saturates the link. Some benefits, like faster first tokens, are estimated on paper, not measured. Competing systems ran on their own software stacks.\n\n## Key terms\n- **KV cache**: the model's stored notes about every earlier token.\n- **HBM**: the GPU's small, very fast built-in memory.\n- **Speculative decoding**: a cheap helper model guesses upcoming tokens for the big model to check.\n- **Prefetching**: loading data before it is requested so nobody waits.\n- **Throughput**: how many tokens the system produces per second across all users.\n"
+     "upvotes": 29,
+     "tldr": "Edge0 runs a 35-billion-parameter mixture-of-experts model on a 24 GB Mac at about 20 tokens per second using under 3 GiB of memory, by streaming experts from the SSD and predicting which ones the next layer will need one word ahead.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2609.18063",
+     "pdf_url": "https://arxiv.org/pdf/2609.18063",
+     "summary_md": "## In one sentence\nEdge0 runs a 35-billion-parameter AI model on a 24 GB Mac by keeping most of it on the SSD and using a small trained predictor to load the right pieces just in time.\n\n## Background you need\nA model's \"weights\" are the billions of numbers it learned. A mixture-of-experts model (MoE) splits much of itself into small sub-networks called experts, and a \"router\" picks a few per word. It computes with only a slice per word, but normally the whole thing must sit in memory. Quantization (storing numbers with fewer bits, here 4) shrinks it, but only so far.\n\n## The problem\nThe model studied, Qwen3.6-35B-A3B, uses about 3 billion of its 35 billion parameters per word. Yet at 4 bits it still takes 19.5 GB, too much for most laptops. Leaving experts on the SSD seems obvious. But each layer only picks its experts after the previous layer finishes, so a simple design waits on the disk at every layer, for every word.\n\n## The idea\nEdge0 guesses the next layer's experts one word ahead. Disk reads then overlap with current work. Think of a kitchen assistant who fetches the next ingredients from the basement before the chef asks. The twist: Edge0 uses the predicted experts as the real choice, so nothing fetched is wasted and nothing arrives late.\n\n## How it works\n1. **Experts live on the SSD.** Expert weights are stored in 4-bit form and read in small pieces on demand. A cache keeps popular experts in memory.\n2. **A small \"prerouter\" per layer.** Each layer gets a tiny network. It sees the layer's output and which experts were used for this word and the previous one. It predicts the next layer's experts for the next word, starting from a copy of the real router.\n3. **Training in three phases.** First, prerouters imitate the real routers. Second, a LoRA (a small set of extra trainable weights) is trained on about 2 million examples with predicted routing switched on; without it, output became repetitive. Third, the model writes its own text and the uncompressed original grades it, on about 200,000 examples.\n4. **Keep the add-on separate.** The 42 MB LoRA runs alongside the 4-bit weights. Folding it in and re-compressing erased most of its benefit.\n\n## Results\nOn a Mac mini M4 Pro with 24 GB of memory, the 35B model generated 20.4 tokens (word pieces) per second while using only 2.9 GiB of active memory. A standard setup holding all weights in memory managed 3.9 tokens per second and used 18.2 GiB. A smaller 8B version reached 28.0 tokens per second with 1.5 GiB.\n\nQuality dropped modestly. Across five benchmarks (math, coding, science, knowledge, instruction following), the 35B model averaged 79.2 versus 83.2 for the uncompressed original. The biggest loss was on the AIME math contest: 86.6 versus 92.7.\n\nOn a 16 GB MacBook M2, where the model cannot fit in memory, the prerouter raised speed 80 to 84% over loading experts on demand. With four experts per layer, speed rose from 3.5 to 6.4 tokens per second, and disk waiting per step fell from 244 ms to about 102 ms.\n\n## Why it matters\nCapable models become practical on ordinary laptops, with no cloud server, which helps privacy, offline use and cost. It also highlights a less-studied bottleneck: stored weight size, not just working memory. Code, checkpoints and adapters are open source.\n\n## Caveats\nIt serves one request at a time; batching was not studied. The prerouter helps less with warm caches or fast storage, and prefetching uses extra memory. Hard math lost the most quality, 10 points for the 8B model on AIME. Only Apple's MLX framework is supported. Single speed runs varied by up to 40%.\n\n## Key terms\n- **Mixture-of-experts (MoE):** a model built from many sub-networks, with only a few used per word.\n- **Router:** the part of each layer that picks which experts to use.\n- **Prerouter:** Edge0's small predictor that picks the next layer's experts one word early.\n- **Quantization:** storing the model's numbers with fewer bits to save space.\n- **LoRA:** a small set of extra trainable weights added to a frozen model to adjust its behavior.\n"
     }
    ]
   },
@@ -162,25 +159,25 @@
    "color": "#f472b6",
    "papers": [
     {
-     "id": "2610.09051",
-     "title": "A Self-Pruning Transformer: Extreme KV-Cache Compression with Universal Attention",
+     "id": "2610.05416",
+     "title": "Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training",
      "authors": [
-      "Davis Wertheimer",
-      "Haochen Shen",
-      "Ahan Gupta",
-      "Derrick Liu",
-      "Yu Chin Fabian Lim",
-      "Mudhakar Srivatsa",
-      "Raghu K. Ganti",
-      "Minjia Zhang"
+      "Shuyuan Tu",
+      "Qi Tian",
+      "Yinming Huang",
+      "Yue Wu",
+      "Xintong Han",
+      "Kaihang Pan",
+      "Weijie Kong",
+      "Jiangfeng Xiong"
      ],
-     "source": "arXiv new",
-     "upvotes": 0,
-     "tldr": "A new attention layer learns how fast each stored token should fade and deletes faded ones, cutting the model's memory by about 10–25× while matching or beating standard transformers.",
-     "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.09051",
-     "pdf_url": "https://arxiv.org/pdf/2610.09051",
-     "summary_md": "## In one sentence\nThe authors build a transformer layer that learns, during training, which past words it can safely forget, so its memory shrinks by roughly 10 to 25 times while answers stay as good or better.\n\n## Background you need\nA transformer reads text one token (a word piece) at a time. To avoid redoing work, it keeps a KV cache: the model's short-term memory of every token it has already read, stored in every layer. Attention is the step where each new token looks back over that memory to decide what matters. Pruning means throwing away cache entries the model will not need again.\n\n## The problem\nThe KV cache grows with every token. For long documents it can become larger than the model itself. Common fixes are blunt. Eviction tools like H2O or SnapKV keep a fixed share of the cache, chosen in advance. \"Forget gates\" let old tokens fade, but they fade almost evenly, so the model ends up acting like it only sees a short sliding window of recent text.\n\n## The idea\nThink of a note-taker who marks each note with how quickly it should fade. Key names never fade; filler fades fast. Once a note is faded enough, it goes in the bin for good. Universal Attention (UA) teaches the model to set these fade rates itself. It then uses them as a signal for what to delete.\n\n## How it works\n1. **Add a learned fade score to attention.** Before attention picks which past tokens matter, UA adds a \"decay\" term that lowers the weight of older tokens.\n2. **Combine three kinds of fading.** One gate depends on the current token (the reader). A new gate depends on each stored token, so every memory sets its own fade speed. A third term fades a token when newer tokens look very similar to it, since it has become redundant. The three are blended so that if any one says \"keep this\", the token is kept.\n3. **Train everything together.** The gates and the rest of the model learn from ordinary next-word prediction.\n4. **Delete at inference.** Each cached token carries a fade score that can only go down. When it drops below a threshold, the token is evicted permanently. That threshold is the only setting to tune, and each attention head decides on its own.\n\n## Results\nThe team trained 1-billion-parameter models on 50 billion tokens and compared against standard Llama-style models, Mamba2, Gated DeltaNet and hybrids.\n- On RULER, a long-context recall test at 4,000 tokens, UA scored 50.3 using a 21.4 MB cache. A standard Llama-style model scored 40.8 using 143.7 MB. So UA was more accurate with about one-seventh of the memory.\n- Eviction tools keeping 10% of the cache scored only 7 to 28 on the same test.\n- At 16,000 tokens, average compression on LongBench-E reached about 21× and up to 114× on some inputs. Scores moved by less than one point.\n- On everyday reasoning tasks, accuracy matched or slightly beat the baseline, and text-prediction quality improved a little.\n\n## Why it matters\nMemory is often what caps how many users or how much text a GPU can handle. A model that decides on its own what to forget could serve longer documents on the same hardware.\n\n## Caveats\n- Models were trained from scratch at 1 billion parameters (3 billion in an appendix). Converting existing large models still shows a clear quality gap.\n- UA is weaker on tasks that combine faint clues scattered across a whole document.\n- Building the fade masks adds computing work.\n- The memory savings are measured in bytes. Real speedups need a dedicated cache manager and sparse kernels, which are not yet built; the paper's own latency results are only preliminary.\n\n## Key terms\n- **KV cache:** stored keys and values for past tokens, reused so the model need not reread them.\n- **Attention:** the step where a token weighs how relevant each earlier token is.\n- **Decay gate:** a learned knob that makes older memories count less.\n- **Pruning threshold:** the fade level below which a cached token is deleted.\n"
+     "source": "Hugging Face Trending",
+     "upvotes": 23,
+     "tldr": "Prism trains a model that generates video and matching audio at 2K resolution about 2.5x faster than standard attention, by focusing compute on fast-changing and sound-producing regions.",
+     "image": "https://huggingface.co/FrancisRing/Prism/resolve/main/assets/figures/framework.jpg",
+     "abs_url": "https://arxiv.org/abs/2610.05416",
+     "pdf_url": "https://arxiv.org/pdf/2610.05416",
+     "summary_md": "## In one sentence\nPrism trains an AI model that makes video and matching sound together at full 2K resolution. It runs about 2.5 times faster than the standard method because it skips the parts of the picture that matter little.\n\n## Background you need\nModern video generators are often diffusion transformers. These models start from noise and clean it up step by step into a clip. They split the video into small patches called tokens. \"Attention\" is the step where each token looks at other tokens to decide what it should become.\n\n## The problem\nIn full attention, every token compares itself with every other token. Double the tokens and the work roughly quadruples. A 2K clip (2560 by 1440 pixels) has far more tokens than a 720p clip, so training directly at 2K is very expensive.\n\nThe authors say cost is not the only issue. At high resolution, much of the attention goes to redundant tokens, like near-identical patches of sky. That spreads the learning signal thin and can disturb what the model already learned. Earlier \"sparse attention\" methods skip comparisons to save time. But most target speed when generating, not training, and they ignore how sound and picture interact.\n\n## The idea\nThink of a mapmaker who draws a busy city center street by street but covers an empty desert with a few big squares. Prism treats attention the same way. It uses fine detail where the picture changes quickly or where sound comes from, and coarse detail elsewhere. The key observation is that sound and picture interact mostly around the source of the sound, such as a singer's mouth or a drum being hit.\n\n## How it works\n1. **Split into zones.** The tokens are grouped into small 3D chunks covering space and time, called macro-zones. The released settings use chunks 4 tokens wide in each direction.\n2. **Measure each zone.** Prism reads two cheap signals per zone. One is how much the video features vary, which shows how fast and in which direction the content changes. The other is how strongly the audio affects that region.\n3. **Shape the blocks.** Attention works on blocks of tokens, not single tokens. Prism makes blocks thinner along directions of fast change or strong sound-picture coupling, so each block holds tokens that belong together.\n4. **Keep only useful blocks.** Each group of tokens keeps a few top blocks, plus enough extra to cover most of the relevance. The released configs drop 75% to 93% of block pairs.\n5. **Train at high resolution.** Prism starts from a pretrained video-audio model called MOVA. It then trains directly at 720p, 1080p and 2K with this sparse attention.\n\n## Results\nThe authors report about a 2.5x training speedup over full attention. A run that took 10 days with full attention would take about 4. They also claim better output quality than full attention, not just equal quality. The paper body was not reachable for this summary, so specific quality scores and other baselines are not listed here.\n\nTwo preview models are public. Both turn an image and a text prompt into video with sound, at up to 2K.\n\n## Why it matters\nAttention cost has kept native 2K training out of reach for many open video projects. A 2.5x cut makes high-resolution video-audio models more practical to train and fine-tune. The code, training scripts and weights are open under the MIT license.\n\n## Caveats\n- Hardware needs remain high: at least 32 GPUs with 80 GB memory for 720p training, and 64 for 1080p or 2K.\n- Generating at 1080p or 2K needs four or more such GPUs. 720p fits on one.\n- The released models are previews; a stronger \"pro\" version is promised but not out.\n- Public material gives few quality numbers, so independent checks of the quality claim matter.\n- The method reads signals from the base model's audio-to-video layer, so it assumes such a layer exists.\n\n## Key terms\n- **Token:** a small patch of video or slice of audio handled as one unit.\n- **Attention:** the step where tokens check each other to decide what to become.\n- **Sparse attention:** attention that skips most token pairs to save compute.\n- **Native 2K training:** training directly on 2K clips instead of upscaling smaller output.\n"
     }
    ]
   },
@@ -190,20 +187,21 @@
    "color": "#34d399",
    "papers": [
     {
-     "id": "2609.33135",
-     "title": "MpFA: Hardware-Efficient Train-Free QK4V8 FlashAttention Kernels on Blackwell GPUs",
+     "id": "2609.36800",
+     "title": "AI as a Compiler: Compiling Triton kernels without the Triton compiler",
      "authors": [
-      "Chencheng Deng",
-      "Jianbin Fang",
-      "Dezun Dong"
+      "Francois Costa",
+      "Charly Castes",
+      "Thomas Bourgeat",
+      "Azalia Mirhoseini"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "A training-free attention kernel for NVIDIA Blackwell that mixes 4-bit and 8-bit math and keeps extra work off the slow softmax step, raising long-context output speed 2.81× over FlashAttention-4.",
-     "image": null,
-     "abs_url": "https://arxiv.org/abs/2609.33135",
-     "pdf_url": "https://arxiv.org/pdf/2609.33135",
-     "summary_md": "## In one sentence\nMpFA is a faster attention routine for NVIDIA's new Blackwell GPUs that uses very low-precision numbers for part of the math, without retraining the model, and nearly triples output speed on long inputs.\n\n## Background you need\nAttention is the step in a language model where each token looks back over earlier tokens. FlashAttention is the standard fast code (\"kernel\", a small program that runs on the GPU) for this step; FA4 is its Blackwell version. Tensor cores are the GPU units that do matrix multiplication very fast. Precision is how many bits store each number: BF16 uses 16, FP8 uses 8 and NVFP4 uses 4. Fewer bits mean faster math but more rounding error.\n\n## The problem\nWith long inputs, attention eats the GPU. On a B200 running Llama-3.1-8B at 128,000 tokens, attention took 72.5% of GPU time when reading the prompt and 91.4% when generating. Blackwell's 4-bit tensor cores promise about four times the throughput of 16-bit ones. Yet FA4 still uses 16-bit. Simply switching everything to 4-bit made attention slower, at 0.87× the speed of FA4. Retraining models for low precision is costly, and existing training-free methods target other chips.\n\n## The idea\nSpeeding up only the multiplications is like widening the highway while leaving the toll booth alone. The authors found the toll booth: softmax, the step that turns raw scores into probabilities. It relies on exponentials that Blackwell did not speed up. In one test, the exponential alone took 417 cycles, more than both quantized multiplications together (384). So MpFA keeps every extra job off the softmax path.\n\n## How it works\n1. **Mix precisions.** Queries and keys (the vectors used to score relevance) use 4-bit. Probabilities and values use 8-bit. Running totals stay in 32-bit. In tests, this mix was 1.38× faster than FA4, while all 4-bit was slower.\n2. **Use a fixed scale for probabilities.** Probabilities never exceed 1, so one constant scale works and no runtime measuring is needed. Tokens are read in reverse order so a very strong early token does not push other probabilities too close to zero.\n3. **Fix errors on the tensor cores.** A few large outlier values hurt 4-bit accuracy. Earlier methods correct this by adding terms inside softmax, costing 18.6–22.7% of runtime. MpFA instead folds the correction into one small extra multiplication, which the fast tensor cores handle.\n4. **Keep the hardware busy.** For prompt reading, it overlaps work in a fine-grained pipeline and reuses Blackwell's on-chip tensor memory. For generation, it splits the cache across more workers so the GPU stays full.\n\n## Results\nAll tests ran on one NVIDIA B200 at 16,000 to 128,000 tokens.\n- Prompt reading was 1.31–1.33× faster than FA4 and 1.15–1.17× faster than the 8-bit FlashInfer library.\n- Token generation was 2.08× faster than FA4 on average.\n- End-to-end output speed on Llama-3.1-8B and Qwen3-14B rose 2.81× over FA4. A reply that took about 28 seconds would take about 10. The gain over 8-bit FlashInfer was smaller, 1.06×.\n- Across ten model–task pairs from five benchmarks, the correction recovered 62.5% of the accuracy lost to low precision, for about 2% extra kernel time.\n- The cache shrinks to about 1/2.56 of its 16-bit size.\n\n## Why it matters\nLong-context chat, code assistants and document tools spend most of their GPU time in attention. A drop-in, training-free kernel lets operators get more from Blackwell hardware without retraining.\n\n## Caveats\n- Tests covered one GPU type and two models of 8 to 14 billion parameters.\n- Accuracy loss is reduced, not removed: about 37.5% of the drop remains.\n- The edge over strong 8-bit kernels is modest end to end.\n- The design relies on Blackwell-specific features, so it will not carry over directly to other chips.\n\n## Key terms\n- **Kernel:** a small program that runs a specific job on the GPU.\n- **Softmax:** turns raw relevance scores into probabilities that sum to one.\n- **Quantization:** storing numbers with fewer bits to save memory and time.\n- **Prefill / decode:** reading the prompt versus generating new tokens one by one.\n- **Outlier:** an unusually large value that wastes the range of a low-bit format.\n"
+     "tldr": "An LLM agent translates Triton GPU kernels directly into NVIDIA PTX code, matching or beating Triton's own compiler on most kernels (up to 3.34× faster) under strict correctness checks.",
+     "image": "https://arxiv.org/html/2609.36800v1/figure1_compilation_paradigms.png",
+     "abs_url": "https://arxiv.org/abs/2609.36800",
+     "pdf_url": "https://arxiv.org/pdf/2609.36800",
+     "summary_md": "## In one sentence\nThe authors let a large language model act as the compiler: it reads a GPU program written in Triton and writes the low-level machine-like code itself, often producing faster programs than Triton's own compiler.\n\n## Background you need\nGPUs run small, heavily optimized programs called kernels, which do jobs like matrix multiplication or attention. Triton is a popular Python-like language for writing kernels without deep hardware knowledge. Its compiler translates them, step by step, into PTX (NVIDIA's low-level assembly-like language for its GPUs). That translation is called \"lowering\".\n\n## The problem\nEasy kernel languages push the hard work into the compiler. Someone must hand-build many translation and optimization stages for every new hardware feature. Each new chip, like NVIDIA's Hopper or Blackwell, means more of this costly engineering. The compiler also only applies tricks its authors coded in.\n\n## The idea\nSkip the hand-built pipeline and let an AI model write the PTX directly. The authors call this \"AI lowering\". It is like a translator who rewrites a whole document fluently instead of following a fixed phrasebook. A strict testing harness then checks every output, so speed never comes at the cost of correctness.\n\n## How it works\n1. **A fixed setup.** An environment called TCEnv hands the model the Triton kernel plus fixed details: problem sizes, thread counts, target GPU, and a PTX template. The model only has to handle the translation.\n2. **First draft.** An AI harness called TAIC, powered by a model named GPT-6 Astra, writes an initial PTX version. It can read profiler reports and look up PTX documentation.\n3. **Test and measure.** TCEnv assembles the code, runs a memory-safety checker, compares outputs against the original Triton kernel on tricky random inputs, and times it.\n4. **Plan and branch.** The model reads the results, names the main bottleneck, and writes an improvement plan. Helper agents try several independent patches.\n5. **Keep only winners.** Only patches that compile, pass safety and correctness checks, and run faster seed the next round. This repeats until a dollar budget runs out. Optionally, an extended verifier called Volta can mathematically prove the PTX matches the original.\n\n## Results\nBaselines were autotuned Triton kernels (Triton automatically trying many settings). Tests ran on three NVIDIA GPUs: L40S, H100 and B200.\n\n- Across 12 common kernels, AI lowering ran at 0.83× to 3.34× Triton's speed. Above 1× means faster.\n- Simple kernels like ReLU landed within about 1% of Triton.\n- Convolution reached up to 2.23×, by reusing data shared between overlapping windows.\n- On ten kernels from recent research papers on B200, BitDelta hit 3.34×. The model decoded packed binary weights straight into Tensor Core inputs (Tensor Cores are the GPU's matrix-math units). FlashAttention reached 1.37×, by giving each thread a whole softmax row so threads need not share partial results.\n- The weak spot: FP16 matrix multiplication on H100 ran at only 0.83×.\n- Over five repeat runs, convolution averaged 2.00× and FlashAttention 1.24×.\n- Costs per candidate kernel were usually under $1.50 for simple kernels and about $5 to $12 for convolution and matrix multiplication.\n- Older models did worse on FP16 matrix multiplication: GPT-5.4 reached 0.73×, versus 1.00× for GPT-6 Astra.\n\n## Why it matters\nBringing software to a new chip could need far less hand-written compiler work, which helps custom-accelerator makers most. AI also finds tricks fixed compiler rules never try.\n\n## Caveats\nProof of correctness is costly in speed. Restricting to provably verified kernels dropped matrix multiplication from 1.03× to 0.24×. The verifier cannot handle atomic operations, data-dependent branching, or bit-level tricks. Only the newest model gave competitive results. Generation costs dollars and time, versus milliseconds for Triton. Most experiments ran once, and the work covers only Triton to PTX on NVIDIA GPUs at fixed problem sizes.\n\n## Key terms\n- **Kernel**: a small program that runs one operation on the GPU.\n- **Triton**: a Python-like language for writing GPU kernels more easily.\n- **PTX**: NVIDIA's low-level, assembly-like code for its GPUs.\n- **Lowering**: translating high-level code into lower-level code the hardware can run.\n- **Formal verification**: mathematically proving two programs always produce the same result.\n"
     }
    ]
   },
@@ -213,25 +211,22 @@
    "color": "#fbbf24",
    "papers": [
     {
-     "id": "2610.22471",
-     "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+     "id": "2610.29730",
+     "title": "Post-hoc Epistemic Uncertainty for Vision-Language-Action Policies",
      "authors": [
-      "Zhongang Cai",
-      "Zhonghua Wu",
-      "Qingyi Tao",
-      "Quanzhou Li",
-      "Han Chong Chua",
-      "Ruisi Wang",
-      "Xiaoming Wu",
-      "Tianqi Liu"
+      "Johannes Keller",
+      "Albrecht M. Bloße",
+      "Adrian Lindenmeyer",
+      "Thomas Neumuth",
+      "Daniel Schneider"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 465,
-     "tldr": "A large study finds that a frozen general AI model can control robots well in simulation, but on real robots it is still too slow, costly and unreliable to count as practical embodied intelligence.",
-     "image": "https://arxiv.org/html/2610.22471v2/teaser.png",
-     "abs_url": "https://arxiv.org/abs/2610.22471",
-     "pdf_url": "https://arxiv.org/pdf/2610.22471",
-     "summary_md": "## In one sentence\nA large research team took a frontier general-purpose AI model, GPT-6-Astra, and tested whether it can control real and simulated robots without any extra training, across 12 benchmarks and 8 physical robots.\n\n## Background you need\nRobots are usually driven by a VLA, a vision-language-action model (a network trained on robot recordings that turns camera images and an instruction into motor commands). Training one needs many teleoperated demonstrations, where a human remote-controls the robot. A general chat-style model has never been trained this way. It can still try to control a robot through a closed loop: look at camera frames, output a few actions, look again.\n\n## The problem\nRobotics benchmarks were designed for specialist robot models. Nobody knew how a frozen, general model would score on them, or what those scores would mean. A high benchmark number might hide huge costs or slow reactions. For a company deciding whether to build robots on top of general models, this gap matters a lot.\n\n## The idea\nThe authors treat the general model like a new employee given a binder of notes before the shift. It studies the training demonstrations once, writes its own \"knowledge package,\" and then works from that binder. A second, faster robot model acts like a skilled hand, while the general model acts like a careful supervisor. The authors borrow the \"fast thinking versus slow thinking\" framing: System 1 is fast reflexes, System 2 is slow reflection.\n\n## How it works\n1. **Self-written notes.** For each task, the model reads training demonstrations and writes a package with six parts. These include task guidance, motion and visual references, small helper programs, success checks and recovery steps. The package is then frozen, and the model's weights never change.\n2. **More time.** The step limit is raised up to 10 times the official budget, inside the same episode. The robot can notice a miss and try again.\n3. **Supervisor harness.** A fine-tuned VLA called π0.5 proposes hand movements. GPT-6-Astra reviews them before they run, either every step or every few steps.\n4. **Real robots.** Eight platforms run zero-shot (no demonstrations). Humans write context such as joint limits and safety rules, and each trial gets about 60 minutes.\n5. **A new test.** A simulated apartment where the clock keeps running while the model thinks.\n\n## Results\nThe model matched or beat the best published scores on most settings. On DexJoCo (dexterous multi-finger hands) it reached 87.3%, roughly double the previous best. With extra time, it hit 81.9% on RoboDojo, a two-arm tabletop suite.\n\nThe harness study on RoboDojo is telling. The VLA alone scored 6.91%, and the general model alone scored 15.56%. Combining notes with supervised VLA control reached 54.17%, but used about 19.3 million tokens per episode. At the authors' rule of thumb of about 1 US dollar per million tokens, that is roughly 19 dollars per attempt.\n\nReal robots were harder. Rigid pick-and-place worked 17 of 18 times. Cloth folding worked 2 of 4 times, and plug insertion failed all 11 tries. On the Unitree G1 humanoid, about 90% of each run was spent thinking. One nice surprise: a two-arm robot moved its free arm so its wrist camera could see into a vase before inserting a flower.\n\n## Why it matters\nThis is a careful reality check for the \"just use a big general model\" approach to robotics. It shows general models now have real physical competence. It also shows where they still fail: speed, cost, and checking whether a task truly succeeded. Benchmark designers get a concrete proposal: no in-domain demonstrations, and a clock that keeps ticking.\n\n## Caveats\nCosts were not matched across compared systems. Some benchmarks had very few trials, so single runs can swing scores a lot. The notes packages transfer poorly to tasks unlike their source data. Real-robot results depend heavily on human-written context, which is effectively prompt engineering. In the apartment test, slow thinking let an egg burn and a fridge stay open. Hardware faults, like an overheating hand at 62 °C, ended trials the model could not recover from.\n\n## Key terms\n- **VLA (vision-language-action model):** a model that turns images and instructions into robot motor commands.\n- **In-context learning:** improving on a task by reading examples in the prompt, without changing the model's weights.\n- **Zero-shot:** doing a task with no task-specific examples.\n- **Harness:** the surrounding software that connects a model to tools or robots and manages the loop.\n- **Teleoperation:** a human remote-controlling a robot to record demonstrations.\n- **Token:** a small chunk of text or data; model usage is billed per token.\n"
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A cheap add-on that compares a robot policy's internal state to its training demonstrations tells the robot when it is out of its depth about as well as running two policies, at up to 50 times lower scoring cost.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.29730",
+     "pdf_url": "https://arxiv.org/pdf/2610.29730",
+     "summary_md": "## In one sentence\nThe authors bolt a small, cheap add-on onto a finished robot policy so it can tell when it is facing a situation it was never trained on, without retraining the robot's brain or running a second copy of it.\n\n## Background you need\nA vision-language-action policy (a model that looks at camera images, reads an instruction like \"put the mug in the basket\", and outputs arm movements) is the current favourite way to control robot arms. \"Epistemic uncertainty\" means uncertainty that comes from missing knowledge: the robot simply has not seen enough examples like this one. That kind of uncertainty can be fixed by collecting more demonstrations, unlike pure randomness in the world.\n\n## The problem\nA robot that does not know what it does not know will confidently fail. Ideally it should say \"I'm unsure here\" so a person can step in or record a new demonstration.\n\nToday's best signal comes from an ensemble: train two or more policies and measure how much they disagree. That works, but it doubles the cost of pre-training, fine-tuning and running the robot. Cheaper single-model signals, such as how \"surprised\" the language part of the model is, turn out to be almost useless in the authors' tests.\n\n## The idea\nThink of a tour guide with a notebook of every street they have walked. When a tourist asks about a place, the guide checks how close it is to anything in the notebook. Far from every entry means \"I'm guessing here\".\n\nThe paper does the same with the policy's internal summaries (embeddings, the lists of numbers a model computes to describe what it sees). It stores the embeddings of all training demonstrations. At run time it measures how far the current situation sits from that stored collection.\n\n## How it works\n1. **Freeze the policy.** The robot model (SmolVLA, a compact open policy) is left untouched. Nothing is retrained and no labels are needed.\n2. **Collect embeddings.** For every frame in the training demonstrations, the method records an internal summary. One version reads the summary of cameras, instruction and robot state. Another reads the hidden state of the part that generates actions.\n3. **Tidy the space.** The numbers are rescaled and compressed to a few hundred directions, so no single feature dominates the distance.\n4. **Score with a Gaussian process.** A Gaussian process (a classic statistical tool that knows how confident it is between known data points) gives a variance score. It is near 1 far from the demonstrations and near 0 close to them.\n5. **Use the score.** The number can rank tasks by likely failure, choose which new demonstrations to collect, or decide when to hand control to a stronger \"supervisor\" policy.\n\n## Results\nTests use LIBERO-10, a simulated benchmark of ten long kitchen-and-household manipulation tasks.\n\n- **Predicting failure across tasks.** The cameras-and-instruction head reached a correlation of 0.77 (rank) and 0.82 (linear) with task failure. The previous best ensemble signal scored 0.75 and 0.64. The language model's own confidence scored around zero, meaning it carried no useful information.\n- **Early on, it helps most.** Before any extra data was collected, the new head reached 0.94 linear correlation versus 0.75 for the ensemble.\n- **Much cheaper.** Setting it up was about 44 times faster per fine-tuning round, and scoring was up to about 50 times faster than ensemble methods. In practice, one policy does the job of two.\n- In choosing demonstrations to collect and deciding when to defer, the authors report the heads are competitive with the ensemble.\n\nThe authors also found a flaw in the benchmark itself. A trivial score that just counts demonstrations per task reached 0.82 rank correlation. So the standard test mostly rewards knowing which tasks had less data. They added 20 families of controlled changes (moved cameras, reworded instructions, shifted objects) to test harder cases.\n\n## Why it matters\nRobots that know when to ask for help are safer and cheaper to teach. This method lets teams add that ability to an existing open policy in minutes, not a second training run. It also gives a practical tool for deciding which demonstrations are worth recording next, which is the main cost in robot learning.\n\n## Caveats\nOnly one policy (SmolVLA) and one simulated benchmark were tested, with three random seeds. No real-robot results are reported. The method cannot cleanly separate \"missing knowledge\" from inherent ambiguity. Its quality depends on the policy's embeddings keeping unfamiliar situations apart, which training does not guarantee. The exact Gaussian process is fine at this scale but may need approximations for very large datasets.\n\n## Key terms\n- **Vision-language-action policy:** a model mapping camera images plus a text instruction to robot motions.\n- **Epistemic uncertainty:** doubt caused by lack of training data, fixable with more examples.\n- **Ensemble disagreement:** running several models and treating their disagreement as a sign of doubt.\n- **Embedding:** a list of numbers a model uses internally to summarize its input.\n- **Gaussian process:** a statistical method that estimates both a value and how unsure it is, based on distance to known data.\n- **LIBERO-10:** a simulated benchmark of ten long, multi-step manipulation tasks.\n"
     }
    ]
   },
@@ -241,25 +236,25 @@
    "color": "#fb7185",
    "papers": [
     {
-     "id": "2610.26860",
-     "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+     "id": "2610.31329",
+     "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
      "authors": [
-      "Yu Zhou",
-      "Cheng-Fu Yang",
-      "Rui Sun",
-      "Di Wu",
-      "Sibo Peng",
-      "Mingyang Zhang",
-      "Zhen Yang",
-      "Ruiyi Zhang"
+      "Tianming Liang",
+      "Junyi Pan",
+      "Yuxi Li",
+      "Canmiao Fu",
+      "Zhipeng Huang",
+      "Chong Sun",
+      "Chen Li",
+      "Jing Lyu"
      ],
      "source": "Hugging Face Trending",
-     "upvotes": 112,
-     "tldr": "An open, training-free toolkit gives image-reading AI models perception tools, web search, code and a shared evidence memory, raising scores by about 10 to 13 points across 22 benchmarks at lower cost than thinking longer.",
-     "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.26860",
-     "pdf_url": "https://arxiv.org/pdf/2610.26860",
-     "summary_md": "## In one sentence\nOpenVLHarness is a ready-made toolkit that lets an image-understanding AI model zoom, measure, search the web and run code, while keeping every piece of evidence in a shared memory it can reuse.\n\n## Background you need\nA multimodal large language model, or MLLM, is a chatbot-style model that can read images as well as text. Many hard visual questions need more than looking, such as counting 40 objects or checking a fact online. A \"harness\" is the software around a model that hands it tools and runs the loop of asking, acting and reading results. \"Tool use\" means the model writes a request, a separate program does the work, and the result comes back.\n\n## The problem\nThe authors first tried the obvious fix: let the model think longer. On 22 benchmarks, a bigger reasoning budget gave only modest gains. Thinking harder cannot replace a missing measurement or an outside fact.\n\nExisting tool setups have their own issues. Tool outputs come in messy formats, like masks, depth maps or raw web pages. If the model cannot read them easily, or forgets them a step later, the tools barely help. Teams building visual assistants often end up writing this glue code by hand for every project.\n\n## The idea\nThink of a detective with a well-organized evidence locker. Each lab report, photo and witness note gets a label and a shelf. The detective does not re-run the lab test each time. They pull the labeled item and compare it with others. OpenVLHarness gives the model that locker, plus a common way to request work from every lab.\n\n## How it works\n1. **One front desk for many tools.** A \"capability layer\" offers nine task-level tools. These include object grounding (finding and outlining objects, using Segment Anything), text reading in images, depth estimation, camera position across photos, zoom-in, text search, reverse image search and webpage visits.\n2. **Readable results.** Each tool's raw output is turned into something the model can digest, like an annotated image, a short summary or a compact table of numbers.\n3. **Persistent memory.** Images, boxes, masks, depth maps and web links are stored as labeled items for the whole question. The model can refer to them by name in later steps.\n4. **Code over evidence.** A coding helper writes and runs Python on the stored items. For example, it can count boxes or compare depths precisely, instead of guessing in its head.\n5. **No retraining.** The underlying model stays unchanged. Any model that supports tool calls can be plugged in.\n\n## Results\nTests covered 22 benchmarks in four groups: counting and grounding, web search and deep research, general visual question answering with hallucination checks, and spatial understanding. Across eight backbone models, open and proprietary, average scores rose 9.7 to 12.6 points over the same model without tools.\n\nSome examples, as averages out of 100: Qwen3-VL-8B went from 34.2 to 45.4. Qwen3-VL-32B went from 38.3 to 50.9. GPT-6 Astra, the strongest base model, went from 60.3 to 70.2.\n\nCost results are notable. GPT-6 Luna at medium reasoning effort, inside the harness, scored 56.5. That beat the plain model, the Codex coding agent and the Visual Sketchpad tool system at maximum effort. It did so using at most 37% of their model-token cost. In plain terms, a better answer for roughly a third of the bill.\n\nOn the small Qwen2.5-VL-7B, the untrained harness scored 33.5. Three systems specially trained for tool use scored between 25.0 and 28.0.\n\n## Why it matters\nBuilders of visual assistants get an open, reusable base instead of custom glue code. The results suggest better tools and memory can be cheaper than buying more thinking time. Researchers also get a shared setup to compare models fairly on tool-heavy tasks.\n\n## Caveats\nPerformance depends on outside services, such as a search API and several perception models, which may fail or change. Results for the large proprietary models come from single runs, so their run-to-run variation is unknown. Memory resets for each question, so the system does not learn across tasks. Handling conflicts between evidence sources and tool reliability remain open problems.\n\n## Key terms\n- **MLLM (multimodal large language model):** a language model that also understands images.\n- **Harness:** the software loop that connects a model to tools and manages their results.\n- **Grounding:** finding where an object named in text appears in an image.\n- **Depth estimation:** guessing how far each pixel is from the camera.\n- **Backbone:** the core model plugged into the harness.\n- **Token cost:** the price of a model's input and output text, billed per small chunk.\n"
+     "upvotes": 223,
+     "tldr": "Tencent's WeVisOne-VL is a small open vision-language model that detects, counts, points at, reads, segments and cuts out objects from text prompts in one system, and reliably says when an object is not there.",
+     "image": "https://raw.githubusercontent.com/Tencent/WeVisOne-VL/main/assets/teaser.png",
+     "abs_url": "https://arxiv.org/abs/2610.31329",
+     "pdf_url": "https://arxiv.org/pdf/2610.31329",
+     "summary_md": "## In one sentence\nTencent's WeChat Vision team built one small open model that can find, count, point at, read, outline and precisely cut out things in an image, all from a plain-text request.\n\n## Background you need\nA vision-language model (VLM) is an AI that looks at an image and answers in text, like a chatbot with eyes. \"Perception\" tasks ask it *where* things are, not just *what* they are. Answers range from coarse to fine: a point, a bounding box (a rectangle around an object), a segmentation mask (the exact pixels of the object), or an alpha matte (a mask with soft, partly transparent edges, like hair or glass).\n\n## The problem\nChat-style VLMs describe images well but localize unreliably. Ask for every apple in a crowded crate and they miss many. Ask about something absent and they often invent a box. For pixel-level work, builders bolt on separate segmentation or matting tools, adding models, failure points and engineering.\n\n## The idea\nTreat every perception task as the model \"writing\" a structured answer, one token (word-piece) at a time. Boxes become special number tokens. For fine detail, a marker token hands off to a tiny pixel specialist. Think of a site manager who notes \"the blue crate, top left\" and calls a craftsman to trace its exact outline.\n\n## How it works\n1. **Start from a strong base.** It builds on Qwen3-VL, an open VLM, in 2B and 4B sizes (billions of parameters).\n2. **Speak in coordinates.** Positions use dedicated tokens `<0>` to `<1000>` on a normalized grid. If the object is absent, the model answers \"None\" instead of guessing.\n3. **Hand off to a pixel decoder.** After each predicted box, the model writes an `<OBJ>` token. A 9.6-million-parameter decoder reads that token's internal state, the box, and multi-layer image features. It refines a full-resolution mask or matte, coarse to fine.\n4. **Build labeled data.** A data engine guided by a knowledge graph (a map of related concepts) finds object types, localizes them with expert models, verifies them with a VLM, and extends boxes to masks and mattes. Over 100 million images were labeled this way.\n5. **Train in stages.** Three supervised fine-tuning stages (learning from labeled examples) run as a curriculum. A final reinforcement learning stage (learning from scored attempts) mixes all tasks.\n\n## Results\nThe authors report leading results on over 30 benchmarks, against general VLMs (Qwen3-VL-8B, Qwen3.5-9B) and specialists (Rex-Omni-3B, LocateAnything-3B). F1 blends precision and recall; higher is better.\n- **Crowded scenes:** on Dense200 detection, the 4B model scores 71.3 versus 58.7 for the best rival.\n- **Saying \"not here\":** on their WeRef-Bench, it correctly refuses 96.4% of queries about absent objects, versus 73.0% for the best baseline.\n- **Counting:** 89.6% exact-match accuracy on PixMo-Count, versus 82.8%.\n- **Text in images:** 52.0 F1 on TotalText (curved scene text), versus 43.3.\n- **Reasoning segmentation:** 71.2 on ReasonSeg, versus 65.0 for LISA-13B, a model several times larger.\n- **Matting:** average pixel error on P3M-500-NP falls from 15.4 (SAM-based matting) to 7.3, roughly halving edge mistakes.\n\n## Why it matters\nOne compact model can replace a stack of detectors, segmenters and matting tools. That simplifies background removal, visual search or receipt reading. A reliable \"None\" answer makes automation safer. Open weights let researchers build on it.\n\n## Caveats\n- The 4B model does not win everything; the 2B version beats it on some matting tests.\n- Some headline numbers use the authors' own new benchmarks (WeRef-Bench, WeRefMat).\n- Soft edges degrade with low resolution, heavy occlusion or complex transparency, and depend on prompt wording.\n- Single images only; no video, and no step-by-step reasoning.\n- This summary draws on the abstract, model cards and code repository; the arXiv full text could not be fetched.\n\n## Key terms\n- **Bounding box:** a rectangle drawn tightly around an object.\n- **Segmentation mask:** a pixel-exact cutout marking which pixels belong to an object.\n- **Alpha matte:** a cutout with soft, partly transparent edges for hair, fur or glass.\n- **Referring localization:** finding the object a phrase describes, like \"the man in the red hat\".\n- **Rejection rate:** how often the model correctly says an asked-for object is not in the image.\n"
     }
    ]
   }
