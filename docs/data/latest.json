@@ -1,86 +1,102 @@
 {
- "date": "2026-10-29",
- "generated": "2026-10-29T10:09:52+00:00",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T10:13:01+00:00",
  "news": [
   {
-   "title": "Microsoft booked $10 billion in OpenAI-related revenue last quarter",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "source": "TechCrunch",
-   "summary": "Revenue-sharing and other OpenAI deals brought Microsoft about $10 billion in the September quarter, roughly 11% of its $92.3 billion total. Its stake in OpenAI slipped to 24% even as the two stay financially bound through 2030.",
-   "image": null,
-   "ts": 1793221200
-  },
-  {
-   "title": "OpenAI reportedly plans to buy Google's TPU chips",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/openai-plans-to-buy-google039s-ai-chips-the-information-reports",
-   "source": "Reuters (via The Star)",
-   "summary": "The Information reports that OpenAI intends to buy Google's custom AI chips, another step in spreading its compute beyond Nvidia. No terms were disclosed and OpenAI declined to comment.",
-   "image": null,
-   "ts": 1793192400
-  },
-  {
-   "title": "Nvidia and AMD put $4 billion into Meta's giant AI equity raise",
-   "url": "https://techstrong.ai/articles/nvidia-amd-pledge-4-billion-to-back-metas-97-5-billion-ai-infrastructure-push/",
-   "source": "Techstrong.ai",
-   "summary": "Nvidia is buying $3 billion and AMD $1 billion of a first $35 billion tranche of Meta stock, part of a plan to raise up to $97.5 billion for AI infrastructure. The deals come with wider use of Nvidia Vera Rubin systems and AMD Helios racks.",
-   "image": null,
-   "ts": 1793181600
-  },
-  {
-   "title": "GitHub makes Copilot Fusion model routing generally available at Universe",
-   "url": "https://runtimewire.com/article/github-copilot-agent-orchestration-universe-2026",
-   "source": "RuntimeWire",
-   "summary": "GitHub's Copilot Fusion, which routes each task to one or more models, is now generally available, and cross-repository agent Projects entered public preview. GitHub says Fusion cut API cost per task roughly in half on a benchmark.",
+   "title": "Google unveils Gemini 4 Carbon, starting with cyber defenders only",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "source": "Google Blog",
+   "summary": "Google's new frontier model tops the Artificial Analysis Intelligence Index and scores 88.2% on the SEC-bench Pro vulnerability benchmark. Because of its hacking ability, access starts with a small group of trusted defenders before a wider release.",
    "image": null,
    "ts": 1793206800
   },
   {
-   "title": "Anthropic launches tools to show enterprises what their AI spend delivers",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "title": "Mistral releases open weights for its trillion-parameter Large 4",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
    "source": "TechCrunch",
-   "summary": "New reports let managers see team output, cost and workflow bottlenecks, plus recommendations and pooled token budgets. The move answers customer questions about return on investment ahead of Anthropic's planned IPO.",
+   "summary": "After a moderated preview earlier this month, Mistral published the weights of Large 4, a 1-trillion-parameter multimodal model that companies can run on their own servers. It is pitched at software development and defensive cybersecurity.",
    "image": null,
-   "ts": 1793199600
+   "ts": 1793282400
   },
   {
-   "title": "GSA gives US governments 40% off Claude usage",
-   "url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-anthropic-reach-onegov-agreement-on-discounted-consumptionbased-pricing-10272026",
-   "source": "U.S. GSA",
-   "summary": "An expanded OneGov agreement cuts token-based Claude prices by 40% for federal, state, local and tribal buyers, including FedRAMP environments. There is no minimum purchase, and agencies can buy directly or through clouds and resellers.",
+   "title": "Alphabet's cloud revenue doubles, but shares slide on spending and a SpaceX loss",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm",
+   "source": "Alphabet (SEC filing)",
+   "summary": "Alphabet posted $127.6 billion in third-quarter revenue, with Google Cloud up 103% to $30.7 billion on AI demand. Profit fell after an unrealized loss on its SpaceX stake, and heavy data-center spending pushed the stock down sharply after hours.",
    "image": null,
-   "ts": 1793124000
+   "ts": 1793305800
   },
   {
-   "title": "Cloudflare discloses a cache bug that leaked other customers' AI responses",
-   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "source": "Cloudflare",
-   "summary": "A memory pool smaller than the model's context window, combined with an SGLang bug, let very long prompts to GLM-5.3 on Workers AI return data from other customers' requests. Cloudflare says 155 responses were affected; it pulled and fixed the model after a researcher's report.",
+   "title": "Canada to take an equity stake in Cohere for up to C$1.6 billion",
+   "url": "https://www.semafor.com/article/10/29/2026/canada-to-take-equity-stake-in-ai-firm",
+   "source": "Semafor",
+   "summary": "Ottawa will invest up to C$1.6 billion (about US$1.1 billion) in the Toronto AI company. In return, Cohere must keep its headquarters in Canada and spend at least C$1.7 billion on domestic computing by 2030.",
    "image": null,
-   "ts": 1793203200
+   "ts": 1793289600
   },
   {
-   "title": "Apple opens Keynote, Pages and Numbers to outside AI agents via MCP",
-   "url": "https://www.ithinkdiff.com/keynote-pages-numbers-mcp-support-keyx/",
-   "source": "iThinkDifferent",
-   "summary": "On macOS 27 the iWork apps will support the Model Context Protocol, so external agents can read and edit documents, and they gain built-in beta assistants. Keynote also gets an open JSON-based file format, .keyx.",
+   "title": "OpenAI rewrites its Model Spec around five core values",
+   "url": "https://openai.com/index/updated-model-spec/",
+   "source": "OpenAI",
+   "summary": "The rulebook for how OpenAI's models behave is now organized around faithfulness to human intent, harm minimization, honesty, human agency and care. OpenAI says the change gives models better guidance when no specific rule covers a situation.",
    "image": null,
-   "ts": 1793131200
+   "ts": 1793293200
   },
   {
-   "title": "Liquid AI releases LFM3, six small open-weight models for devices",
-   "url": "https://www.artiverse.ca/one-backbone-six-models-liquid-ai-pushes-lfm3-into-multimodal-territory/",
-   "source": "Artiverse",
-   "summary": "The roughly 2-billion-parameter family shares one backbone and covers text, vision, audio, combined multimodal input and decision tasks. Weights are on Hugging Face, with access also through Liquid's playground and API.",
+   "title": "OpenAI expands monitoring to catch misbehaving internal AI agents",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+   "source": "OpenAI",
+   "summary": "OpenAI says its monitoring for unauthorized agent behavior now covers more of its internal operations. Replaying a past security incident, it says the system would have raised an alert about 30 minutes after the problem began.",
    "image": null,
-   "ts": 1793116800
+   "ts": 1793296800
   },
   {
-   "title": "Dutch government plans to cut 25,000 civil service jobs in AI-led overhaul",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/dutch-government-plans-to-cut-25000-jobs-in-ai-led-overhaul",
-   "source": "Reuters (via The Star)",
-   "summary": "The Netherlands wants to shed about 25,000 central government jobs over several years, saving €900 million a year by 2027 and €3.5 billion from 2035. Police and defence are exempt; detailed AI plans come early next year.",
+   "title": "Reddit says Google's AI Mode sends it little traffic",
+   "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+   "source": "The Verge",
+   "summary": "Reddit's CEO said Google search referrals fell by more than a million visits a week on average in October as AI answers replace links. Reddit also plans to push more of its site behind logins to curb scraping.",
    "image": null,
-   "ts": 1793102400
+   "ts": 1793311200
+  },
+  {
+   "title": "Anthropic adds 20 organizations to its AI for Science program",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "source": "Anthropic",
+   "summary": "New partners get Claude credits and research collaboration, including work with the Allen Institute on large scientific datasets. A research preview also lets AI agents operate lab instruments.",
+   "image": null,
+   "ts": 1793286000
+  },
+  {
+   "title": "OpenAI-backed Thrive Holdings agrees to buy ADT in $15.3 billion deal",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "source": "TechCrunch",
+   "summary": "Josh Kushner's AI roll-up vehicle will take the home-security company private at $10 a share in cash, a 45.6% premium. Thrive plans to use AI to remake ADT's operations; the deal is expected to close in early 2027.",
+   "image": null,
+   "ts": 1793278800
+  },
+  {
+   "title": "Amazon's Andy Jassy says outside AI shopping agents fall short",
+   "url": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
+   "source": "Fortune",
+   "summary": "Jassy argued third-party shopping agents are still less convenient than shopping on Amazon directly. The remarks follow Amazon's September move to block Meta's Muse assistant from its store.",
+   "image": null,
+   "ts": 1793314800
+  },
+  {
+   "title": "Meta quietly launches Style Sketch, an AI wardrobe app",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "source": "TechCrunch",
+   "summary": "The app suggests outfits from clothes people already own, can import wardrobe photos from Instagram, and offers virtual try-ons. It is live only in Indonesia, Singapore and Thailand for now.",
+   "image": null,
+   "ts": 1793300400
+  },
+  {
+   "title": "Swing-state voters want more AI safeguards ahead of the midterms, poll finds",
+   "url": "https://www.semafor.com/article/10/29/2026/voters-in-key-states-want-ai-safety-measures-poll-finds",
+   "source": "Semafor",
+   "summary": "Polling in competitive U.S. states shows broad support for AI safety rules. Respondents backed reasonable regulation even if it might cost the U.S. some technological edge.",
+   "image": null,
+   "ts": 1793275200
   }
  ],
  "tracks": [
@@ -90,25 +106,25 @@
    "color": "#22d3ee",
    "papers": [
     {
-     "id": "2610.23886",
-     "title": "EvoAD: Self-Evolving Autonomous Driving via Latent World-Model Guided Post-hoc Reflection",
+     "id": "2610.11382",
+     "title": "PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving",
      "authors": [
-      "Junjie Yang",
-      "Qiming Zhang",
-      "Yuyan Li",
-      "Shuqi Shen",
-      "Yusong Huang",
-      "Yanggang Sheng",
-      "Wenpeng Xu",
-      "Ziyi Shi"
+      "Jinchang Xu",
+      "Hongda Yu",
+      "Fengwei Dong",
+      "Wenhui Huang",
+      "Xi Wei",
+      "Yongzhi Liu",
+      "Sunan Zhang",
+      "Jirao Wang"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "EvoAD helps a frozen self-driving planner improve over time by remembering how past drives went and using a world model to imagine and pick better paths in similar scenes.",
-     "image": "https://arxiv.org/html/2610.23886v1/teaser.png",
-     "abs_url": "https://arxiv.org/abs/2610.23886",
-     "pdf_url": "https://arxiv.org/pdf/2610.23886",
-     "summary_md": "## In one sentence\nEvoAD lets a self-driving planner learn from its own past drives after deployment, by remembering outcomes and imagining better choices, without retraining the main driving model.\n\n## Background you need\nAn end-to-end driving system takes in sensor data and directly outputs a planned path, called a trajectory. A world model is a learned network that predicts what the scene will look like after an action. A \"latent\" is a compact numerical summary of a scene, rather than a full image. NAVSIM is a public driving benchmark that scores planned paths for safety, progress and comfort.\n\n## The problem\nMost driving policies are frozen once they ship. In the same situation twice, they make the same choice twice, even if it went badly. Fixing a mistake usually means new data and full retraining. Human drivers instead remember tricky spots and adjust.\n\n## The idea\nThe authors give the planner a memory and a habit of reflection. It records what it did and how well it went. In a similar scene later, it recalls those notes and adjusts. A world model helps it judge paths it never drove.\n\nThink of a commuter who brakes too late at an awkward junction. That evening, they replay it and picture braking earlier. Next morning, they act on that lesson.\n\nEarlier work mostly used world models to simulate before acting. Here, the world model also judges after the fact.\n\n## How it works\n1. **Propose and filter.** An existing planner called WoTE suggests 256 candidate paths per scene. A simple safety filter throws out paths that are clearly unworkable.\n2. **Imagine the future.** For each remaining path, a latent world model predicts a compact summary of the scene that would follow. It never renders a picture.\n3. **Rank the options.** A component called the Future-Aware Evaluator compares all candidates together. It weighs the car's state, each path, its predicted future and the current scene, then picks the best.\n4. **Remember outcomes.** After driving, the system receives a score for the chosen path. It stores one memory record per scene: a scene fingerprint, the path, its score and its predicted future. A record is replaced only by a higher-scoring path.\n5. **Refine on later rounds.** From the second round onward, a Planning-aware Refiner retrieves the most similar past scenes. It nudges the previous path using what worked before, with a learned confidence that controls how far to nudge. The corrected paths go back to the evaluator for a final pick.\n\n## Results\nTests used NAVSIM: training on 85,000 scenes, testing on a separate 12,000.\n\n- On NAVSIM version 1, the WoTE planner alone scored 88.3. With EvoAD, it scored 93.4.\n- On the stricter version 2 metric, WoTE went from 84.2 to 91.5.\n- Reranking alone, with no memory-based refinement, already lifted the version 1 score from 88.3 to 90.6. Reflection then adds more.\n\nThe authors report these as state-of-the-art on both versions. The paper also tests other base planners, cross-dataset memories and reactive traffic, but I could not read those numbers.\n\n## Why it matters\nRetraining a large driving model for every failure is costly. EvoAD keeps the core model fixed and adds a learning layer around it. It plugs into an existing planner and could improve over repeated trips on the same roads.\n\n## Caveats\n- The feedback signal in the experiments is the benchmark's own score. Real roads offer no such clean grade after each move.\n- Gains depend on meeting scenes similar to ones already in memory. Truly new situations get less help.\n- I could not access the paper's limitations section or its full comparison tables.\n\n## Key terms\n- **Trajectory:** the planned path a car intends to follow over the next few seconds.\n- **World model:** a network that predicts how a scene will change after an action.\n- **Latent:** a compact numerical summary of a scene, used instead of full images.\n- **Episodic memory:** a stored log of past scenes, choices and their outcomes.\n- **Post-hoc reflection:** reviewing a decision after seeing its result, to improve the next one.\n- **PDMS:** NAVSIM's driving score, combining safety, progress and comfort into one number.\n"
+     "tldr": "A self-driving model learns to imagine only the parts of the next few seconds that help it pick a safe path, beating prior systems on the NAVSIM benchmark and a closed-loop simulator.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.11382",
+     "pdf_url": "https://arxiv.org/pdf/2610.11382",
+     "summary_md": "## In one sentence\nPlanWAM is a self-driving system that learns to imagine the next few seconds of the road, keeping only the parts of that future that actually help it choose a safe path.\n\n## Background you need\nAn end-to-end driving model takes raw camera images and directly outputs the path the car should follow. A world model is a part of the system that predicts what the scene will look like in the near future. A latent is a compact internal summary, a list of numbers the model uses instead of full pictures. NAVSIM is a popular test that scores proposed paths on safety, progress and comfort using real recorded drives.\n\n## The problem\nMany driving models add a world model, hoping foresight improves decisions. But they usually train it to redraw the future scene, or to match features from generic image models. That goal is set by image quality, not by driving needs. A model can predict every leaf on a tree yet miss a pedestrian about to step out.\n\n## The idea\nThe authors flip the question: instead of asking how to predict the future, they ask which parts of the future matter for planning. It is like a chess coach who, knowing how a game ended, points out the few moves that mattered, so a student learns to spot them earlier. PlanWAM trains a \"coach\" that sees the real future, and a \"student\" that must guess it from the past alone.\n\n## How it works\n1. **Compress the past.** The car sees four recent moments from four cameras. An image encoder turns each view into tokens (small packets of information), squeezed into 128 tokens that favour recent moments.\n2. **Train a coach that sees the future.** During training only, a second branch looks at the real camera frames from 1 to 4 seconds ahead. Its future summary is never asked to redraw images; it is shaped only by how well the planner and scorer do with it.\n3. **Train a student that guesses the future.** A separate branch, which sees only the past, learns to copy the coach's future summary. This is called distillation (one model learning to imitate another). At driving time, only the student runs.\n4. **Propose and pick a path.** The past and imagined-future tokens feed a planner that drafts 64 candidate paths for the next 4 seconds. A scorer then rates each one on six checks, such as collisions, staying on the road and comfort, and keeps the best.\n\n## Results\nOn NAVSIM version 1, PlanWAM scored 93.8, versus 93.1 for the strongest prior system, DrivoR, and 94.8 for a human driver. On the stricter version 2 it scored 90.9, slightly above the human reference of 90.3. On HUGSIM, a closed-loop simulator (where the car's own choices change what happens next), it ran without extra training. There it completed 53.7% of routes on average, against 45.9% for the best baseline.\n\nA future summary trained the usual \"predict features\" way scored 93.5; the planning-shaped one scored 93.8. The number of complete failures on the test set fell from 314 to 237. Collision failures dropped by about 62%. The full model takes about 342 milliseconds per decision on one data-center GPU.\n\n## Why it matters\nSelf-driving teams spend heavily on world models. This work suggests a cheaper target: predict only what changes the decision. The coach-student trick could also suit robots trained on logged data.\n\n## Caveats\nGains on the main benchmark are small, often a few tenths of a point. Failures from leaving the drivable area rose slightly. Closed-loop evidence comes from one simulator only; common tests like Bench2Drive were not reported. No total model size is given. The student still trails the coach, which scores 95.0 when it can see the real future.\n\n## Key terms\n- **End-to-end driving:** one model maps camera input straight to a driving path.\n- **World model:** a component that predicts how the scene will evolve.\n- **Latent:** a compact numeric summary the model uses internally.\n- **Distillation:** training one model to imitate another, often stronger, model.\n- **Closed-loop testing:** evaluation where the car's actions affect what it sees next.\n"
     }
    ]
   },
@@ -118,21 +134,25 @@
    "color": "#a78bfa",
    "papers": [
     {
-     "id": "2610.35957",
-     "title": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
+     "id": "2610.39853",
+     "title": "KV Cache Quantization for Diffusion Language Models",
      "authors": [
-      "Joohyun Shin",
-      "Byeonghyeon Park",
-      "Keumseo Ryum",
-      "Joonhyuk Kang"
+      "Yan Tai",
+      "Yunan Ding",
+      "Guangzhao Li",
+      "Siqi Luo",
+      "Chaoyang Zhang",
+      "Guangtao Zhai",
+      "Guodong Guo",
+      "Xiaohong Liu"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "By keeping a copy of the small draft model on the server, DISCO lets a device and a server split language model work while sending only token numbers and single probabilities, giving faster exact output on slow networks.",
+     "tldr": "Diffusion language models reuse slightly stale memory between rounds, so the authors calibrate on realistic decoding paths and keep a few key entries at full precision to compress that memory to 4 or 2 bits with less accuracy loss than existing methods.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.35957",
-     "pdf_url": "https://arxiv.org/pdf/2610.35957",
-     "summary_md": "## In one sentence\nDISCO lets a phone and a server share the work of running a language model while sending only a few numbers per word, instead of huge lists of probabilities.\n\n## Background you need\nA large language model writes text one small chunk at a time. Each chunk is called a token. *Speculative decoding* speeds this up: a small, fast \"draft\" model guesses several tokens ahead, and the big \"target\" model checks them all at once. The check uses a rule called *rejection sampling*, which keeps or throws out each guess so the final text matches what the big model alone would have written.\n\n## The problem\nIn a distributed setup, the draft model runs on your device and the big model runs on a server.\n\nTo run the exact checking rule, the server needs the draft model's full probability list for every guessed token. That list has one entry for every token the model knows, so it is very large. On a slow link, sending it can eat most of the time saved. The authors note this traffic often caps the speedup.\n\n## The idea\nKeep a copy of the small draft model on the server too. Then the server can rebuild the draft model's probability list by itself. The device no longer has to send it.\n\nThink of two friends checking homework by phone. If both own the same textbook, the caller just says \"problem 7, answer 42.\" The other friend can redo the working alone.\n\n## How it works\n1. **Drafting on the device.** The small model on the device guesses a short run of upcoming tokens, as in normal speculative decoding.\n2. **Sending a tiny message.** For each guess, the device sends only the token's index number and one probability value. It does not send the full list over the vocabulary.\n3. **Rebuilding on the server.** The server runs its own copy of the same small model. This recreates the full draft probability list locally, with no network transfer.\n4. **Exact checking.** The big model scores the guesses. The server then applies standard rejection sampling, using the rebuilt draft list.\n5. **Same output quality.** The authors state that DISCO still produces exactly the big model's output distribution.\n\n## Results\nThe authors test DISCO on several datasets. They compare it with existing distributed speculative decoding methods that send full probability lists.\n\nThey report that DISCO reaches higher decoding speedups than these baselines. The gap is largest when network bandwidth is tightly limited. In practice, that means slow mobile or wireless links.\n\nWe could not access the full results tables, so we quote no exact speedups here. See the paper for specific figures.\n\n## Why it matters\nSplitting work between a device and a server only pays off if the network is not the bottleneck.\n\nDISCO shrinks the per-token message from a vocabulary-sized list to a couple of numbers. That makes device-plus-server setups more practical on ordinary networks.\n\n## Caveats\nThe server must also run the draft model. This adds extra compute and memory on the server side.\n\nThe device and server copies must match exactly. Any difference in model version or number precision could break the exactness guarantee.\n\nThe approach helps most when bandwidth is the main limit. On fast links, the gain over older methods may be smaller.\n\n## Key terms\n- **Token:** a small piece of text, such as a word or part of a word, that a model produces one at a time.\n- **Speculative decoding:** a speed-up trick where a small model guesses ahead and a big model checks the guesses.\n- **Draft model:** the small, fast model that makes the guesses.\n- **Rejection sampling:** a rule for keeping or discarding guesses so the result matches the big model exactly.\n- **Vocabulary:** the full set of tokens a model can produce.\n- **Bandwidth:** how much data a network link can carry per second.\n"
+     "abs_url": "https://arxiv.org/abs/2610.39853",
+     "pdf_url": "https://arxiv.org/pdf/2610.39853",
+     "summary_md": "## In one sentence\nThe authors show how to shrink the memory of a new kind of language model, the diffusion language model, by storing its working memory in 4-bit or 2-bit numbers without hurting its answers much.\n\n## Background you need\nMost chatbots write one word at a time. Diffusion language models (dLLMs) work differently: they start with a reply full of blanks and fill many blanks in parallel over several rounds. Both kinds keep a KV cache, the model's short-term memory of the text it has already processed. Quantization means storing those numbers with fewer bits, like rounding prices to the nearest dollar to save space.\n\n## The problem\nThe KV cache can eat much of a GPU's memory during long replies. Squeezing it to 4 or 2 bits is well studied for left-to-right models. Those tools assume the cached memory is exact, because in left-to-right models old words never change their meaning once written.\n\nDiffusion models break that assumption. Every word looks at every other word, even blanks. A popular speed-up called Fast-dLLM reuses cached memory across rounds instead of recomputing it. But as blanks get filled, the true memory shifts, so the reused cache is already slightly stale. The authors call this cache-reuse error. Quantization then adds rounding error on top of an error that existing methods never planned for.\n\n## The idea\nImagine tuning a grading rubric on finished essays, then using it on rough drafts. It will be off. The authors tune on realistic in-between drafts instead. Then they keep a few especially important numbers exact, like the few line items that drive a budget.\n\n## How it works\n1. **Rebuild realistic decoding paths (TRACE).** For each prompt-and-answer pair, they work out a plausible order in which the model would have filled in the answer's blanks. This gives calibration data that matches what the cache sees during real decoding.\n2. **Group the keys.** Each cache entry has a key (used to decide where to pay attention) and a value (the content retrieved). Keys are split into groups of 32 tokens, each sharing one rounding scale.\n3. **Protect a few keys per group (dLLM-KVQ).** Inside each group, 0, 1, 2 or 4 key tokens stay in full precision. Candidates are ranked by attention received, rounding damage, or both.\n4. **Pick the rule per layer.** For every layer, they choose the rule that best preserves attention patterns and outputs on the rebuilt paths, under a cap of 4.9 average bits per key.\n5. **Quantize values plainly.** Values get ordinary low-bit rounding with no special treatment.\n\n## Results\nThey tested two diffusion models of 7–8 billion parameters, LLaDA and Dream, on two math and two coding benchmarks. Baselines were KIVI and KVQuant, two leading quantizers for normal models, adapted to the same caching setup.\n\nTheir method had the best average score among quantized methods in every setting tested. On LLaDA with 2-bit prefix caching, it averaged 44.38 versus 43.62 for KIVI and 41.45 for KVQuant. The full-precision, no-cache reference was 45.96. On LLaDA with 4-bit prefix caching, it scored 45.34, slightly above the unquantized cache at 45.08.\n\nGains are modest, often under one point, so run-to-run noise could matter. But KVQuant collapsed on one coding test at 2 bits, scoring about 17 versus 27–28 for the others, while their method stayed stable.\n\n## Why it matters\nDiffusion models are attractive because filling many words at once can be fast. Memory often limits how many users a GPU can serve. This work gives a careful recipe for compressing their memory. It also warns that tools built for normal models carry hidden assumptions that do not transfer.\n\n## Caveats\nThe paper reports no speed, throughput or memory measurements. Those would need custom GPU code, which the authors did not build. Only two models, four tasks and one decoding setup were tested, each as a single run. Protected keys push the effective key size to about 4.6–4.8 bits in the 4-bit setting, so savings are smaller than the label suggests.\n\n## Key terms\n- **Diffusion language model:** a model that writes by filling in a blanked-out reply over several parallel rounds.\n- **Quantization:** storing numbers with fewer bits to save memory, at some cost in accuracy.\n- **Cache-reuse error:** the gap between a reused, slightly stale cache and a freshly recomputed one.\n"
     }
    ]
   },
@@ -142,21 +162,22 @@
    "color": "#f472b6",
    "papers": [
     {
-     "id": "2610.10871",
-     "title": "Sparse Attention Is Matrix Approximation, Not Choosing from a Bag of Values",
+     "id": "2610.37645",
+     "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
      "authors": [
-      "Fang Wan",
-      "Xufeng Liu",
-      "Fan Li",
-      "Yi Liu"
+      "Hee Seung Hwang",
+      "Sanghyuk Chun",
+      "Xindi Wu",
+      "Olga Russakovsky",
+      "Zhiwei Deng"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "Instead of keeping the biggest attention scores, a plug-in method called MASA keeps the parts of attention that best preserve the model's real output, giving small but consistent accuracy gains on long prompts at almost no extra cost.",
+     "tldr": "MERLIN helps multi-memory linear attention models pick the right memory by tracking both the average and the spread of each segment's keys, improving long-context recall and beating baselines that use four times more memory.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.10871",
-     "pdf_url": "https://arxiv.org/pdf/2610.10871",
-     "summary_md": "## In one sentence\nSparse attention should keep the pieces that best preserve the final output, not the biggest scores, and a drop-in fix called MASA does this.\n\n## Background you need\nLanguage models use \"attention\" to decide how much each word draws on earlier words. Its cost grows with the square of prompt length. \"Sparse attention\" saves time by computing only a small, chosen subset of these word-to-word links. The leftover scores are then used to blend \"value vectors,\" which are the pieces of information each word carries.\n\n## The problem\nCurrent methods, such as MInference, SeerAttention and FlexPrefill, keep the regions with the most attention weight. This treats the attention table as a loose bag of separate numbers.\n\nBut the model multiplies the whole table by the value vectors. Numbers interact in that step, and can cancel or reinforce each other. So the biggest chunk is not always the most useful. In one example from the paper, a region with 66 times more weight caused 98% output error. A smaller region caused only 3% error.\n\n## The idea\nThe authors say the real goal is to copy the output of the full calculation as closely as possible. Selection should be judged by how much each kept piece reduces the output error.\n\nThink of packing a small suitcase. The heaviest items do not make you best prepared. Two heavy sweaters may matter less than one light raincoat.\n\n## How it works\n1. MASA (Matrix Approximation Sparse Attention) takes the existing method's candidate pieces: columns, diagonal stripes or blocks of the attention table.\n2. It builds a \"probe\" from the value vectors, raw or with lengths softened or capped so a few long vectors do not dominate.\n3. For each candidate piece, it computes a score: how much keeping that piece shrinks the gap between the sparse output and the full output.\n4. It sums these scores across each column, stripe or block. For blocks, it keeps the interactions between entries inside the block.\n5. It keeps the top pieces under the original budget. With flexible budgets, it drops pieces that would not lower error.\n\nMASA changes only the ranking. The original fast code and budgets stay the same.\n\n## Results\nThe team added MASA to three methods on three models: Llama-3-8B, Llama-3.1-8B and Qwen2-7B. Each was compared with the same method without MASA.\n\n- On RULER, a long-context test up to 128,000 tokens (word pieces), average scores rose in every case. FlexPrefill with Qwen went from 70.75 to 72.16. SeerAttention went from 87.60 to 88.09. MInference went from 87.00 to 87.27.\n- Gains grew with length. FlexPrefill with Qwen gained 3.65 points at 64,000 tokens.\n- On InfiniteBench, with prompts around 214,000 tokens, FlexPrefill with Llama went from 47.14 to 47.99.\n- Output error, measured directly, fell by between 0.41% and 7.17% depending on the method.\n- The added time was reported as negligible.\n\nIn practice: slightly more accurate long-document answers at about the same speed.\n\n## Why it matters\nSparse attention is widely used to make long prompts affordable. MASA gives a clearer rule for what to keep. It slots into existing systems without new low-level code. It also explains why \"keep the biggest\" can fail.\n\n## Caveats\nMost gains are small, often under one point. The original methods were already close to full attention quality.\n\nThe best probe setting varied by benchmark, and the authors report the best one tested. Capping vector lengths sometimes hurt: 72.16 fell to 70.99 in one case.\n\nThe error study covered one setting. Tests covered only prompt reading, three methods and three mid-sized models.\n\n## Key terms\n- **Attention:** how a model weighs earlier words when processing the current one.\n- **Sparse attention:** computing only a chosen subset of attention links to save time.\n- **Value vectors:** the information each word passes along, blended using attention scores.\n- **Prefill:** the stage where the model reads the whole prompt before writing an answer.\n- **Probe:** stand-in vectors used to estimate each piece's effect on the output.\n- **RULER:** a benchmark that tests whether models can use information spread across long inputs.\n"
+     "abs_url": "https://arxiv.org/abs/2610.37645",
+     "pdf_url": "https://arxiv.org/pdf/2610.37645",
+     "summary_md": "## In one sentence\nMERLIN gives fast \"linear attention\" language models a smarter way to decide which part of a long document to read from, by tracking not just what each chunk of text is about on average, but how varied it is.\n\n## Background you need\nStandard transformers use attention (each new word compares itself with every earlier word), so cost grows with the square of the text length. Linear attention models, such as Mamba-2 and Gated DeltaNet, instead squeeze everything read so far into a fixed-size memory called a state. That keeps cost growing only in step with length. Multi-State Linear Attention (MSLA) goes one step further: it cuts the context into segments and gives each segment its own state.\n\n## The problem\nOne fixed-size state is like one notebook page for a whole book: old details get overwritten. Multiple states help, but the model must then combine answers from all of them. Today's MSLA methods weigh each segment by one number: how well the current word matches the segment's average key (a key is the vector each word offers for matching). An average hides a lot. A segment with one exact match among unrelated words can look as dull as an irrelevant one. That hurts finding a single buried fact, a core long-context job.\n\n## The idea\nImagine picking a library shelf by its \"average topic\" alone. A cookbook shelf hiding one chemistry book looks like pure cooking. Knowing how mixed each shelf is would flag it for a closer look. MERLIN (MomEnt Routing for multi-state LINear attention) adds that spread statistic for every segment.\n\n## How it works\n1. **Split and compress.** As in existing MSLA models, the input is split into segments, each compressed into its own memory state.\n2. **Keep two key summaries.** Per segment, MERLIN also stores the first moment (the average key) and the second moment (how the keys spread around it).\n3. **Score each segment two ways.** A new word (the query) uses these to get its average match with the segment and how much that match varies. High variance hints that a few words may match strongly.\n4. **Blend the readouts.** Each state returns its own answer, called a readout. MERLIN weights readouts using both scores, so promising segments count more. Variance is a \"second-order\" statistic, hence the name.\n5. **Plug in.** The routing is a general add-on that works across different linear attention backbones.\n\n## Results\nThe authors built multi-state versions of two existing models: Gated DeltaNet with 1.3 billion parameters and Mamba-2 with 780 million. They compared MERLIN against existing ways of combining per-state readouts.\n- On RULER needle-in-a-haystack (hiding a fact in long text and asking for it) and long-context question answering, MERLIN improved results by 8.3% on Gated DeltaNet and 7.0% on Mamba-2.\n- Across a range of LongBench subtasks (a suite of long-document tasks), gains were 13.5% and 12.0%.\n- MERLIN also beat baselines using four times more memory: reading memory smarter beat simply adding memory.\n\n## Why it matters\nLinear attention models handle long inputs cheaply, but their known weak spot is recall: pulling one exact detail from far back. MERLIN targets that with light extra bookkeeping instead of bigger states. If it scales, it could help long-document assistants and agents built on cheaper models.\n\n## Caveats\n- Tests stop at 1.3 billion parameters. Larger models are untested.\n- The abstract does not say whether gains are absolute points or relative.\n- Storing a second moment per segment costs extra memory and compute. We could not confirm the exact overhead or training budget, because the full paper text was not reachable when this was written.\n- Comparisons are against other combining methods, not necessarily full attention transformers.\n\n## Key terms\n- **Linear attention:** attention with a fixed-size running memory, so cost grows linearly with length.\n- **State:** that compressed running memory.\n- **Key and query:** matching vectors; the query asks \"what do I need?\", keys say \"here is what I hold\".\n- **First and second moments:** the average of a set of values, and how spread out they are.\n- **Needle-in-a-haystack:** a test that hides one fact in long text and asks for it.\n"
     }
    ]
   },
@@ -164,7 +185,25 @@
    "id": "gpu",
    "name": "GPU Kernels",
    "color": "#34d399",
-   "papers": []
+   "papers": [
+    {
+     "id": "2610.36576",
+     "title": "Less is more: learning what to profile for GPU kernel optimization",
+     "authors": [
+      "Yihan Wang",
+      "Peiyu Liu",
+      "Runyu Chen",
+      "Wei Xu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Instead of feeding an AI kernel optimizer the same big profiling report every time, AutoProfiler learns a decision tree that measures only the hardware statistics each kernel needs, giving better results under a tight profiling budget.",
+     "image": "https://github.com/Satissss/AutoProfiler/raw/main/assets/main.png",
+     "abs_url": "https://arxiv.org/abs/2610.36576",
+     "pdf_url": "https://arxiv.org/pdf/2610.36576",
+     "summary_md": "## In one sentence\nAutoProfiler teaches an AI kernel optimizer to measure only the few hardware statistics that matter for each specific piece of GPU code, instead of dumping the same long report on every job.\n\n## Background you need\nA GPU kernel is a small program that runs one operation, such as a matrix multiply, across thousands of GPU cores at once. Large language models (LLMs) can now rewrite kernels to make them faster. To do that well, they look at profiling data: hardware counters that record things like memory traffic, cache hits and how busy the cores are. NVIDIA's Nsight Compute is the standard tool that collects these counters.\n\n## The problem\nToday's LLM kernel optimizers pick one fixed profiling recipe and use it for every kernel. Choosing what to measure sits outside the optimization loop, so nobody checks whether it actually helps.\n\nThe authors found that collecting more metrics does not reliably produce faster kernels. The most useful metrics also change from kernel to kernel. Profiling also costs time, and long metric dumps can bury the one signal the model needed.\n\n## The idea\nTreat \"what to profile\" as something you learn, not something you hard-code. The authors also argue on theoretical grounds that a choice tailored to each kernel can beat any single fixed recipe.\n\nThink of a good doctor. They do not order every blood test for every patient. They run a quick check, then order only the follow-up tests this patient needs. AutoProfiler builds that kind of decision procedure for GPU kernels.\n\n## How it works\n1. **A profiling tree.** The core object is a tree of decisions. Each node measures a handful of hardware counters on the current kernel. Based on those readings, it sends the kernel down one branch or another.\n2. **Path-specific evidence.** By the time a kernel reaches a leaf, the tree has gathered a small, targeted set of metrics. Different kernels take different paths, so they get different evidence.\n3. **One rewrite call.** The collected metrics go to the LLM, which rewrites the kernel once. There is no back-and-forth where the model keeps asking for more measurements.\n4. **Learning the tree.** During training, an LLM proposes edits to the tree. A REWRITE edit changes what an existing node does. A SPLIT edit divides a node into finer branches. Each proposed edit is tested on real kernels and kept only if the measured speedups improve. The released code trains on a corpus of 999 programs.\n5. **Fixed budget at use time.** Once trained, the tree is deterministic. Routing depends only on counter readings, and total profiling stays within a set budget.\n\n## Results\nThe paper evaluates on KernelBench, a public benchmark of PyTorch operations that models must turn into faster GPU code. According to the abstract, AutoProfiler beats fixed profiling setups when the profiling budget is limited. The public code compares three strategies: no profiling, a fixed Nsight Compute recipe, and the learned tree. We could not access the full paper text for this digest, so exact speedup figures are not reported here.\n\n## Why it matters\nMost work on AI kernel writers focuses on the model or the search loop. This paper points at a quieter lever: the quality of the evidence the model sees. Better evidence at lower profiling cost could make automated kernel tuning cheaper and more reliable.\n\n## Caveats\nThe tree must be trained first, which takes many real GPU runs and LLM calls. A tree learned on one GPU may not transfer to a different chip with different bottlenecks. The headline gains are stated for limited profiling budgets, so the advantage may shrink when profiling is cheap.\n\n## Key terms\n- **GPU kernel**: a small program that runs one operation in parallel across many GPU cores.\n- **Profiling**: measuring how code actually behaves on hardware while it runs.\n- **Hardware counter**: a built-in tally the chip keeps, such as bytes read from memory.\n- **Nsight Compute**: NVIDIA's tool for collecting detailed kernel counters.\n- **KernelBench**: a benchmark that checks whether AI can write correct, fast GPU kernels.\n- **Profiling budget**: a cap on how much measuring is allowed per kernel.\n"
+    }
+   ]
   },
   {
    "id": "robotics",
@@ -172,25 +211,25 @@
    "color": "#fbbf24",
    "papers": [
     {
-     "id": "2610.34356",
-     "title": "RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions",
+     "id": "2502.01143",
+     "title": "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills",
      "authors": [
-      "Haoyu Zhao",
-      "Xingyue Zhao",
-      "Zhian Su",
-      "Bohan Hou",
-      "Yinzhou Tang",
-      "Fengyi Wang",
-      "Kehan Li",
-      "Yuming Jiang"
+      "Tairan He",
+      "Jiawei Gao",
+      "Wenli Xiao",
+      "Yuanhang Zhang",
+      "Zi Wang",
+      "Jiashun Wang",
+      "Zhengyi Luo",
+      "Guanqi He"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 27,
-     "tldr": "By turning 30,000 hours of human, robot and simulated video into camera-independent 3D motion codes, the authors pretrain a robot controller that matches or beats leading models in simulation and on real robots.",
-     "image": "https://arxiv.org/html/2610.34356v1/vla_datasets.png",
-     "abs_url": "https://arxiv.org/abs/2610.34356",
-     "pdf_url": "https://arxiv.org/pdf/2610.34356",
-     "summary_md": "## In one sentence\nRynnVLA-Latent teaches a robot brain from 30,000 hours of mostly unlabeled video by first turning each clip into compact \"what moved, and how\" codes.\n\n## Background you need\nA vision-language-action model is a robot controller that looks at camera images, reads an instruction, and outputs motor commands. Training one usually needs demonstrations labeled with exact robot commands. A \"latent action\" is a short learned code that describes the change between two video frames, without knowing the real motor commands.\n\n## The problem\nRecorded robot demonstrations with command labels are slow and costly to collect. Each robot also speaks its own control language, with different joints, coordinate systems and units. Human and web videos are plentiful, but they contain no robot commands at all.\n\nEarlier latent-action methods learned codes that mostly reproduce pixel changes. Those changes mix in camera shake and lighting shifts. Such codes may say little about the hand motion that matters.\n\n## The idea\nThink of watching a cooking show filmed by a wobbly handheld camera. You still follow the chef's hands, because your brain subtracts the camera's movement. The authors' model does the same, and it reasons about the scene in 3D.\n\n## How it works\n1. **Label videos with motion codes.** A model called RynnLAM turns two frames into a 608-number description. It holds motion tokens, an overall action code, and a separate camera code.\n2. **Ground the codes in 3D.** Training uses estimated depth, camera poses and pixel motion to build 3D movement targets. Parts of the scene that do not move should show near-zero motion once camera movement is removed.\n3. **Push the camera out.** The camera code must predict how the camera moved. A special training trick actively stops that camera information from leaking into the action code.\n4. **Pretrain the robot brain.** RynnLAM labels about 30.1 thousand hours of human, robot and simulation video, producing roughly 745 million motion codes. The policy then learns to predict chunks of six future codes from images and language. It uses no real robot commands at this stage.\n5. **Adapt to one robot.** A thin new output layer is added. The model is fine-tuned on that robot's real command-labeled demonstrations, now also using its joint readings. The policy comes in two sizes, called 2B and 4B.\n\n## Results\nOn LIBERO, a standard simulated tabletop benchmark, the 4B model scored 98.8% success. The best rival scored 98.7%, a gap the authors themselves call too small to matter.\n\nOn LIBERO-Plus, which adds disturbances like new lighting or camera angles, the 4B model scored 84.7% without retraining. A strong rival, pi-0.5, scored 84.4%, and handled camera changes better.\n\nOn RoboTwin 2.0, a two-arm simulation suite, the 4B model averaged 88.6%, ahead of the next best at 87.7%.\n\nOn six real-robot tasks, with 35 tries each, the 4B model had the highest success on all six. It cleaned tables 40% of the time versus 25.7% for pi-0.5. Steak cooking still succeeded only 42.9% of the time.\n\nDropping the 3D motion targets or the camera branch made the codes noticeably worse. Performance also rose as pretraining data grew.\n\n## Why it matters\nRobot learning is starved for labeled data. This work shows ordinary videos, even of humans doing chores, can teach robots. Separating real manipulation from camera motion seems to be key.\n\n## Caveats\nDepth, camera poses and motion targets are machine estimates, so the 3D grounding is approximate. Many benchmark margins are tiny. Changes in viewpoint and starting position remain weak spots. Each new robot still needs its own labeled demonstrations. The authors say their data results do not prove a general scaling law.\n\n## Key terms\n- **Vision-language-action model:** a robot controller that maps images and text instructions to motor commands.\n- **Latent action:** a learned code describing how a scene changed between two frames.\n- **Embodiment:** a specific robot body, with its own arms, joints and controls.\n- **Flow matching:** a training method that teaches a model to gradually turn random noise into a correct output.\n- **Optical flow:** an estimate of how each pixel moves from one frame to the next.\n"
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "ASAP lets a humanoid robot learn athletic moves in simulation, then uses a little real-robot data to learn how reality differs and retrain the skills so they transfer faithfully.",
+     "image": "https://arxiv.org/html/2502.01143v3/ASAP_pipeline-crop.png",
+     "abs_url": "https://arxiv.org/abs/2502.01143",
+     "pdf_url": "https://arxiv.org/pdf/2502.01143",
+     "summary_md": "## In one sentence\nASAP teaches a humanoid robot athletic moves in simulation, then uses a short session on the real robot to learn how reality differs from the simulator, and retrains the robot's skills in a corrected simulator.\n\n## Background you need\nRobots usually learn agile skills in a physics simulator, because practising on real hardware is slow, costly and risky. The trouble is the \"sim-to-real gap\": motors, masses and friction never behave exactly as the simulator assumes. A policy (the learned controller that turns what the robot senses into motor commands) that looks perfect in simulation can stumble on the real machine. Motion tracking means making the robot copy a reference movement, such as a recorded human jump, joint by joint.\n\n## The problem\nTwo standard fixes exist, and both have weak spots. System identification measures physical settings, like a link's mass or a motor's stiffness, and plugs them into the simulator. But it only fixes the settings you thought to measure, and it often needs torque sensors that many robots lack. Domain randomization trains under many random versions of physics, so the policy copes with anything. The authors argue this makes robots play it safe, which kills agility. For a humanoid doing a 180-degree mid-air spin or a long jump, \"safe but sluggish\" is not good enough.\n\n## The idea\nThink of a tennis player who practised on a slow indoor court, then plays one set on grass. Instead of guessing the grass physics in advance, they notice how their shots land differently and adjust. ASAP does this for robots. It learns a small \"correction\" model from real-world trials, and that model nudges the simulator so it behaves more like the real robot.\n\n## How it works\n1. **Collect human moves.** The team films people doing expressive athletic motions, like famous sports celebrations and jump shots, and rebuilds them as 3D body poses. A physics-based checker throws out clips that are physically impossible, and the rest are mapped onto the body of a Unitree G1 humanoid.\n2. **Pre-train in simulation.** A policy learns, through reinforcement learning (trial and error guided by a score), to track each motion. During training, the critic (a helper network that judges how well things are going) sees extra information like exact body position. The policy itself sees only what the real robot can sense, so it needs no external tracking system later. The allowed tracking error shrinks over training, from 1.5 metres to 0.3 metres, so the robot first learns to stay upright.\n3. **Run it on the real robot.** The pre-trained policy is deployed, and motion capture plus onboard sensors record what really happens, alongside the commands sent.\n4. **Learn the correction.** A \"delta action model\" is trained in simulation. Starting from each recorded real state, it learns small adjustments to the commands so the simulated robot ends up where the real one did. For example, if the simulator overrates motor strength, the model learns to weaken leg commands.\n5. **Fine-tune and deploy.** The correction model is frozen inside the simulator, and the policy is fine-tuned there. The final policy then runs on the real robot without the correction model.\n\n## Results\nThe authors test three transfers: from one simulator (IsaacGym) to two others (IsaacSim and Genesis), and from IsaacGym to the real G1. They use 43 motions graded easy, medium and hard, including a 1.5 metre forward jump and a 1.3 metre side jump. A trial fails if the robot's body drifts more than 0.5 metres from the reference at any moment. They compare against system identification, domain randomization and a method that learns corrections to the simulator's physics directly. The paper reports that ASAP reduces tracking error against all of these baselines, in both simulator-to-simulator and real-robot tests. In practice, that means the robot copies fast, whole-body moves more faithfully than with the usual fixes. We could not access the paper's full results tables, so exact error figures are not given here.\n\n## Why it matters\nHumanoid companies need robots that move with real agility, not just walk carefully. ASAP offers a recipe that needs only a modest amount of real-robot data and no torque sensors. The same \"learn a correction from reality\" idea could help other robots, from legged machines to arms, cross the sim-to-real gap faster.\n\n## Caveats\nThis is an older paper (early 2025), chosen for its influence rather than recency. The real-world tests used a G1 with fixed wrists, on motions picked because they showed obvious sim-to-real gaps. The correction model is trained from the pre-trained policy's own runs, so a very different policy may need fresh real-world data. Collecting that data still requires a motion-capture setup.\n\n## Key terms\n- **Sim-to-real gap:** the mismatch between how a simulator and the real robot behave.\n- **Policy:** the learned controller that maps what the robot senses to motor commands.\n- **Domain randomization:** training under many random physics settings so the policy tolerates variety.\n- **System identification:** measuring physical parameters to make a simulator more accurate.\n- **Delta action model:** a small learned model that adjusts commands so the simulator mimics reality."
     }
    ]
   },
@@ -200,25 +239,23 @@
    "color": "#fb7185",
    "papers": [
     {
-     "id": "2610.36466",
-     "title": "Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation",
+     "id": "2610.21380",
+     "title": "Perception or Reasoning? Diagnosing and Tackling Reinforcement Learning Bottlenecks in VLMs",
      "authors": [
-      "Shufan Li",
-      "Hanrong Ye",
-      "Greg Heinrich",
-      "Yonggan Fu",
-      "Haotian Zhang",
-      "Sifei Liu",
-      "Aditya Grover",
-      "Pavlo Molchanov"
+      "Zeyuan Yang",
+      "Zhuohao Chen",
+      "Jiaben Chen",
+      "Yao Zhang",
+      "Maohao Shen",
+      "Chuang Gan"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 1,
-     "tldr": "NVIDIA trained one diffusion model to both understand and generate images by learning from specialist teacher models on its own drafts and letting it revise rough image tokens as it goes.",
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A diagnostic shows whether a vision-language model's errors come from seeing or thinking, and a new RL add-on that copies the best answer's visual attention lifts small Qwen3-VL models by about 2.5 to 3 points.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.36466",
-     "pdf_url": "https://arxiv.org/pdf/2610.36466",
-     "summary_md": "## In one sentence\n\nNVIDIA researchers built one diffusion-based model that both reads images and draws them, by having it learn from two specialist \"teacher\" models while practicing on its own outputs.\n\n## Background you need\n\nA diffusion language model writes by starting from a blank, masked sequence and filling in many pieces at once over several rounds. Most chatbots write one word at a time instead; that is called autoregressive. A \"unified\" model handles both image understanding (answering questions about a picture) and image generation (making a picture from text) in one network. Images become discrete visual tokens: a grid of codes the model can predict.\n\n## The problem\n\nUnified diffusion models can fill in many tokens in parallel, but they trail specialist systems. The best image readers are autoregressive vision-language models. The best image makers are continuous flow models, which shape an image smoothly instead of picking codes.\n\nCopying those teachers is awkward, because they reach answers along a completely different path.\n\nAlso, in standard masked diffusion each image token is fully hidden or fully revealed. Once committed, it usually stays. Early mistakes get locked in.\n\n## The idea\n\nFirst, the student learns from teachers while working on its own drafts, not the teachers' drafts. Second, tokens fade in gradually, so the model can make a rough guess and polish it later.\n\nThink of a student painter. Copying a master's finished canvas helps less than having the master correct each stroke as the student paints. And a painter who sketches lightly in pencil first can fix errors before inking.\n\n## How it works\n\n1. **A shared backbone with separate paths.** The model builds on NVIDIA's earlier LaVida-O design. It uses a mixture-of-transformers layout, where understanding and generation each get their own set of parameters inside one framework.\n2. **Cross-paradigm on-policy distillation.** \"Distillation\" means a student learns from a stronger teacher. \"On-policy\" means the student generates its own attempts and the teacher grades those exact attempts. \"Cross-paradigm\" means the teachers work differently from the student. Visual reasoning comes from autoregressive vision-language models. Image-making skill comes from continuous flow models.\n3. **Progressive self-refining diffusion.** During training, each token is corrupted a little at a time across several steps, not swapped straight for a blank mask. The model therefore sees half-formed, intermediate states.\n4. **Commit, then refine.** At generation time, the model can lock in rough intermediate tokens early. It keeps revising them as the image takes shape.\n\n## Results\n\nThe authors report the best results among unified diffusion language models on several task families. These include visual question answering, multimodal reasoning, object grounding (pointing to where an object sits in an image), text-to-image generation, and image editing. The comparison group is other unified diffusion models, not every specialist system.\n\nThe released model has 18 billion parameters. It was trained on more than 100 million image-text pairs and supports 1024 by 1024 pixel images. Tests include MMMU (college-level visual reasoning), ChartQA (reading charts), and GenEval (does an image match its prompt). We could not access the paper's full results tables, so per-benchmark scores are not reproduced here.\n\n## Why it matters\n\nRunning separate models for seeing and drawing is costly and clumsy. A single model that does both, with parallel decoding, could be simpler to deploy. The teaching trick also suggests diffusion models can borrow skill from mature models of a different kind.\n\n## Caveats\n\nThe headline claim compares against other unified diffusion models. It does not necessarily beat the specialist teachers it learned from. The model card warns it can give wrong answers, misplace grounding boxes, ignore parts of a prompt, and change details during edits. No one has independently reproduced it yet.\n\n## Key terms\n\n- **Diffusion language model**: A model that fills in a masked sequence over several parallel rounds instead of word by word.\n- **Autoregressive model**: A model that produces output one token at a time, in order.\n- **Flow model**: An image generator that gradually reshapes random noise into a picture using continuous values.\n- **On-policy distillation**: Training a student on its own attempts, with a teacher scoring each one.\n- **Visual tokens**: Discrete codes that each stand for a small patch of an image.\n"
+     "abs_url": "https://arxiv.org/abs/2610.21380",
+     "pdf_url": "https://arxiv.org/pdf/2610.21380",
+     "summary_md": "## In one sentence\nThe authors build a test that tells whether a vision-language model fails because it *sees* badly or *thinks* badly, then add a training trick that teaches it where to look.\n\n## Background you need\nA vision-language model (VLM) reads images and text together and answers questions about them. Reinforcement learning (RL) here means letting the model try several answers and nudging it toward the rewarded ones. It has made text-only models much better at math. \"Attention\" is how the model decides which image patches to focus on while answering.\n\n## The problem\nRL's gains on image tasks are patchy. A wrong answer about a chart could come from misreading it, or from reading it fine and reasoning poorly. Those failures need different fixes. People usually guess the cause from what a benchmark is \"supposed\" to test, but two models can fail the same benchmark for different reasons.\n\n## The idea\nThink of a student who flunks a geometry exam. First, give them a clear written description of each diagram. If they now pass, their eyesight was the issue. Then let a top student solve it from the weak student's own notes. If that works, the reasoning was the issue. The paper calls this diagnosis PARA (Perception and Reasoning Attribution).\n\n## How it works\n1. **Find the failures.** For each model and benchmark, the authors collect the questions the model gets wrong, using 200 examples per benchmark.\n2. **Test perception.** A stronger \"oracle\" model (Claude Opus 4.8 or GPT-5.6-Luna) describes the image without seeing the question. If the weak model now answers correctly, that error counts as \"perceptual headroom\": room to improve by seeing better.\n3. **Test reasoning.** The weak model describes the image, and the oracle answers from that description. If the oracle succeeds, the error counts as \"reasoning headroom.\"\n4. **Fix perception with GRAD.** During RL, the model writes 8 answers per question. GRAD (Group-Relative Attention Distillation) pulls the image attention of the worse answers toward the best-scoring one. Only the final layer is supervised, and no extra teacher or labels are needed.\n\n## Results\nPARA was run on 4 models (Qwen3-VL 2B and 4B, Llama-4-Scout-17B, Gemma-3-27B) and 17 benchmarks. Its proxy holds up: answering from the model's own description loses only 0.1 to 3.4 points versus seeing the image. Bottlenecks are model-specific. On MME, Gemma-3-27B shows far more perceptual headroom (0.79) than Qwen3-VL-4B (0.38).\n\nStandard RL helps less where errors are mostly perceptual, and more where reasoning is the gap. Existing tricks that reweight rewards or tokens did not change that.\n\nGRAD was trained on about 47,000 image questions. Averaged over 7 benchmarks, Qwen3-VL-2B rose from 46.5 with plain RL to 49.4 with GRAD; the 4B model rose from 57.0 to 59.5. GRAD also beat three recent perception-focused RL methods, and stacking it on other RL methods added 0.7 to 2.1 points. Using a random answer as the guide instead of the best one dropped the 2B score to 45.5.\n\n## Why it matters\nTeams fine-tuning VLMs can use PARA to see which failure they face before spending GPU time. If a model mostly misreads images, more reasoning-focused RL will not help much. GRAD is cheap: no extra model runs, and no change at use time. Benchmark designers also get a way to check what their test measures, model by model.\n\n## Caveats\nPARA relies on two frontier oracles, which can be wrong too, and samples only 200 questions per benchmark. The RL trends are broad patterns, not per-task predictions. GRAD was tested only on two small Qwen models, from a single run, with no reported compute cost. Supervising more than the last layer made results worse.\n\n## Key terms\n- **Vision-language model (VLM):** an AI that takes images plus text and answers in text.\n- **Reinforcement learning (RL):** training by trying answers and rewarding the good ones.\n- **Headroom:** the share of current mistakes that a specific fix could recover.\n- **Attention:** the model's internal focus over parts of its input, such as image patches.\n- **Oracle model:** a stronger model used as a trusted reference during diagnosis.\n- **Distillation:** teaching one model (or answer) to imitate another's behavior.\n"
     }
    ]
   }
