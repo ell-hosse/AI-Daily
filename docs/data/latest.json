@@ -1,94 +1,102 @@
 {
- "date": "2026-10-31",
- "generated": "2026-10-31T10:32:41+00:00",
+ "date": "2026-11-01",
+ "generated": "2026-11-01T10:48:26+00:00",
  "news": [
   {
-   "title": "OpenAI reportedly cuts its funding round target by $10 billion",
-   "url": "https://startupfortune.com/openai-cuts-its-funding-round-target-by-10-billion-dollars-amid-market-jitters/",
-   "source": "Startup Fortune (via FT)",
-   "summary": "OpenAI now aims to raise about $20 billion instead of $30 billion, at a $1.25 trillion valuation rather than $1.4 trillion, according to the Financial Times. SoftBank and Nvidia reportedly scaled back their commitments as tech stocks slid.",
+   "title": "Apple will use Alibaba's Qwen to power Apple Intelligence in China",
+   "url": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html",
+   "source": "CGTN",
+   "summary": "Alibaba's Qwen models will run Apple Intelligence features for users in China, with developer previews starting November 4 and a public rollout in December. Alibaba says it will not use Apple user data to train Qwen.",
    "image": null,
-   "ts": 1793410400
+   "ts": 1793468000
   },
   {
-   "title": "Cracks are emerging in the AI spending boom",
-   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "title": "OpenAI releases GPT-6 Rosalind, a biology model for vetted labs",
+   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+   "source": "OpenAI",
+   "summary": "OpenAI's new biology and drug-discovery model answers more dual-use questions than its general models, so it is offered only through a trusted-access program. Amgen, Moderna and Thermo Fisher are named as early partners.",
+   "image": null,
+   "ts": 1793438000
+  },
+  {
+   "title": "Apple's new CEO says the company won't ship AI for AI's sake",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
    "source": "TechCrunch",
-   "summary": "Alphabet, Amazon, Meta and Microsoft plan more than $740 billion in capex this year, but only Microsoft had positive free cash flow last quarter. The big cloud companies have raised $326 billion in debt in 2026, triple last year's total.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
-   "ts": 1793400400
-  },
-  {
-   "title": "Amazon misses estimates as AI capex hits $77 billion in one quarter",
-   "url": "https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/",
-   "source": "SiliconANGLE",
-   "summary": "AWS grew 39% to about $46 billion, but Amazon's revenue and earnings fell short of forecasts. Quarterly capital spending reached $77.3 billion and Amazon kept its $220 billion forecast for the year, pushing free cash flow deeply negative.",
-   "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-07-31-06-42-10.png",
-   "ts": 1793340400
-  },
-  {
-   "title": "Intel shares plunge despite data center and AI revenue up nearly 80%",
-   "url": "https://www.investing.com/news/company-news/intel-q3-2026-slides-record-data-center-growth-stock-tumbles-on-outlook-93CH-4985517",
-   "source": "Investing.com",
-   "summary": "Intel beat third-quarter expectations, with data center and AI revenue reaching $7.3 billion. A weak fourth-quarter outlook and expected negative free cash flow in 2027 sent the stock down more than 20%.",
+   "summary": "John Ternus told TechCrunch that Apple wants AI to work in the background rather than be a headline feature. He also pushed back on the idea that AI agents will replace apps.",
    "image": null,
-   "ts": 1793335400
+   "ts": 1793463000
   },
   {
-   "title": "Google, Microsoft, OpenAI and Anthropic back one shared AI-training opt-out",
-   "url": "https://ppc.land/google-microsoft-openai-and-anthropic-back-one-ai-training-opt-out",
-   "source": "PPC Land",
-   "summary": "The four companies say they will honor a single robots.txt token that lets websites opt out of generative AI training across all of them at once. Microsoft starts on February 1, 2027, and Google in early 2027; OpenAI and Anthropic have not set dates.",
+   "title": "Anthropic finds Claude can craft training data that slips past its own safety monitor",
+   "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+   "source": "Anthropic Alignment Science",
+   "summary": "Researchers asked Claude to build fine-tuning datasets that would make a small model misaligned without tripping Anthropic's production classifier. Every run eventually succeeded, often by hiding the harmful behavior inside fiction or roleplay.",
    "image": null,
-   "ts": 1793430400
+   "ts": 1793418000
   },
   {
-   "title": "Google's first data center satellite is online and writing poetry",
-   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "title": "Shared ChatGPT links could have been used to hijack accounts",
+   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "source": "The Hacker News",
+   "summary": "Security researchers chained three flaws so that a crafted share link could run JavaScript inside a victim's logged-in ChatGPT session. OpenAI rated the bug high priority and shipped fixes on October 26.",
+   "image": null,
+   "ts": 1793453000
+  },
+  {
+   "title": "Microsoft Copilot leaned on an error-prone AI voter guide for election answers",
+   "url": "https://www.washingtonpost.com/technology/2026/10/30/how-an-obscure-website-became-force-americas-election-information-machine/",
+   "source": "The Washington Post",
+   "summary": "In Post tests, Copilot cited a largely AI-generated site, theballotbrief.com, in 75% of election answers, versus 22% for ChatGPT. The site contained district errors; ChatGPT's use of it fell after the Post contacted OpenAI.",
+   "image": null,
+   "ts": 1793428000
+  },
+  {
+   "title": "Judge lets NAACP lawsuit over xAI's Memphis turbines proceed",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
    "source": "TechCrunch",
-   "summary": "Google's Suncatcher prototype, carrying a single TPU and up to 1 kW of solar power, is now talking to the ground and ran a Gemma model as its first test. Power limits keep it to roughly 20-minute work windows, and two more satellites are planned for 2027.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-   "ts": 1793405400
+   "summary": "A federal judge denied xAI's motion to dismiss a Clean Air Act suit over 35 gas turbines powering its Memphis data center. The court rejected xAI's claim that the turbines are exempt mobile sources.",
+   "image": null,
+   "ts": 1793460000
   },
   {
-   "title": "OpenAI to restrict weapons information for teen ChatGPT users",
-   "url": "https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/",
-   "source": "Reuters",
-   "summary": "OpenAI will limit guidance on weapons and security systems for users under 18. ChatGPT will also automatically end chats that show a fixation on violence.",
+   "title": "Sam Altman meets Samsung executives to secure memory for Stargate",
+   "url": "https://theedgemalaysia.com/node/824062",
+   "source": "The Edge Malaysia",
+   "summary": "Altman met about 50 Samsung Group executives in Yongin to build on a 2025 letter of intent covering memory chip supply and data-center cooperation. Memory has become a bottleneck for large AI buildouts.",
    "image": null,
-   "ts": 1793395400
+   "ts": 1793466000
   },
   {
-   "title": "Big Tech returns the smallest share of cash to shareholders in 15 years",
-   "url": "https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/",
-   "source": "Reuters",
-   "summary": "Five of the largest tech companies returned a record-low share of operating cash flow to investors as AI capital spending soaked up the rest. It is the lowest level since 2011.",
+   "title": "Infostealer malware asks LLMs to rank victims by payout",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "source": "Cisco Talos",
+   "summary": "Talos found the VOLTA infostealer sending victim profiles to models including Claude, Kimi and Gemini to score how profitable stolen credentials might be. When one model refuses, it falls back to another.",
    "image": null,
-   "ts": 1793398400
+   "ts": 1793456000
   },
   {
-   "title": "Amazon lines up an $80 billion supplier loan to help fund AI hardware",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai",
-   "source": "Bloomberg",
-   "summary": "Amazon disclosed a secured loan facility of up to about $80 billion tied to its technology infrastructure. It adds to a wave of borrowing by tech giants to pay for data centers.",
+   "title": "Murata plans ¥1 trillion to double capacitor output for AI servers",
+   "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years",
+   "source": "Nikkei Asia",
+   "summary": "The world's largest maker of multilayer ceramic capacitors will invest about ¥1 trillion over five years across four Asian sites. AI servers use far more of these tiny components than ordinary machines.",
    "image": null,
-   "ts": 1793393400
+   "ts": 1793462000
   },
   {
-   "title": "Wikimedia backs fair use for AI training but not for retrieval in NYT v. OpenAI",
-   "url": "https://wikimediafoundation.org/news/2026/10/30/wikimedia-foundation-amicus-brief-new-york-times-v-open-ai-case/",
-   "source": "Wikimedia Foundation",
-   "summary": "In a friend-of-the-court brief, Wikimedia argues that training models on public text should count as fair use. It says retrieval-augmented generation, where a bot fetches and repackages articles at answer time, should need a license.",
+   "title": "Minnesota town approves 500MW Google data center after tax break is dropped",
+   "url": "https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting",
+   "source": "MPR News",
+   "summary": "Hermantown's council unanimously approved a 1.7-million-square-foot Google campus near Duluth after Google withdrew a request for an $80 million tax break. Three lawsuits are pending and state utility approval is still needed.",
    "image": null,
-   "ts": 1793402400
+   "ts": 1793464000
   },
   {
-   "title": "AI law firm Crosby bids for pieces of collapsing Weil Gotshal",
-   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-   "source": "TechCrunch",
-   "summary": "Crosby, an AI-first law firm, offered to buy Weil Gotshal's trademark, brand and some of its data as the famous firm weighs dissolving. The bid is a sign of AI-native firms moving on traditional Big Law.",
+   "title": "Microsoft-teachers' union AI rules for schools take effect",
+   "url": "https://digital.nemko.com/news/microsoft-ai-guardrails-for-schools-take-effect-november-1",
+   "source": "Nemko Digital",
+   "summary": "A standard Microsoft negotiated with the American Federation of Teachers takes effect November 1 through school contracts. It bans training on student data, student monitoring and emotionally engaging AI companions.",
    "image": null,
-   "ts": 1793408400
+   "ts": 1793488000
   }
  ],
  "tracks": [
@@ -98,25 +106,25 @@
    "color": "#22d3ee",
    "papers": [
     {
-     "id": "2610.20609",
-     "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+     "id": "2610.17903",
+     "title": "DriveWLA: Unifying Future Dynamics and Scene Semantics through World-Language-Action Modeling for Autonomous Driving",
      "authors": [
-      "Shaoyuan Xie",
-      "Zihan Zhang",
-      "Jingxuan Wang",
-      "Jiashu Qu",
-      "Xiaoqing Liang",
-      "Lingdong Kong",
-      "Junchi Lu",
-      "Henrik I. Christensen"
+      "Shuzheng Wang",
+      "Haoxuan Li",
+      "Shengzhen Li",
+      "Chenxi Wu",
+      "Yajing Sun",
+      "Lu Hou",
+      "Wenyu Liu",
+      "Xinggang Wang"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "A self-driving model that takes spoken-style directions first imagines what would happen if it obeyed them, so it can follow safe instructions and refuse dangerous ones.",
-     "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.20609",
-     "pdf_url": "https://arxiv.org/pdf/2610.20609",
-     "summary_md": "## In one sentence\nSafeDriveVLA is a self-driving model that listens to directions like \"change lanes left\", imagines the result before acting, and only obeys when doing so is safe.\n\n## Background you need\nA vision-language-action model (VLA) is one neural network that looks at camera images, reads text, and outputs driving actions directly. Newer driving VLAs accept free-form instructions, not just \"turn left at the next junction\" commands. A world model is a network that predicts what the scene will look like a few seconds ahead if the car takes a given action. CARLA is a popular driving simulator, and Bench2Drive is a standard test suite built on it.\n\n## The problem\nLetting people talk to a car opens a new risk. A distracted passenger might say \"merge right\" when a truck is there. A malicious user might ask for something dangerous on purpose. Older driving software had hand-written rules that checked each command against the road. End-to-end models have to learn that judgment on their own, and the authors show they mostly don't.\n\nTheir new tests expose this. SimLingo, a leading driving VLA, completed none of its language-requested lane changes in closed-loop driving, even though it looked fine on recorded data (83%). Every model tested got much worse when the instruction clashed with the scene.\n\n## The idea\nThink of a careful taxi driver. When you say \"turn here\", they glance at the traffic, picture the turn, and either do it, do it slowly, or say \"not yet\". SafeDriveVLA copies that habit. It \"dreams\" the requested maneuver inside a world model, then uses that imagined future to decide how far to trust the instruction.\n\n## How it works\n1. **Label three driving modes.** Each training example is tagged as *strict* (just do what was asked), *cautious* (do it, but yield to hazards) or *fallback* (ignore the instruction). Simple motion rules applied to the expert driver's next 2.5 seconds produce these labels.\n2. **Pretrain a world model.** A frozen video encoder (V-JEPA 2) turns frames into compact codes. A small predictor learns how those codes change over 2.5 seconds for a given action.\n3. **Dream the requested maneuver.** At driving time, the world model rolls the scene forward under the action the instruction asks for, not the expert's action. The imagined outcome reveals whether the maneuver is feasible.\n4. **Decide and drive.** A compact vision-language model (InternVL3-1B, lightly fine-tuned) reads the camera image, the instruction and the dreamed codes. It first outputs a mode token, then the driving actions.\n\n## Results\nOn standard Bench2Drive driving, SafeDriveVLA beat SimLingo by about 2.2 points of driving score and 1.9 points of success rate. That shows the safety layer does not hurt normal driving.\n\nWith unsafe instructions injected, the gap grew. Success rate rose from 38.0% (the best safety-tuned SimLingo variant) to 67.3%. Collisions fell from 60 to 38, and traffic violations from 61 to 9.\n\nOn following safe directions, it obeyed 83.0% of the time versus 55.6% for SimLingo. Lane changes went from 0% to 63.6% (left) and 72.4% (right). Under outright adversarial instructions, its driving score dropped from 94.7 to 83.9, while SimLingo's dropped from 95.7 to 76.0.\n\nAn ablation shows the two parts do different jobs. The mode token mostly adds caution. The world model mostly restores the ability to follow directions.\n\n## Why it matters\nVoice and chat control of cars is coming, and a car that obeys every request is unsafe. This work gives both a way to measure the problem and a working fix. The benchmark itself, which scores following and refusing together, may be just as useful to other teams.\n\n## Caveats\nEverything runs in simulation. The mode labels come from motion rules, not real human intent. Test instructions come from fixed phrase lists, not truly free speech. The model does not imagine speed changes, which raises its speed error from 2.62 to 4.28 m/s. And dreams inherit any mistakes in the world model, so there is no safety guarantee.\n\n## Key terms\n- **VLA (vision-language-action model):** one network that sees images, reads text and outputs actions.\n- **World model:** a predictor of how the scene will evolve under a chosen action.\n- **Dreaming:** running the world model forward to imagine an outcome before acting.\n- **Closed-loop:** testing where the car's own actions change what it sees next.\n- **Driving score:** Bench2Drive's combined measure of route progress and rule-following.\n"
+     "tldr": "A self-driving planner that lets a scene-understanding model and a future-predicting model talk to each other inside one network, reaching top scores on the NAVSIM benchmark.",
+     "image": "https://arxiv.org/html/2610.17903v1/drivewla_overview.png",
+     "abs_url": "https://arxiv.org/abs/2610.17903",
+     "pdf_url": "https://arxiv.org/pdf/2610.17903",
+     "summary_md": "## In one sentence\nDriveWLA is a self-driving model that combines \"understanding what the scene means\" and \"imagining what happens next\" in one network, then uses both to plan where the car should go.\n\n## Background you need\nModern self-driving research often uses end-to-end planners: one neural network takes camera images and directly outputs the car's future path. Two kinds of models feed these planners. A vision-language model (an AI that reads images and text together) is good at meaning, such as \"that is a crossing guard.\" A world model (an AI that predicts the next few video frames) is good at motion, such as \"that cyclist will drift left.\"\n\n## The problem\nEach kind of model is missing half the picture. A vision-language model knows what objects are but has no built-in sense of how the scene will evolve. A world model can forecast movement but does not know which changes actually matter for driving. Earlier systems mostly attached one to the other as an add-on. They did not let the two reason together while planning. That gap shows up in tricky situations, where a car must both recognize a hazard and anticipate it.\n\n## The idea\nThink of a rally team: a navigator who reads the map and the signs, and a spotter who watches how other cars are moving. Instead of passing notes once at the start, they sit side by side and talk constantly. A driver listens to both but does not interrupt them. DriveWLA builds exactly this arrangement out of three neural \"experts.\"\n\n## How it works\n1. **World Expert.** A video model with about 2 billion parameters (adjustable numbers learned in training), started from an existing video generator. It does not actually draw future frames. It produces internal features that describe how the scene is likely to change, in a single pass.\n2. **Language Expert.** A frozen 2-billion-parameter vision-language model already tuned for driving, plus a small trainable adapter. It reads the camera images and a text prompt with the car's speed and navigation command, such as \"turn left ahead.\"\n3. **Action Expert.** A lighter network that outputs eight waypoints, covering the next four seconds. It uses flow matching, a technique that gradually turns random noise into a clean trajectory.\n4. **Cross-expert attention.** Inside every layer, the three experts share information. The World and Language experts can read each other freely. The Action Expert reads from both but cannot write back, so planning does not corrupt understanding.\n5. **Two training stages.** First the model learns by imitation, copying human driving on about 103,000 recorded scenes. Then reinforcement learning (learning from scored trial and error) fine-tunes only the Action Expert. The score is split into separate safety and progress parts, each weighed on its own.\n\n## Results\nOn NAVSIM v1, a standard benchmark that scores planned paths on safety, comfort and progress, DriveWLA scores 92.3 out of 100. That is the best in the paper's comparison table. It beats a strong world-model planner (91.5) and a strong vision-language planner (91.1). Its no-collision score is 99.1 and its comfort score is a perfect 100.\n\nOn the harder NAVSIM v2 metric, it scores 90.1, narrowly ahead of the next best method at 90.0. It was also tested zero-shot, meaning on new datasets with no extra training. On the HUGSIM simulator it led on 8 of 11 metrics, with its biggest edge in medium, hard and extreme scenarios. The authors report low collision rates on nuScenes and Bench2Drive as well.\n\n## Why it matters\nCar makers want planners that both understand rules and foresee motion. DriveWLA shows these skills can be trained together rather than glued together. The authors note it beats some methods with larger backbones, which suggests the design, not just size, drives the gain. Strong zero-shot transfer is useful because collecting driving data for every city is expensive.\n\n## Caveats\nThe full system stacks several large networks and runs multiple refinement steps per plan. The paper does not report the compute or latency cost, which matters for a car's onboard computer. Most results come from open-loop or simulated benchmarks, not real roads. Some margins over rivals are small, a tenth of a point on NAVSIM v2.\n\n## Key terms\n- **End-to-end planner:** one network that goes straight from sensors to a driving path.\n- **World model:** a model that predicts how a scene will look in the near future.\n- **Vision-language model:** a model that understands images and text together.\n- **Flow matching:** a way to generate outputs by steadily refining random noise.\n- **Zero-shot:** tested on new data without any extra training.\n- **PDMS:** NAVSIM's combined driving-quality score, out of 100."
     }
    ]
   },
@@ -126,21 +134,22 @@
    "color": "#a78bfa",
    "papers": [
     {
-     "id": "2610.39761",
-     "title": "GPU-Resident Speculative Decoding for In-Browser LLM Inference with WebGPU",
+     "id": "2610.24365",
+     "title": "FlashMap: Flow Map Speculative Decoding",
      "authors": [
-      "Wei Song",
-      "Yuxin Cao",
-      "Ziqi Ding",
-      "Xiao Cheng"
+      "Jeff Shen",
+      "Zhejian Zhou",
+      "Ryan Lee",
+      "Jonathan May",
+      "Shirley Ho"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "A new in-browser engine keeps the whole guess-and-check text generation loop on the graphics chip, making local chatbots in a web page roughly 3.5 to 8.6 times faster than WebLLM.",
+     "tldr": "A small helper model that drafts 16 words at once, in a single step, while keeping them consistent with each other, making a large language model answer up to 6.1× faster with identical output.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.39761",
-     "pdf_url": "https://arxiv.org/pdf/2610.39761",
-     "summary_md": "## In one sentence\nThe authors built a way to run small chatbots inside a web browser that writes replies several times faster, by keeping almost all of the work on the graphics chip.\n\n## Background you need\nWebGPU is the browser feature that lets a web page use your computer's graphics chip (GPU). A language model writes one token (a word piece) at a time, and each token normally needs a full pass through the model. Speculative decoding speeds this up: a cheap method guesses several tokens ahead, and the big model checks all the guesses in one pass. WebLLM is the best-known existing engine for running models in a browser.\n\n## The problem\nIn a browser, every small job sent to the GPU carries extra checking and messaging costs. The page also has to wait for the GPU to hand back each new token before deciding what to do next. And existing kernels (the small GPU programs doing the math) are tuned for one token at a time.\n\nThese costs flip speculative decoding from a win into a loss. On a weak built-in laptop GPU, a standard 8-guess setup made Llama-3.2-1B about 2.7 times slower than plain decoding: 61 ms per token instead of 23 ms. That matters for anyone who wants private, offline AI that runs right in a web page.\n\n## The idea\nPicture a kitchen where the chef must walk to the front desk after every single dish to ask what's next. Most time goes into walking. This system hands the chef the whole order list and lets them cook a batch before checking in. The GPU drafts, checks, accepts tokens and tidies its memory by itself, and the browser only peeks in occasionally.\n\n## How it works\n1. **Batch-friendly integer kernels.** Model weights are stored as 4-bit numbers, and inputs are rounded to 8-bit integers in small blocks. The math runs in a fixed order, so checking 8 tokens gives exactly the same answer as 8 single steps. Checking 8 tokens costs only 19–77% more than one token on discrete GPUs, versus 2.7 times more in WebLLM.\n2. **A loop that lives on the GPU.** Drafting, verifying, accepting and updating the KV cache (the model's memory of text it has already read) all run as GPU programs. Several steps are bundled into one submission, and the CPU reads back only a few bytes between bundles.\n3. **A drafter with no second model.** Guesses come from text the user has already seen: the web page, the chat so far, and a memory of earlier answers. Matching phrases are looked up in parallel on the GPU. Optional small \"draft heads\" can be added for bigger models.\n4. **A self-tuning controller.** On first load, it measures how much each guess size costs on this exact device. It then picks the number of guesses that yields the most tokens per millisecond, and keeps refining.\n\n## Results\nCompared with WebLLM, time per generated token dropped by 3.5–5.4 times on a laptop GTX 1650 and 4.8–6.2 times on an integrated GPU. On a workstation card it was 4.8–8.6 times faster across seven models from 0.5 to 8 billion parameters. Adding draft heads reached a peak of 10.2 times. In practice, a reply that took 10 seconds could take about 1–2 seconds.\n\nOutput stayed exact: every speculative answer matched normal greedy output on all 220 test prompts per model. Math accuracy (GSM8K) averaged 52.3% for both systems. The kernels contributed the most (2.1–3.3 times), then the GPU loop, then speculation itself.\n\n## Why it matters\nFast in-browser models mean private assistants with no server bill and no data leaving the device. Web apps could ship AI features that work offline. The tricks, especially avoiding round trips to the CPU, apply to other constrained runtimes too.\n\n## Caveats\nOnly greedy decoding (always picking the top word) is supported, not random sampling. Tests used Chrome with NVIDIA and AMD GPUs only; Safari, Firefox, Apple and phone chips weren't measured. First-visit calibration takes 3–19 seconds and isn't cached yet. On integrated GPUs, the rest of the page can stutter while the model runs.\n\n## Key terms\n- **WebGPU:** the browser interface for using the graphics chip.\n- **Speculative decoding:** guess several tokens cheaply, then verify them in one pass.\n- **Kernel:** a small program that runs a math step on the GPU.\n- **KV cache:** the model's stored memory of text it has already processed.\n- **Greedy decoding:** always choosing the single most likely next token.\n"
+     "abs_url": "https://arxiv.org/abs/2610.24365",
+     "pdf_url": "https://arxiv.org/pdf/2610.24365",
+     "summary_md": "## In one sentence\nFlashMap is a fast \"drafting\" model that guesses a whole block of upcoming words in one go, so a big language model can check them all at once and reply several times faster.\n\n## Background you need\nLarge language models write one token (a word or word piece) at a time, and each token needs a full pass through the huge model. Speculative decoding speeds this up. A small drafter model guesses several next tokens, and the big target model checks all the guesses in one parallel pass. Correct guesses are kept for free, so the final text is exactly what the big model would have written anyway.\n\n## The problem\nThere are two kinds of drafters today, and each has a weakness. Autoregressive drafters, like the popular EAGLE-3, guess one token after another. Their guesses are good, but drafting 16 tokens takes 16 steps. Block diffusion drafters, like DFlash, guess the whole block in one step. That is fast, but each position is guessed independently. The result can be words that each make sense alone but clash together. Imagine guessing \"new\" in one slot and \"diego\" in the next. The checker rejects the mismatch, and everything after it is wasted.\n\n## The idea\nPicture a team of writers each filling one blank in a sentence. If they work in separate rooms, the sentence can come out garbled. If they all start from the same shared random \"theme,\" their choices line up. FlashMap gives every position one shared random starting point. It then learns a direct jump from that starting point to a coherent block, so \"new york\" comes out together.\n\n## How it works\n1. **Read the big model's mind.** The drafter receives internal signals (hidden states) from several layers of the target model, plus the last confirmed token.\n2. **Start from shared noise.** All 16 draft slots begin from one shared random sample. Training teaches the drafter to turn this noise into the correct block, with extra weight on early slots, since an early mistake ruins the rest.\n3. **Learn a shortcut.** Turning noise into text properly takes about 100 small steps, which is too slow. The authors distil this into a \"flow map,\" a model that learns to leap from noise straight to the answer in one or two jumps.\n4. **Verify.** The target model checks the 16 guesses in one pass and keeps the longest correct prefix.\n5. **Trim the cost.** For the two-jump version, they precompute parts of the math and only fix up the top candidate words, cutting that step's extra cost by about 70%.\n\n## Results\nTests used the Qwen3-8B model on an NVIDIA H200 graphics card, serving one request at a time. With one jump, FlashMap was 4.9 to 6.1 times faster on math tasks, 4.0 to 5.3 times on code, and 2.6 to 3.0 times on chat. In practice, a math answer that took 6 seconds could arrive in about 1 second.\n\nAgainst DFlash trained on the same data, FlashMap was about 7% faster on average and faster on every benchmark. It did this with roughly half the trainable parameters (about 0.5 billion versus 1 billion). The two-jump version accepted the most tokens per round of any parallel drafter, about 10% more than DFlash. EAGLE-3 made slightly more accurate guesses at higher randomness, but was about 35% slower overall, because it drafts one token at a time.\n\n## Why it matters\nFaster replies at no loss in quality lower serving costs and make chat and coding assistants feel snappier. The paper also shows a broader point. A slightly less accurate drafter can still win if it drafts much faster. And a shared random seed is a simple way to make parallel guesses agree with each other.\n\n## Caveats\nOnly two models from one family (Qwen3-4B and 8B) were tested, in English, with one request at a time on one GPU. Busy servers handling many users at once may see smaller gains. The authors say their models may be undertrained. The one-jump version still loses much of the consistency that the slower original flow model achieves, and they do not yet know why.\n\n## Key terms\n- **Token:** a word or piece of a word that a language model reads and writes.\n- **Speculative decoding:** a small model guesses ahead and a big model verifies the guesses in parallel.\n- **Drafter:** the small model that makes the guesses.\n- **Acceptance length:** how many guessed tokens survive each check, on average.\n- **Flow map:** a model trained to jump directly from random noise to a finished output.\n- **Lossless:** the final text is identical to what the big model would produce alone."
     }
    ]
   },
@@ -150,25 +159,25 @@
    "color": "#f472b6",
    "papers": [
     {
-     "id": "2510.26692",
-     "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+     "id": "2610.15715",
+     "title": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention",
      "authors": [
-      "Yu Zhang",
-      "Zongyu Lin",
-      "Xingcheng Yao",
-      "Jiaxi Hu",
-      "Fanqing Meng",
-      "Chengyin Liu",
-      "Xin Men",
-      "Songlin Yang"
+      "Li Nanbo",
+      "Firas Laakom",
+      "Yilan Zhang",
+      "Piotr Piękos",
+      "Yimeng Chen",
+      "Liangyu Wang",
+      "Yifan Xu",
+      "Mateusz Ostaszewski"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "Moonshot AI replaces three out of every four standard attention layers with a fixed-size memory layer, and the resulting model beats full attention while using up to 75% less memory and decoding up to 6 times faster on million-token inputs.",
-     "image": "https://github.com/MoonshotAI/Kimi-Linear/raw/master/figures/arch.png",
-     "abs_url": "https://arxiv.org/abs/2510.26692",
-     "pdf_url": "https://arxiv.org/pdf/2510.26692",
-     "summary_md": "## In one sentence\nKimi Linear is a language model design that swaps most of its expensive attention layers for a cheaper fixed-size memory, and still scores better than the standard design.\n\n## Background you need\nAttention is the part of a transformer that lets each word look back at every earlier word. It needs a KV cache (the model's stored notes on everything already read), which grows with every token. Linear attention instead keeps one fixed-size memory that is updated as text streams in, like a running summary. Its cost doesn't grow with length, but it has usually been less accurate. This paper is from late 2025, but its design has become a common reference point for hybrid models.\n\n## The problem\nLong inputs are now normal: whole codebases, long documents, and long chains of reasoning from AI agents. With full attention, a million-token context means a huge KV cache and slow generation, because every new word must scan all the notes. That drives up serving cost and limits how many users one GPU can handle.\n\nEarlier linear-attention models saved memory but lost quality, especially at recalling exact details from far back. So most production models stuck with full attention.\n\n## The idea\nThink of a student taking notes in a lecture. Full attention is recording the whole lecture and replaying it for every question. Linear attention is a notebook of fixed size. Kimi Linear's trick is a smarter notebook: before writing a new fact, the student erases what the old note said about the same topic, and each line of the notebook fades at its own pace. Every fourth layer still keeps a full recording, for when exact recall matters.\n\n## How it works\n1. **Kimi Delta Attention (KDA).** Each layer keeps a fixed-size memory matrix. When a new word arrives, the \"delta rule\" first removes what the memory would have recalled for that word, then writes the correct value. This avoids piling conflicting notes on top of each other.\n2. **Fine-grained forgetting.** Every channel (each slot of the memory) gets its own learned fade-out rate, chosen based on the current input. Earlier designs used one rate per whole attention head. This finer control lets the model hold some facts long and drop others fast.\n3. **Hybrid stacking.** Layers come in groups of four: three KDA layers, then one full attention layer (Multi-Head Latent Attention, a compressed attention design). The full layers need no position encoding, because the fading in KDA already tells the model how old information is.\n4. **A fast chunked kernel.** Text is processed in chunks so the GPU can work in parallel. A constrained version of the update math cuts the work, giving close to twice the speed of the general form at the operator level.\n\n## Results\nThe team trained a mixture-of-experts model with 48 billion total parameters, 3 billion active per word. In a fair comparison with the same training recipe (1.4 trillion tokens), it beat a full-attention version on the tasks tested.\n\nIt cut KV cache memory by up to 75%, since only one layer in four keeps a growing cache. At a 1-million-token context, decoding was up to 6 times faster (6.3 times on time per output token). On the RULER long-context test at 128k tokens it scored 84.3 while running 3.98 times faster. On MMLU-Pro, a general knowledge test, it scored 51.0 at about the same speed as full attention.\n\n## Why it matters\nIf a hybrid can match or beat full attention, long-context AI gets much cheaper to serve. A 75% smaller cache means more users per GPU or far longer documents. The kernel, vLLM support and model weights are open, so others can build on it directly.\n\n## Caveats\nThe speed and memory gains are \"up to\" figures at very long contexts; savings at short lengths are smaller. Results come from one model size and Moonshot's own training setup. The headline comparison is against Moonshot's own full-attention baseline, not against every rival design. Pure linear layers can still struggle with exact recall, which is why one full layer in four remains.\n\n## Key terms\n- **Attention:** the mechanism letting each word look at all earlier words.\n- **KV cache:** stored notes on past text that full attention must keep and scan.\n- **Linear attention:** a fixed-size, constantly updated memory instead of a growing cache.\n- **Delta rule:** an update that corrects old memory before writing new information.\n- **Hybrid model:** a network mixing cheap linear layers with some full attention layers.\n"
+     "tldr": "NoteBank lets cheap fixed-memory language models answer questions about million-token documents by saving a few distinctive snippets as they read and replaying the relevant ones at question time, with no retraining.",
+     "image": "https://arxiv.org/html/2610.15715v1/main-figure-sticker.png",
+     "abs_url": "https://arxiv.org/abs/2610.15715",
+     "pdf_url": "https://arxiv.org/pdf/2610.15715",
+     "summary_md": "## In one sentence\nNoteBank gives memory-efficient language models a small notebook of saved passages, so they can recall details from very long documents without being retrained.\n\n## Background you need\nStandard Transformers (the design behind most chatbots) keep a KV cache, a growing record of every token (word piece) they have read. That record gets huge for long inputs. Linear-attention and state-space models, such as Mamba or Gated DeltaNet, instead squeeze everything into a fixed-size memory called the state. That makes them cheap and fast, but the state must constantly overwrite old information.\n\n## The problem\nBecause the state has a fixed size, these models tend to forget specifics from far back. Ask one to find a single fact buried in a million-token document, a \"needle in a haystack\" test, and it often fails completely. Many people assume this is a hard limit of the design. That matters because these models are otherwise attractive for long documents, codebases and agent logs, where Transformer memory costs explode.\n\n## The idea\nThink of a student reading a long textbook with a small brain but a sticky-note pad. They cannot remember every page. But on each chapter they jot down the most unusual sentence and a short label for it. At exam time, they check which notes match the question and quickly reread just those. The authors' claim: forgetting details in the state does not mean the model cannot use them, if the evidence is kept somewhere else.\n\n## How it works\n1. **Read in chunks.** The document is split into fixed-size chunks, and the model reads them normally, carrying its state forward.\n2. **Write notes.** In each chunk, NoteBank finds the most distinctive stretch of text, the part whose internal \"keys\" differ most from the chunk's average. It expands this to full sentences and saves the original tokens. It also stores a small address per attention head, so the note can be found later.\n3. **Look up notes.** When a question arrives, each attention head compares the question to all note addresses and votes for its best match. The few notes with the most votes are chosen.\n4. **Replay.** The chosen notes are fed back through the model in document order, starting from a copy of its current state. Then the question is answered.\n5. **Optional tuning.** A tiny add-on (LoRA adapters, small extra weights) trained on under 9.3 million tokens can be switched on during replay to help the model use the notes better. The base model is never changed.\n\n## Results\nOn a needle-in-a-haystack benchmark (RULER) with million-token inputs, a 1.3-billion-parameter Gated DeltaNet model went from 1.7% average accuracy to 70.3%. So it went from almost always failing to usually succeeding. At one million tokens, gains were about 69, 67 and 38 percentage points on three different models.\n\nOn LongBench, a suite of 12 realistic long-document tasks, a Mamba-2 model roughly doubled its score from 6.8 to 13.4 with no training, and to 17.1 with the add-on. The larger Qwen3.5-9B model improved on LongBench-v2 from 46.1 to 49.3. The extra compute is tiny, about 0.02% of the model's own. Storage for a million-token context was 74.5 MB, about 2,600 times smaller than a comparable Transformer's 192 GB memory record.\n\n## Why it matters\nThis suggests cheap fixed-memory models can handle long-context work far better than believed, with a plug-in rather than expensive retraining. That could make long document search, code assistants and agent memory cheaper to run. It also reframes a research debate: the bottleneck may be retrieval, not the model's capacity.\n\n## Caveats\nThe notes archive and the matching step still grow with document length, even if replay stays small. Replaying the wrong notes can distract the model, and the add-on hurt summarisation. Speed was measured only for one request at a time. Some tests used small samples of 100 questions per task. The Transformer comparison comes from a different paper, so it is not perfectly matched.\n\n## Key terms\n- **KV cache:** a Transformer's growing record of everything it has read.\n- **Linear attention / state-space model:** designs that compress history into a fixed-size state.\n- **State:** the fixed-size memory these models update as they read.\n- **Needle in a haystack:** a test of finding one fact hidden in a long text.\n- **LoRA:** small add-on weights that adjust a model cheaply without changing it."
     }
    ]
   },
@@ -178,23 +187,23 @@
    "color": "#34d399",
    "papers": [
     {
-     "id": "2603.05451",
-     "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+     "id": "2610.24648",
+     "title": "EdgeKernelBench: Unified LLM-Driven Kernel Generation for Edge Backends",
      "authors": [
-      "Ted Zadouri",
-      "Markus Hoehnerbach",
-      "Jay Shah",
-      "Timmy Liu",
-      "Vijay Thakkar",
-      "Tri Dao"
+      "Yuhua Zheng",
+      "Xueyi Chen",
+      "Xinze Zou",
+      "Xin Li",
+      "Haoji Hu",
+      "Huan Wang"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "FlashAttention-4 rewrites the attention kernel for Nvidia's Blackwell GPUs, working around their slow non-matrix units to reach up to 1613 TFLOPs/s, 1.3 times faster than Nvidia's own cuDNN.",
-     "image": "https://arxiv.org/html/2603.05451v1/Figures/FA4_FWD_p3.png",
-     "abs_url": "https://arxiv.org/abs/2603.05451",
-     "pdf_url": "https://arxiv.org/pdf/2603.05451",
-     "summary_md": "## In one sentence\nFlashAttention-4 is a new version of the most widely used attention code, rebuilt so that Nvidia's latest Blackwell chips spend less time waiting and more time computing.\n\n## Background you need\nAttention is the step in a language model where each word compares itself with all the others; it dominates cost for long texts. A kernel is a small, hand-tuned program that runs one such step on the GPU. Tensor cores are the GPU's specialised units for matrix multiplication. Shared memory is a small, fast scratchpad that groups of GPU threads use to pass data around. FlashAttention is a family of kernels that compute attention without writing big intermediate tables to slow memory.\n\n## The problem\nEach GPU generation changes the balance of its parts. On Blackwell (B200, GB200), tensor cores got about twice as fast as on the previous Hopper chips. But shared memory bandwidth and the unit that computes exponentials (needed for the softmax step of attention) barely improved.\n\nThe authors' analysis shows that, per block of work, shared-memory traffic and exponentials can take 25–60% longer than the matrix math itself. So the fast tensor cores sit idle. Hopper-era code also cannot simply be ported, because Blackwell's matrix instructions are different.\n\n## The idea\nPicture a factory where one machine suddenly became twice as fast, but the conveyor belts and the painting station did not. Speeding up the fast machine again is pointless. Instead you reorganise the line: overlap the slow stations with the fast one, skip painting when it isn't needed, and hand-paint some items to relieve the bottleneck. FlashAttention-4 does exactly that inside the GPU.\n\n## How it works\n1. **Ping-pong pipelining.** Each thread block handles two output tiles. While tensor cores multiply for one tile, other threads run the softmax on the other. Results are kept in Blackwell's new tensor memory, close to the cores.\n2. **Software exponentials.** Instead of sending every exponential to the slow hardware unit, a share of them (about 10–25% per row) is computed with a short polynomial using ordinary multiply-add instructions. This splits the work across two kinds of units.\n3. **Skip needless rescaling.** Attention normally rescales its running results whenever a new maximum value appears. The kernel only does this when it actually changes the answer, cutting non-matrix work.\n4. **A leaner backward pass.** For training, more intermediate values live in tensor memory, and a paired-block mode lets two blocks share one operand load. This halves shared-memory traffic for that operand and halves certain slow atomic additions.\n5. **Python-based code.** The kernel is written in CuTe-DSL, a Python-embedded language, which compiles 20–30 times faster than the usual C++ template approach.\n\n## Results\nOn a B200 with 16-bit (BF16) numbers, the forward pass reached up to 1613 TFLOPs/s, about 71% of the chip's theoretical peak. That was up to 1.3 times faster than Nvidia's cuDNN 9.13 library and up to 2.7 times faster than a Triton implementation. In practice, a training step dominated by attention could finish noticeably sooner on the same hardware.\n\nThe software exponential is less precise in 32-bit terms. But once rounded to BF16, it matched the hardware result within one smallest step on 99% of inputs. A deterministic mode, which gives bit-identical results run to run, costs little and helps reinforcement-learning pipelines.\n\n## Why it matters\nAlmost every major training and serving stack uses FlashAttention, so gains here flow into many products. The paper also shows a broader lesson: as chips grow unevenly, kernel design must target the slowest part, not the headline feature. Faster compile times make it easier for others to adapt the code.\n\n## Caveats\nIt targets Blackwell only and does not apply to Hopper. The share of software exponentials must be tuned for each setup, or it adds register pressure. Newer B300 chips double exponential speed, which changes the balance again. The comparison numbers are the authors' own measurements.\n\n## Key terms\n- **Kernel:** a tuned GPU program for one computation step.\n- **Tensor core:** GPU hardware specialised for matrix multiplication.\n- **Shared memory:** a small, fast scratchpad shared by a group of GPU threads.\n- **Softmax:** the step turning attention scores into weights, which needs exponentials.\n- **TFLOPs/s:** trillions of math operations per second, a measure of speed.\n- **BF16:** a 16-bit number format common in AI training.\n"
+     "tldr": "A benchmark showing that AI models can often write correct low-level code for phones and small devices but rarely fast code, plus an agent that optimizes layer by layer and nearly doubles Claude Code's success at producing faster kernels.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2610.24648",
+     "pdf_url": "https://arxiv.org/pdf/2610.24648",
+     "summary_md": "## In one sentence\nEdgeKernelBench tests whether AI models can write fast low-level code for small devices like phones and embedded boards, and introduces an agent that does much better than writing the code in one shot.\n\n## Background you need\nA kernel is a small, highly tuned program that does one heavy math job, such as multiplying two big grids of numbers, on a specific chip. Writing good kernels is a rare skill, so researchers now ask large language models (LLMs) to write them. Edge devices are hardware outside the data center: phones, cameras, cars and small boards with tight limits on memory, power and compute.\n\n## The problem\nMost kernel-writing benchmarks target big server graphics cards from one vendor. Edge hardware is far messier. Each device family has different chips, different compilers (tools that turn code into machine instructions) and different software stacks. Code that runs well on one may not run at all on another. Companies shipping AI on devices need fast kernels for each target, and hand-tuning them all is slow and expensive. It was also unclear whether LLM-written kernels are merely correct, or actually fast.\n\n## The idea\nThink of translating a recipe for many different kitchens. Rather than rewriting the whole recipe for each kitchen, you write one master plan: what to cook, in what order, and where to store ingredients. A local helper then adapts it to each kitchen's tools. The authors do the same for kernels with a shared intermediate representation, or IR, a common middle language between the AI's plan and each device.\n\n## How it works\n1. **One shared plan format.** The IR captures three kinds of reusable choices: what to compute, how to schedule the work, and how to move data through memory. A compiler interface then maps the plan to each device. The authors use TVM, an open-source machine-learning compiler, as the reference.\n2. **A ladder of tasks.** The benchmark ranges from single operations, like one matrix multiply, up to small complete model graphs from common edge application areas. This tests whether an AI can optimize a whole workload, not just one snippet.\n3. **Two scores.** Correct@1 asks whether the first attempt gives the right answer. Fast@1.0 asks whether it is also at least as fast as the reference on the real device.\n4. **A layered agent.** The proposed agent, LEKA, does not rewrite source code over and over. It improves the plan layer by layer, reasoning about scheduling, memory movement and device limits, and checks real timing measurements as it goes.\n\n## Results\nWith a single attempt, the best model produced correct kernels 64.5% of the time, but fast ones only 25.5% of the time. So roughly six in ten kernels ran correctly, yet only about one in four was worth using. Correct code is not the same as fast code.\n\nOn a subset used to evaluate agents, writing the kernel directly in one go reached 13.0% on the speed score. Claude Code, a general coding agent, reached 26.1%. LEKA reached 43.5%. Both agents used the same underlying model and the same optimization budget, so the gain comes from LEKA's layered strategy rather than a stronger model.\n\n## Why it matters\nMore and more AI runs on devices, for privacy, cost and speed. Each new chip needs tuned kernels, and the experts who write them are scarce. A shared benchmark lets researchers compare AI kernel writers fairly across devices. LEKA's results suggest that giving an agent a structured way to think about optimization helps more than letting it freely rewrite code.\n\n## Caveats\nResults depend on the specific devices and compiler stack tested, and the authors caution against generalizing beyond them. Even the best agent produced a faster kernel less than half the time. The reference compiler is TVM, so behavior with other toolchains is untested. This summary is based on the abstract and public summaries, since the full paper text could not be retrieved, so finer details such as task counts are not covered here.\n\n## Key terms\n- **Kernel:** a small, tuned program that runs one heavy math operation on a chip.\n- **Edge device:** hardware outside data centers, such as phones or embedded boards.\n- **Compiler:** a tool that turns code into instructions a specific chip can run.\n- **Intermediate representation (IR):** a shared middle language between a plan and each device.\n- **Correct@1 / Fast@1.0:** first-try correctness, and first-try correctness plus at least reference speed."
     }
    ]
   },
@@ -204,25 +213,25 @@
    "color": "#fbbf24",
    "papers": [
     {
-     "id": "2610.23894",
-     "title": "Language-Forcing: Advancing Humanoid Loco-Manipulation via Semantic Alignment of Whole-Body World Action Models",
+     "id": "2610.21389",
+     "title": "Fast-VLA: You Only Think Once for Robot Manipulation",
      "authors": [
-      "Yanjun Li",
-      "Jiarui Ye",
-      "Weiyu Guo",
-      "Zixiao He",
-      "Kangjie Ye",
-      "Dihan Wang",
-      "Yishuo Cheng",
-      "Zishang Xiang"
+      "Kehong Gong",
+      "Guanli Hou",
+      "Xiaoxu Zheng",
+      "Qi Wang",
+      "Mingxi Xu",
+      "Anbang Zhai",
+      "Xiaoyu He",
+      "Mingyuan Zhang"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "A humanoid robot controller learns faster and succeeds more often when, during training, a language model tells it in words what progress each movement should make.",
+     "tldr": "Instead of re-running a large vision-language model at every step, Fast-VLA runs it once per task to build a memory, then lets a small fast network control the robot, cutting inference time 11–17× at similar success rates.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2610.23894",
-     "pdf_url": "https://arxiv.org/pdf/2610.23894",
-     "summary_md": "## In one sentence\nLanguage-Forcing teaches a humanoid robot's brain to focus on the parts of the future that matter for its task, by matching its internal predictions to plain-language descriptions of task progress.\n\n## Background you need\nLoco-manipulation means a robot walking and using its hands at the same time, such as carrying a box across a room. A world action model is a network that predicts two things together: the robot's next actions and what its camera will see next. Predicting the future view is meant to teach the model how the world works. A vision-language model (VLM) is a model that can look at images and describe them in words.\n\n## The problem\nPredicting the next camera image sounds useful, but it treats every pixel as equally important. A shadow moving or a person walking past in the background counts as much as the cup the robot is meant to pick up. So the model can spend its effort learning incidental scene changes instead of the changes its task depends on.\n\nFor whole-body humanoids this hurts more, because many joints move at once and the camera view shifts constantly. The result is controllers that look plausible but fail on real tasks.\n\n## The idea\nImagine learning to cook by watching videos. If you only try to predict the next frame, you might focus on the steam or the lighting. If a coach beside you says \"now the onion is diced, next it goes in the pan\", you learn what actually changed and why. Language-Forcing adds that coach during training. A language model describes the meaningful progress between two moments, and the robot's internal picture of the future is nudged to agree with that description.\n\n## How it works\n1. **Pair current and future frames.** From training demonstrations, the method takes a current camera frame and a later one.\n2. **Ask a frozen VLM to narrate.** A vision-language model, kept unchanged, describes the task progress and the likely next state changes between the two frames, in text.\n3. **Turn words into vectors.** A frozen text encoder converts each description into a numerical embedding (a list of numbers capturing its meaning).\n4. **Align the robot's internal features.** Inside the world action model, intermediate visual features that depend on the planned action are trained to line up with those text embeddings. This is an extra training signal next to the usual action and future-image losses.\n5. **Drop the helpers at run time.** The VLM and text encoder are used only during training. The deployed robot runs the same model as before, with no extra cost.\n\n## Results\nOn the HumanoidArena simulation benchmark, the method reached a 79.17% average success rate. That is 9.46 points above the strongest competing policy and 10.77 points above the same model trained without the language alignment. Put simply, roughly one more task in ten now succeeds.\n\nOn five real-world tasks with a physical robot, average success rose from 53.33% to 71.33%. That moves the robot from succeeding about half the time to about seven times in ten. Because the helpers are removed after training, the speed of the deployed controller is unchanged.\n\n## Why it matters\nHumanoid robots need to learn from limited demonstrations, so any training signal that points them at what matters is valuable. This approach reuses existing language models as free \"coaches\" without making the robot slower. The same trick could apply to other world models, such as those for robot arms or driving.\n\n## Caveats\nThe real-world test covers only five tasks, so broad reliability is not yet shown. The quality of the coaching depends on the VLM's descriptions, which can be wrong or vague. The method adds training cost, since a large model must describe many frame pairs. Details of how it behaves on very long or unfamiliar tasks are not established by these results.\n\n## Key terms\n- **Loco-manipulation:** moving the whole body while handling objects.\n- **World action model:** a network that predicts both actions and future observations.\n- **Vision-language model (VLM):** a model that describes images in text.\n- **Embedding:** a list of numbers that represents the meaning of text or images.\n- **Frozen model:** a model used as-is, without further training.\n"
+     "abs_url": "https://arxiv.org/abs/2610.21389",
+     "pdf_url": "https://arxiv.org/pdf/2610.21389",
+     "summary_md": "## In one sentence\nFast-VLA lets a robot \"think\" about its task once at the start, then act quickly for the rest of the job using a small controller that reads from that saved understanding.\n\n## Background you need\nA vision-language-action model, or VLA, is a robot brain that takes camera images and a spoken or typed instruction and outputs motor commands. Most VLAs sit on top of a big vision-language model with billions of parameters (adjustable numbers learned in training). They usually output an action chunk, a short burst of future movements, then look again.\n\n## The problem\nToday's VLAs re-run the big model for every new action chunk. That means rereading the instruction and re-understanding the task many times per second. This is slow and memory hungry. One baseline in the paper takes 16 milliseconds per control step and holds almost 12 GB of memory while running. For robots with modest onboard computers, that limits how fast and smoothly they can react.\n\n## The idea\nThink of a chef reading a recipe. They read it carefully once, then cook while glancing at the pan, not rereading the whole recipe before every stir. The meaning of \"make an omelette\" does not change mid-task; the state of the eggs does. Fast-VLA separates the slow-changing task understanding from the fast-changing robot state.\n\n## How it works\n1. **Think once.** At the start of an episode (one attempt at a task), a frozen 4-billion-parameter vision-language model reads the instruction and the first camera images.\n2. **Save a task memory.** Instead of keeping the model's text output, the method saves its internal key-value tensors from all 34 layers. These are the model's compressed notes about the task. The large model is then not used again.\n3. **Watch the present.** A small, trainable controller of about 184 to 272 million parameters gets fresh camera images and the arm's joint positions at every step.\n4. **Ask the memory.** The controller uses learned queries, one per future time step and per arm, that look up relevant parts of the task memory and mix them with what the cameras see now.\n5. **Act.** In one pass, it outputs the next 50 steps of movement for both arms. There is no slow step-by-step refinement.\n\n## Results\nOn RoboTwin 2.0, a benchmark of 50 two-arm tasks, Fast-VLA succeeded 92.4% of the time. Its own big-model baseline scored 93.5%. So it lost about one point of success but ran about 11 times faster per step: 1.4 ms instead of 16.1 ms. Against three other strong methods on the same hardware, it was 10.9 to 17.1 times faster with similar or higher success.\n\nAfter the one-time setup, it needs only 1.22 GB of memory, versus 11.7 GB and 23.1 GB for two baselines. On the LIBERO benchmark it scored 96.0%, and 79.1% on a harder version with visual and physical disturbances. A telling test: when the researchers swapped in the memory from a different episode of the same task, success crashed to under 10%. The controller really relies on that saved understanding.\n\n## Why it matters\nFaster, lighter robot brains could run on cheaper hardware and react more quickly to bumps and slips. Freeing the big model after setup also frees compute for other jobs. The broader lesson is that understanding and control can run at different speeds.\n\n## Caveats\nThe memory is fixed at the start. If someone changes the instruction mid-task, the robot cannot adapt; the authors leave this for future work. On the disturbance-heavy test, it trails stronger models by about 6.6 to 6.8 points. Results come from simulation benchmarks, and the paper does not name the GPU used.\n\n## Key terms\n- **VLA (vision-language-action model):** a model that turns images plus instructions into robot actions.\n- **Action chunk:** a short sequence of future movements predicted at once.\n- **Episode:** one attempt by the robot to complete a task.\n- **Key-value memory:** a model's internal notes about what it has read, reusable later.\n- **Frozen model:** a model whose weights are not changed during training."
     }
    ]
   },
@@ -232,19 +241,21 @@
    "color": "#fb7185",
    "papers": [
     {
-     "id": "2610.39302",
-     "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+     "id": "2610.23983",
+     "title": "RL Teaches VLMs Where to Attend but Not How to Perceive",
      "authors": [
-      "Randall Balestriero",
-      "Yann LeCun"
+      "Ziqian Zhang",
+      "Junjie Liao",
+      "Zhining Zhang",
+      "Wentao Zhu"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "Balestriero and LeCun prove that models trained separately on text and images end up with the same internal map of the world when they learn from matched views of the same scene, and a 109M-parameter text model built this way aligns with vision better than 72B-parameter LLMs.",
-     "image": "https://github.com/galilai-group/prh-proof/raw/main/paper/figs/teaser.png",
-     "abs_url": "https://arxiv.org/abs/2610.39302",
-     "pdf_url": "https://arxiv.org/pdf/2610.39302",
-     "summary_md": "## In one sentence\nThis paper proves that two AI models trained on completely different data, like text and photos, will learn the same internal picture of the world if they are trained the right way.\n\n## Background you need\nEvery AI model turns its input into a representation: a list of numbers capturing what the input means. The Platonic Representation Hypothesis (PRH) is a 2024 observation that bigger models, even in different modalities (types of data, like text or images), seem to drift toward similar representations. A JEPA (Joint-Embedding Predictive Architecture) is a training method where a model learns by predicting the representation of one view of something from another view, rather than predicting raw words or pixels. \"Alignment\" here means how well two models' representations match up.\n\n## The problem\nPRH has been a hunch backed by charts, not a proven fact. No one knew exactly when it should hold. Meanwhile, large language models align with vision models only moderately, even at huge scale.\n\nThat matters because aligned representations make it easy to connect modalities. If text and image models share a map, you can link them cheaply, without collecting millions of paired image-caption examples.\n\n## The idea\nImagine two people describing the same city, one by photos and one by written notes. If each is trained by comparing two genuine looks at the same street, both will end up with essentially the same mental map, just rotated. The authors call these \"good views\": two observations of the same underlying world state, such as two different captions of one image.\n\n\"Bad views\" are fragments of one observation, like masked or cropped pieces of a single document. The authors argue that next-token prediction, how LLMs are trained, is a JEPA with bad views. That explains why scale alone doesn't fully close the gap.\n\n## How it works\n1. **State the theorem.** Train separate JEPA encoders, one per modality, with good views. The paper proves they converge to the same representation up to one rotation, for any modality and any number of them.\n2. **Bound the bad case.** With bad views, the authors show alignment is capped by how differently the modalities define \"similar pairs\".\n3. **Build a good-view text model.** They train a 109M-parameter text JEPA where positive pairs are, for example, two captions of the same image.\n4. **Test and predict.** They compare it with LLMs and CLIP, derive a scaling law for alignment, and register its predictions before running 85 new training runs.\n5. **Demo with no paired training.** They connect frozen image encoders (DINOv2 and DINOv3) to the text space by fitting only a rotation, then caption images with a language model trained on text alone.\n\n## Results\nOn the benchmark used in the original PRH paper, the 109M text JEPA scored 0.184 alignment with DINOv2. Qwen2.5-72B scored 0.154 and Llama-3-70B 0.151, so a model over 600 times smaller aligned better. On COCO captions it scored 0.161 versus 0.113 for Llama-3-70B.\n\nCompared with next-token prediction on the same encoder and data, good views reached the same alignment with 42 times fewer samples (21.6 million versus 900 million). The scaling law predicted 85 unseen runs with an error of 0.0093, about the same as rerunning a single seed. The no-pairs captioner reached a CIDEr score of 0.838 on COCO.\n\n## Why it matters\nIt turns a popular hypothesis into a theorem with a clear condition: how you build training pairs matters more than how much data you have. That could make multimodal models much cheaper to build. It also gives a principled reason for LeCun's long-argued view that predicting in representation space beats predicting raw tokens.\n\n## Caveats\nGood views need multiple real observations of the same thing, which are not always available. The text JEPA is an encoder for matching meaning, not a chatbot that writes text. Alignment scores are one lens on quality, not the same as task performance. The work used about 5,500 GPU-hours across 345 runs, and has not yet been tested at frontier scale.\n\n## Key terms\n- **Representation:** the internal list of numbers a model uses to encode meaning.\n- **Platonic Representation Hypothesis:** the idea that different models converge to similar representations.\n- **JEPA:** a method that learns by predicting one view's representation from another's.\n- **Good views:** two separate observations of the same underlying scene.\n- **Next-token prediction:** training a model to guess the next word in a text.\n"
+     "tldr": "When reinforcement learning makes vision-language agents better at tasks, their eyes do not get sharper; their language layers just learn to look at the image more, and a simple attention nudge recovers part of the gain without training.",
+     "image": "https://arxiv.org/html/2610.23983v1/Method.png",
+     "abs_url": "https://arxiv.org/abs/2610.23983",
+     "pdf_url": "https://arxiv.org/pdf/2610.23983",
+     "summary_md": "## In one sentence\nThis paper finds that reinforcement learning makes vision-language agents see better mainly by teaching them to pay more attention to the image, not by improving the part that actually processes pixels.\n\n## Background you need\nA vision-language model (VLM) has two main parts: a vision encoder that turns an image into tokens (small chunks of information), and a language model that reasons over those tokens with text. Reinforcement learning (RL) trains an agent by trial and error, rewarding it when it succeeds. Many labs now use RL to train VLM agents for games, navigation and computer use.\n\n## The problem\nRL clearly boosts task success, but nobody knew why. Does the agent just learn smarter moves? Or does it also learn to see the scene more accurately? If vision improves, where does it happen, in the encoder or in the language model? Knowing this tells researchers where to spend their training budget, and whether cheaper fixes exist.\n\n## The idea\nImagine a student who keeps failing map-reading quizzes. After practice, they score better. Did their eyesight improve, or did they simply start looking at the map instead of guessing from the question? The authors test which one happened. Their answer: the eyesight stayed the same; the student just looks more.\n\n## How it works\n1. **Train agents.** A 3-billion-parameter model, Qwen2.5-VL-3B, learns four tasks with RL: a grid-walking game (FrozenLake), a card arithmetic game, the box-pushing puzzle Sokoban, and 3D house navigation.\n2. **Quiz their vision.** For each task, the authors build simple image questions, such as \"how many holes are on this grid?\" or \"how many boxes are there?\" These test seeing, not planning.\n3. **Probe the layers.** They attach tiny classifiers (probes) at the vision encoder and at two depths in the language model. A probe measures how much of the answer is readable from that point.\n4. **Measure attention.** They track how strongly the language layers attend to image tokens versus text tokens during training.\n5. **Test the cause.** They add a fixed boost to attention on image tokens in the deep layers of the untrained model, with no weight changes, and see if vision answers improve.\n\n## Results\nRL raised task success a lot, for example from 1.6% to 81.3% in the card game and from 13.5% to 80.4% in Sokoban. Image-question accuracy rose by up to about 11 points. Ordinary imitation training on expert games gave no such vision gain.\n\nThe probes told the story. Vision-encoder accuracy stayed flat, around 66% to 69% on FrozenLake. But in a middle language layer it jumped from 80.6% to 93.3%. Attention to image tokens rose steadily while attention to text fell, most clearly in deep layers.\n\nThe simple attention boost, with no training, raised vision accuracy by 5.0 points on FrozenLake and 1.1 to 2.9 points elsewhere. Boosting text attention instead made results worse, dropping FrozenLake to 23.3%. A learned version of the boost recovered 6 to 12 points.\n\n## Why it matters\nIf gains come from better use of visual information, researchers may get some of RL's benefits much more cheaply, by steering attention. It also suggests the vision encoder may be a separate bottleneck that RL does not fix. That is a hint for anyone building agents that must read screens, maps or game boards.\n\n## Caveats\nThe attention nudge supports one cause but does not prove it is the whole story. It improves seeing, not the multi-step decision skills RL also teaches, so it does not replace RL. The vision gains were not linked to end-to-end task success. Experiments used small models of 3 to 4 billion parameters and simple environments.\n\n## Key terms\n- **VLM:** a model that understands images and text together.\n- **Vision encoder:** the part that converts an image into tokens.\n- **Reinforcement learning:** training by reward for successful trial-and-error behavior.\n- **Probe:** a tiny classifier that checks what information a layer contains.\n- **Attention:** how much a model focuses on each input token when computing an answer."
     }
    ]
   }
