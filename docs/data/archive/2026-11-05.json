@@ -1,0 +1,263 @@
+{
+ "date": "2026-11-05",
+ "generated": "2026-11-05T10:44:29+00:00",
+ "news": [
+  {
+   "title": "OpenAI's automated pipeline found 948 working Linux root exploits for about $1.2M",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+   "source": "OpenAI",
+   "summary": "An internal OpenAI prototype hunted for Linux kernel privilege-escalation bugs and produced working exploits for 948 of them, at a cost well below typical bug-bounty values. OpenAI says disclosure is being coordinated with kernel maintainers.",
+   "image": null,
+   "ts": 1793800800
+  },
+  {
+   "title": "Anthropic signs its first paid deal with a digital news publisher: AP election data",
+   "url": "https://www.adweek.com/media/anthropic-licensing-deal-ap-election/",
+   "source": "Adweek",
+   "summary": "Anthropic licensed real-time election results from the Associated Press giving Claude access to live election results. It is the company's first content deal with a digital publisher; terms were not disclosed.",
+   "image": null,
+   "ts": 1793786400
+  },
+  {
+   "title": "DeepMind spinout Isomorphic Labs in talks to raise about $5B at a ~$50B valuation",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding",
+   "source": "Bloomberg",
+   "summary": "The AI drug-discovery company is reportedly negotiating a very large round at a valuation far above its previous one. The terms are not final and could still change.",
+   "image": null,
+   "ts": 1793790000
+  },
+  {
+   "title": "Cognition ships SWE-2 Flash, a faster and cheaper coding-agent model",
+   "url": "https://www.unite.ai/cognition-launches-swe-2-flash-for-faster-lower-cost-coding-agents/",
+   "source": "Unite.ai",
+   "summary": "The maker of Devin says SWE-2 Flash runs about three times faster at a fifth of the price of its flagship. It beats the bigger model on one benchmark but trails it on two others.",
+   "image": null,
+   "ts": 1793797200
+  },
+  {
+   "title": "Ai2's StateBench shows frontier models collapse on long state-tracking tasks",
+   "url": "https://allenai.org/blog/statebench",
+   "source": "Allen Institute for AI",
+   "summary": "A new benchmark asks models to keep track of a changing state over many steps; on the hardest tasks frontier models fall to around 13% accuracy. Some recurrent architectures generalize better to longer sequences.",
+   "image": null,
+   "ts": 1793782800
+  },
+  {
+   "title": "AMD's pending purchase of AI chip startup Taalas valued at about $2.9B",
+   "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+   "source": "The Globe and Mail",
+   "summary": "A filing puts AMD's deal for the chip startup at roughly $2.9B, with $1.4B tied to conditions being met. The acquisition still needs regulatory approval.",
+   "image": null,
+   "ts": 1793793600
+  },
+  {
+   "title": "China reportedly blocks SoftBank's $5.4B purchase of ABB's robotics unit",
+   "url": "https://investinglive.com/stocks/china-blocks-softbank-s-5-4-billion-abb-robotics-deal-ft-says-in-blow-to-son-s-ai-push/",
+   "source": "investinglive (citing FT)",
+   "summary": "China's economic planning regulator will not clear the deal, according to the Financial Times. It is a setback for Masayoshi Son's push into robotics and 'physical AI'.",
+   "image": null,
+   "ts": 1793775600
+  },
+  {
+   "title": "Google backstops TeraWulf's roughly $19B Anthropic data-center lease in Kentucky",
+   "url": "https://www.unite.ai/terawulf-lines-up-google-backstop-for-anthropics-kentucky-ai-campus/",
+   "source": "Unite.ai",
+   "summary": "Google will guarantee Anthropic's lease payments at a TeraWulf campus in Kentucky, supporting about $19B in contracted commitments. The arrangement makes the site easier to finance.",
+   "image": null,
+   "ts": 1793779200
+  },
+  {
+   "title": "EU court adviser says Gemini may infringe press publishers' rights",
+   "url": "https://ppc.land/googles-gemini-can-infringe-press-rights-in-2-ways-eu-court-adviser-says/",
+   "source": "PPC Land",
+   "summary": "An Advocate General at the EU's top court argued that Gemini could breach publishers' rights by getting around paywalls or reproducing articles too closely. The opinion is not binding, but the court often follows such advice.",
+   "image": null,
+   "ts": 1793768400
+  },
+  {
+   "title": "Ohio voters approve data-center restrictions in 14 cities",
+   "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+   "source": "Fortune",
+   "summary": "Ballot measures limiting new data centers passed in numerous Ohio municipalities on election day. A statewide poll also showed most residents oppose more data-center construction.",
+   "image": null,
+   "ts": 1793761200
+  },
+  {
+   "title": "Claude credited with finding two critical Xen hypervisor VM-escape flaws",
+   "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+   "source": "The Hacker News",
+   "summary": "Xen's security advisory credits Anthropic's Claude with discovering two bugs that let a malicious guest virtual machine read other machines' memory. Releases from Xen 4.6 onward are affected.",
+   "image": null,
+   "ts": 1793772000
+  },
+  {
+   "title": "OpenAI's Images 2.6 adds GIFs, reference images and two faster API models",
+   "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
+   "source": "OpenAI Community",
+   "summary": "ChatGPT's image tool can now make animated GIFs and reuse saved reference images across generations. Two faster image models also launched in the API.",
+   "image": null,
+   "ts": 1793804400
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2506.13757",
+     "title": "AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning",
+     "authors": [
+      "Zewei Zhou",
+      "Tianhui Cai",
+      "Seth Z. Zhao",
+      "Yun Zhang",
+      "Zhiyu Huang",
+      "Bolei Zhou",
+      "Jiaqi Ma"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "One model reads camera images, reasons in words only when the scene is tricky, and outputs physically drivable paths built from a vocabulary of small moves.",
+     "image": "https://paper-assets.alphaxiv.org/figures/2506.13757v1/img-0.jpeg",
+     "abs_url": "https://arxiv.org/abs/2506.13757",
+     "pdf_url": "https://arxiv.org/pdf/2506.13757",
+     "summary_md": "## In one sentence\nAutoVLA is a single AI model that looks at camera images, reasons about the road in words when needed, and outputs a drivable path, learning to skip the reasoning in easy situations to save time.\n\n## Background you need\nEnd-to-end driving means one model goes straight from camera pixels to a planned path, instead of a chain of separate perception, prediction and planning modules. A vision-language model (VLM) is a model that understands both images and text. A vision-language-action (VLA) model is a VLM that also outputs actions. Chain-of-thought means the model writes out its reasoning step by step before answering.\n\n## The problem\nEarlier attempts to drive with language models had three problems. They often produced paths a real car could not follow, such as impossible sharp turns. They bolted extra modules onto the language model, adding complexity. And they reasoned at length on every frame, even on an empty straight road. For a car, a long pause to \"think\" is dangerous and expensive.\n\n## The idea\nThink of an experienced driver. On a quiet highway they drive on autopilot. At a busy, unusual intersection they slow down and think it through. AutoVLA learns both modes, fast and slow, and learns when to use each. It also speaks in \"driving words\": a fixed vocabulary of short, physically sensible moves.\n\n## How it works\n1. **Start from a VLM.** The base is Qwen2.5-VL-3B, a 3-billion-parameter model that reads images and text.\n2. **Turn motion into tokens.** Real driving data is clustered into 2,048 \"action tokens.\" Each one is a small move in position and heading over half a second. The model writes a path by picking these tokens, like words in a sentence, so every output decodes into a feasible trajectory.\n3. **Teach two modes.** A much larger 72-billion-parameter model writes reasoning examples: describe the scene, spot key objects, guess their intentions, then decide. AutoVLA is trained on a mix of examples with and without this reasoning.\n4. **Reward good, brief driving.** In a final reinforcement fine-tuning stage, the model tries several plans and is rewarded for safe, accurate driving and penalized for overly long reasoning. This uses a method called GRPO, which compares a group of attempts against each other.\n\n## Results\nOn the NAVSIM benchmark, the reinforcement stage raised the driving score (PDMS, which combines safety, progress and comfort) by 10.6%. It also cut running time by 66.8%, mostly by dropping needless reasoning in simple scenes. In practice, a step that took 3 seconds would take about 1. In the CARLA driving simulator, on the closed-loop Bench2Drive test, AutoVLA reached a driving score of 78.84 and completed 57.73% of routes, which the authors report as ahead of earlier end-to-end models. It also posted competitive results on nuPlan, nuScenes and the Waymo end-to-end challenge. As training data grew, the version that reasons pulled ahead of the action-only version.\n\n## Why it matters\nAutoVLA shows a clean recipe for one model that both explains and drives, with outputs that respect physics. The \"think only when needed\" idea matters for any real-time AI system, from cars to robots. Since its 2025 release it has become a common reference point for driving VLA research.\n\n## Caveats\nThe model is still computationally heavy for wide deployment in cars. Building the reasoning data relies on a costly 72-billion-parameter teacher. On simpler datasets, reasoning sometimes did not help at all. Many results are from offline or simulated tests, not public roads.\n\n## Key terms\n- **End-to-end driving:** one model maps camera input directly to a planned path.\n- **Vision-language-action model:** a model that understands images and text and outputs actions.\n- **Action token:** one entry from a fixed vocabulary of small, feasible car movements.\n- **Chain-of-thought:** step-by-step written reasoning before an answer.\n- **Reinforcement fine-tuning:** improving a model by rewarding good outcomes from its own attempts.\n- **Closed-loop test:** the car's own actions change what it sees next, as in real driving."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2609.33184",
+     "title": "Resource-Efficient Speculative Decoding for Long-Context LLM Serving",
+     "authors": [
+      "Fei Li",
+      "Song Liu",
+      "Shiqiang Nie",
+      "Jinyu Wang",
+      "Weiguo Wu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "SpecStream streams offloaded memory in chunks and runs the draft model in the GPU's idle time, making speculative decoding fast and memory-cheap on long inputs.",
+     "image": "https://arxiv.org/html/2609.33184v1/fig02.png",
+     "abs_url": "https://arxiv.org/abs/2609.33184",
+     "pdf_url": "https://arxiv.org/pdf/2609.33184",
+     "summary_md": "## In one sentence\nSpecStream makes a popular speed-up trick for AI chatbots work with very long documents, by moving old memory off the graphics card and using idle time on the same card to do extra work.\n\n## Background you need\nA large language model writes one token (a chunk of text, about three-quarters of a word) at a time. \"Speculative decoding\" speeds this up: a small, fast \"draft\" model guesses several tokens ahead, and the big \"target\" model checks them all in one pass. The KV cache is the model's short-term memory of what it has already read. It grows with the length of the input and lives in scarce GPU memory (the fast memory on the graphics card).\n\n## The problem\nLong inputs, like a whole contract or codebase, make the KV cache huge. Speculative decoding makes this worse, because two models and their caches now share the same card. A common fix is to \"offload\" old memory to the computer's ordinary memory, which is bigger but slower. But today's offloading systems wait until the whole history is copied back before they can check the draft's guesses. They also copy guesses that may later be thrown away. Meanwhile, the GPU's processors sit idle while data crawls across. The result is fewer users served per card and slower answers.\n\n## The idea\nPicture a chef with a tiny counter and a big pantry. A bad chef waits until every ingredient is carried in before cooking. A good chef starts on the first ingredients as they arrive, and has an assistant chopping vegetables in the idle moments. SpecStream is the good chef: it streams memory in pieces, starts work right away, and fills waiting time with draft-model work.\n\n## How it works\n1. **Only store what is confirmed.** Only history the big model has accepted is moved to ordinary memory, in batches. Recent tokens and unchecked guesses stay on the GPU. So when a guess is rejected, there is nothing to clean up elsewhere.\n2. **Stream history in chunks.** The stored history is split into chunks. Each chunk is loaded once and reused by every guess being checked in that round. Partial results are combined in a way that gives exactly the same answer as reading everything at once.\n3. **Hide the waiting.** The system loads the next chunk while working on the current one, and fetches data for the next layer ahead of time. It also groups similar requests and picks how many guesses to check based on what is fastest.\n4. **Share the card carefully.** The draft model runs in a separate process limited to part of the GPU's processors. Profiling decides how much room it gets, so it uses spare capacity without slowing the big model much.\n\n## Results\nThe authors tested two model families, Qwen3 and InternLM2.5, on three datasets. Compared with a standard offloading setup, SpecStream gave 1.41 times higher throughput on Qwen3 and 1.32 times on InternLM2.5, on average. In practice, a server that handled 100 requests in a period could handle about 130 to 140. Compared with running the draft and target models on separate GPUs, SpecStream produced 55.4% more output per GPU. Answer quality stayed close to the widely used SGLang speculative decoding system, and more requests fit in limited memory.\n\n## Why it matters\nLong-document tasks, like legal review, research assistants and coding agents, are growing fast and are memory-hungry. Getting more out of each GPU lowers cost per user. The ideas here also avoid buying extra GPUs just to host the draft model.\n\n## Caveats\nThe GPU-sharing trick cannot fully separate the two models' use of shared caches and memory bandwidth, so scheduling is approximate. The best split of processors must be profiled for each model pair and setting, which adds setup work. Only two model families and three datasets were tested. Quality is described as \"close to\" the baseline rather than reported in detail, and the paper has no explicit limitations section.\n\n## Key terms\n- **Speculative decoding:** a small model guesses ahead and a big model checks the guesses in bulk.\n- **KV cache:** stored notes about earlier text so the model need not reread it.\n- **Offloading:** moving data from fast GPU memory to slower, larger system memory.\n- **Throughput:** how much output a system produces per unit of time.\n- **Verification round:** one pass where the big model checks a batch of guesses."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2601.22257",
+     "title": "Symmetry Breaking in Transformers for Efficient and Interpretable Training",
+     "authors": [
+      "Eva Silverstein",
+      "Daniel Kunin",
+      "Vasudev Shyam"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Adding small random, untrained offsets to attention removes wasted 'free rotations', helping simple low-memory optimizers train transformers nearly as well as adaptive ones.",
+     "image": "https://paper-assets.alphaxiv.org/paper-figures/019c1c8b-6ac9-7c08-9173-5b23b4ff8689/01a19135-6dbd-7cf9-a22e-986a8d7cde2d.png",
+     "abs_url": "https://arxiv.org/abs/2601.22257",
+     "pdf_url": "https://arxiv.org/pdf/2601.22257",
+     "summary_md": "## In one sentence\nThe authors add small random nudges to a transformer's attention so it stops wasting training effort spinning in directions that change nothing, which helps simple, memory-light optimizers train it nearly as well as fancier ones.\n\n## Background you need\nA transformer is the architecture behind most language models. Its core part, attention, compares a \"query\" (what the current word is looking for) with \"keys\" (what each earlier word offers), and then mixes in \"values\" (the information each word carries). An optimizer is the rule that adjusts the model's numbers during training. Adaptive optimizers like AdamW work well but store about three extra numbers per model parameter, which costs memory.\n\n## The problem\nAttention has a hidden redundancy, called a symmetry. You can rotate the queries and keys together and every attention score stays exactly the same. The same is true for values and the output layer. So there are whole directions in which the model's settings can drift without changing its behavior. Optimizers still spend effort moving along them. The authors argue this especially hurts a physics-inspired optimizer called Energy Conserving Descent, which could otherwise save memory. Training cost and memory are big concerns for anyone building models.\n\n## The idea\nImagine a marble in a perfectly round bowl. It can roll around the rim forever without getting any lower. Tilt the bowl slightly and the marble has a preferred direction, so its energy goes toward rolling downhill. The paper \"tilts the bowl\" by adding fixed, untrained offsets to queries and values. The rotations stop being free, and the optimizer's motion goes toward actually lowering the loss.\n\n## How it works\n1. **Spot the redundancy.** Identify the query–key and value–output rotations that leave the model's outputs unchanged.\n2. **Add untrained biases.** Add an offset (a bias) to the query and to the value. These are not learned, so they add no trainable parameters.\n3. **Randomize per batch.** During training, draw fresh random offsets for each batch of data.\n4. **Use the average at test time.** When the model is used, plug in the average offset, which was 0.5 in the main experiments.\n5. **Read what each head likes.** Because the query offset now points in a fixed direction, the authors rank words by how well their keys line up with it. This shows what each attention head favors.\n\n## Results\nThe authors trained small GPT-2-style models with 124 million parameters on 500 million tokens of educational web text, over four random seeds. With Energy Conserving Descent, ordinary attention reached a validation loss of 3.88. With the symmetry-breaking offsets it reached 3.39. Lower loss means the model predicts unseen text better. The paper reports that the change narrows, and sometimes closes, the gap to adaptive optimizers like AdamW and SOAP.\n\nFor interpretability, one early head strongly favored words like \"Considering,\" \"Given\" and \"Overall,\" and pushed away noise fragments like \"oll.\" On a set of 14 small logic puzzles, results were mixed: two seeds improved, one got worse and one was unchanged.\n\n## Why it matters\nIf simpler optimizers can match adaptive ones, training large models could need less memory, roughly two extra numbers per parameter instead of three by the authors' estimate. The trick is cheap to add. It also makes some attention heads easier for humans to read.\n\n## Caveats\nAll experiments are at small scale, so it is unknown whether gains hold for big models. The paper does not measure actual memory, wall-clock time or total compute. The puzzle gains are not statistically significant. The authors do not cleanly separate the effect of breaking symmetry from simply adding random biases. The interpretability findings are correlations, not proof of how the model reasons.\n\n## Key terms\n- **Attention:** the mechanism that lets each word draw information from earlier words.\n- **Symmetry:** a change to the model's settings that leaves its behavior identical.\n- **Optimizer:** the rule that updates a model's numbers during training.\n- **Bias:** a constant offset added to a calculation.\n- **Validation loss:** an error score on text the model did not train on; lower is better."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2609.28769",
+     "title": "Xtrace: High-Fidelity GPU Intra-Kernel Tracing via Binary-Level Instruction Splicing",
+     "authors": [
+      "Zhuobin Huang",
+      "Kai Zhang",
+      "Weihao Cui",
+      "Hongshi Tan",
+      "Liang Luo",
+      "Christopher Dewan",
+      "Shen Li",
+      "Bingsheng He"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Xtrace inserts measurement probes into already-compiled GPU code using spare registers, so traces show the real kernel with under 3% slowdown.",
+     "image": "https://paper-assets.alphaxiv.org/paper-figures/01a0d727-680c-7eff-8497-0dd66e068af5/01a14327-1575-7cfe-a0dc-1abff91d4395.png",
+     "abs_url": "https://arxiv.org/abs/2609.28769",
+     "pdf_url": "https://arxiv.org/pdf/2609.28769",
+     "summary_md": "## In one sentence\nXtrace lets engineers record what happens inside a GPU program while it runs, without changing the program, by inserting measurement code directly into the finished machine code.\n\n## Background you need\nA GPU kernel is a small program that runs on thousands of graphics-card cores at once. Kernels like FlashAttention, which power large language models, now pack many steps into a single launch. \"Tracing\" means adding probes, little bits of code that write down timestamps or memory addresses, so you can see which step waits on which. A compiler turns human-written code into the machine instructions the GPU actually runs, and it heavily rearranges them for speed.\n\n## The problem\nExisting tracing tools, such as Neutrino and NVIDIA's IKET, add probes before compiling. That is like putting a speed camera in the middle of a racetrack: the drivers change how they race. The probes block the compiler's clever reordering, so the traced program is a different program. In the paper's tests, these tools kept only 8% to 48% of the original instructions unchanged. They also slowed kernels by up to 75.6%. Engineers, and now AI agents that tune kernels, end up optimizing a picture that is wrong.\n\n## The idea\nInstead of editing the recipe before cooking, Xtrace slips a thermometer into the finished dish. It works on the compiled binary, finds spare \"slots\" that are no longer in use, and places probes there. The original instructions stay almost exactly as the compiler left them.\n\n## How it works\n1. **Compile normally.** The kernel is built with no probes, so the compiler optimizes it fully.\n2. **Find free registers.** Registers are the GPU's tiny, super-fast scratch slots. Xtrace analyzes the binary to find registers holding values that will never be used again, and reuses only those for probes.\n3. **Respect timing rules.** GPU instructions must wait for each other in specific ways. Xtrace uses the compiler's own rule tables so its insertions never break these dependencies.\n4. **Search for the cheapest placement.** It tries different instruction orders, register choices and timing settings, estimates the slowdown of each, and keeps a cheap, valid plan.\n5. **Work broadly.** It supports 19 NVIDIA and AMD chip designs and several programming tools, including CUDA, Triton and HIP. Tests used H100, B300 and MI300X GPUs.\n\n## Results\nXtrace kept 94% to 98% of instructions unchanged, versus 8% to 48% for the older tools. Its slowdown was 0.9% to 2.8%, versus 3.8% to 75.6%. On a heavy test that records every memory access, Xtrace added up to 5.4% while Neutrino added 75.6%.\n\nThe accurate picture mattered. On FlashAttention-3, older tools wrongly blamed a slow softmax step. Xtrace showed the real bottleneck was waiting on a memory buffer. An AI agent guided by Xtrace reached about 566 trillion operations per second in 14 tries. With the other tools it needed 54 and 71 tries, roughly 3.9 times more. Xtrace could also trace NVIDIA's closed-source cuDNN kernel, and those insights helped an agent speed up open-source FlashAttention-4 by 5.2% to 13.3%.\n\n## Why it matters\nFast kernels are a major lever on the cost of running AI. Tools that show the true behavior help human experts and AI tuning agents find real bottlenecks faster. Being able to learn from closed-source kernels could also help open-source projects catch up.\n\n## Caveats\nProbes still cost a little time, and some branch targets shift, so the program is not perfectly unchanged. The AI-agent result is a single case study on one kernel and one GPU. There is no breakdown of which part of Xtrace's design causes the gains. Only three GPUs were tested, though 19 designs are claimed as supported.\n\n## Key terms\n- **GPU kernel:** a program that runs in parallel across a graphics card's many cores.\n- **Tracing:** recording what a program does, step by step, while it runs.\n- **Probe:** a small piece of code inserted to record a time or value.\n- **Binary:** the final machine code the hardware actually runs.\n- **Register:** a tiny, very fast storage slot inside the processor.\n- **Overhead:** extra running time caused by the measurement itself."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.01560",
+     "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+     "authors": [
+      "Jiarui Yuan",
+      "Yuxin Zuo",
+      "Xiaoyu Huang",
+      "Wenbo Zhang",
+      "Kwanyoung Park",
+      "Junlin Yang",
+      "Tianxiang Zhang",
+      "Ruoqu Chen"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A shared open harness lets open-weight models control robots through common tools, and an open Qwen model with it tops a published GPT-6 Astra score.",
+     "image": "https://paper-assets.alphaxiv.org/paper-figures/01a1a4b5-6def-7996-8d5c-7f85ecef0463/01a1a4c9-07e4-710d-85d7-fb5023aad85b.png",
+     "abs_url": "https://arxiv.org/abs/2611.01560",
+     "pdf_url": "https://arxiv.org/pdf/2611.01560",
+     "summary_md": "## In one sentence\nThis paper builds a shared, open \"control harness\" that lets free, open-weight AI models operate real robots, and shows one such model beating a published result from a closed frontier model.\n\n## Background you need\nA \"robot-use agent\" is a general AI model that controls a robot by calling tools, like \"move arm here\" or \"close gripper,\" much as a chatbot calls a web search. This is different from a vision-language-action model, which is trained end-to-end on robot demonstrations to output motor commands directly. A \"harness\" is the software layer between the model and the robot: it defines the tools, sends commands and returns what the cameras and sensors see. Open-weight models are ones whose parameters anyone can download and retrain.\n\n## The problem\nThe best robot-use agents so far run on proprietary models from big labs. Researchers cannot retrain those models, and running many robot trials through paid services is costly. Each lab also builds its own harness, so results are hard to compare. The authors suspect that some failures blamed on open models actually come from clumsy interfaces between model and robot.\n\n## The idea\nThink of a universal TV remote. Whatever brand the TV, the same buttons work, because a small adapter translates them. The harness, called uni-robot-agent, gives every model the same set of robot \"buttons,\" with adapters for each simulator or physical robot.\n\n## How it works\n1. **One shared toolbox.** All agents get the same tools for moving, grasping, sensing, running skills and ending an episode.\n2. **Adapters per robot.** Each adapter turns those common commands into the robot's native ones and sends back images and results.\n3. **Keep thinking while the arm moves.** Tool calls run in the background. The model gets a ticket, keeps reasoning, and can cancel queued moves if its plan changes. Moves that need the same arm still run in order.\n4. **Grounded observations.** Every camera image is tagged with camera calibration and the robot's current pose. Receipts stop the robot from accidentally repeating a physical action.\n5. **Richer feedback.** Motion reports and \"after\" photos help the model tell \"I reached the cup\" apart from \"I actually grasped it.\"\n\n## Results\nOn the RoboDojo simulation benchmark, the open Qwen3.8-Flash-Next model with this harness scored 31.39 out of 100, with 25% of episodes fully successful. The published result for GPT-6 Astra with another harness was 28.97 and 22.48%. With the same Qwen model, the strongest alternative harness scored 21.01, so the harness alone was worth about 10 points.\n\nOn 19 real tabletop tasks, scored by rubric, the agent earned 53.50 points. A π0.5 robot policy, fine-tuned on 10 hours of demonstrations per task, earned 47.75. In five tests, the model's thinking overlapped 84.5% to 93.8% of the arm's movement time, so episodes finished sooner. Failures clustered into four skills: visual understanding, spatial grounding across cameras, geometric math and physical common sense.\n\n## Why it matters\nLabs without access to frontier models can now study and train robot agents on open models. A shared harness makes results more comparable. The four-skill breakdown also gives model builders a concrete list of what to improve.\n\n## Caveats\nThe win over GPT-6 Astra compares against a published number, with different trial counts (252 versus 2,100 episodes). The real-robot comparison is not controlled: the agent used a depth camera and the π0.5 policy was set up differently. Timing evidence comes from one episode per task. The links between the four skills and success are correlations, not proven causes. The paper builds infrastructure for training but does not train anything, and the real-robot code is still marked \"coming soon.\"\n\n## Key terms\n- **Robot-use agent:** a general AI model that controls a robot through tool calls.\n- **Harness:** the software connecting a model to a robot's tools and sensors.\n- **Open-weight model:** a model whose parameters are publicly downloadable.\n- **Vision-language-action model:** a model trained to turn images and instructions directly into motor commands.\n- **Success rate:** the share of attempts where the whole task was completed."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.05306",
+     "title": "You don't need long context",
+     "authors": [
+      "Peter Belcak",
+      "Saurav Muralidharan",
+      "Jindong Jiang",
+      "Yonggan Fu",
+      "Wonmin Byeon",
+      "Hanrong Ye",
+      "Ryan Angilly",
+      "Ali Taghibakhshi"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 0,
+     "tldr": "Agents that regularly rewrite their history into a short forward-looking brief, even after every single action, lose little or no accuracy on long tasks.",
+     "image": "https://paper-assets.alphaxiv.org/paper-figures/01a1a4c9-d8bf-7b27-880a-ed7dbaeff51a/01a1a542-0ac6-7c5c-8b69-2194c14bc74a.png",
+     "abs_url": "https://arxiv.org/abs/2611.05306",
+     "pdf_url": "https://arxiv.org/pdf/2611.05306",
+     "summary_md": "## In one sentence\nNVIDIA researchers show that AI agents can keep their working memory short, by regularly rewriting it into a compact brief, and still solve long tasks about as well as agents that remember everything.\n\n## Background you need\nA language model reads its \"context\" (everything in the current conversation) before writing each new word. An agent is a model that works in a loop: it takes an action, such as running a command, reads the result, and decides what to do next. In the usual setup, every action and result is appended to the context, so it keeps growing. \"Compaction\" means asking the model to replace that long history with a short written summary of what matters.\n\n## The problem\nLong contexts are expensive. Every new word the model writes has to look back over the whole conversation. The authors measured that late words in a long conversation cost far more to serve than early ones. On popular open-weight models, a server limited to a 16,000-token window pushed out 3.6 to 7 times more text per second than one set up for 256,000 tokens. Companies running coding agents pay for that difference on every request. The field has been racing to build ever-longer context windows. This paper asks whether agents really need them.\n\n## The idea\nThink of a nurse handing over a patient at shift change. The next nurse does not read every note from the past week. They get a short, focused handoff: the condition, what was done, what to watch next. The paper treats the model's context the same way. Instead of a growing diary, the agent keeps a forward-looking brief and starts fresh from it.\n\n## How it works\n1. **Baseline: keep everything.** The agent appends every action and result, the normal approach, for comparison.\n2. **Compact when full.** When the context hits a set size, the model writes a bounded handoff. A new conversation starts with only the original task plus that handoff.\n3. **The extreme version: one action per conversation.** The agent takes a single action, sees the result, updates its brief, and starts over. Its working memory never grows beyond one step.\n4. **Write the right kind of brief.** The best handoffs were not general summaries. They listed the task, progress so far, the plan, what \"done\" looks like, and pointers to useful files.\n5. **Treat big documents as files.** Instead of pasting a long document into the prompt, the agent searches it and reads only short excerpts.\n\n## Results\nThe team tested two closed frontier models, Claude Opus 4.5 and GPT 5.6 Sol, on many benchmarks. With \"compact when full,\" at most 5 of 22 settings per model lost more than 2 percentage points versus keeping everything. Some settings improved.\n\nOn a multi-document question set called LOONG, Claude with a tiny 16,000-token budget scored 79.3%, compared with 70.1% when given the full documents. Reading selectively helped rather than hurt.\n\nThe extreme one-action version is the most surprising. On SWE-bench Verified, a test of fixing real software bugs, Claude scored 70.2% versus 70.0% with full history. On Terminal-Bench 2.1, it scored 51.8% versus 47.2%. GPT 5.6 Sol lost 2 to 3.3 points. Meanwhile the typical live context was only 7,000 to 9,000 tokens, where full-history runs peaked at 130,000 to 200,000.\n\n## Why it matters\nIf short contexts are enough, agent providers could serve many more users on the same hardware. Builders of agents get a simple, model-agnostic trick to cut costs. The authors also sketch \"semantic state space models\": models trained to carry a readable, plain-language state from step to step, instead of an endlessly growing transcript.\n\n## Caveats\nThe main accuracy tests use only two closed models. The one-action test covers just two coding and terminal benchmarks. Results were mixed in places, and one model lost a few points. Compaction is lossy, so a detail dropped early may be needed later. The cost savings are estimates, not measured bills. The proposed new model type is an idea only; nothing was built or tested.\n\n## Key terms\n- **Context window:** the amount of text a model can look at at once.\n- **Token:** a chunk of text, roughly three-quarters of a word.\n- **Agent:** a model that acts in a loop, taking actions and reading their results.\n- **Compaction:** replacing a long history with a short written summary.\n- **Decode throughput:** how much new text a server can generate per second."
+    }
+   ]
+  }
+ ]
+}
