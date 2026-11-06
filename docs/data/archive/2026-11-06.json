@@ -1,0 +1,261 @@
+{
+ "date": "2026-11-06",
+ "generated": "2026-11-06T10:45:32+00:00",
+ "news": [
+  {
+   "title": "Anthropic's IPO buyers push its valuation down toward $1.5 trillion after tech sell-off",
+   "url": "https://investinglive.com/stocks/wsj-anthropic-ipo-investors-push-for-lower-1-5-trillion-valuation-after-tech-selloff/",
+   "source": "investinglive (citing WSJ)",
+   "summary": "Institutional investors lining up for Anthropic's stock-market listing are pressing for a valuation around $1.5 trillion, below earlier talk of $2 trillion, after a sharp drop in tech shares. Slower third-quarter growth is part of their argument.",
+   "ts": 1793934000,
+   "image": null
+  },
+  {
+   "title": "CrowdStrike agrees to buy AI security startups Fiddler and Dreadnode for about $495M",
+   "url": "https://thenextweb.com/news/crowdstrike-fiddler-dreadnode-acquisitions-ai-kill-switch",
+   "source": "The Next Web",
+   "summary": "CrowdStrike is buying AI-monitoring company Fiddler and AI red-teaming firm Dreadnode, and launched an 'AI kill switch' to stop misbehaving agents. The deals extend its push into securing AI systems inside companies.",
+   "ts": 1793901600,
+   "image": null
+  },
+  {
+   "title": "Meta acquires Conductor, a tool for running several AI coding agents at once",
+   "url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+   "source": "Axios",
+   "summary": "Meta bought Conductor, whose app lets developers split a coding project across multiple AI agents working in parallel. Conductor's cloud service shuts down on November 20.",
+   "ts": 1793822400,
+   "image": null
+  },
+  {
+   "title": "Claude Code product lead Cat Wu leaves Anthropic for OpenAI",
+   "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
+   "source": "Business Insider",
+   "summary": "Cat Wu, who led product for Claude Code, has joined OpenAI to run product management for its core products group. The move comes as the two labs fight hard for enterprise coding customers.",
+   "ts": 1793887200,
+   "image": null
+  },
+  {
+   "title": "Apple trims employees' daily AI spending allowances",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
+   "source": "Bloomberg",
+   "summary": "Apple reportedly cut some engineers' daily AI budgets from $300 to $200 and is weighing deeper cuts, nudging staff toward cheaper and on-device models. It is a sign that AI tool bills are now big enough to manage.",
+   "ts": 1793829600,
+   "image": null
+  },
+  {
+   "title": "Moonshot AI releases Kimi K3.1 Pro, a 2.8-trillion-parameter multimodal model",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "source": "Hugging Face (Moonshot AI)",
+   "summary": "The new open model takes text and images, handles a one-million-token context, and uses about 104 billion parameters per request thanks to a mixture-of-experts design. Moonshot pitches it for coding and agent work.",
+   "ts": 1793865600,
+   "image": null
+  },
+  {
+   "title": "Tencent launches Hy4, a 770B model that can read charts and operate computers",
+   "url": "https://technode.com/2026/11/04/tencent-launches-hy4-with-vision-and-computer-use-capabilities/",
+   "source": "TechNode",
+   "summary": "Tencent's new model can interpret documents and charts and drive graphical interfaces or command-line tools. It is available in Tencent's own products and through third-party platforms.",
+   "ts": 1793786400,
+   "image": null
+  },
+  {
+   "title": "Uber says almost no one books rides through AI agents yet",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "source": "TechCrunch",
+   "summary": "In its busiest October week, Uber saw only four ride bookings made by AI agents and about 500 Uber Eats orders, against roughly 320 million trips and orders. It is a reality check on consumer agent hype.",
+   "ts": 1793815200,
+   "image": null
+  },
+  {
+   "title": "How the AI industry's super PACs fared in the US midterms",
+   "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "source": "TechCrunch",
+   "summary": "Political groups funded by AI companies and by safety advocates spent millions on congressional races with mixed results, and several heavily backed candidates lost. AI is now a real line item in US campaign money.",
+   "ts": 1793808000,
+   "image": null
+  },
+  {
+   "title": "Judge trims music publishers' copyright case against Anthropic",
+   "url": "https://www.courthousenews.com/music-publishers-suffer-setback-in-copyright-case-against-anthropic/",
+   "source": "Courthouse News Service",
+   "summary": "A federal judge dismissed an infringement claim against CEO Dario Amodei, with permission to amend, and questioned whether publishers had shown that Claude reproduced protected lyrics. The broader lawsuit continues.",
+   "ts": 1793840400,
+   "image": null
+  },
+  {
+   "title": "AI demand is pulling chip supply away from phones and PCs, Siltronic CEO says",
+   "url": "https://www.reuters.com/business/ai-boom-draws-chip-supply-other-end-markets-siltronic-ceo-says-2026-11-04/",
+   "source": "Reuters",
+   "summary": "The head of wafer maker Siltronic said chipmakers are prioritising more profitable data-center orders. That could tighten supply and raise prices for consumer electronics.",
+   "ts": 1793793600,
+   "image": null
+  },
+  {
+   "title": "India's cybercrime agency warns banks about attacks run by AI agents",
+   "url": "https://www.reuters.com/legal/government/india-cybercrime-agency-warns-financial-firms-ai-attacks-2026-11-04/",
+   "source": "Reuters",
+   "summary": "India's national cybercrime body told financial firms that criminals are using AI agents to break into systems at machine speed. The advisory follows a similar warning from the central bank.",
+   "ts": 1793800800,
+   "image": null
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2510.01132",
+     "title": "A Practitioner's Guide to Multi-turn Agentic Reinforcement Learning",
+     "authors": [
+      "Ruiyi Wang",
+      "Prithviraj Ammanabrolu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A hands-on study of what actually matters when you train AI agents by trial and error over many steps: the tasks you train on, the rewards you give, and the starting model and algorithm.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2510.01132",
+     "pdf_url": "https://arxiv.org/pdf/2510.01132",
+     "summary_md": "## In one sentence\nThe authors ran many controlled experiments to find out which choices really decide whether training an AI agent by trial and error over long, multi-step tasks works, and turned the answers into a recipe.\n\n## Background you need\nAn \"agent\" here is a language model that acts in a world over many turns: it reads what it sees, types a command, sees the result, and continues. Reinforcement learning (RL) means training by trial and error: the model tries things and is nudged toward actions that earned a reward. \"Multi-turn\" RL gives the reward for a whole sequence of actions, not just one reply. SFT (supervised fine-tuning) is the other main option: the model simply copies expert demonstrations.\n\n## The problem\nTeams training agents face a huge menu of choices. Which tasks should the agent practise on? How often should it get a reward? Should it first copy demonstrations, and how many? Which RL algorithm? Papers usually report one successful setup, so nobody knows which choices mattered. That wastes a lot of expensive compute and makes results hard to reproduce.\n\n## The idea\nThink of coaching a new employee. You decide what jobs they practise on, how often you give feedback, and how much shadowing they do before working alone. The paper splits agent training into the same three \"pillars\": the environment (the practice tasks), the reward (the feedback), and the policy (the starting model plus the learning algorithm). It then changes one pillar at a time and measures the effect.\n\n## How it works\n1. **Pick test worlds.** They use TextWorld, a text adventure where rooms, objects and quest length can be dialled up; ALFWorld, text versions of household chores; and SWE-Gym, real software bug-fixing tasks.\n2. **Pick models.** Small and medium open models (Qwen 1.5B, 7B and 8B) act as agents. Only the tokens the agent actually types as actions are trained.\n3. **Vary the environment.** They change world size, number of objects, the step budget the agent is allowed, and how many task types are mixed in training.\n4. **Vary the policy.** They compare starting from demonstrations versus pure RL under a fixed budget, and three RL algorithms: PPO, GRPO and RLOO. PPO uses a learned \"critic\" that estimates how good a situation is; the other two do without one.\n5. **Vary the reward.** They compare one reward at the end versus extra small rewards along the way.\n\n## Results\nMulti-turn RL helps a lot. On a small TextWorld task, a 1.5B model went from 17% success to 88%. On a large world with many objects it went from 3% to 51%.\n\nMore objects hurt more than bigger maps. Giving the agent more steps helped up to a point: success rose from 55% with 6 steps to 88% with 16, but beyond about twice the shortest solution the gain was small.\n\nMixing task types helped. In ALFWorld, training on four chore types gave 80% success across all types, versus 59% when training on just one.\n\nA little imitation goes a long way. Sixty demonstrations plus 400 RL episodes reached 85% on the easy task and 59% on a harder one. Pure RL with 5,000 episodes matched on the easy task but scored only 12% on the hard one.\n\nAlgorithm choice mattered for small models. With the 1.5B model, PPO hit 59% on the harder task where RLOO scored zero. At 7B the gap narrowed. The best reward style depended on the algorithm.\n\n## Why it matters\nAnyone building agents for coding, web tasks or games can use this as a checklist before spending money on training runs. It suggests cheap wins: mix task types, give a modest step budget, start from some demonstrations, and favour a critic-based algorithm for small models.\n\n## Caveats\nTest sets are small (only 25 bug-fixing tasks), so some numbers are noisy. The reward study uses one environment and one model size. The cost comparison assumes a demonstration costs ten times an RL episode, which may not hold for you. Hyperparameters were tuned on one setting. A few numbers differ slightly between tables.\n\n## Key terms\n- **Agent:** a language model that takes actions over several steps and sees the results.\n- **Reinforcement learning (RL):** learning by trying actions and being rewarded for good outcomes.\n- **Supervised fine-tuning (SFT):** learning by copying expert examples.\n- **PPO:** a popular RL algorithm that uses a helper model (a \"critic\") to judge situations.\n- **Dense vs. sparse reward:** feedback at many steps versus only at the end.\n"
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2603.03251",
+     "title": "Speculative Speculative Decoding",
+     "authors": [
+      "Tanishq Kumar",
+      "Tri Dao",
+      "Avner May"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Lets the small 'guessing' model in speculative decoding prepare its next guesses before the big model has finished checking the current ones, so text comes out about 30% faster than the best existing method.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2603.03251",
+     "pdf_url": "https://arxiv.org/pdf/2603.03251",
+     "summary_md": "## In one sentence\nThis paper speeds up text generation from large language models by having the small helper model prepare its next batch of guesses in advance, for every likely way the big model might judge the current batch.\n\n## Background you need\nLanguage models write one token (a word piece) at a time, which is slow for big models. Speculative decoding is a popular fix. A small, fast \"draft\" model guesses several next tokens, and the big \"target\" model checks them all in one go. Correct guesses are kept, so several tokens can come out per big-model step. The output is exactly what the big model alone would have produced.\n\n## The problem\nEven with speculative decoding, the two models take turns. The draft model guesses, then waits while the big model checks. Then the big model waits while the draft model guesses again. That back-and-forth wastes time on every round. For chat, coding assistants and agents, this delay is what users feel as slow typing.\n\n## The idea\nPicture a chess player who, while the opponent is still thinking, prepares replies to the opponent's few most likely moves. When the move comes, the answer is often ready. Here, while the big model checks the current guesses, the draft model predicts how the check will turn out. It pre-computes the next guesses for each likely outcome and stores them. If the real outcome matches one of them, the next guesses are ready instantly.\n\n## How it works\n1. **Run the two models on separate GPUs.** The big model verifies while the draft model works at the same time instead of waiting.\n2. **Predict the verdict.** A verdict is how many guessed tokens get accepted, plus the one extra token the big model adds. The draft model uses its own confidence to predict this; the extra token is predicted correctly up to 90% of the time.\n3. **Fill a cache.** For each likely verdict, the draft model writes the next set of guesses into a lookup table keyed by that verdict.\n4. **Look up.** When the real verdict arrives, the system checks the table. A hit means zero drafting delay. A miss falls back to normal drafting.\n5. **Balance two goals.** Guesses that are easy to predict the verdict for are not always the guesses most likely to be accepted. The authors' version, called Saguaro, uses a new sampling scheme to balance the two, and a fallback plan tuned to batch size.\n\n## Results\nThe main test used a 70-billion-parameter Llama model on four H100 GPUs, with a 1-billion-parameter draft model on a fifth GPU. It averaged over math, coding and chat prompts.\n\nSaguaro was about 30% faster than the strongest standard speculative decoding setups. In practice, a reply that took 10 seconds would take roughly 7.7. It was up to 5 times faster than plain one-token-at-a-time decoding in open-source inference engines. When serving many users at once, where cache misses are more common, it still kept about a 20% edge. Output quality is unchanged, because the big model still checks every token.\n\n## Why it matters\nFaster generation means snappier assistants and lower cost per answer for anyone serving large models. The idea also stacks on top of existing tricks rather than replacing them. It turns idle waiting time into useful work.\n\n## Caveats\nIt needs an extra GPU for the draft model, which costs money and adds coordination. Cache misses grow with larger batches and with more random sampling (higher \"temperature\"), shrinking the gain. The headline numbers come from one main model pair. The summary here relies on the main text; detailed per-dataset tables were not reviewed.\n\n## Key terms\n- **Token:** a small chunk of text, often part of a word.\n- **Speculative decoding:** a small model guesses ahead; a big model checks the guesses in parallel.\n- **Draft / target model:** the small guesser and the big model whose output you actually want.\n- **Cache hit:** the needed answer was already prepared and stored.\n- **Lossless:** the speed-up does not change the final text at all.\n"
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2603.12201",
+     "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
+     "authors": [
+      "Yushi Bai",
+      "Qian Dong",
+      "Ting Jiang",
+      "Xin Lv",
+      "Zhengxiao Du",
+      "Aohan Zeng",
+      "Jie Tang",
+      "Juanzi Li"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "In models that only pay attention to a selected few past words, neighbouring layers pick almost the same words, so IndexCache lets most layers reuse the choice and speeds long-document processing by up to 1.8x.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2603.12201",
+     "pdf_url": "https://arxiv.org/pdf/2603.12201",
+     "summary_md": "## In one sentence\nIndexCache makes long-context language models faster by letting most layers reuse the \"which words to look at\" decision made by a nearby layer, instead of recomputing it every time.\n\n## Background you need\nAttention is how a language model decides which earlier words matter for the current one. Normal attention compares every word with every other word, so the cost grows with the square of the text length. Sparse attention only looks at the top few most relevant words. DeepSeek Sparse Attention (DSA) does this with a small \"indexer\" that scores past words and picks the top ones for each layer. A layer is one of the dozens of stacked processing stages in the model.\n\n## The problem\nThe indexer itself still compares every word with every other word, at every layer. For very long inputs, like a 200,000-token document, that adds up. It makes the first read of a prompt (\"prefill\") and the word-by-word writing (\"decode\") slower than they need to be. The authors noticed that consecutive layers usually pick very similar sets of words.\n\n## The idea\nImagine a team of editors reviewing a long report in turn. Each one first skims the whole thing to mark the important pages. But they nearly always mark the same pages. It is cheaper if one editor marks them and the next few reuse those bookmarks. IndexCache keeps a few \"full\" layers that run their own indexer, and lets the \"shared\" layers in between reuse the most recent full layer's picks.\n\n## How it works\n1. **Label layers.** Each layer is either Full (computes fresh picks) or Shared (copies the picks from the last Full layer). The first layer is always Full.\n2. **Choose the pattern without retraining.** Start with all layers Full. Repeatedly flip the one layer whose switch to Shared hurts quality least, measured on a small test set.\n3. **Or train for it.** Each remaining indexer is trained to pick words that are useful for all the layers that will reuse its picks, not just its own layer.\n4. **Run it.** At inference, Shared layers skip the indexer and use the cached picks. The code needs only a single extra branch.\n\n## Results\nThe main tests use a 30-billion-parameter DSA model on H100 GPUs. Keeping only one indexer in four removed 75% of indexer work. At 200,000 tokens of context, reading the prompt dropped from 19.5 seconds to 10.7 seconds, a 1.82x speed-up. Writing went from 58 to 86 tokens per second per request, about 1.48x.\n\nQuality held up when layers were chosen well. With the search method at one-in-four, the long-context score was 49.9 versus 50.2 for the original. Simply keeping every fourth indexer, without search, dropped it to 43.0. With training, keeping half the indexers even slightly beat the baseline (51.6 vs. 51.0). Early tests on the 744-billion-parameter GLM-5 model showed similar quality and at least 1.3x faster prefill and decode beyond 100,000 tokens.\n\n## Why it matters\nLong-context work, such as reading codebases, contracts or long chats, is where AI serving gets expensive. A cheap, mostly drop-in change that cuts nearly half the prompt-reading time lowers cost and waiting time. It also shows that a model's layers repeat a lot of work that can be shared.\n\n## Caveats\nIt only applies to models that already use this kind of indexer-based sparse attention. Going further, to one indexer in eight, clearly hurt long-context quality. The layer search needs many test runs and is not guaranteed to find the best pattern. GLM-5 results are preliminary and training-free only. Speed-ups beyond 200,000 tokens are estimates.\n\n## Key terms\n- **Attention:** the step where a model decides which earlier words to focus on.\n- **Sparse attention:** attending to only a selected handful of past words to save compute.\n- **Indexer:** a small scoring module that picks which past words each layer should look at.\n- **Prefill / decode:** reading the whole prompt once, then generating the answer word by word.\n- **Context length:** how much text the model is handling at once, measured in tokens.\n"
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2510.16996",
+     "title": "STARK: Strategic Team of Agents for Refining Kernels",
+     "authors": [
+      "Juncheng Dong",
+      "Yang Yang",
+      "Tao Liu",
+      "Yang Wang",
+      "Feng Qi",
+      "Vahid Tarokh",
+      "Kaushik Rangadurai",
+      "Shuang Yang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A team of three AI agents (planner, coder, debugger) searches through versions of GPU code and finds correct, faster kernels far more often than a single AI agent does.",
+     "image": "https://arxiv.org/html/2510.16996v1/Figures/intro_3.png",
+     "abs_url": "https://arxiv.org/abs/2510.16996",
+     "pdf_url": "https://arxiv.org/pdf/2510.16996",
+     "summary_md": "## In one sentence\nSTARK uses a small team of cooperating AI agents, plus a smart search over past attempts, to automatically rewrite GPU code so that it runs correctly and faster.\n\n## Background you need\nA GPU kernel is a small program that runs one operation, like a matrix multiply, on a graphics chip. Every AI model is built from thousands of kernel calls, so faster kernels mean cheaper training and serving. Writing fast kernels is a rare, specialist skill. KernelBench is a public test set of such operations, split into Level 1 (single operations), Level 2 (small fused combinations) and Level 3 (whole model blocks).\n\n## The problem\nLanguage models can write kernel code, but a single model working alone often produces code that does not compile, gives wrong answers, or is slower than the default PyTorch version. Simple retry loops waste attempts on dead ends. Meanwhile companies spend huge sums on GPU time that better kernels could save.\n\n## The idea\nThink of a small engineering team working on a whiteboard of ideas. A lead suggests what to try, a programmer implements exactly that, and a debugger fixes what breaks. Everyone can see the best attempts so far, and the team keeps exploring promising branches rather than starting from scratch. STARK copies this setup with three AI agents and a tree of past attempts.\n\n## How it works\n1. **Three roles.** A plan agent proposes an optimisation, using a higher randomness setting to encourage varied ideas. A code agent writes it, and a debug agent repairs failures; both use low randomness for precision. All three are Claude Sonnet 4 in the paper.\n2. **Grounded instructions.** The planner wraps the exact code region to change in special marker tags. The coder must make its edit inside those markers. This cuts cases where the code drifts away from the plan.\n3. **Tailored memory.** Each agent sees a different, small slice of history: for example, the planner sees the current attempt's children and the global best attempts. Each window is capped at five past attempts, so prompts stay focused.\n4. **Tree search.** Every attempt is a node scored by runtime; failures score as infinitely slow. The system mostly expands the best nodes but explores randomly about 30% of the time, and prunes branches that keep failing. Each task gets at most 30 attempts.\n\n## Results\nOn a subset of KernelBench measured on an A100 GPU, STARK produced a working kernel for 100% of tasks at all three levels. It beat the default PyTorch version on 71% of Level 1 tasks, all Level 2 tasks and 88% of Level 3 tasks. A basic single-agent sampler managed 14%, 50% and 50%.\n\nAverage speed versus default PyTorch was 3.03x on Level 1, 2.69x on Level 2 and 1.58x on Level 3. In practice, an operation that took 3 milliseconds would take about 1 millisecond at Level 1. The baselines were often slower than PyTorch itself, at 0.79x to 1.24x. Removing either the multi-agent setup or the search cut the Level 3 win rate from 88% to 68%.\n\n## Why it matters\nKernel tuning is a bottleneck for every AI lab and chip vendor. An agent system that finds faster, correct kernels with a fixed budget could save compute at scale. It could also help new hardware get optimised software sooner. The design lessons (split roles, precise instructions, focused memory, guided search) apply to other coding agents too.\n\n## Caveats\nTests used only a representative subset of KernelBench because of compute limits, so task counts per level are small. Only one AI model and one GPU type were tested. Per-attempt correctness is still low: only about a third of individual attempts at Level 3 are correct, so the search budget matters. The paper does not test new operators or other chips.\n\n## Key terms\n- **GPU kernel:** a small program that runs one operation on a graphics chip.\n- **KernelBench:** a benchmark of operations for testing AI-written kernels.\n- **PyTorch eager:** the default, unoptimised way PyTorch runs operations; the usual speed baseline.\n- **Tree search:** exploring many versions by branching from the most promising earlier attempts.\n- **Agent:** an AI model that takes actions, here writing and fixing code.\n"
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2511.01571",
+     "title": "PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model",
+     "authors": [
+      "Wenqi Liang",
+      "Gan Sun",
+      "Yao He",
+      "Jiahua Dong",
+      "Suyan Dai",
+      "Ivan Laptev",
+      "Salman Khan",
+      "Yang Cong"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A robot-control model that understands images down to individual object outlines and accepts pointing-style prompts, beating OpenVLA by 10-29 points while costing a tiny fraction to pretrain.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2511.01571",
+     "pdf_url": "https://arxiv.org/pdf/2511.01571",
+     "summary_md": "## In one sentence\nPixelVLA teaches a robot-control AI to understand exactly which pixels belong to which object, and to accept visual hints like a click or a box, so it picks and places things more reliably.\n\n## Background you need\nA vision-language-action model (VLA) looks at a camera image, reads an instruction like \"put the apple in the bowl\", and outputs robot arm movements. Most VLAs are built from image-chat models and trained on image, text and action data. \"Pixel-level\" understanding means knowing an object's exact outline, not just roughly where it is. OpenVLA is a widely used open VLA that serves as the main point of comparison.\n\n## The problem\nToday's VLAs see scenes coarsely. They may know there is a cup but not exactly where its handle is. They also depend heavily on text, which is awkward when \"the left one\" is ambiguous or when a user would rather just point. These gaps cause failed grasps. Collecting new robot data with detailed labels is very expensive.\n\n## The idea\nThink of guiding a new helper in a busy kitchen. Saying \"grab the mug\" works badly if there are three mugs. Pointing at one, or tracing it with your finger, works much better. PixelVLA gives the robot that ability. It can take text, points, lines, boxes or masks as instructions, and it builds an outline-level picture of the target object.\n\n## How it works\n1. **Start from OpenVLA's parts.** It reuses two image encoders (DINOv2 and SigLIP) and a 7-billion-parameter Llama 2 language model.\n2. **Add two new modules.** A visual prompt encoder, borrowed from Meta's Segment Anything, reads points, lines, boxes or masks. A pixel-aware encoder pools image features inside the target object's outline at several scales.\n3. **Output smooth motions.** A small action decoder predicts continuous arm commands for the next eight steps, instead of picking from a fixed list of discrete moves.\n4. **Build labelled data automatically.** The team made Pixel-160K from existing robot datasets. One tool finds the gripper when it closes; another names and outlines the target object. After discarding about a fifth as failures, they had 160,000 episodes and 6.5 million image, text and action examples.\n5. **Train cheaply in two stages.** First only the action decoder learns, with the rest frozen. Then the new modules and small add-on weights (LoRA) are trained on Pixel-160K.\n\n## Results\nIn the SimplerEnv simulator with a Google robot, average success rose from OpenVLA's 32.7% to 61.4% in one setting and from 40.0% to 50.1% in another. That is a gain of 28.7 and 10.1 points. On the LIBERO benchmark, it averaged 86.7% versus 76.5% for OpenVLA. It did especially well on long multi-step tasks: 82.6% versus 53.7%.\n\nThe authors say pretraining cost about 1.5% of OpenVLA's. Ablations show the pixel-level stage gave the biggest boost, adding 8 points on its own. It does not win everywhere: SpatialVLA scored higher in one Google robot setting.\n\n## Why it matters\nBetter object-level vision plus point-and-click instructions could make home and warehouse robots easier to direct and less error-prone. The automatic labelling pipeline also shows how to reuse existing robot data instead of collecting new data. The low training cost puts this within reach of smaller labs.\n\n## Caveats\nAll results are in simulation; there are no real-robot tests. The model sees only one low-resolution camera view. Automatically made labels likely contain some noise. One number in the text does not match its table. An extra segmentation step adds a little inference cost, estimated at about 1%.\n\n## Key terms\n- **VLA (vision-language-action model):** an AI that turns camera images and instructions into robot movements.\n- **Segmentation mask:** a pixel-by-pixel outline of an object in an image.\n- **Visual prompt:** an instruction given by pointing, drawing a line or box, instead of words.\n- **LoRA:** a cheap way to fine-tune a big model by training small add-on weights.\n- **Ablation:** removing one part of a system to see how much it contributed.\n"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2510.14979",
+     "title": "From Pixels to Words -- Towards Native Vision-Language Primitives at Scale",
+     "authors": [
+      "Haiwen Diao",
+      "Mingxuan Li",
+      "Silei Wu",
+      "Linjun Dai",
+      "Xiaohua Wang",
+      "Hanming Deng",
+      "Lewei Lu",
+      "Dahua Lin"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "NEO is an image-and-text AI with no separate image encoder: one network reads pixels and words together, and it gets close to standard designs using far less training data.",
+     "image": "https://arxiv.org/html/2510.14979v2/motivation.png",
+     "abs_url": "https://arxiv.org/abs/2510.14979",
+     "pdf_url": "https://arxiv.org/pdf/2510.14979",
+     "summary_md": "## In one sentence\nNEO is a family of vision-language models that handle images and text in a single unified network, instead of bolting a separate image-reading module onto a language model.\n\n## Background you need\nA vision-language model (VLM) answers questions about images, such as reading a chart or describing a photo. Most VLMs are \"modular\": a pretrained vision encoder turns the image into features, and a language model reasons over them. A \"native\" VLM drops the separate encoder and learns to read pixels and words in one network. This paper's design is the base of the newly trending robot-control follow-up, NEO-VLA.\n\n## The problem\nModular VLMs work well, but they lock in the vision encoder's view of the image. Fine details the encoder throws away can't be recovered. They are also harder to scale as one system. Earlier native models lagged well behind modular ones, and it wasn't clear how to build them properly. So most teams stuck with the bolted-on approach.\n\n## The idea\nImagine a translator who reads a comic book. A modular reader hands the pictures to a separate describer and only reads the descriptions. A native reader looks at pictures and speech bubbles together, in one pass. NEO builds that second kind of reader. It gives the network ways to handle the 2D layout of images and the 1D order of text in the same building block.\n\n## How it works\n1. **Cut images into patches.** Two small convolution layers turn each 32-by-32-pixel square into one token, the same kind of unit used for words.\n2. **Give every token a position in time, height and width.** Text uses only the time position; image patches use height and width. This is a version of \"RoPE\", the method models use to know where each token sits.\n3. **Mix attention styles.** Text tokens only look backward, as in normal language models. Image tokens can look at each other in all directions, since a picture has no reading order.\n4. **Train in stages.** A new, randomly initialised front section (the \"pre-buffer\") learns from 345 million image-caption pairs while the language part is mostly frozen. Then the full model trains on 40 million mixed tasks and about 4 million instructions. The two parts are then merged into one model.\n\n## Results\nNEO comes in 2.2-billion and 9-billion-parameter sizes, built on Qwen3 language models. At the small size, it slightly beat an encoder-based model trained the same way on most general benchmarks. For example, it scored 48.6 versus 47.1 on MMMU, a college-level reasoning test.\n\nIt clearly beat earlier native models. HoVLE scored 32.2 on MMMU; NEO scored 48.6. It still trails top modular models trained on more data, such as InternVL3, especially on text-heavy documents. On DocVQA, a document-reading test, the 8B NEO scored 88.6 versus 95.7 for Qwen2.5-VL.\n\nDesign checks support the choices. Mixed attention beat purely backward-looking attention, 44.0 versus 40.3 on average. The new position scheme beat five alternatives.\n\n## Why it matters\nA single network for pixels and words is simpler to scale and can keep fine visual detail. That matters for robotics, where exact geometry counts, as the NEO-VLA follow-up shows. The authors release reusable components so others can build native models without starting from zero.\n\n## Caveats\nNEO still lags on knowledge-heavy and text-in-image tasks. The bigger model didn't beat the smaller one on some document tests, which the authors blame on their training data. It used less data than many rivals and no reinforcement learning, so comparisons aren't fully like-for-like. Dataset bias and misuse risks remain.\n\n## Key terms\n- **Vision-language model (VLM):** an AI that understands both images and text.\n- **Vision encoder:** a separate pretrained network that converts an image into features.\n- **Token:** the basic unit a model processes; here both word pieces and image patches.\n- **RoPE (rotary position embedding):** a way to tell the model where each token sits.\n- **Attention:** how each token decides which other tokens to focus on.\n"
+    }
+   ]
+  }
+ ]
+}
