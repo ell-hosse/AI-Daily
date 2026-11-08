@@ -1,0 +1,254 @@
+{
+ "date": "2026-11-08",
+ "generated": "2026-11-08T05:45:00-05:00",
+ "news": [
+  {
+   "title": "Claude Code's \"don't ask again\" setting leaked thousands of secrets to public GitHub",
+   "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+   "source": "The Hacker News",
+   "summary": "Security firm Apiiro found that approving a command with \"don't ask again\" saves the full command, credentials included, in a plain-text settings file that is not ignored by git. Scanning public repositories, it found real secrets committed in more than a thousand such files.",
+   "ts": 1794109094,
+   "image": null
+  },
+  {
+   "title": "NYT: some Chinese firms cleared to handle Nvidia H200 chips operate from empty offices",
+   "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+   "source": "The New York Times",
+   "summary": "A New York Times investigation found that several companies approved by the US Commerce Department to receive H200 chips have vacant offices or links to blacklisted firms. Lawmakers from both parties are now calling for an independent audit of the approvals.",
+   "ts": 1794076694,
+   "image": null
+  },
+  {
+   "title": "Microsoft Research shuts its AI Frontiers group, and John Langford leaves",
+   "url": "https://hunch.net/?p=13764006",
+   "source": "hunch.net",
+   "summary": "Langford writes that the roughly 50-person lab behind AutoGen and the Fara agent has ended after being folded into Microsoft AI. He is leaving too, saying a scaling-only focus pushed out research-driven work.",
+   "ts": 1794026294,
+   "image": null
+  },
+  {
+   "title": "Elvis Presley's estate and Eminem's publisher sue Suno over AI music",
+   "url": "https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/",
+   "source": "Variety",
+   "summary": "Two federal copyright suits filed in California accuse the AI song generator of copying the artists' work, with the Presley complaint also invoking Tennessee's ELVIS Act on voice cloning. Suno says its tool exists to help people make original music.",
+   "ts": 1794087494,
+   "image": null
+  },
+  {
+   "title": "Activists break into Microsoft's Amsterdam data center site as protests spread across Europe",
+   "url": "https://www.reuters.com/world/europe/activists-breach-microsoft-data-centre-construction-site-protests-spread-europe-2026-11-06/",
+   "source": "Reuters",
+   "summary": "More than 100 protesters entered the construction site, some climbing cranes, as part of coordinated actions in 16 countries against AI data centers. Organizers want tighter rules on the energy, water and land these facilities use.",
+   "ts": 1793990294,
+   "image": null
+  },
+  {
+   "title": "Southeast Asia now hosts half of Asia-Pacific's data center builds, and Thailand hits pause",
+   "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+   "source": "The Guardian",
+   "summary": "Malaysia and Thailand lead a regional boom that accounts for about half of the capacity under construction in Asia-Pacific. Thailand has suspended 49 projects and frozen approvals for 117 more as electricity becomes the main constraint.",
+   "ts": 1794062294,
+   "image": null
+  },
+  {
+   "title": "Microchip says AI customers are crowding everyone else out of chip factories",
+   "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/",
+   "source": "24/7 Wall St.",
+   "summary": "Microchip's CEO said AI buyers have taken over capacity at outside assembly and test houses, stretching standard lead times to as long as 32 weeks. The company's shares fell about 10% on the warning.",
+   "ts": 1794069494,
+   "image": null
+  },
+  {
+   "title": "Anthropic describes how its agents remember, including a 'dreaming' step during idle time",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Anthropic",
+   "summary": "The research post splits agent memory into notes written during a session, judgments by stronger models about what matters, and consolidation that runs while the agent is idle. It is the company's first public account of using spare compute this way.",
+   "ts": 1794011894,
+   "image": null
+  },
+  {
+   "title": "Hackers used AI agents to steal Apple signing certificates for under $1,500",
+   "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+   "source": "Check Point Research",
+   "summary": "Check Point says a single operator ran autonomous agents for about two weeks to steal hundreds of Apple code-signing certificates and many game accounts. The model usage for the whole campaign cost an estimated $700 to $1,500.",
+   "ts": 1794026294,
+   "image": null
+  },
+  {
+   "title": "Ai2 releases ToyBlocks, an open robot-arm simulator with 85,000 demonstrations",
+   "url": "https://www.spokesman.com/stories/2026/nov/06/why-a-seattle-ai-lab-is-making-robots-play-with-to/",
+   "source": "The Spokesman-Review",
+   "summary": "The Allen Institute for AI published the simulator, automatically generated demos, training code and model weights. Policies trained in it hit 81% on basic skills but struggled when blocks were moved to new spots.",
+   "ts": 1794004694,
+   "image": null
+  },
+  {
+   "title": "CesiumAstro raises $730M to build a 737-satellite constellation with onboard AI",
+   "url": "https://pulse2.com/cesiumastro-raises-730-million-in-series-d-funding-at-over-4-5-billion-valuation-to-build-737-satellite-ai-constellation/",
+   "source": "Pulse 2.0",
+   "summary": "The Series D values the Texas space company at more than $4.5 billion. It brings CesiumAstro's 2026 fundraising to over $1.2 billion.",
+   "ts": 1794062294,
+   "image": null
+  },
+  {
+   "title": "Meta indefinitely pauses new terms that would let it use publishers' content for AI",
+   "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/",
+   "source": "Nieman Lab",
+   "summary": "The commercial terms were due to take effect on November 20. Meta backed off after a Norwegian injunction, a Brazilian court order, a UK competition probe and pushback from publishers.",
+   "ts": 1793975894,
+   "image": null
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.05072",
+     "title": "Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving",
+     "authors": [
+      "Junzhe Wang",
+      "Jinqing Zhang",
+      "Qingjie Liu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Instead of imagining the future separately for every possible path a self-driving car could take, this model builds one shared picture of what is coming and lets every path look things up in it, giving better choices with less compute.",
+     "image": "https://arxiv.org/html/2611.05072v1/Intro_v4.png",
+     "summary_md": "## In one sentence\nRFWorld helps a self-driving car pick the best of many possible paths by building one shared \"memory\" of how the scene will unfold, instead of simulating the future separately for each path.\n\n## Background you need\nAn end-to-end driving model turns raw sensor data (camera images and LiDAR, a laser scanner that measures distance) straight into a planned path. Many modern planners first propose hundreds of candidate paths, then score each one and pick the winner. A world model is a network that predicts how the scene will change over the next few seconds. It helps the scorer judge whether a path will lead to trouble.\n\n## The problem\nThe usual way to use a world model for scoring is called a rollout. For every candidate path, the model imagines the future step by step. With 1,024 candidates and several future steps, that is thousands of predictions per decision. Cost grows with both the number of candidates and the planning horizon. Each predicted step also builds on the previous guess, so small errors snowball. The authors argue this is wasted effort: to compare paths, you do not need a full picture of the future for each one. You only need the bits of the future that matter for telling good paths from bad ones.\n\n## The idea\nThink of a tour guide who studies a city map once in the morning. When tourists ask about different routes, the guide just glances at the relevant streets on that one map. They do not redraw the city for each question. RFWorld builds one shared, path-independent memory of the scene. Each candidate path then \"queries\" only the spots in that memory it would pass through.\n\n## How it works\n1. **Propose candidates.** Camera and LiDAR inputs are fused into a bird's-eye-view map of the surroundings. The model starts from 1,024 template paths and nudges each one to fit the scene.\n2. **Build one shared memory.** A transformer (the standard attention-based network) turns the bird's-eye map into a set of memory tokens. All candidates share this single memory.\n3. **Teach the memory about the future, during training only.** A side branch asks the memory to predict labeled maps (where roads, cars and people will be) at several future moments. This forces the memory to hold future-relevant information. The branch is removed at test time.\n4. **Score each path with cheap lookups.** Each waypoint of a path reads a few nearby features from the memory using deformable attention (a method that samples only a handful of relevant locations). The path's features go to small heads that predict safety scores: collision, staying on the road, time to collision, progress and comfort.\n5. **Pick the winner.** The highest-scoring path is driven.\n\n## Results\nOn NAVSIM, a benchmark built from real driving logs, RFWorld scores 90.5 on the main metric (PDMS, a combined safety-and-progress score out of 100). The prior world-model scorers WoTE and ResWorld reach 88.3 and 89.0. Human drivers score 94.8, so the gap to humans shrinks noticeably. RFWorld is also best on collision avoidance (99.0) and time-to-collision (96.0), though not on every sub-metric.\n\nIn the CARLA simulator benchmark Bench2Drive, it completes 31.4% of routes with a driving score of 62.4, ahead of the TCP baseline (30.0% and 59.9).\n\nSpeed matters too. With 1,024 candidates, scoring takes 37.5 milliseconds versus 49.2 for WoTE on the same GPU. Training memory drops from 33.9 GB to 8.7 GB. Doubling candidates barely changes RFWorld's latency, while the rollout approach keeps slowing down.\n\n## Why it matters\nCar computers have tight power and time budgets. A scorer whose cost barely grows with the number of options lets planners consider more paths without missing their deadline. The approach also suggests a broader lesson: world models for planning may not need to imagine everything, only what helps a decision.\n\n## Caveats\nThe latency savings are modest at the tested sizes, about 12 milliseconds. The closed-loop comparison uses few, older baselines. Training still needs labeled future maps, which are costly to make. The authors note failures when perception is poor or when hazards sit near the edge of sensor range. Results are single runs with no error bars.\n\n## Key terms\n- **End-to-end driving:** one network maps sensor input directly to a driving plan.\n- **World model:** a network that predicts how a scene will change.\n- **Rollout:** imagining the future step by step for one specific plan.\n- **Bird's-eye view:** a top-down map of the area around the car.\n- **PDMS:** NAVSIM's combined score for safety, progress and comfort.\n",
+     "abs_url": "https://arxiv.org/abs/2611.05072",
+     "pdf_url": "https://arxiv.org/pdf/2611.05072"
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2605.17613",
+     "title": "VeriCache: Turning Lossy KV Cache into Lossless LLM Inference",
+     "authors": [
+      "Jiayi Yao",
+      "Samuel Shen",
+      "Kuntai Du",
+      "Shaoting Feng",
+      "Dongjoo Seo",
+      "Rui Zhang",
+      "Yuyang Huang",
+      "Yuhan Liu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Use a compressed, slightly wrong copy of a language model's memory to guess the next tokens fast, then check them against the full memory, so you get the speed of compression with exactly the original output.",
+     "image": null,
+     "summary_md": "## In one sentence\nVeriCache lets a language model run fast on a shrunken version of its memory while guaranteeing the exact same answers it would give with the full memory.\n\n## Background you need\nWhen a large language model reads text, it stores a KV cache: its short-term memory of everything it has already read. For long documents this memory gets huge and fills the GPU. KV cache compression shrinks it by dropping less important tokens or storing numbers with fewer bits. Speculative decoding is a speed trick: a cheap \"drafter\" guesses several next words, and the full model checks them all in one go.\n\n## The problem\nCompression makes serving 2–5 times cheaper, but it changes the model's output. Each word is only slightly off, but the drift adds up over long answers. Fluent prose may survive, but strict formats break. In one test, a coding model with 4× compression kept good text scores yet produced almost no valid code patches, and function-call accuracy fell below 10%. Teams running agents and tools must choose between fast-but-wrong and exact-but-slow.\n\n## The idea\nPicture a student who drafts an essay from short notes, then has a teacher with the full textbook check each paragraph. Where the draft matches what the teacher would write, it stays. At the first mistake, the teacher fixes it and drafting restarts. VeriCache treats the compressed cache as the drafter and the full cache as the checker. Because both use the same model, the drafts are usually right.\n\n## How it works\n1. **Keep two memories.** The compressed cache sits in fast GPU memory. The full cache sits in slower CPU memory or remote storage.\n2. **Draft.** The model generates a run of tokens, for example 15 to 30, using only the compressed cache.\n3. **Verify.** The full cache is loaded and the model checks all drafted tokens in one pass. Tokens up to the first disagreement are kept, the correction is inserted, and the rest are discarded.\n4. **Stagger the checks.** Drafting is limited by GPU memory speed, while checking is limited by the link that loads the full cache. A scheduler spreads checks across requests so these two resources are never jammed at once.\n5. **Plug in any compressor.** A shared interface supports seven existing methods, including KVzip, SnapKV and KIVI. It is built on the vLLM serving engine.\n\n## Results\nOutputs match full-cache decoding; the measured difference is under 0.01 nats (a tiny statistical gap the authors put down to hardware noise). Without verification, KVzip on Llama-70B drifted so far that matching the original output had roughly a 1-in-2-million chance.\n\nFor long-context decoding, throughput rises 1.9–2.7× over the full cache, for example 256 versus 102 tokens per second on Llama-70B. Combined with a standard drafter, the best case reaches 4.3×. When compressed caches are streamed from remote machines, gains are 1.3–2.1×.\n\nDrafts are long and accurate: about 19–23 of 30 drafted tokens are accepted on average. The popular EAGLE drafter gets only 1–2 in this setting. On function calling, VeriCache keeps full accuracy, while plain compression lost up to about 30 points at the same speed.\n\n## Why it matters\nAgents, coding tools and structured outputs need exact results, not \"almost right\" text. VeriCache turns years of research on cache compression into something those workloads can safely use. It also gains more as GPU memory gets tighter, which is where serving costs hurt most.\n\n## Caveats\nThe full cache still has to live somewhere, so total memory use goes up. Draft length is fixed per workload rather than adapted per request. Existing compressors were designed for direct use, not for drafting, so better ones may exist. Gains in the remote setting depend heavily on hardware ratios and fall toward zero outside a sweet spot.\n\n## Key terms\n- **KV cache:** the model's stored memory of text it has already processed.\n- **Lossy compression:** shrinking data in a way that loses some detail.\n- **Speculative decoding:** a fast drafter guesses tokens, the full model checks them in bulk.\n- **Acceptance length:** how many drafted tokens survive each check.\n- **Throughput:** tokens produced per second across all users.\n",
+     "abs_url": "https://arxiv.org/abs/2605.17613",
+     "pdf_url": "https://arxiv.org/pdf/2605.17613"
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2512.17351",
+     "title": "Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers",
+     "authors": [
+      "Zeyuan Allen-Zhu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Adding a tiny layer that lets each word mix in information from its three previous neighbours makes many language-model designs much better at multi-step reasoning, as shown in carefully controlled synthetic tests.",
+     "image": null,
+     "summary_md": "## In one sentence\nThis paper builds clean synthetic tests to compare language-model designs fairly, and uses them to find \"Canon layers\", a tiny add-on that makes models reason several steps deeper.\n\n## Background you need\nA language model is a stack of layers. In a transformer, attention lets each word look at any earlier word, and an MLP (a small feed-forward network) processes each word on its own. Linear models such as Mamba are cheaper alternatives to attention that compress the past into a fixed-size memory. Positional encodings such as RoPE tell the model where each word sits in the sentence.\n\n## The problem\nComparing model designs is surprisingly hard. At typical academic scale, about 1.3 billion parameters and 100 billion training words, changing only the random seed moves benchmark scores by 1–4%. Real differences between designs drown in that noise. Even simple two-step reasoning (\"A is B's father, B is C's father, so A is C's...\") fails to appear at this scale. So researchers often cannot tell whether a new design helps.\n\n## The idea\nInstead of messy web text, the author trains on synthetic tasks with unlimited data and adjustable difficulty, like a physics lab that isolates one force at a time. Each task targets one skill: following chains of links, exploring a graph, storing facts, using stored facts in arithmetic, and parsing grammar. In this lab, a striking weakness shows up: information flows poorly between neighbouring words. Canon layers fix it, a bit like letting each person in a queue whisper to the three people just ahead.\n\n## How it works\n1. **Define the playground.** Five task families measure reasoning depth, reasoning breadth, knowledge capacity, knowledge manipulation and structure parsing. All models see the same data in the same order.\n2. **Add Canon layers.** Each Canon layer gives every token a learned weighted mix of itself and its previous three tokens. Technically it is a small causal convolution with a skip connection, adding about 0.5% more parameters.\n3. **Place them in up to four spots.** Before attention, inside attention, before the MLP, and inside the MLP. These are called positions A, B, C and D.\n4. **Test across designs.** The same layers are tried in standard transformers, transformers without positional encoding, mixture-of-experts models, and linear models such as GLA and Mamba2.\n5. **Check at real scale.** Models of 1.3 billion parameters are trained on 100 billion tokens of web data.\n\n## Results\nIn a standard transformer, Canon layers multiply reasoning depth by 2–4. On one chain-following task, the plain model nearly fails at 4 hops, while the Canon version tops 50% at 8 hops. Reasoning breadth improves about 30%, and fact storage 10–15%.\n\nA transformer with no positional encoding goes from near-zero to matching the standard one. A linear model, GLA, jumps from 1-hop to 4-hop reasoning and beats Mamba2 on one task. The paper also explains why Mamba2 works well: it already contains a small built-in convolution. Remove it, and Mamba2 falls to GLA's level.\n\nAt real scale, Canon lifts weaker designs to match stronger ones, though top designs end up roughly tied. Every model still fails two-step reasoning at that size.\n\n## Why it matters\nCanon layers are cheap, simple and work across many designs, so they are an easy upgrade for model builders. The synthetic-lab method may matter even more. It lets small teams find architectural differences that would otherwise cost huge training runs to see.\n\n## Caveats\nReal-world tests stop at 1.3 billion parameters; larger results are only described, not reported in numbers. A naive implementation slows training by about 6–21% on an H100 GPU. One placement conflicts with mixture-of-experts routing. The four-token window cannot fix every hard case. Long-context behaviour and hybrid designs were not studied.\n\n## Key terms\n- **Attention:** lets each word gather information from any earlier word.\n- **Linear model:** a cheaper design that summarizes the past in fixed-size memory.\n- **Canon layer:** a tiny layer mixing each token with its three predecessors.\n- **Reasoning depth:** how many chained steps a model can do internally.\n- **Positional encoding:** a signal telling the model where each word sits.\n",
+     "abs_url": "https://arxiv.org/abs/2512.17351",
+     "pdf_url": "https://arxiv.org/pdf/2512.17351"
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2608.02611",
+     "title": "KernelBrain: Coarse-to-Fine, Budget-Aware Search for Agentic GPU Kernel Optimization",
+     "authors": [
+      "Shuai Che",
+      "Gang Peng"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "An AI agent writes many versions of a GPU program, throws out broken ones early, times the survivors more and more carefully, and uses profiler data to guide edits, finding faster code in less time.",
+     "image": null,
+     "summary_md": "## In one sentence\nKernelBrain is an AI agent that writes fast GPU code by trying many versions, filtering out bad ones cheaply, and spending careful testing only on the most promising.\n\n## Background you need\nA GPU kernel is a small program that runs one operation, such as a matrix multiply, across thousands of GPU cores at once. Triton is a Python-like language for writing kernels. Kernel speed decides how fast and cheap AI models run. Large language models can now write kernels, and agents loop over many attempts to improve them.\n\n## The problem\nKernel performance is touchy. A tiny change, like a different tile size (how much data each group of cores grabs at once), can make the compiler behave very differently. So the \"landscape\" of possible programs is rugged. Existing agent loops hit three issues. Many generated kernels fail to compile or give wrong answers. Timing measurements are noisy, so a lucky run can look like a winner. And loops that keep mutating a few top candidates tend to get stuck.\n\n## The idea\nThink of hiring with a staged interview. You read many CVs quickly, reject obvious mismatches, give a short call to the plausible ones, and hold a full-day interview only for finalists. KernelBrain does the same with code. It explores widely at first, discards broken candidates before timing them, and spends expensive, careful measurement only where it counts.\n\n## How it works\n1. **Explore broadly.** Early rounds ask the language model (GPT-5.4 here) for varied versions using expert hints from three families: better memory access, better overlap of compute and data movement, and better use of the GPU's cores.\n2. **Gate for correctness.** Each candidate must compile, keep the expected function signature, and match the reference output's shape and data type. Failures never reach the timer.\n3. **Climb a measurement ladder.** Candidates are timed in rungs: 4, then 16, then 60 repeated runs, with more input sizes at higher rungs. Only the top fraction move up, so noise is filtered before the final pick.\n4. **Edit with profiler data.** At the top rung, a profiler (a tool that shows where the GPU wastes time, such as memory stalls or idle cores) runs on finalists. Its readings go into the next prompt, so edits target the real bottleneck.\n5. **Repair outputs.** A parser fixes malformed code from the model before testing.\n\n## Results\nTests ran on one NVIDIA A100 GPU with a 30-minute search budget per task. Against standard PyTorch code, speedups range from 0.88× to 6.72×. The best case, a grouped convolution, ran up to 6.7 times faster. RMSNorm (a common normalization step) got 2.5–2.8×, attention 1.2–1.5×, and softmax about 1.3×.\n\nAgainst KernelAgent, a prior agent, KernelBrain is up to 1.4× faster on the final kernels. It also reached equal or better kernels while saving 17–48% of search time on five of six tasks. For one matrix-vector task, nothing beat PyTorch; all methods landed near 1×.\n\nThe filtering matters. Up to 52% of first-round candidates failed the correctness gate, and only 10–19% reached the final round.\n\n## Why it matters\nGPU time is one of the biggest costs in AI. Hand-tuning kernels needs rare experts and weeks of work. Agents that find good kernels reliably and quickly could let smaller teams match hand-tuned speed. The ladder idea, cheap filters first and expensive checks last, applies to many other AI search problems.\n\n## Caveats\nOnly one GPU type and one language model were tested. Search pools were small, 20–30 candidates. The system edits only Triton source, not the compiler. Some numbers in the paper conflict between sections, so exact figures should be read carefully. A few kernels ended slower than PyTorch.\n\n## Key terms\n- **GPU kernel:** a small program that runs one operation in parallel on a GPU.\n- **Triton:** a Python-like language for writing GPU kernels.\n- **Profiler:** a tool that shows where a program spends its time.\n- **Tile size:** how big a chunk of data each group of cores handles.\n- **Speedup:** how many times faster new code is than a baseline.\n",
+     "abs_url": "https://arxiv.org/abs/2608.02611",
+     "pdf_url": "https://arxiv.org/pdf/2608.02611"
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.08373",
+     "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+     "authors": [
+      "Fuhao Li",
+      "Wenxuan Song",
+      "Qizhou Huang",
+      "Ziyang Zhou",
+      "Jingbo Wang",
+      "Junwu E",
+      "Pengwei Wang",
+      "Yan Wang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A robot model is given extra pretraining that nudges its internal image features to match a 3D vision model's understanding of space, making it much better at real-world grasping and placing with no change at run time.",
+     "image": "https://arxiv.org/html/2611.08373v1/fig_teaser_v2.png",
+     "summary_md": "## In one sentence\nSLA teaches a robot's brain to understand 3D space during pretraining, by making its view of images resemble that of a dedicated 3D vision model.\n\n## Background you need\nA vision-language-action model (VLA) takes camera images and a typed instruction, like \"put the cup in the bowl\", and outputs robot arm movements. Most VLAs start from models trained on 2D photos and captions. Those models know what objects are, but not well how far away they are. π0.5 (pi-zero-point-five) is a popular open VLA used as the starting point here.\n\n## The problem\nPicking things up needs depth: how far is the cup, how tall is the bowl. Usually, 3D understanding is added only when fine-tuning a robot for one task, so it does not carry over. Feeding in depth sensors or point clouds directly is hard to scale. Sensors are noisy, robots differ, and many large robot datasets have no depth at all. The authors found that a standard VLA's internal features show almost no sense of depth.\n\n## The idea\nThink of an apprentice watching a surveyor. The apprentice never uses the surveyor's tools on the job, but learns to \"see\" distances the same way. SLA pairs the robot model with a frozen 3D vision model (OmniVGGT). During training, the robot model's internal image features are pulled toward the 3D model's features. After training, the teacher is removed and the robot runs exactly as before.\n\n## How it works\n1. **Start from π0.5.** The model architecture and how it runs on the robot stay unchanged.\n2. **Get 3D targets.** For each camera view, the frozen 3D model produces per-pixel spatial features. It uses depth and camera calibration when available and placeholders when not, so plain RGB data still counts.\n3. **Pick the best layers automatically.** Small learned gates blend features from all 18 internal layers before comparing them to the targets, rather than hand-picking one layer.\n4. **Train two goals at once.** The model learns to predict actions and to match the 3D features (via a similarity score). This runs both in large-scale continued pretraining and in task fine-tuning.\n5. **Drop the robot's state sometimes.** In about a quarter of examples, the arm's joint readings are hidden. This stops the model from memorizing motion patterns instead of looking at the scene.\n\nPretraining used six public datasets, about 1.7 million episodes before filtering, unified into one shared coordinate frame. It took about 110 hours on 48 H100 GPUs.\n\n## Results\nOn RoboTwin 2.0, a simulated two-arm benchmark, average success rose to 79.2% from 58.3% for plain π0.5. In its harder setting with randomized scenes, success went from 46.0% to 72.3%. On real robots across eight test conditions, average success reached 83.8% versus 59.8% for π0.5, a 24-point jump. On LIBERO-Plus, which adds visual and physical disturbances, it scored 87.4% versus 84.4%.\n\nAblations show both training stages matter: 48.2% with no 3D alignment, 72.3% with alignment in both stages. Hiding state 25% of the time was best; never hiding it gave just 38.1%.\n\n## Why it matters\nBetter spatial sense with zero extra cost at run time is attractive for real robots with limited onboard compute. The method uses existing datasets, even ones without depth. Other VLA builders could adopt the same trick.\n\n## Caveats\nOnly one base model, π0.5, was tested. Comparisons with other methods sometimes mix different amounts of training data. Real-robot tests used 50 trials per condition without error bars. One benchmark result also relied on an extra memory module. Pretraining is expensive, and the method depends on a strong 3D teacher model.\n\n## Key terms\n- **VLA:** a model mapping images and instructions to robot actions.\n- **Continual pretraining:** extra broad training on top of an existing model.\n- **Feature alignment:** training internal representations to resemble another model's.\n- **Camera calibration:** numbers describing a camera's lens and position.\n- **State dropout:** randomly hiding the robot's joint readings during training.\n",
+     "abs_url": "https://arxiv.org/abs/2611.08373",
+     "pdf_url": "https://arxiv.org/pdf/2611.08373"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2510.16907",
+     "title": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents",
+     "authors": [
+      "Kangrui Wang",
+      "Pingyue Zhang",
+      "Zihan Wang",
+      "Yaning Gao",
+      "Linjie Li",
+      "Qineng Wang",
+      "Hanyang Chen",
+      "Chi Wan"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A small vision-language agent is trained to write down what it sees and what it expects to happen next before each move, and rewarded for getting those right, which lets a 3B model beat much larger commercial models on visual tasks.",
+     "image": null,
+     "summary_md": "## In one sentence\nVAGEN trains a small image-understanding AI agent to describe the current scene and predict the next one before acting, and rewards it for accurate descriptions and predictions.\n\n## Background you need\nA vision-language model (VLM) reads images and text and writes text. As an agent, it acts over many turns: look, act, look again. Reinforcement learning (RL) trains such agents by rewarding good outcomes. A world model is an internal sense of how the world is now and how actions will change it.\n\n## The problem\nAn agent seeing only pictures does not get the true state of the world. In a puzzle, it must work out where the boxes are; in a house, what is behind the doorway. Text-based agents can get the state handed to them, but visual agents must infer it. When training with RL, rewards usually arrive only at the end of a long episode, so the agent struggles to learn which earlier turns helped. Small open models do especially poorly here.\n\n## The idea\nThink of a chess student told to say aloud, before each move, \"here is the board\" and \"here is what I expect after my move\". A coach scores both statements, not just the game result. VAGEN builds this into the agent's output format and its training rewards.\n\n## How it works\n1. **Structured thinking.** Before each action, the agent writes an observation section (what it sees now) and a prediction section (what it expects next). The authors compare this with no thinking, free-form thinking, and only one of the two sections.\n2. **Reward the thinking.** At every turn, a judge, either another language model or a simple matching score, compares the observation and prediction against the true state. Accurate statements earn reward, alongside rewards for valid formatting and for task progress.\n3. **Credit each turn properly.** A method called Bi-Level GAE first estimates how good each turn was, then spreads that credit over the words within the turn. This gives feedback turn by turn instead of only at the end.\n4. **Train with PPO.** PPO, a standard RL algorithm, updates only the words the agent wrote, not the observations it received.\n5. **Test widely.** Tasks include grid puzzles (Sokoban, FrozenLake), 3D home navigation, robot arm control, and redrawing an image as SVG code.\n\n## Results\nThe base model is Qwen2.5-VL-3B, a small open model with 3 billion parameters. Untrained, it scores 0.21 on the combined benchmark (higher is better, max 1). Plain PPO training reaches only 0.26. Adding the observe-and-predict format lifts it to 0.76. The full method, with turn-level rewards and credit assignment, reaches 0.82.\n\nFor comparison, GPT-5 scores 0.75, o3 0.73, Gemini 2.5 Pro 0.67 and GPT-4o 0.60. So a small trained model beats much larger commercial ones on these specific tasks. The best way to describe states varied: plain language for puzzles, structured lists for robot arm control.\n\n## Why it matters\nIt shows that asking an agent to track the world explicitly, and grading that tracking, is a strong training signal. Small open models trained this way could run cheaply on devices, robots or browsers. The released framework gives others a base for training visual agents.\n\n## Caveats\nTests used one model family and a limited set of environments, mostly simplified ones. The agent sometimes learned to \"game\" the judge with vague descriptions that still scored well. Some Gemini answers were blocked by safety filters, which affects that comparison. Beating large models here does not mean beating them on broad, open-ended tasks.\n\n## Key terms\n- **VLM:** a model that understands images and text together.\n- **Reinforcement learning:** training by rewarding good behaviour.\n- **World model:** an internal estimate of the current state and how it will change.\n- **PPO:** a widely used reinforcement learning algorithm.\n- **Credit assignment:** working out which past actions led to a reward.\n",
+     "abs_url": "https://arxiv.org/abs/2510.16907",
+     "pdf_url": "https://arxiv.org/pdf/2510.16907"
+    }
+   ]
+  }
+ ]
+}
