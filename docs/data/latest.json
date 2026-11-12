@@ -1,102 +1,102 @@
 {
- "date": "2026-11-11",
- "generated": "2026-11-11T11:18:39+00:00",
+ "date": "2026-11-12",
+ "generated": "2026-11-12T10:44:19+00:00",
  "news": [
   {
-   "title": "Anthropic launches Claude Sheets, Meetings and Whiteboards",
-   "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
-   "source": "Engadget",
-   "summary": "Anthropic unveiled a spreadsheet tool in beta, a meeting participant for Google Meet and a whiteboard organizer, and made Claude Data and Interactive Connectors generally available. Coverage tied a 2.2% dip in Microsoft shares to the office-suite push.",
+   "title": "Nvidia's board reportedly prepares to oust Jensen Huang",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
+   "source": "Tom's Hardware",
+   "summary": "Reports say Nvidia's board is working with an outside firm on possible replacements for its founder-CEO as a second affair, with a senior Nvidia executive, came to light. Shares fell sharply after hours and are down about 20% since the scandal began.",
    "image": null,
-   "ts": 1794330000
+   "ts": 1794452400
   },
   {
-   "title": "Google makes Gemini 4 Carbon available on its API and AI Ultra",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-   "source": "Google Blog",
-   "summary": "Gemini 4 Carbon, Google's model for long-running coding, cybersecurity and scientific reasoning, is now open to paid API and AI Ultra users at introductory pricing that rises after November 30. It leads several agent benchmarks, including CursorBench.",
+   "title": "Anthropic shuts off Claude access across mainland China",
+   "url": "https://www.tokenpost.com/news/technology/53665",
+   "source": "TokenPost",
+   "summary": "An updated regional policy now bars use from mainland China, from companies registered there and from entities controlled from restricted regions. Accounts showing risk signals must verify identity or be closed.",
    "image": null,
-   "ts": 1794333600
+   "ts": 1794470400
   },
   {
-   "title": "Anthropic sets its IPO price range at $70 to $78 a share",
-   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "source": "CNBC",
-   "summary": "Anthropic launched its roadshow with 825 million Class A shares to list on Nasdaq under the ticker ANT, a day after earlier pricing details were pulled. Reports say Nvidia and Google each plan to buy about $10B of stock.",
-   "image": null,
-   "ts": 1794319200
-  },
-  {
-   "title": "DeepMind's AlphaProof Code formally verifies parts of Signal's protocol",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "title": "DeepMind releases AlphaGenome 2 for research use",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "source": "Google DeepMind",
-   "summary": "An agentic system wrote about 6.5 million lines of machine-checked Lean proofs covering Signal's PQXDH handshake and Triple Ratchet code in roughly four weeks. DeepMind open-sourced the proofs and framework.",
+   "summary": "The new DNA model, trained on more than 107 million cell profiles, flags nearly twice as many gene-expression-altering variants as the first version. It is available through an API for non-commercial research.",
    "image": null,
-   "ts": 1794322800
+   "ts": 1794416400
   },
   {
-   "title": "OpenAI's third-quarter operating loss reaches $10.9B",
-   "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb",
-   "source": "The Wall Street Journal",
-   "summary": "Investor documents seen by the Journal show OpenAI's quarterly revenue rose about 50% to around $10B, but the operating loss widened even as its margin improved.",
+   "title": "Gemini Robotics 2.5 posts 96% success in Mercedes-Benz parts trial",
+   "url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+   "source": "SiliconANGLE",
+   "summary": "DeepMind's new vision-language-action model improved task success across more than 200 tested activities. Apptronik reported 96% success packing auto parts, and the model is going to partners including Boston Dynamics.",
    "image": null,
-   "ts": 1794326400
+   "ts": 1794420000
   },
   {
-   "title": "Mercor raises $750M at a $20B valuation",
-   "url": "https://investing.com/news/stock-market-news/ai-training-startup-mercor-valued-at-20-billion-in-latest-funding-round-5016179",
+   "title": "Hackers used open-source AI agents to steal 2,000 Tajik government files",
+   "url": "https://www.teiss.co.uk/news/kazakhstan-linked-hackers-used-ai-to-steal-tajik-government-documents-researchers-say-18447",
+   "source": "TEISS",
+   "summary": "CloudSEK says a Kazakhstan-linked group used the Hermes agent framework to plan the intrusion, write scripts and build a custom exfiltration tool. The operation surfaced only because the attackers left a server exposed.",
+   "image": null,
+   "ts": 1794409200
+  },
+  {
+   "title": "CoreWeave turns to $9B in customer prepayments to fund growth",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "source": "TechCrunch",
+   "summary": "The GPU cloud expects about $9 billion in prepayments and deposits over three months and is shifting to cheaper secured loans. It plans to add 500 MW of active power, reaching 1.5 GW.",
+   "image": null,
+   "ts": 1794434400
+  },
+  {
+   "title": "US and China set first frontier-AI dialogue for APEC in Shenzhen",
+   "url": "https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/",
    "source": "Reuters",
-   "summary": "The AI training company, which uses a network of over five million experts to evaluate and post-train frontier models, raised a Series D with Nvidia, Salesforce and Zoom among participants. It plans to spend on evaluations, post-training and more agent training environments.",
+   "summary": "Treasury Secretary Scott Bessent said the two countries will talk about evaluating advanced models and alerting each other to serious incidents, while still competing. The first meeting is planned for the Nov 18–19 APEC summit.",
    "image": null,
-   "ts": 1794322800
+   "ts": 1794405600
   },
   {
-   "title": "Nvidia shareholders sue over undisclosed Huang ties to alleged spy",
-   "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-shareholder-lawsuit-affair-chinese-spy/",
-   "source": "CBS News",
-   "summary": "A securities class action in San Jose accuses Nvidia and CEO Jensen Huang of hiding a relationship with an executive at Megaspeed, a firm linked to alleged Chinese espionage. Nvidia stock fell about 5 to 6% on the day.",
+   "title": "Records show PLA-linked university bought Nvidia H200 chips",
+   "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show",
+   "source": "Al Jazeera",
+   "summary": "Procurement documents show a Chinese university on the US Entity List bought H200s through a reseller with no known export license. Reuters found 26 similar records involving military-linked buyers.",
+   "image": null,
+   "ts": 1794412800
+  },
+  {
+   "title": "EU sets common rules for AI Act regulatory sandboxes",
+   "url": "https://eulawlive.com/commission-lays-down-common-rules-for-ai-regulatory-sandboxes/",
+   "source": "EU Law Live",
+   "summary": "A new implementing regulation standardizes how member states create and supervise sandboxes where companies can test AI systems under regulators' watch. The aim is to avoid 27 different regimes.",
+   "image": null,
+   "ts": 1794402000
+  },
+  {
+   "title": "Databricks launches always-on Genie agent",
+   "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-new-always-genie-autonomous-ai-complex",
+   "source": "Databricks",
+   "summary": "The second-generation Genie runs in the background on its own compute, hands work to sub-agents and reports through a priority inbox and email. It connects to more than 100 enterprise data sources.",
+   "image": null,
+   "ts": 1794416400
+  },
+  {
+   "title": "Microsoft Research backdoors AI agents by editing under 10 neurons",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+   "source": "Microsoft Research",
+   "summary": "The 'Lazarus' technique plants hidden behaviors by reprogramming a handful of dormant neurons, with no retraining. Frontier agents sometimes spot the tampering, but not reliably.",
    "image": null,
    "ts": 1794337200
   },
   {
-   "title": "IBM and Microsoft launch an industry agent platform with 6,000 prebuilt agents",
-   "url": "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
-   "source": "IBM Newsroom",
-   "summary": "The jointly built Imagine Enterprise platform bundles industry-specific agents with governance controls that log agent actions and enforce limits on how much they can do on their own.",
+   "title": "Spotify plans a $5-a-month AI remix add-on for 2027",
+   "url": "https://www.deseret.com/entertainment/2026/11/11/spotify-to-launch-ai-generated-remixes-and-covers/",
+   "source": "Deseret News",
+   "summary": "Universal, Merlin and Believe have signed on to let subscribers generate AI remixes and covers, while Sony and Warner are still negotiating. Artists will be able to opt out.",
    "image": null,
-   "ts": 1794315600
-  },
-  {
-   "title": "Google Cloud previews Gemini for Healthcare with seven hospital customers",
-   "url": "https://fortune.com/2026/11/10/google-gemini-for-healthcare-and-hospitals-northwell-medical-costs-affordability-insurance/",
-   "source": "Fortune",
-   "summary": "The US preview agent reads electronic health records through read-only access to prepare patient charts and prior-authorization packets, with Northwell among the launch partners.",
-   "image": null,
-   "ts": 1794315600
-  },
-  {
-   "title": "OpenAI opens Businesses in ChatGPT in beta",
-   "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents",
-   "source": "The Next Web",
-   "summary": "Verified companies can claim profiles inside ChatGPT and deploy agents that answer product questions, starting with eligible US e-commerce and online-service firms. Sponsored agents can also serve as ad destinations.",
-   "image": null,
-   "ts": 1794340800
-  },
-  {
-   "title": "Meituan releases open weights for its 1.6T-parameter LongCat-2.5",
-   "url": "https://venturebeat.com/technology/meituan-releases-the-open-weights-of-its-longcat-2-5-llm-with-vision-under-a-permissive-mit-license",
-   "source": "VentureBeat",
-   "summary": "The Chinese delivery giant published its mixture-of-experts agent model with vision and a 1-million-token context window under the permissive MIT license.",
-   "image": null,
-   "ts": 1794225600
-  },
-  {
-   "title": "Railway breach runs up about $740K in fraudulent AI charges",
-   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-   "source": "BleepingComputer",
-   "summary": "Attackers used two zero-day flaws in the cloud platform to steal customers' AI provider keys and rack up usage. Railway says it will cover charges that providers decline to refund.",
-   "image": null,
-   "ts": 1794333600
+   "ts": 1794427200
   }
  ],
  "tracks": [
@@ -106,25 +106,21 @@
    "color": "#22d3ee",
    "papers": [
     {
-     "id": "2611.13015",
-     "title": "From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings",
+     "id": "2611.14320",
+     "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
      "authors": [
-      "Yuhan Tang",
-      "Ke Fan",
-      "Xinkai Zou",
-      "Baichuan Mo",
-      "Kangxin Cui",
-      "Ao Qu",
-      "Ou Zheng",
-      "Jiangbo Yu"
+      "Yukyeong Lee",
+      "Yumin Choi",
+      "Jinheon Baek",
+      "Sung Ju Hwang"
      ],
-     "source": "arXiv new",
-     "upvotes": 0,
-     "tldr": "A new benchmark shows frontier AI agents rarely ask the questions that would change their plans, producing infeasible first plans on 58–98% of tasks when details are missing.",
-     "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.13015",
-     "pdf_url": "https://arxiv.org/pdf/2611.13015",
-     "summary_md": "## In one sentence\nThis paper builds a test called Ask2Decide that checks whether AI agents ask people the right questions before making a plan, and finds that today's best models mostly don't.\n\n## Background you need\nAn LLM agent is a language model that takes actions, such as drafting a delivery schedule, for a person. Real requests are often missing details, so a good agent should ask. Here, \"decision-relevant\" facts are ones that would change the best plan; \"twins\" are facts that sound similar but don't matter.\n\n## The problem\nMost agent tests hand the model every fact up front. Others use AI-simulated users that answer too helpfully. Real people are vague and short in their replies. So agents may look capable in tests but build wrong plans in practice, for example a route plan that ignores a closed road nobody mentioned.\n\n## The idea\nThink of a good contractor before a kitchen remodel. They don't ask about your favorite color of screws. They ask about the load-bearing wall and the plumbing, because those change the plan. Ask2Decide measures whether an agent acts like that contractor: asking about facts that matter and skipping look-alike details that don't.\n\n## How it works\n1. **Planning tasks with gaps.** The benchmark has 43 planning problems, drawn from standard operations-research collections like vehicle routing and scheduling. The agent gets a short brief and an incomplete set of notes.\n2. **A human-like \"operator.\"** An operator holds the hidden facts. The agent can send up to 15 messages to ask before submitting its first plan.\n3. **Math decides what matters.** Optimization solvers (exact problem-solving software) compute how much each hidden fact changes the best plan. Each important fact is paired with a similar-sounding twin that changes nothing.\n4. **A study with real people.** Nineteen people played the operator across 79 sessions. After a wrong plan, people left out the correcting fact 43% of the time, versus 7% for a default AI operator.\n5. **A calibrated simulator.** The authors built CalOp, an AI operator tuned to match those human habits, so the test reflects how real users reply.\n\n## Results\nThe team tested four frontier models: GPT-6.1 Sol, Gemini 3.8 Flash, DeepSeek V4.1 Flash and GLM-5.3 Flash. When they had to ask for information, their first plans were infeasible (broke a real constraint) on 58 to 98% of tasks. When given every fact up front, that dropped to 5 to 28%. So the hard part is gathering information, not planning.\n\nAgents uncovered 39 to 52% of the facts that mattered, but also 32 to 41% of the irrelevant twins. In other words, they barely tell useful questions from noise. Some models rarely asked at all: GLM-5.3 Flash averaged 0.6 questions per task. Asking a lot didn't guarantee success either. On the hardest tier, GPT-6.1 Sol asked 11.2 questions per task but learned only 37% of the relevant facts.\n\nCalOp's behavior was much closer to real people than the default simulator. Its distance score from human behavior was 0.213, versus 0.395.\n\n## Why it matters\nAssistants that book trips, plan logistics or schedule staff will face missing details every day. This benchmark shows where they fail, and gives builders a way to train and measure better question-asking. The human-calibrated operator also offers a fairer way to test other interactive agents.\n\n## Caveats\nThe human study is small: 19 people on 22 tasks. The simulator comparison used one model and one random seed. Some labels come from an AI judge, not humans. The authors note the work is ongoing and will be updated.\n\n## Key terms\n- **LLM agent:** a language model that plans or acts on someone's behalf.\n- **Operator:** the person, or simulated person, who knows the hidden facts.\n- **Infeasible plan:** a plan that breaks at least one real-world rule or limit.\n- **Twin fact:** a detail that resembles an important one but doesn't change the best plan.\n- **Optimization solver:** software that computes the mathematically best plan for a problem."
+     "source": "Hugging Face Trending",
+     "upvotes": 41,
+     "tldr": "Linking each stored lesson to the past run it came from lets AI agents check their memory, raising average scores from 87.0 to 90.2 while cutting how often memory breaks tasks they could already solve.",
+     "image": "https://arxiv.org/html/2611.14320v1/fig01-teaser.png",
+     "abs_url": "https://arxiv.org/abs/2611.14320",
+     "pdf_url": "https://arxiv.org/pdf/2611.14320",
+     "summary_md": "## In one sentence\nWikiTrace gives AI agents a memory where every saved lesson links back to the original attempt it came from, so the agent can check a lesson before trusting it.\n\n## Background you need\nAn LLM agent is a language model that acts step by step, for example in a text game or a set of apps. Many agents keep an external memory of lessons pulled from past tasks. A trajectory is the full record of one run: the model's reasoning, its actions and what it saw.\n\n## The problem\nMemory is supposed to help, but it can also hurt. The authors call this memory-induced degradation: the agent fails a task it would have solved with no memory at all. They measure it as Regression, the share of tasks that turn from success into failure once memory is added. Popular memory methods showed Regression as high as just rerunning the agent without memory. In these broken tasks, 52% of failures traced to a memory item the agent followed, most often a plainly wrong lesson. The root issue: lessons are stored without their source runs, so the agent cannot check them.\n\n## The idea\nThink of a wiki where every claim has a footnote. A careful reader usually trusts the text, but clicks the footnote when something looks odd. WikiTrace builds agent memory this way: short lessons, each pointing to a diagnosis of its run and to the untouched raw record.\n\n## How it works\n1. **Build three linked layers.** After each run, a compiler (another model call) diagnoses why it worked or failed. It then extracts up to three short insights: what to do, when, and whether the source run succeeded. The raw trajectory is kept unchanged.\n2. **Never overwrite.** Insights are never edited or deleted, so the pool can hold contradictions the agent must sort out.\n3. **Hand the agent its memory.** A new task starts with all insights, plus the three most similar past runs, stored as read-only files.\n4. **Descend when in doubt.** If an insight lacks a needed detail, comes from a failed run, conflicts with another, or an action fails, the agent follows the links. It uses ordinary file-reading and terminal commands to find the exact fact, such as a command format, and may revise the insight before acting.\n\n## Results\nTests covered five benchmarks (eight suites), from household text games to app-using tasks. Averaged over all eight, the agent scored 79.5 with no memory. Existing memory methods scored between 80.3 and 81.7. The same insights without links scored 87.0, and WikiTrace scored 90.2. It was best on every suite and the only method never below the no-memory agent. Regression fell to 4.5%, versus 6.5% for insights alone and 9.7% for a plain rerun. So about one in twenty solvable tasks broke, not one in ten. The agent looked up sources in 22% of easy tasks and 44% of hard ones. Opening a source changed the plan in 43% of those runs. The extra lookups cost about 1.17 times as much per task as insights alone. Gains held with a second model family.\n\n## Why it matters\nAssistants that learn from experience risk silent regressions, where yesterday's lesson breaks today's task. Keeping evidence next to each lesson is a cheap pattern to copy, and it makes memory easier to audit.\n\n## Caveats\nLessons still come from simple pass/fail labels, so diagnoses can be wrong; a link lets the agent check a lesson but does not prove it. All insights go into the opening prompt, which will not scale to very large memories. The failure causes were labeled by a model reading the agent's stated reasoning, not by verified analysis. Most experiments used one agent model.\n\n## Key terms\n- **LLM agent**: a language model that takes actions step by step to finish a task.\n- **Trajectory**: the full record of one attempt, including reasoning, actions and observations.\n- **Memory-induced degradation**: failing a task because of memory that would have been solved without it.\n- **Regression**: the share of previously solved tasks that memory turns into failures.\n- **Descent**: the agent following a lesson's links down to its original evidence.\n"
     }
    ]
   },
@@ -134,25 +130,25 @@
    "color": "#a78bfa",
    "papers": [
     {
-     "id": "2611.11761",
-     "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
+     "id": "2611.02501",
+     "title": "SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding",
      "authors": [
-      "Payman Behnam",
-      "Debopam Sanyal",
-      "Pranav Ponnusamy",
-      "Kusum Meda Ravi",
-      "Pranav Sastry",
-      "Mani Chandana Bandaru",
-      "Alind Khare",
-      "Myungjin Lee"
+      "Kunjun Li",
+      "Wenhao Chai",
+      "Yihao Liang",
+      "Yuezhou Hu",
+      "Shuyao Xu",
+      "Yi Pan",
+      "William X. Zheng",
+      "Kannan Ramchandran"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "A big model reads the prompt, a small model writes the reply, and a small translator between their memories recovers up to 80% of the quality gap at 3× the speed.",
+     "tldr": "An agent loop guided by a cost model finds and verifies optimizations for speculative decoding, raising single-request speedup from 4.46x to 10.87x and batched speedup from 1.94x to 3.93x with no training or quality loss.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.11761",
-     "pdf_url": "https://arxiv.org/pdf/2611.11761",
-     "summary_md": "## In one sentence\nBridgeKV lets a big AI model read your prompt and a small, cheap model write the answer, by translating the big model's \"notes\" on the prompt into a form the small model can use.\n\n## Background you need\nA chatbot answers in two phases. In **prefill**, it reads the whole prompt at once. In **decoding**, it writes the reply one word-piece at a time, which is slow because each step waits for the last. While reading, the model builds a **KV cache**: its short-term memory of the prompt, which every later step looks up. Big models understand prompts better but are slow and costly in the decoding phase.\n\n## The problem\nDecoding usually dominates the time and energy of a long answer. Using a big model for every generated token is expensive. Swapping in a small model saves money but loses quality, because the small model understands the prompt less well. Fine-tuning the small model helps, but a gap remains. Providers would love the big model's understanding at the small model's price.\n\n## The idea\nPicture a senior lawyer who reads a thick case file and writes detailed notes. A junior associate then drafts the letter, working from those notes. The junior doesn't need to be a genius to write well if the notes are good. The catch is that the two speak different shorthand. BridgeKV adds an interpreter that converts the senior's notes into the junior's shorthand.\n\n## How it works\n1. **Big model reads.** A large model handles the prefill phase and builds its KV cache for the prompt.\n2. **Translate the memory.** A lightweight module converts that cache into the format a smaller model from the same family expects. Big and small models store memory in different shapes, so this step is needed.\n3. **Small model writes.** The small model decodes the answer using the translated memory, as if it had read the prompt itself.\n4. **Train only the bridge.** In the main training stage, both language models stay frozen (their weights don't change). Only the translator learns.\n5. **Optional task tuning.** A second stage can add low-rank adapters (small add-on weights, a cheap way to fine-tune) to fit specific tasks.\n\n## Results\nThe authors tested six big-to-small model pairs on five datasets, 30 settings in all. BridgeKV beat fine-tuned small models working alone in all 30. It closed up to 80% of the quality gap between the small model and running the big model for both phases. In practice, much of the big model's answer quality comes back without paying for big-model decoding.\n\nOn a single A40 GPU, pairing Llama-3.1-8B for reading with Llama-3.2-1B for writing ran 3.0 times faster than the 8B model alone. A reply that took 6 seconds would take about 2. In a simulated serving setup with a 70B reading model and a 1B writing model, the authors project requests up to 33.86 times faster and 27.5 times less energy.\n\n## Why it matters\nServing costs are a major limit on how widely AI assistants can be offered. Splitting work this way could cut the price of long answers, especially where prompts are complex but replies are routine. Because the models stay frozen, providers can reuse model families they already run, adding only a small trained bridge.\n\n## Caveats\nThe largest speed and energy gains come from a simulation, not a measured deployment. \"Up to 80%\" is the best case; some settings close less of the gap. The method needs big and small models from the same family. This summary is based on the paper's abstract, as the full text could not be retrieved, so details on translator design and failure cases are not covered here.\n\n## Key terms\n- **Prefill:** the phase where the model reads the whole prompt at once.\n- **Decoding:** the phase where the model writes its reply one token at a time.\n- **KV cache:** the model's stored memory of the text it has already read.\n- **Frozen model:** a model whose weights are left unchanged during training.\n- **Low-rank adapter:** a small set of extra weights used to tune a model cheaply."
+     "abs_url": "https://arxiv.org/abs/2611.02501",
+     "pdf_url": "https://arxiv.org/pdf/2611.02501",
+     "summary_md": "## In one sentence\nSpecPilot lets AI coding agents tune an existing text-generation speedup system on their own, more than doubling the speedup it delivered.\n\n## Background you need\nA large language model writes text one small piece at a time, and each piece is called a token. Speculative decoding speeds this up. A small \"drafter\" model guesses several upcoming tokens, and the big \"target\" model checks all of the guesses in one pass. A parallel drafter guesses a whole block of tokens at once instead of one by one.\n\n## The problem\nPublished speculative decoding systems rarely reach the speed their design allows, for three reasons. First, with one user at a time, each step accepts only a few drafted tokens. Most of the step goes to reading the model's weights (its learned numbers) from GPU memory, about 80% of step time by their profiling. Second, batching (serving many users together) roughly halves the advantage over normal decoding. Third, the best settings change with the model, the drafter and the GPU, so hand-tuning one setup does not carry over.\n\n## The idea\nTreat performance tuning as a search that AI agents can run, with strict rules about what counts as a real win. Think of a pit crew that fixes the slowest part of a race car first. It keeps a change only if the car is faster on a fresh track and a referee confirms it still follows the rules. Proven tricks go into a notebook for the next car.\n\n## How it works\n1. **Find the biggest gap.** A cost model splits each step's time into parts. The part furthest from its hardware limit (the fastest it could physically run) becomes the next target.\n2. **Try fixes in parallel.** Several agents, each on its own GPU, write and test candidate changes.\n3. **Accept only honest wins.** A controller keeps a change only if it stays faster on unseen requests. \"Token forcing\" checks every output token against the original system. This catches reward hacking, where an agent fakes a win by quietly changing the answers.\n4. **Remember what worked.** Proven changes go into a memory, which held 140 verified entries in the paper. New setups can reuse them, after re-tuning and re-measuring.\n\nDiscoveries include a lossless 12-bit weight format that stores weights in fewer bits but restores them exactly. Others verify a tree of drafts instead of one chain, pre-check drafts with a cheap low-precision pass, and share the checking budget across batched users.\n\n## Results\nWithout any training or loss of output quality, the single-user speedup over normal decoding rose from 4.46× to 10.87×. In practice, a reply that took 10.9 seconds with plain decoding and 2.4 seconds with the original system now takes about 1 second. With batching, the speedup rose from 1.94× to 3.93×. Tests covered four target models, three drafters, two GPU types and five benchmarks.\n\n## Why it matters\nFaster generation means cheaper serving and quicker replies for chatbots and coding assistants. More broadly, the work shows that AI agents can do careful systems tuning when checks stop them from cheating.\n\n## Caveats\nBatched gains are much smaller than single-user gains, and batching is how most real services run. The tricks do not transfer evenly across models, drafters or GPU generations. The search itself takes GPU time and engineering setup. This summary is based on the abstract and detailed third-party write-ups, since the full paper text could not be fetched.\n\n## Key terms\n- **Token:** a small chunk of text, often part of a word, that the model outputs one at a time.\n- **Speculative decoding:** a small model guesses ahead and the big model checks the guesses in bulk.\n- **Drafter / target:** the fast guessing model and the large model whose answers must be matched.\n- **Batching:** serving many users' requests together on the same hardware.\n- **Reward hacking:** gaming the score, such as looking faster by quietly changing outputs.\n"
     }
    ]
   },
@@ -160,7 +156,24 @@
    "id": "transformer-opt",
    "name": "Transformer Optimization",
    "color": "#f472b6",
-   "papers": []
+   "papers": [
+    {
+     "id": "2611.01182",
+     "title": "Fast and Exact Relative-Position Attention via Structure-Aware Kernels",
+     "authors": [
+      "Delyan Boychev",
+      "Ivo Petrov",
+      "Dimitar I. Dimitrov"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "New Triton GPU kernels compute relative-position attention exactly with up to 21x faster training passes and up to 128x less memory, letting speech and text models handle much longer inputs.",
+     "image": "https://arxiv.org/html/2611.01182v1/overview_v8_arxiv.png",
+     "abs_url": "https://arxiv.org/abs/2611.01182",
+     "pdf_url": "https://arxiv.org/pdf/2611.01182",
+     "summary_md": "## In one sentence\nThe authors wrote new GPU code that computes \"distance-aware\" attention exactly, but much faster and with far less memory, so existing models can handle long inputs like 20-minute recordings.\n\n## Background you need\nIn attention, every token (a word piece or a slice of audio) looks at every other token and decides how much each matters. Many models also tell attention how far apart two tokens are; this is relative-position attention, used in speech recognizers and text models like DeBERTa. FlashAttention is a well-known trick that computes attention in small tiles inside the GPU's fast on-chip memory, instead of writing a huge table to slow main memory.\n\n## The problem\nFlashAttention only handles plain attention. Relative-position models add a \"distance bonus\" to every token pair. Most code builds that bonus as a full table: for 8,000 tokens, 64 million entries per attention head, stored in slow memory. That brings back the bottleneck FlashAttention removed. During training, many parallel workers also queue to update the same memory slots.\n\n## The idea\nThe distance bonus is highly structured. Two tokens 5 apart get the same bonus wherever they sit, and past a cutoff all far pairs share one capped value. Think of a postal rate chart: you need a price per distance band, not per pair of towns, and beyond 500 km it is one flat rate. The new code reads the chart once per tile and reuses it.\n\n## How it works\n1. **One recipe.** Four well-known schemes (Shaw, Transformer-XL, DeBERTa and T5) are written as one formula. Each score gets at most three small add-on numbers based on distance.\n2. **Only compute what is reachable.** Queries are handled in small groups, and each group prepares only the distance entries it can reach. This roughly halves that work for long inputs.\n3. **Reuse flat regions.** Tiles far from the diagonal all share the capped value, so they load one entry and reuse it.\n4. **No queuing in training.** In the backward pass (where the model works out how to adjust its weights), each tile has one writer that sums updates by distance. This avoids slow \"atomic\" additions and makes results deterministic.\n5. **Drop-in code.** It is written in Triton, a GPU programming language, with adapters for popular toolkits.\n\n## Results\nOn an NVIDIA H200 GPU, outputs always matched a high-precision reference. At 8,000 tokens, versus the best existing system per scheme, the forward pass was 1.8 to 6.4 times faster and the backward pass 2.0 to 21 times faster. Peak memory dropped up to 128 times. Transformer-XL gained less, 1.4 to 2.4 times. Every existing system failed the accuracy check on DeBERTa's backward pass from 4,000 tokens.\n\nReal models gained too. Transcribing talks of up to 25 minutes with the Parakeet speech model, speed rose from 613 to 1,103 times real time versus PyTorch's built-in attention. Memory fell from 27 to 11 gigabytes, with similar error rates. When fine-tuning the Canary speech model, built-in attention ran out of memory at 15-minute clips; the new code trained on 18-minute clips. For DeBERTa on 4,000-token patents, training steps were 2.39 times faster and memory fell from 27 to 7.1 gigabytes, with accuracy within 0.3 points.\n\n## Why it matters\nMany production speech and text models already use relative positions. This lets them process long inputs without retraining or changing outputs. Speech teams could fine-tune on whole meetings.\n\n## Caveats\nTransformer-XL needs a separate entry per distance, so its work still grows with the square of length. Unusual schemes fall back to slower, non-deterministic updates, though none of the tested ones do. On very short inputs, T5's backward pass was slightly slower than existing tools. End-to-end gains are capped by attention's share of total time.\n\n## Key terms\n- **Relative-position attention:** attention that adds a bonus based on how far apart two tokens are.\n- **Tiling:** splitting a big computation into blocks that fit in fast on-chip memory.\n- **Backward pass:** the training step that computes how to adjust weights.\n- **Atomic addition:** a safe but slow way for many workers to add into one memory slot.\n- **Real-time factor:** seconds of audio processed per second of compute.\n"
+    }
+   ]
   },
   {
    "id": "gpu",
@@ -168,21 +181,23 @@
    "color": "#34d399",
    "papers": [
     {
-     "id": "2611.09280",
-     "title": "An Empirical Study of Issues in GPU Kernel Libraries for LLM Systems",
+     "id": "2608.21157",
+     "title": "HIERA: Workload-Aware Planning Across Implementation Spaces for GPU Kernel Optimization",
      "authors": [
-      "Yanjie Gao",
-      "Jiayi Bi",
-      "Haoxiang Lin",
-      "Ling Feng"
+      "Jinghao Wang",
+      "Qiqi Gu",
+      "Chenpeng Wu",
+      "Jianguo Yao",
+      "Haibing Guan",
+      "Xijun Li"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "A study of 300 bug reports from libraries like FlashAttention and Triton finds about 60% of failures come from builds, compilers and environments, not the kernel code itself.",
+     "tldr": "An LLM agent system that first decides whether a GPU task should use PyTorch operators, NVIDIA libraries, or custom CUDA, then refines step by step, beating other untrained agents on KernelBench.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.09280",
-     "pdf_url": "https://arxiv.org/pdf/2611.09280",
-     "summary_md": "## In one sentence\nThe authors read through 300 real bug reports from seven popular GPU code libraries that power AI chatbots, and sorted out what actually goes wrong and why.\n\n## Background you need\nA GPU kernel is a small, highly tuned program that runs one math operation, like attention or matrix multiply, on a graphics chip. Large language models (LLMs) lean on shared kernel libraries such as FlashAttention, Triton, CUTLASS and bitsandbytes instead of writing these from scratch. A bug in one library can therefore hit many models and many kinds of hardware at once.\n\n## The problem\nWhen a kernel breaks, the damage varies. Sometimes the code won't build or install. Sometimes it crashes or hangs. Worst of all, it can quietly return wrong numbers. Earlier studies looked at bugs in AI frameworks and compilers, but nobody had looked closely at this kernel layer. So library developers and the teams deploying models had little evidence about where to focus testing.\n\n## The idea\nThink of a car recall analyst going through warranty claims. They don't redesign the engine. They read hundreds of repair tickets, sort them by symptom and cause, and tell engineers where the weak spots really are. This paper does that for GPU kernel libraries, using public GitHub issues as the repair tickets.\n\n## How it works\n1. **Collect reports.** The team pulled 9,099 issues from seven libraries: FlashInfer, FlashAttention, Triton, CUTLASS, DeepGEMM, xFormers and bitsandbytes.\n2. **Filter to real failures.** They kept closed issues with failure-related titles and removed feature requests, questions, duplicates and reports with no evidence of a bug. That left 3,181 candidates.\n3. **Sample fairly.** They picked 300 issues, with each library represented in proportion to its share of candidates.\n4. **Label symptoms and causes.** Two authors labeled every issue separately, with one symptom (6 types) and one root cause (15 types in 3 groups). They agreed very closely, scoring 0.87 on a standard agreement measure where 1 means perfect.\n5. **Study the fixes and tests.** They also looked at how bugs were fixed and what testing approaches the projects use.\n\n## Results\nThe most common symptoms were deployment failures (27%), build failures (24%) and crashes (21%). Wrong results made up about 18%, slowdowns about 8%, and hangs 2%. More than half of the problems show up before the kernel ever runs on the GPU.\n\nBy cause, only about 40% came from the kernel code itself. About 60% came from the surrounding stack: the runtime environment (33%) and the compiler and build system (27%). The top single cause was software incompatibility, at 25%, such as mismatched library or driver versions. Next came the compiler transforming code incorrectly (15%) and build misconfiguration (12%).\n\nThe authors also found \"implicit contracts.\" Fast kernels are specialized for certain tensor shapes, memory layouts and hardware limits. These rules are often unwritten. Break one, and even a supported operation can fail or return wrong answers. Current testing often misses small numeric errors in low-precision math and failures that only appear on specific GPUs.\n\n## Why it matters\nFor anyone serving LLMs, the message is practical: testing the kernel alone is not enough. Checks need to cover builds, versions and the whole deployment setup. Library authors could write down shape and layout rules, or check them at runtime. Tool builders now have a map of which bug types deserve automated detectors.\n\n## Caveats\nThe study covers only seven libraries, so results may not hold elsewhere. It sees only what people wrote in public issues, missing bugs fixed quietly. Labeling involves judgment, though two reviewers reduced this. Swapping out vague reports for clearer ones may tilt the sample toward well-documented bugs.\n\n## Key terms\n- **GPU kernel:** a tuned small program that runs one math step on a graphics chip.\n- **Kernel library:** a shared collection of such kernels that many AI systems reuse.\n- **Low precision:** storing numbers with fewer bits to save memory and time, at some accuracy risk.\n- **Tensor shape and layout:** the dimensions of a block of numbers and how it sits in memory.\n- **Implicit contract:** an unwritten rule the code assumes its inputs will follow."
+     "abs_url": "https://arxiv.org/abs/2608.21157",
+     "pdf_url": "https://arxiv.org/pdf/2608.21157",
+     "summary_md": "## In one sentence\nHIERA is a team of AI agents that writes fast GPU code. Before it writes anything, it decides how low-level that code should be for the job at hand.\n\n## Background you need\nA GPU kernel is a small program that runs one operation, such as a matrix multiply, across thousands of GPU cores at once. Kernels can be built at different levels. You can chain ready-made PyTorch operators (building blocks from a popular machine-learning library), call NVIDIA's tuned CUDA libraries, or write raw CUDA code yourself. KernelBench is a public test suite of 250 such tasks, split into three levels of growing complexity.\n\n## The problem\nHand-writing fast kernels is slow expert work, and vendor libraries miss unusual workloads. Recent systems ask a large language model (an LLM, a text-generating AI) to write kernels instead. Most lock in one level up front. High-level-only systems miss tricks like fusing steps together. Raw-CUDA-only systems face a huge search space, and many attempts fail to compile, give wrong answers, or run no faster. Feedback polishes code within a level but never questions the level itself.\n\n## The idea\nThink of a kitchen contractor. Sometimes a stock cabinet is best; sometimes custom-built is worth it. A good contractor decides that first. HIERA plans the same way: pick the level per workload, pick one focused optimization direction, then write code.\n\n## How it works\n1. **Fixed contract.** Glue code and the correctness reference are supplied and frozen. The LLM writes only one CUDA file, which cuts boilerplate mistakes.\n2. **Choose the level.** A planning agent picks one of three nested spaces: pure CUDA, CUDA plus vendor libraries, or libraries plus PyTorch operators.\n3. **Choose a direction.** The agent then scores five kinds of optimization: control flow, thread parallelism, memory access, data reuse, and use of Tensor Cores (special matrix-math units). The top one wins.\n4. **Plan and write.** A strategy agent makes a concrete plan; a coding agent writes candidate kernels.\n5. **Test and repeat.** Candidates are compiled, checked, timed, and profiled with Nsight Compute (NVIDIA's tool showing where time is wasted). The best seed the next round.\n\n## Results\nTests used an NVIDIA A100 GPU and all 250 KernelBench tasks. HIERA was compared with KernelBench's own iterative workflow, CUDAForge (another agent system), and CUDA-L1 (a model specially trained for this job). With 18 attempts per task, HIERA produced a working kernel for 92.4% of tasks and beat the reference speed on 60.4%. The two agent baselines beat the reference on only 29.6% and 44.8%. With the Qwen3.6-Plus model, it beat the reference on 68%, 62% and 42% of tasks at Levels 1–3. CUDAForge scored 47%, 45% and 40% with the same model. The trained CUDA-L1 still led on Level 3, at 50%.\n\nPlanning matters. Writing pure CUDA every time gave a median speedup of 0.62×, meaning the typical kernel was slower than the original. HIERA's choice of level gave a median of 1.15× and a mean of 1.42×. Removing the planner cut Level 2 wins from 62% to 6%. Removing contracts mainly hurt validity.\n\nIn a case study on an image-filter-style stencil (each output point averages a 7×7 neighborhood), the fifth round ran in 4.71 ms. NVIDIA's cuDNN library took 7.23 ms, so HIERA was 1.53× faster.\n\n## Why it matters\nTeams needing kernels for new model layers could get decent ones without a GPU specialist. The bigger lesson: the code level is itself worth searching over. It needs no model training, so off-the-shelf LLMs work.\n\n## Caveats\nOnly A100 GPUs were tested; other chips, multi-GPU setups and low-precision formats were not. LLM output is random, so results vary between runs. The stencil win covers one operator and one input size.\n\n## Key terms\n- **Kernel:** a small GPU program that performs one operation in parallel.\n- **CUDA:** NVIDIA's language for programming its GPUs directly.\n- **Implementation space:** the level code is built at, from high-level library calls down to raw CUDA.\n- **Speedup:** the old running time divided by the new one; above 1× means faster.\n- **Stencil:** an operation where each output point is computed from its nearby input points.\n"
     }
    ]
   },
@@ -192,24 +207,25 @@
    "color": "#fbbf24",
    "papers": [
     {
-     "id": "2611.11854",
-     "title": "Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation",
+     "id": "2611.12806",
+     "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
      "authors": [
-      "Bingzhang Wang",
-      "Nathan Zhao",
-      "Jialeng Ni",
-      "Jiajin Zheng",
-      "Yin Zhang",
-      "Kehua Chen",
-      "Jian Yao"
+      "Bing Han",
+      "Yichuan Peng",
+      "Haoyu Dong",
+      "Yuanmeng Hu",
+      "Yongyi Jia",
+      "Fangjing Wang",
+      "Kecheng Zheng",
+      "Yiming Zhang"
      ],
-     "source": "arXiv new",
-     "upvotes": 0,
-     "tldr": "Running a robot's slow AI brain and fast action head in parallel keeps control at 20 Hz regardless of model size, and lifts real humanoid pick-and-place success from 16/24 to 23/24.",
-     "image": "https://arxiv.org/html/2611.11854v1/figures/fig_teaser.png",
-     "abs_url": "https://arxiv.org/abs/2611.11854",
-     "pdf_url": "https://arxiv.org/pdf/2611.11854",
-     "summary_md": "## In one sentence\nDASH lets a humanoid robot use a big, smart AI \"brain\" without slowing down its hands, by letting the slow thinking part and the fast moving part run at the same time instead of taking turns.\n\n## Background you need\nA vision-language-action model (VLA) is an AI that looks at camera images, reads an instruction like \"put the cup in the bin,\" and outputs motor commands. Most VLAs have two parts: a large backbone (a vision-language model that understands the scene and words) and an action head (a smaller network that turns that understanding into movements). The control rate is how many times per second the robot gets a fresh command, measured in hertz (Hz).\n\n## The problem\nIn today's usual setup, the robot waits for the whole model to finish before it moves. The big backbone is the slow step. So a bigger, smarter backbone means the robot acts on older and older camera images. In the paper's simulator, the control rate falls from 9.7 Hz with a 0.8-billion-parameter backbone to just 4.1 Hz with an 8-billion one. For a robot hand grabbing objects, acting on a picture that is a quarter-second old makes motions jerky and less reliable. Builders face an awkward trade: smarter or more reactive, but not both.\n\n## The idea\nThink of a rally car with a navigator and a driver. The navigator reads the map and calls out turns now and then. The driver keeps steering every instant using their own eyes. The driver never stops the car to wait for the next call. DASH works the same way: the big model is the navigator, and the action head is the driver with its own fresh view of the road.\n\n## How it works\n1. **Split into two systems.** The slow vision-language model (\"System 2\") and the fast action head (\"System 1\") run as separate processes. They pass messages through a channel where each side just reads the latest available message, so nobody blocks.\n2. **Share cached understanding.** The backbone (a Qwen3-VL model) publishes its internal signals from four depths of its network. The action head reuses these cached signals until a newer batch arrives.\n3. **Give the fast part its own eyes.** The action head has its own small image encoder (a ResNet, a classic image network). It looks at the current camera frame every cycle, so its view is always fresh even when the backbone's view is stale.\n4. **Train for staleness on purpose.** During training, the backbone is shown an older frame, picked at random up to the delay seen on real hardware. The action head sees the current frame. This \"desynchronized training\" teaches the policy to cope with out-of-date context. The backbone stays frozen; only the action head and its encoder are trained.\n5. **Smooth the handoffs.** The action head predicts short sequences of moves (\"chunks\"). An adaptive aggregator lines up overlapping chunks using the measured timing, so motions don't drift or stutter.\n\n## Results\nIn a modified RoboTwin simulator (50 tasks, where thinking time counts against the robot), DASH held a steady 20 Hz at every backbone size. That is 2.1 to 4.9 times faster than the wait-for-everything baseline. Success was also higher at every size: for example 69.5% versus 63.6% with a 4-billion-parameter backbone, and 65.9% versus 62.7% at 8 billion. Running the split setup without the staleness training did worse, showing that training step matters. On a real humanoid with dexterous hands, DASH succeeded in 23 of 24 pick-and-place trials, against 16 of 24 for the standard pipeline.\n\n## Why it matters\nRobot teams want larger models because they understand instructions and scenes better. DASH removes much of the speed penalty for going bigger. That could let home or factory humanoids run stronger backbones on the same hardware while staying responsive.\n\n## Caveats\nThe real-robot test is small: 24 trials on one pick-and-place task. Gains in simulation are a few percentage points, not dramatic. Timing was measured on a single consumer GPU, and the simulated delays may not match every real deployment. Because the backbone is frozen, the system cannot tune its scene understanding to a new task.\n\n## Key terms\n- **VLA (vision-language-action model):** an AI that turns images plus instructions into robot motions.\n- **Backbone:** the large, general model that understands what it sees and reads.\n- **Action head:** the smaller network that produces the actual motor commands.\n- **Control rate:** how many fresh commands per second the robot receives.\n- **Action chunk:** a short planned sequence of moves predicted in one go.\n- **Frozen:** a part of the model whose weights are not changed during training."
+     "source": "Hugging Face Trending",
+     "upvotes": 96,
+     "tldr": "LingBot-Touch learns one shared touch representation from nearly 5,000 hours of data across three sensor types, and adding it to robot control models raised real-world task success by roughly 14 to 25 points.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.12806",
+     "pdf_url": "https://arxiv.org/pdf/2611.12806",
+     "summary_md": "## In one sentence\nLingBot-Touch is one shared \"touch encoder\" for robot hands that reads three very different kinds of touch sensors and helps robot control models handle objects more reliably.\n\n## Background you need\nMany robot hands have touch sensors on their fingertips, like skin. Common types are piezoresistive (material whose resistance changes when pressed), magnetic (tiny magnets whose field shifts under pressure) and visuotactile (a small camera watching a soft pad deform). An encoder is a neural network that compresses raw readings into compact features other models can use.\n\n## The problem\nVision and language models scaled because everyone shares one input format, like pixels or text. Touch has nothing similar. Each sensor reports different channels, layouts and speeds. So teams train custom models for one sensor on one hand, and they do not carry over. Adding raw touch data to a robot policy (the model that picks its next movements) often helps little, and in this paper's tests sometimes hurt.\n\n## The idea\nTouch readings depend on sensor physics, but the contact itself does not. A finger pressing a cup's rim is the same event whatever records it. Think of a translator who hears many accents but writes everything in one standard spelling. LingBot-Touch strips away each sensor's quirks and maps all readings into one common \"fingertip space.\"\n\n## How it works\n1. **Build a large corpus.** The team gathered 4,983 hours of touch recordings, about 1.33 billion frames across 24 task categories. About two-thirds came from people wearing sensor gloves; the rest from remotely operated robot fingertips.\n2. **Put every sensor on one map.** Each sensing point (a \"taxel,\" like a touch pixel) gets a position in a shared fingertip frame, plus its time step and finger. Readings are scaled by each sensor's own range.\n3. **Small front ends, one shared core.** Each sensor type gets a tiny input network that turns short snippets into tokens. All tokens feed one shared 12-layer Transformer, the network type behind chatbots.\n4. **Train by predicting hidden parts.** The model hides up to 80% of the signal and predicts a compressed summary of the missing part, not raw values. This forces it to learn contact, not noise. Sensor layouts are also randomly thinned and jiggled so it never relies on one exact layout.\n5. **Plug it into policies.** The trained encoder is frozen, and its tokens are added to existing control models. This adds only 0.13–0.16% more parameters.\n\n## Results\nOn a hand seen in training, fingertip force error was 0.81 newtons versus 2.31 for an earlier touch model, FTP-1. On a magnetic hand never seen in training, it was 1.32 versus 3.72.\n\nOn 26 real-robot tasks, 20 trials each, touch tokens helped every policy type. A diffusion policy went from 21.6% to 35.6% success. The vision-language-action model π0.5 rose from 48.1% to 69.9%, and LingBot-VLA from 48.3% to 73.1%. Raw touch added at most about 11 points and hurt in 22 of 104 task-policy pairs. Across 12 simulated tasks, average success was 69.0%, versus 38.5% with raw touch and 21.4% with none.\n\n## Why it matters\nRobot builders could reuse one pretrained touch encoder instead of training one per sensor. More data kept helping: real-robot success climbed from 69.8% to 82.2% as pretraining grew from 1,000 to 5,000 hours. That hints touch may scale the way vision did.\n\n## Caveats\nOnly a few hand designs were tested. Capacitive sensors were left out because available data was too poor. The model focuses on fingertips, so palm contact is underrepresented. With a fixed data budget, mixing sensors usually did slightly worse than one sensor alone. Precision on unseen sensors is lower, and simulated force estimates remain rough.\n\n## Key terms\n- **Taxel:** one touch-sensing point, like a pixel of a touch \"image.\"\n- **Tactile encoder:** a network turning raw touch readings into compact, useful features.\n- **Policy:** the model that chooses a robot's next movements.\n- **Vision-language-action model:** a large model mapping camera images and instructions to robot actions.\n- **Latent prediction:** learning by guessing a compressed summary of hidden data rather than the data itself.\n"
     }
    ]
   },
@@ -217,7 +233,25 @@
    "id": "llm-vlm",
    "name": "LLM & VLM",
    "color": "#fb7185",
-   "papers": []
+   "papers": [
+    {
+     "id": "2611.12886",
+     "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+     "authors": [
+      "Haozhi Yuan",
+      "Handong Li",
+      "Yifan Zhang",
+      "Qianshan Wei"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 38,
+     "tldr": "Reframe merges an image specialist and a video specialist into one tool-using vision-language model, correcting the student's bad crops or frame picks during training so it learns to rely on what its tools show it.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.12886",
+     "pdf_url": "https://arxiv.org/pdf/2611.12886",
+     "summary_md": "## In one sentence\nReframe trains one vision-language model to zoom into images and pick video frames with tools, and to actually use what it sees, by merging two specialist teachers and fixing the student's bad tool calls.\n\n## Background you need\nA vision-language model reads images or video plus text and answers questions about them. \"Agentic\" models can also call tools while reasoning, such as cropping part of a picture or selecting a few video frames to look at more closely. Reinforcement learning (trial and reward) and distillation (a student copying a stronger teacher) are the usual ways to teach this.\n\n## The problem\nThere are two failures. First, models often call a tool and then ignore the result, answering as if they never looked. Second, one model that handles both images and video tends to do worse than separate image-only and video-only models. Existing methods that blend several teachers into one student only judge the student's words. If the student cropped the wrong region, the teacher is grading reasoning built on a useless view.\n\n## The idea\nPicture a photography student with two mentors, one for photos and one for film. If the student aims at the wrong spot, a good mentor doesn't just critique the caption. They move the camera and say \"continue from here.\" Reframe does this: it treats what the model *sees* after a tool call as something to correct, not just what it *says*.\n\n## How it works\n1. **Build clean training data.** The authors assemble Reframe-100K, about 63,000 image questions and 37,000 video questions. Each comes labeled with the correct region or frames.\n2. **Train two specialists.** Starting from Qwen3.5-9B, they train an image specialist (with a crop tool) and a video specialist (with a frame-selection tool). Rewards cover a correct answer, plus how well the chosen crop or frames overlap the labeled evidence.\n3. **Hide the original picture sometimes.** After the first successful tool call, the original image or video is removed half the time. The model must then rely on what the tool returned.\n4. **Merge with repaired observations.** A single student model generates answers, and the matching specialist grades each step. If the student's tool call misses the labeled evidence by too much, it is swapped for the correct call. The student continues from that better view and is also trained to make the corrected call itself.\n\n## Results\nAcross 14 benchmarks (7 image, 7 video), Reframe averaged 69.48 on image tasks and 53.10 on video tasks. The base Qwen3.5-9B scored 63.46 and 49.75. Plain multi-teacher distillation scored 68.19 and 52.32. One model trained on mixed data with reinforcement learning scored 66.75 and 51.41. Reframe also beat both specialists on their own turf on average.\n\nThe largest single jump was on VisualProbe: 57.48 versus 52.62 for plain distillation. Tools helped Reframe by 5.23 points on image tasks; for the older agents DeepEyes, Thyme and Pixel-Reasoner, tools helped by under 1.5 points. On V*, handing Reframe the correct crop raised accuracy to 96.86, against 85.86 with a random crop. So the model really reads its tool output.\n\n## Why it matters\nAssistants that answer questions about screenshots, documents or long videos must zoom in on small details. A model that genuinely uses what it looked at is more reliable. The recipe skips a separate supervised warm-up stage, and the data, code and model are released.\n\n## Caveats\nOnly one base model and two simple tools were tested. The method depends on good evidence labels; bad boxes or frame ranges would mislead both the rewards and the repairs. The \"does it use the tool output\" analysis covers just 191 questions. Swapped-in actions also mean the student partly learns from histories it did not write.\n\n## Key terms\n- **Tool call**: the model pausing to run an action, like cropping an image, and reading the result.\n- **On-policy distillation**: a teacher grades text the student itself generated, rather than the student copying teacher-written examples.\n- **Specialist teacher**: a model trained on only images or only video.\n- **Overlap score**: how much a chosen crop or frame range matches the labeled correct one.\n- **Tool gain**: accuracy with tools minus accuracy without them.\n"
+    }
+   ]
   }
  ]
 }
