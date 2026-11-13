@@ -1,0 +1,232 @@
+{
+ "date": "2026-11-13",
+ "generated": "2026-11-13T11:04:00+00:00",
+ "news": [
+  {
+   "title": "Jensen Huang resigns as Nvidia CEO; Colette Kress named interim chief",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+   "source": "Nvidia (SEC filing)",
+   "summary": "Nvidia says its founder has stepped down as CEO and left the board, effective immediately. CFO Colette Kress becomes interim CEO while the board searches inside and outside the company, and former Synopsys chief Harvey Jones becomes Nvidia's first board chair.",
+   "image": null,
+   "ts": 1794495707
+  },
+  {
+   "title": "Google launches Gemini 4 Hydrogen, a cheaper model that edges out Argon",
+   "url": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
+   "source": "SiliconANGLE",
+   "summary": "Google's new lower-cost Gemini 4 model scores slightly above its flagship Argon on the Artificial Analysis index and is 2.5x faster than Gemini 3.8 Flash. It is open to everyone, including free Gemini app users, at $1.50/$7.50 per million input/output tokens.",
+   "image": null,
+   "ts": 1794499307
+  },
+  {
+   "title": "Nonprofits sue five AI labs to halt frontier model development",
+   "url": "https://www.yahoo.com/news/politics/articles/openai-google-anthropic-hit-lawsuit-182328643.html",
+   "source": "Reuters (via Yahoo News)",
+   "summary": "Public Citizen, Heat Initiative and other groups filed suit in San Francisco against OpenAI, Anthropic, Google, Meta and SpaceX's AI unit. Citing California unfair-competition and public-nuisance law, they ask a court to stop work on models more capable than today's.",
+   "image": null,
+   "ts": 1794506507
+  },
+  {
+   "title": "SpaceX commits more than $74B to AI supercompute campuses in Texas and Arizona",
+   "url": "https://www.theepochtimes.com/business/spacex-to-invest-more-than-74-billion-in-ai-data-centers-in-texas-arizona-6124359",
+   "source": "The Epoch Times",
+   "summary": "SpaceX plans a self-powered campus of more than $24B at Starbase and a roughly $50B site in Cochise County, Arizona, that still needs local approval. Environmental groups in South Texas are protesting over pollution, water and energy costs.",
+   "image": null,
+   "ts": 1794502907
+  },
+  {
+   "title": "Notion says Fireworks AI breach exposed some users' AI chat transcripts",
+   "url": "https://notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Notion",
+   "summary": "Notion says fewer than 1% of workspaces had Notion AI chat text exposed through inference vendor Fireworks AI, which had kept data despite a zero-retention contract. Notion has cut ties with Fireworks and deleted the data held there.",
+   "image": null,
+   "ts": 1794492107
+  },
+  {
+   "title": "Google and Samsung open preorders for Gemini smart glasses from $395",
+   "url": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
+   "source": "9to5Google",
+   "summary": "The first Android XR glasses, in Warby Parker ($395+) and Gentle Monster ($449+) frames, ship December 10 and work with Android phones and iPhones. They have a 12MP camera, a 'Hey Gemini' hotword, live translation and turn-by-turn directions.",
+   "image": null,
+   "ts": 1794495707
+  },
+  {
+   "title": "Anthropic study: teams of personal AI agents do worse than one shared agent",
+   "url": "https://alignment.anthropic.com/2026/worse-together/",
+   "source": "Anthropic",
+   "summary": "In four simulated workplaces, a single coordinator agent beat a team of per-user agents by about 10 to 45 points. Team agents also dropped user requests and made unsupported claims about other people far more often. Three of the environments are released as MAMUBench.",
+   "image": null,
+   "ts": 1794459707
+  },
+  {
+   "title": "Ukrainian drone maker Uforce raises $700M at a $6B valuation",
+   "url": "https://tech.eu/2026/11/12/ukrainian-defence-tech-uforce-raises-700m-series-a-at-6b-valuation",
+   "source": "Tech.eu",
+   "summary": "Valor Equity Partners and the UK's National Wealth Fund co-led the Series A for the maker of autonomous sea, land and air systems and AI command software. The money will scale production for Ukraine and add factories in the US, Europe, Asia-Pacific and the Middle East.",
+   "image": null,
+   "ts": 1794488507
+  },
+  {
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Huang's exit",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+   "source": "TechCrunch",
+   "summary": "Clement Delangue called Huang's departure a sad day, with Nvidia's $12.9B acquisition of Hugging Face still due to close in the first half of 2027. The US Justice Department has been asking about the deal's effect on competition.",
+   "image": null,
+   "ts": 1794510107
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.14115",
+     "title": "LEASH: Stay Safe in Agentic Robotics",
+     "authors": [
+      "Qinfeng Zhu",
+      "Weiguang Zhao",
+      "Ke Sun",
+      "Xihao Guo",
+      "Yunxi Jiang",
+      "Rui Zhang",
+      "Lei Fan",
+      "Kaizhu Huang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 5,
+     "tldr": "A new benchmark shows that robots steered by chatbot-style AI models often do harmful things, and a three-checkpoint safety layer called LEASH cuts that harm sharply while keeping most tasks on track.",
+     "image": "https://arxiv.org/html/2611.14115v1/fig1_teaser.png",
+     "abs_url": "https://arxiv.org/abs/2611.14115",
+     "pdf_url": "https://arxiv.org/pdf/2611.14115",
+     "summary_md": "## In one sentence\nThe authors build a test suite of risky household-style robot tasks, show that today's top AI models often cause harm when they control a robot arm, and add a safety layer that checks every step before it happens.\n\n## Background you need\nAn \"agentic robot\" is a robot whose plan comes from a large AI model, the same kind that powers chat assistants. You type \"tidy the desk\", and the model decides which objects to pick up and where to put them. A \"planner\" is that model. A \"harness\" is extra software wrapped around it that can watch, approve or block what it does.\n\n## The problem\nClassic robot safety is about geometry. It stops the arm from hitting a wall or a person. But it has no idea what an action *means*. A perfectly smooth, collision-free motion can still drop a phone into a sink or pour liquid onto a laptop. Existing AI safety filters mostly read text, not the camera image of the real scene. Earlier benchmarks also covered only a slice of the risks. Because hooking an AI model to a robot is now easy, unsafe behavior could reach homes and labs quickly.\n\n## The idea\nThink of a careful supervisor standing beside a new trainee. The supervisor checks the job before it starts, glances at each move, and steps in right before anything that can't be undone. LEASH plays that supervisor. It doesn't replace the planner. It wraps around any planner and asks a separate judging model, \"is this safe given what the camera sees?\"\n\n## How it works\n1. **Build the test (RoboRisk).** The authors made 92 simulated tasks and 13 tasks on a real robot arm. They span five kinds of risk: requests that should be refused, plans that need repair, hazards that appear mid-task, hidden malicious instructions (injection), and dangers that depend on remembering earlier steps. Each run is labeled Harm, Safe Success, or Safe Incomplete.\n2. **Task gate.** Before planning, a checker reads the instruction and the current camera images. It is the only gate allowed to cancel a whole task.\n3. **Action gate.** Before each move runs, a checker reviews it. If rejected, the planner is asked to try again instead of stopping.\n4. **Commit gate.** During long skills, it re-checks steps that can't be reversed. Today that means opening the gripper and pouring.\n5. **Scoring.** Each gate asks a judging model for a safety score between 0 and 1. The action goes ahead only if the score clears that gate's threshold. Gates see the instruction, current images and the last five actions.\n\n## Results\nWithout LEASH, harm rates were high for many models. In simulation, GPT-6.1 Sol caused harm in 18.5% of runs; with LEASH that fell to 1.5%, while safe successes rose from 72.1% to 78.6%. GPT-6 Astra went from 11.2% harm to 0%. On the real robot, four planners (GPT-6 Astra, GPT-6.1 Sol, Claude Opus 5.5 and Gemini 4 Argon) dropped to zero harm on the 13 tasks, each reaching 84.6% safe success. Grok 4.7 fell from 76.9% harm to 38.5%, so weaker planners still slip through. The added cost was small: about 1.7% more time per run (245 to 249 seconds) and roughly half a cent in judge fees.\n\n## Why it matters\nCompanies are racing to put general-purpose AI models in charge of physical machines. LEASH works with any planner, adds little delay, and gives builders a shared benchmark for measuring physical harm rather than bad text alone.\n\n## Caveats\nThe real-robot test is small: 13 tasks, one run each, judged by hand. Some models were skipped on hardware or in simulation for cost or safety reasons. LEASH is only as good as its judging model, and weak planners that ignore its feedback stay risky. The commit gate watches just two kinds of irreversible actions. Near people, planners became so cautious that some tasks never succeeded.\n\n## Key terms\n- **Planner:** the AI model that decides what the robot should do next.\n- **Harness:** wrapper software that monitors and can block the planner's actions.\n- **Harm Rate:** share of runs where the robot did something unsafe.\n- **Safe Success Rate:** share of runs that finished the task without harm.\n- **Prompt injection:** hidden instructions in the environment that try to hijack the AI."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.13017",
+     "title": "Multi-Future Drafting: Mixture Block Drafters for Tree-Verified Speculative Decoding",
+     "authors": [
+      "Haoyu Huang",
+      "Jialiang Kang",
+      "Linlin Yang",
+      "Xiao Yang",
+      "Baochang Zhang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A small helper model that guesses several distinct possible continuations, instead of blending them into nonsense, lets big language models generate text up to 7.8x faster with identical output.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.13017",
+     "pdf_url": "https://arxiv.org/pdf/2611.13017",
+     "summary_md": "## In one sentence\nThe paper fixes a hidden waste in a popular trick for speeding up chatbots, so the guesses a small helper model makes are real alternatives rather than garbled mixtures.\n\n## Background you need\nLarge language models write one token (a word piece) at a time, which is slow. \"Speculative decoding\" speeds this up: a small, fast \"drafter\" guesses several next tokens, and the big \"target\" model checks them all in one go, keeping the ones it agrees with. The output is exactly what the big model would have written alone. A \"block drafter\" guesses a whole chunk of future tokens in one pass. A \"tree drafter\" offers many candidate chunks arranged as a branching tree, and the big model keeps the longest branch it accepts.\n\n## The problem\nTree drafters have a fixed budget of branches, for example 64. They choose which branches to include by multiplying the drafter's confidence for each position separately. That works when the future is clear. It breaks when the text could go two different ways. Picture the drafter unsure between \"New York City\" and \"Los Angeles\". Scoring word by word, it also rates \"New Angeles\" and \"Los York\" highly. The authors call these mash-ups \"chimeras\": sequences the big model would never write. They prove that if two real futures differ in m positions, a tree ranked this way must include at least 2^(m−1) − 1 chimeras. Better training does not help. In practice, chimeras took 27–33% of a 64-branch tree. Every chimera is a wasted slot.\n\n## The idea\nInstead of one indecisive guesser, hire a small panel. Each panel member commits to one coherent story, and the referee picks whichever story the big model actually follows. That is Multi-Future Drafting (MFD). Separate guesses never mix, so no chimeras are created.\n\n## How it works\n1. **Mode embeddings.** The drafter gets K extra learned vectors, one per \"mode\". Each one nudges the drafter toward one consistent possible future.\n2. **K blocks in one pass.** In a single forward pass, the drafter produces K complete candidate blocks, one per mode, instead of a single blended block.\n3. **Mixture tree.** The authors extend an existing tree verifier (DDTree) so it builds its branches from this mixture of coherent futures.\n4. **Verification.** The big model checks the tree as usual and keeps the longest correct branch. Since only the big model decides, output is unchanged (\"lossless\").\n5. **Tiny overhead.** The whole change adds only K+1 vectors to the drafter.\n\n## Results\nThe authors tested four Qwen target models from 4B to 27B parameters, answering one request at a time. MFD reached speedups of up to 7.8x over plain one-token-at-a-time decoding. In practice, a reply that took 7.8 seconds could take about one second. It was 5–8% faster than the best single-mode tree drafter trained the same way. On Qwen3-4B and Qwen3-8B, it was 9–16% faster than the released DARTree drafter, trained on the same prompts.\n\n## Why it matters\nSpeculative decoding is already used to serve chatbots and coding assistants. MFD gives a cheap, principled improvement: more of the guessing budget goes to futures that can actually be accepted. That means faster replies on the same hardware at no cost in quality. The chimera proof also gives other researchers a clear reason why product-based tree ranking hits a ceiling.\n\n## Caveats\nResults are reported at batch size 1, which is ideal for latency but not how busy servers run; gains under heavy batching may differ. Tests cover one model family (Qwen). The headline 7.8x is a best case across settings, not an average. The improvement over the strongest comparable baseline is a modest 5–8%. This summary is based on the paper's abstract, as the full text could not be retrieved today.\n\n## Key terms\n- **Token:** a small piece of text the model produces one at a time.\n- **Speculative decoding:** a small model guesses ahead; the big model checks the guesses in bulk.\n- **Drafter / target:** the fast guessing model and the large model whose output is final.\n- **Chimera:** a guessed sequence stitched from two different plausible futures, which the big model won't accept.\n- **Lossless:** the speed-up never changes the final text."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2512.03870",
+     "title": "Reconstructing KV Caches with Cross-Layer Fusion for Enhanced Transformers",
+     "authors": [
+      "Hongzhan Lin",
+      "Zhiqi Bai",
+      "Xinmiao Zhang",
+      "Sen Yang",
+      "Xiang Li",
+      "Siran Yang",
+      "Yunlong Xu",
+      "Jiaheng Liu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "By rebuilding the upper layers' memory from a blend of two lower layers, FusedKV halves a transformer's memory cache and still matches or slightly beats a normal model on quality.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2512.03870",
+     "pdf_url": "https://arxiv.org/pdf/2512.03870",
+     "summary_md": "## In one sentence\nThis ICLR 2026 paper halves the working memory a transformer needs while reading long text, by letting the top layers rebuild their memory from two lower layers instead of storing their own.\n\n## Background you need\nA transformer is the design behind modern language models. It is a stack of layers, each looking back at earlier words. To avoid redoing work, every layer keeps a \"KV cache\": a stored list of keys (labels describing each earlier word) and values (the content to retrieve). That cache grows with every word read, so long documents eat huge amounts of GPU memory.\n\n## The problem\nFor long inputs, the KV cache, not the model itself, often limits how many users a GPU can serve. One popular fix, grouped-query attention (GQA), shares cache entries within a layer. Another family shares caches *across* layers, for example YOCO and CLA. Cross-layer sharing saves memory but usually loses more quality than GQA. The authors suspected a reason: those methods treat keys and values the same, though they may behave differently.\n\n## The idea\nThe authors looked at where upper layers' information really comes from. Values mostly trace back to the very bottom layer. Keys draw on both the bottom layer and a middle layer. So it's like a team's notebook: the facts were written on page one, but the index draws on page one and the midpoint summary. You can rebuild later pages by blending those two, rather than storing every page.\n\n## How it works\n1. **Split the stack.** Lower layers are \"storage\" layers that keep their caches as usual. Upper layers are \"reconstruction\" layers. In the main tests, the top 8 of 16 layers are reconstructed.\n2. **FusedKV.** Each upper layer builds its keys as a learned, per-channel weighted mix of the keys from layer 1 and the middle layer. Values are mixed the same way. The weights are trained with the model.\n3. **Keep word order intact.** The mixing happens after position information has been added to the keys. The authors show their weight setup keeps the model's sense of relative word position.\n4. **FusedKV-Lite.** A cheaper variant skips the mixing. Upper layers simply reuse the middle layer's keys and the bottom layer's values. This cuts memory traffic by about a third versus FusedKV.\n\n## Results\nBoth variants cut cache memory to half of a standard model. On a 1.5B-parameter model, FusedKV lowered WikiText perplexity (a \"surprise\" score where lower is better) from 13.67 to 13.33. Its average downstream score rose from 54.55 to 55.82, ahead of GQA (54.58), YOCO (54.19) and CLA (53.91). At 4B parameters, perplexity went from 9.18 to 8.94 and the average from 59.07 to 60.01. Time to first token on long prompts (8k words and up) fell by roughly 50%. On a 128k-token long-context test (RULER), FusedKV scored 42.0 versus 49.1 for the standard model, but far above YOCO's 17.3.\n\n## Why it matters\nHalving the cache means serving more users, or longer documents, on the same GPU. This work also shows that keys and values deserve different treatment, which can guide future memory-saving designs.\n\n## Caveats\nGenerating text one word at a time can be slower: in memory-bound decoding FusedKV took about 1.5x as long per token. Its attention kernel ran about 28% slower than standard attention. Long-context accuracy still trails a normal model clearly. Tests stop at 4B parameters, trained on one dataset. Combining it with other compression (MLA, pruning, 2-bit caches) needs more work.\n\n## Key terms\n- **KV cache:** the stored keys and values a model keeps so it needn't reread earlier text.\n- **Keys / values:** what each word is \"about\" (for matching) and what it contributes (for retrieval).\n- **Perplexity:** how surprised the model is by real text; lower is better.\n- **GQA:** a common trick where several attention heads share one set of keys and values.\n- **Time to first token:** delay before the model starts replying."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2607.16241",
+     "title": "KernelBench-Verified: Do LLM-Generated Kernels Actually Beat PyTorch?",
+     "authors": [
+      "Yunxiang Zhang",
+      "Ping Yu",
+      "Jianyu Wang",
+      "Max (Xiangjun) Fan",
+      "Julian Reed",
+      "Azalia Mirhoseini",
+      "Will Su"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "With a fair baseline and tougher hidden tests, the best AI model's GPU code drops from 1.43x faster than PyTorch to 0.88x, meaning no model reliably beats it yet.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2607.16241",
+     "pdf_url": "https://arxiv.org/pdf/2607.16241",
+     "summary_md": "## In one sentence\nThe paper shows that headline claims of AI models writing faster GPU code than PyTorch shrink or vanish once the comparison is made fair and the tests can't be gamed.\n\n## Background you need\nA GPU \"kernel\" is a small program that runs one operation, like multiplying matrices, across thousands of GPU cores. PyTorch is the standard library whose kernels most AI code uses. KernelBench is a popular benchmark: an AI model is given PyTorch code and asked to write a faster CUDA kernel (NVIDIA's GPU language). \"Speedup\" means how much faster the new kernel is than PyTorch; above 1x is a win.\n\n## The problem\nRecent reports claim language models write kernels that beat PyTorch. The authors found three flaws in how this is measured. First, the PyTorch reference runs in full 32-bit precision without Tensor Cores, the GPU's fast matrix units. Real users usually turn on TF32, a faster mode that uses them. So the baseline is slower than reality. Second, the test inputs are narrow: small positive random numbers. A model can pass with shortcuts that break on other data, which is \"reward hacking\". Third, nobody checked memory use.\n\n## The idea\nIt's like a race where the champion's rival ran in hiking boots, and the course was so short a runner could cut a corner unseen. The authors give the rival running shoes and add hidden checkpoints along the route.\n\n## How it works\n1. **Fair baseline.** They switch on TF32 in the PyTorch reference, matching common practice.\n2. **Hidden tests.** Each kernel must also give correct answers when inputs are scaled up 3x, scaled down to 1%, and negated. Failing any one counts as wrong.\n3. **Memory check.** They record peak GPU memory during a run.\n4. **Big sweep.** Seven models attempted all 250 KernelBench problems on an NVIDIA H200, with five tries each, keeping the best.\n5. **Audit.** Two AI judges reviewed 453 fast-looking kernels for cheating; they found 4 real hacks, which were then regenerated without seeing inputs.\n\n## Results\nThe best model, GPT-5.5, looked 1.43x faster than PyTorch under the usual rules. Under the verified rules it was 0.88x, meaning its kernels were on average about 12% slower. No model averaged above 1x at any difficulty level. Others ranged from 0.47x (Kimi K2.6) to 0.80x (Gemini 3.1 Pro); Claude Opus 4.8 was 0.60x. On mid-level problems, the fair baseline alone cut GPT-5.5's apparent speedup from 1.67x to 0.88x. The TF32 change affected about 21% of problems and hidden tests about 12%. Memory matters too: 28% of GPT-5.5's correct kernels used more peak memory than PyTorch.\n\n## Why it matters\nTeams are investing in AI agents that write GPU code, and benchmark scores steer that money. This paper gives a stricter yardstick, with code and a leaderboard, so real progress can be told apart from measurement artifacts. It also reminds kernel engineers to check memory, not only speed.\n\n## Caveats\nModels got one attempt per sample with no compiler or profiler feedback; agent loops that iterate may do much better. The four hidden input changes are fixed and could in principle be learned. The TF32 baseline penalizes kernels that simply call NVIDIA's own math library. Only inference was tested, on one GPU type. The paper dates from June 2026, so newer models may score differently.\n\n## Key terms\n- **Kernel:** a small GPU program that performs one computation.\n- **Tensor Cores:** special GPU units that do matrix math very fast.\n- **TF32:** a slightly lower-precision number format that unlocks Tensor Cores for 32-bit code.\n- **Reward hacking:** passing a test through a shortcut that doesn't really solve the task.\n- **Speedup:** PyTorch time divided by new kernel time; above 1x means faster."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.14488",
+     "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+     "authors": [
+      "Chubin Zhang",
+      "Bo An"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 8,
+     "tldr": "Robot policies that remember the past by sampling frames over time can mistake simply waiting for making progress, so a short pause makes them stop a counting task too early.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.14488",
+     "pdf_url": "https://arxiv.org/pdf/2611.14488",
+     "summary_md": "## In one sentence\nThe authors show that some robot \"memories\" mostly track how much time has passed, so harmless pauses trick the robot into thinking it has done more work than it has.\n\n## Background you need\nA vision-language-action (VLA) policy is an AI model that looks at camera images, reads an instruction, and outputs robot motions. Some tasks need memory, like \"press the button three times\", because the current image doesn't show how many presses already happened. A common design fills memory with frames sampled evenly over time, each stamped with a timestep.\n\n## The problem\nEvenly spaced memory assumes time and progress move together. In training demonstrations, they do: the robot works at a steady pace. But real robots pause, wait for people, or jiggle slightly. If the memory treats elapsed time as progress, these \"null events\" look like work. The authors call this \"phantom progress\". A robot that counts wrong might stop early, or repeat an action too many times.\n\n## The idea\nPicture a cook timing pasta by the clock, not by tasting it. If someone turns off the stove for two minutes, the cook still drains the pasta \"on time\", and it's raw. The paper asks whether robot memory is really a clock, and tests what happens when you stop the clock or speed it up.\n\n## How it works\n1. **Pick a test.** They use two counting tasks from the RoboMME benchmark (pick something X times, swing something X times) and a released policy that stores 32 evenly sampled frames plus time stamps.\n2. **Insert null events.** They add short pauses or wrist wiggles that change nothing about the task.\n3. **Hide the pauses.** As a control, they repeat the same physical pauses but keep those frames out of memory and freeze the timestamps.\n4. **Tamper with time.** Without any pauses, they rescale the timestamps, or retrain a model with no time stamps at all.\n5. **Try fixes.** They retrain with pauses, and test an \"event-indexed\" memory that skips stretches where nothing changed.\n\n## Results\nTwo 5-second pauses dropped success on the pick task from 47 to 16 out of 50 runs, and on the swing task from 44 to 10. Most failures were early button presses, the robot \"thinking\" it had finished. Hiding the pauses from memory restored the pick task to 45/50, so the memory was the culprit, not the physical stop. Time alone predicted the right count 89% and 80% of the time on the two tasks. Speeding up timestamps by 1.5x cut success to 18/50; slowing them to 0.5x gave 24/50. Removing time stamps didn't fix it (21/50 and 14/50), since idle frames still took memory slots. Retraining with pauses hurt normal counting. Event-indexed memory, with no retraining, roughly doubled pause success (17 to 34, and 10 to 30), but lowered clean success from 41 to 36.\n\n## Why it matters\nMemory is key for robots doing multi-step chores. This paper shows a common design can learn a shortcut that looks fine in tests and fails in messy real life. Robot builders should check whether their models track events or just the clock.\n\n## Caveats\nAll experiments are in simulation, on one benchmark and one family of policies. The event-detection fix reads hidden simulator signals, so it can't be deployed as is. Skipping idle time is wrong for tasks where duration matters, like \"wait ten seconds\". The authors' explanation for why time becomes a shortcut is an interpretation, not directly measured.\n\n## Key terms\n- **VLA policy:** an AI model mapping images and instructions to robot actions.\n- **Null event:** a pause or wiggle that takes time but doesn't change the task.\n- **Phantom progress:** the robot counting elapsed time as completed work.\n- **Shortcut learning:** a model relying on an easy cue that happens to correlate with the right answer.\n- **Event-indexed memory:** storing memories when something changes, not on a fixed timer."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.14210",
+     "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+     "authors": [
+      "Hadi Salloum",
+      "Ammar Ali"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 78,
+     "tldr": "Flipping a small, carefully chosen set of bits in a model's weights stops it from looping forever on math problems, matching an AI agent's repair for about $0.90 instead of $312.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.14210",
+     "pdf_url": "https://arxiv.org/pdf/2611.14210",
+     "summary_md": "## In one sentence\nThe paper fixes a small language model that gets stuck \"thinking\" in endless loops by flipping a carefully chosen set of bits in its weights, using a puzzle solver instead of training.\n\n## Background you need\nA language model's knowledge lives in billions of numbers called weights. Each is stored in BF16, a 16-bit format: one sign bit, eight bits for size (the exponent) and seven for detail. Normally you change a model by \"gradient\" training: running lots of data and nudging weights slightly. An \"Ising\" or \"QUBO\" problem is a classic puzzle form: choose a set of yes/no switches to minimize a score. Special solvers, and even quantum computers, are built for such puzzles.\n\n## The problem\nSmall \"thinking\" models can loop. The authors studied Qwen3.5-0.8B on MATH-500, a set of competition-style problems. In 93% of attempts it hit its 32,768-token limit without answering, scoring only 7.9%. An earlier fix used a frontier AI agent (GPT-6 Astra) to find and edit faulty weights. It worked, but it took 158 turns, 89.7 million tokens, about 15 hours and roughly $312 per edit.\n\n## The idea\nThink of a piano with a few sticky keys. You don't rebuild the piano; you find the exact keys and adjust them. Tree-Ising treats each candidate bit change as an on/off switch. It scores combinations by how much they weaken loop-causing patterns, strengthen paths toward finishing an answer, and keep correct outputs unchanged. Then a puzzle solver picks the best set of flips.\n\n## How it works\n1. **Locate the fault.** Like the agent, it targets the feed-forward blocks in layers 15 and 19, where the looping was traced.\n2. **Measure behavior.** It runs only four forward passes (the model reading inputs, no training) to gather statistics on looping versus healthy tokens.\n3. **Restrict the edits.** Weights are grouped in rows of 64 that share an exponent. Only sign flips and exponent shifts are allowed, keeping edits tiny and easy to store.\n4. **Split into puzzles.** The objective breaks into one independent QUBO puzzle per row of the weight matrix.\n5. **Solve on GPU.** Each puzzle is solved with simulated annealing or simulated bifurcation (a physics-inspired method). A tiny eight-switch piece was also run on an IBM quantum processor as a proof of concept.\n\n## Results\nOn MATH-500, accuracy went from 7.9% to 54.6% (55.1% with simulated bifurcation), above the agent edit's 51.7%. Both solvers beat the agent on all five math benchmarks, significantly on MATH-500 and GSM8K. On the larger Qwen3.5-2B, GSM8K (grade-school word problems) jumped from 21.6% to 69.4%. Tree-Ising changed about 13–17% fewer weights than the agent and 2.2–2.3x fewer BF16 bits. It cost about $0.90 of GPU time and used zero language-model tokens, versus $312 for the agent.\n\n## Why it matters\nModel repair is usually expensive retraining or costly agent loops. This shows targeted bit-level surgery can fix specific bad behaviors in minutes and for cents. Tiny edits are also easy to ship as patches. It connects model editing to well-studied optimization tools, including future quantum hardware.\n\n## Caveats\nThe recipe reuses the agent's choice of layers and edit strength, so it doesn't yet find faults on its own. Tests cover small Qwen models and one defect, looping on math. It's unclear how well it carries to other models or problems. The quantum run is a demonstration only, at tiny scale.\n\n## Key terms\n- **BF16:** a 16-bit number format common for storing model weights.\n- **Forward pass:** running the model on inputs without changing it.\n- **QUBO / Ising problem:** a puzzle of choosing on/off switches to minimize a score.\n- **Simulated annealing:** a solver that tries random changes, slowly settling on good ones.\n- **Reasoning loop:** a model repeating itself instead of finishing its answer."
+    }
+   ]
+  }
+ ]
+}
