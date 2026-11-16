@@ -1,0 +1,226 @@
+{
+ "date": "2026-11-16",
+ "generated": "2026-11-16T10:32:00+00:00",
+ "news": [
+  {
+   "title": "Jensen Huang reportedly discusses a comeback as Nvidia CEO with allies",
+   "url": "https://www.irishtimes.com/technology/big-tech/2026/11/16/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies/",
+   "source": "The Irish Times (Financial Times)",
+   "summary": "Days after resigning, Huang is said to be weighing a return as allies lobby Nvidia's board to reinstate him while its independent probe continues. Shareholders Brad Gerstner and Gavin Baker urged the board to keep the option open, while Treasury Secretary Scott Bessent has called for a leadership shake-up.",
+   "ts": 1794808800,
+   "image": null
+  },
+  {
+   "title": "Trump administration to name Nvidia, OpenAI and Anthropic among AI 'national champions'",
+   "url": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+   "source": "The Next Web (WSJ)",
+   "summary": "The Wall Street Journal reports that more than two dozen US firms, including Nvidia, Amazon, Microsoft, OpenAI and Anthropic, will be designated to help sell American AI abroad against Chinese rivals. Bundled chip-and-model packages could get government advocacy, federal financing and faster export-licence reviews, with Commerce Secretary Lutnick expected to unveil the list within a week.",
+   "ts": 1794801600,
+   "image": null
+  },
+  {
+   "title": "Under pressure over Nvidia chip exports, Lutnick joins Trump's China trip",
+   "url": "https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china",
+   "source": "Semafor",
+   "summary": "The Commerce Secretary will fly with Trump to the APEC summit despite criticism that he slowed AI chip restrictions on China and stayed close to Jensen Huang. Officials including Bessent reportedly pushed him to blacklist Megaspeed, the company at the centre of the Nvidia scandal; the White House says it has full confidence in him.",
+   "ts": 1794765840,
+   "image": null
+  },
+  {
+   "title": "Apple launches a study app with OpenEvidence to learn how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "summary": "The app answers everyday medical questions using clinical sources such as NEJM and JAMA, and Apple hopes to enroll up to 200,000 US iPhone users for over a year. Participants can optionally share HealthKit data for more personal answers; Apple says data is anonymized and won't be used to train models.",
+   "ts": 1794792600,
+   "image": null
+  },
+  {
+   "title": "Samsung SDS in early talks to host OpenAI and Anthropic in Korean data centres",
+   "url": "https://www.techbooky.com/samsung-sds-in-early-ai-data-centre-talks-with-openai-and-anthropic-ft-says/",
+   "source": "TechBooky (Financial Times)",
+   "summary": "Samsung's IT services arm is courting the two AI labs as tenants for its data centres in South Korea, the FT reported on Sunday. No size, location, price or signed deal has been disclosed; Samsung SDS already partners with both companies on enterprise AI.",
+   "ts": 1794772800,
+   "image": null
+  },
+  {
+   "title": "SK Hynix to spend about $1 billion over five years backing Korean chip suppliers",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/11/16/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers",
+   "source": "Reuters",
+   "summary": "The memory maker will put 1.4 trillion won into domestic materials, parts and equipment suppliers as competition in AI chips heats up. Part of the plan is Trinity Fab, a jointly funded 874.6 billion won test facility at its Yongin complex due to open in May 2027.",
+   "ts": 1794788160,
+   "image": null
+  },
+  {
+   "title": "Pony.ai says Chinese self-driving firms already have a non-Nvidia plan B",
+   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "source": "TechCrunch",
+   "summary": "Pony.ai's CFO says the company is training more on domestic Chinese chips and squeezing more out of mid-tier hardware, after years of preparing fallbacks. He adds that alternatives to Nvidia are more mature than before but still not the most cost-effective option.",
+   "ts": 1794762300,
+   "image": null
+  },
+  {
+   "title": "Swiss startup Embodied AI unveils AIR, a wheeled humanoid that learns factory jobs on site",
+   "url": "https://roboticsandautomationnews.com/2026/11/15/embodied-ai-unveils-air-humanoid-robot-designed-to-learn-factory-tasks-on-the-job/107133/",
+   "source": "Robotics & Automation News",
+   "summary": "AIR uses soft, tendon-driven arms that yield on contact so it can work beside people, and it learns from a human operator's runs before taking over, typically within a month. The company says it hit 98% reliability on a cable-handling test for an electronics maker, beating a 90% target.",
+   "ts": 1794744000,
+   "image": null
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.10264",
+     "title": "Look Only Where You Plan for Real-Time End-to-End Urban Driving",
+     "authors": [
+      "Haohua Que",
+      "Tianle Zhu",
+      "Qianyi Wu",
+      "Zhipeng Bao",
+      "Handong Yao"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A self-driving planner that reads only the camera regions it needs, instead of building a full top-down map, matching a dense planner's accuracy with about half the parameters and 1.7x lower latency.",
+     "image": "https://arxiv.org/html/2611.10264v1/teaser_nusc.png",
+     "abs_url": "https://arxiv.org/abs/2611.10264",
+     "pdf_url": "https://arxiv.org/pdf/2611.10264",
+     "summary_md": "## In one sentence\nLOWP is a self-driving planner that skips building a full map of the surroundings and only looks at the image regions it needs, which makes it smaller and faster while staying about as accurate.\n\n## Background you need\nAn end-to-end driving planner takes raw camera images and directly outputs the path the car should follow. Most planners first build a bird's-eye-view grid: a top-down map where every square holds visual features. Planners are tested open loop (compared to a human's recorded path), in pseudo-simulation (a short simulated check of each plan) and closed loop (actually driving in the CARLA simulator).\n\n## The problem\nThe bird's-eye-view grid was designed for perception, not planning. It fills every square at the same detail, even areas the car will never approach. In one strong planner, ResWorld, the grid-building parts hold 48.5 million of its 80.8 million parameters (the learned numbers inside the network). A car has a fixed time budget per camera frame. Time spent mapping empty sidewalk is time not spent reacting to traffic.\n\n## The idea\nThe authors ask how little of the scene a planner really needs. Think of a driver who does not memorise the whole street. They glance at the lane ahead, the car beside them and the crossing on the left. LOWP works the same way. It sends 32 learned \"probes\" into the camera images and reads only what they point at.\n\n## How it works\n1. **Shared image features.** A standard image network (usually ResNet-34) turns the camera images into feature maps. The car's speed and command, such as \"turn left\", are also given.\n2. **A focused reader.** Sixteen probes each own a 3D anchor point near the car. Each anchor is projected into the cameras, and features are sampled only at those spots. Anchors are nudged over three layers.\n3. **A global reader.** Sixteen more probes look at every image cell. Each cell is tagged with the direction of its camera ray, giving a sense of 3D without depth labels.\n4. **Two plans, blended.** Each reader feeds a small transformer (an attention-based network) that predicts future positions. The plans are mixed, with more weight on the focused reader during turns.\n5. **Extras per benchmark.** For simulation tests, a scorer also ranks thousands of pre-made candidate paths. Closed-loop driving adds a steering and throttle controller.\n\n## Results\nOn nuScenes (open loop), LOWP's average position error was 0.296 m versus 0.302 m for ResWorld. Collision rates were similar, within noise. LOWP used 42.9 million parameters, about 53% of ResWorld's size. On the same GPU it took 24.42 ms versus 41.35 ms, about 1.7× faster.\n\nOn NAVSIM (pseudo-simulation), LOWP scored 85.89 in 7.05 ms. It beat TransFuser (84.00) but trailed DiffusionDrive (88.10). On Bench2Drive (closed loop), it reached a driving score of 65.51 at 6.53 ms. That edges out iPad (65.02 at 11.22 ms) but sits well below HiP-AD (86.77).\n\nOn turns, the focused reader alone caused 7 collisions versus 24 for the global reader. Plain engineering also helped: removing needless CPU–GPU waits cut one part from 9.44 ms to 6.09 ms with identical outputs.\n\n## Why it matters\nCars, delivery robots and drones run on limited onboard chips. Matching a dense planner with half the parameters frees compute or allows cheaper hardware. It also questions the habit of building a full top-down map before planning.\n\n## Caveats\nThe authors are candid. Most competitor speeds come from other papers on other GPUs, so rankings are not head-to-head. Most results use one training run. The closed-loop setup adds a reverse-when-stuck rule that baselines lack. The camera-only model trails several NAVSIM methods by 0.7 to 2.2 points. In 26 of 42 stuck routes, the car held the brake while its plan said to move.\n\n## Key terms\n- **End-to-end planner**: one network from camera images straight to a driving path.\n- **Bird's-eye view**: a top-down grid map of the car's surroundings.\n- **Latency**: time to produce one plan from one set of inputs.\n- **Closed loop**: testing where the plan actually drives a simulated car."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.13410",
+     "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+     "authors": [
+      "Genming Cui",
+      "Xiangyu Li",
+      "Zixu Hao",
+      "Xin Ding",
+      "Yunxin Liu",
+      "Ting Cao"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 37,
+     "tldr": "A full-precision model coaches its 4-bit compressed copy at the exact moments the agent goes wrong, so the cheap agent performs within one point of the original.",
+     "image": "https://arxiv.org/html/2611.13410v1/method.png",
+     "abs_url": "https://arxiv.org/abs/2611.13410",
+     "pdf_url": "https://arxiv.org/pdf/2611.13410",
+     "summary_md": "## In one sentence\nSteerDistill shrinks AI agents to 4-bit precision so they run cheaply, then has the original full-size model coach the small one at the exact moments it goes wrong, recovering almost all of the lost task success.\n\n## Background you need\nAn LLM agent is a language model that completes multi-step tasks by calling tools, such as booking a flight through an airline system. Quantization stores the model's numbers with fewer bits, like rounding prices to the nearest dollar. \"W4A16\" means weights (the learned numbers) use 4 bits while activations (the values flowing through the model) keep 16. Distillation trains a smaller or cheaper \"student\" model to copy a stronger \"teacher\".\n\n## The problem\nAgents call the model many times per task, so costs add up. Quantization makes each call cheaper, but compressed agents fail more often. They tend to overlook a requirement in the task or a condition in the environment. One small slip then pushes the whole episode off track.\n\nExisting fixes have blind spots. Pre-recorded training examples may never show the student its own typical mistakes. Letting the student retry alone rarely helps: in one test, it found a correct action at only 9.6% of the turns where it had gone wrong.\n\n## The idea\nThink of a driving instructor beside a learner. The instructor does not grab the wheel. At the moment the learner misses a stop sign, the instructor rewinds and says \"watch for signs at junctions like this\". Later, the learner practices until the reminder is no longer needed. With this coaching, success in that same test jumped from 9.6% to 82.3%.\n\n## How it works\n1. **Find the slip.** For each failed student attempt, the system takes a successful teacher run on the same task. It compares the two by what happened in the environment, not by exact wording. The first turn where outcomes differ is the \"divergence point\".\n2. **Rewind and coach.** The environment is restored to just before that turn. The teacher writes a short structured hint: what went wrong, when it applies, and a rule to fix it.\n3. **Retry and check.** The student retries with the hint. A local check compares the new environment state to the teacher's run. If it still fails, the teacher refines the hint, within a fixed attempt budget.\n4. **Keep fixes, move on.** Verified corrections replace the bad turn, and the student continues alone until the next slip.\n5. **Learn to do it unaided.** The student is trained to produce the corrected answers without seeing the hints. On other turns, it learns to match the teacher's predictions.\n\n## Results\nThe team tested Qwen3-8B, Qwen3.5-4B and Gemma 4 12B on five agent benchmarks: tool calling, customer service, online shopping, household tasks and search-based question answering. Baselines included standard quantization tools and QeRL, a reinforcement-learning method.\n\nFor Qwen3-8B at 4 bits, the full-precision model averaged 53.54. SteerDistill reached 53.18, just 0.36 points behind. QeRL, the best baseline, scored 51.00. Plain quantization without retraining (GPTQ) scored 46.36.\n\nThe other two models stayed within one point of full precision. At an extreme 2-bit setting, SteerDistill beat the best baseline by 3.39 points.\n\nTraining was cheaper too. On the customer-service benchmark, SteerDistill beat QeRL by 1.84 points using 67% fewer GPU hours. Its successful runs used about as many output tokens as the original (4.0K versus 3.9K).\n\n## Why it matters\nA 4-bit model needs much less memory and serves more users per GPU. This method makes that trade nearly free in task success. It could help companies run agents on smaller hardware.\n\n## Caveats\nEach task needs a successful teacher run; without one, a failure gets no coaching. The environment must be rewindable, which many real systems are not. The local check confirms one step's effect, not overall task success. Tests used A100 GPUs and integer formats only.\n\n## Key terms\n- **Quantization:** storing a model's numbers with fewer bits to save memory and compute.\n- **W4A16:** 4-bit weights with 16-bit activations.\n- **Distillation:** training a student model to imitate a stronger teacher.\n- **Behavioral divergence:** the first point where the student's actions lead the environment somewhere different from the teacher's.\n"
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.05984",
+     "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+     "authors": [
+      "Xiangdong Zhang",
+      "Xiaohan Qin",
+      "Sunan Zou",
+      "Tuo Dai",
+      "Bizhao Shi",
+      "Zhuo Xia",
+      "Yebin Yang",
+      "Yizhou Chen"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 29,
+     "tldr": "SimpleHC strips Hyper-Connections down to their useful parts, matching mHC quality on 15B and 30B models while cutting extra training time to 2.4%.",
+     "image": "https://arxiv.org/html/2611.05984v1/write_gate_difference.png",
+     "abs_url": "https://arxiv.org/abs/2611.05984",
+     "pdf_url": "https://arxiv.org/pdf/2611.05984",
+     "summary_md": "## In one sentence\nThis paper takes apart \"Hyper-Connections\", a newer way of wiring layers in large language models, finds which parts actually matter, and builds a simpler version that keeps the quality gains but cuts the extra training time to just 2.4%.\n\n## Background you need\nA transformer is a stack of layers. A residual connection is a shortcut that adds each layer's output to a running total, called the residual stream, so information flows easily through deep stacks. Hyper-Connections (HC) widen this into several parallel streams, with learned \"gates\" deciding how much each layer reads from and writes to them. A variant called mHC also mixes the streams together under a mathematical constraint to keep training stable.\n\n## The problem\nHyper-Connections improve quality and appear in recent frontier models, but they slow training. The extra math is under 1% more computation. The real cost is memory traffic: every layer reads and writes all the parallel streams. Even in the authors' optimized code, mHC adds 7% to 27% training time. On a multi-million-dollar training run, that is a big bill. It was also unclear which design parts actually earn their keep.\n\n## The idea\nPicture four parallel conveyor belts. In mHC, every worker stops all belts, shuffles items between them, and restarts them. The authors found the shuffling barely matters. What matters is that each worker chooses how much to take from and put on the belts. In SimpleHC, a team of four workers looks at the belts once, plans together, and writes back once.\n\n## How it works\n1. **Test each piece separately.** The authors trained variants with and without stream mixing, and with and without learned gates. Learned read and write gates alone matched mHC in quality. Mixing with fixed gates also matched it. The stability constraint added little over simply not mixing.\n2. **Drop the mixing.** SimpleHC keeps streams separate, so updates simply add up. This avoids signals blowing up or fading across many layers.\n3. **Group the layers.** Four consecutive sublayers form a group. Each keeps its own gate settings, but all compute them from the state at the group's entrance.\n4. **Read once, write once.** The group reads the full streams in one pass. Small precomputed corrections account for earlier outputs within the group. One fused kernel writes everything back at the end. This drops full-state reads from 8 to 2 and writes from 4 to 1 per group.\n\n## Results\nTests used mixture-of-experts models (models that route each token to a few specialist sub-networks). At 15 billion total parameters, plain residuals averaged 52.4 on five benchmarks. mHC reached 55.0, and SimpleHC also reached 55.0, with equal training loss.\n\nAt 30 billion parameters, SimpleHC averaged 63.1 across 14 benchmarks, versus 62.9 for mHC and 59.3 for plain residuals. So the quality gain over standard wiring holds at larger scale.\n\nSpeed is the main win. At the widest tested model, mHC added about 7.0% training time. SimpleHC added only 2.4%. At the smallest width, mHC added 26.8% and SimpleHC 6.3%. SimpleHC also stored about 31% less memory for the backward pass than mHC.\n\nIn a stress test on a 230-billion-parameter model with a tenfold learning rate, mHC showed huge gradient spikes. SimpleHC stayed bounded.\n\n## Why it matters\nLabs can get the benefit of Hyper-Connections at a fraction of the time cost. A 2.4% overhead is easy to justify for a 3 to 4 point benchmark gain. The study also suggests a popular stability constraint may be unnecessary.\n\n## Caveats\nPer-benchmark gains at 30 billion parameters were mixed. SimpleHC trailed mHC on grade-school math (GSM8K) and trailed both rivals on coding (HumanEval). The speedups depend on custom fused kernels. The stress test simulates instability with a high learning rate rather than a real long run.\n\n## Key terms\n- **Residual stream:** the running total that each layer adds its output to.\n- **Hyper-Connections:** several parallel residual streams with learned read and write gates.\n- **Gate:** a learned dial controlling how much a layer reads or writes.\n- **Mixture-of-experts:** a model that sends each token to a few specialist sub-networks.\n- **Fused kernel:** one GPU routine doing several steps at once to save memory trips.\n"
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.16248",
+     "title": "MegaOps: A Kernel Overlapping Framework with PyTorch-like Modularity and Megakernel Performance",
+     "authors": [
+      "Jinkun Lin",
+      "Byungsoo Oh",
+      "Rachee Singh"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "MegaOps lets separate, reusable GPU kernels overlap by syncing on small tiles of data, matching hand-fused megakernel speed without giving up modularity.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.16248",
+     "pdf_url": "https://arxiv.org/pdf/2611.16248",
+     "summary_md": "## In one sentence\nMegaOps lets ordinary, separate GPU programs (one per model operation) overlap like a single hand-fused \"megakernel\", while keeping the plug-and-play modularity of frameworks like PyTorch.\n\n## Background you need\nA GPU (graphics processor) runs work as \"kernels\": small programs launched one after another, usually one per operation such as a matrix multiply. Each kernel splits its job into tiles handled by thread blocks spread across the chip's streaming multiprocessors, or SMs (its independent compute cores). A \"megakernel\" fuses a whole model into one giant kernel, so nothing waits at kernel boundaries.\n\n## The problem\nIn PyTorch-style frameworks, the next kernel cannot start until the previous one fully finishes. The authors name three costs. The last wave of a kernel's thread blocks often fills only part of the chip, leaving SMs idle. Computation and communication between GPUs run one after the other. And during decoding (generating text one token at a time), loading weights dominates, yet a kernel cannot prefetch the next layer's weights. Megakernels fix all three, but they are hard to modify, reuse or debug. Closed-source libraries such as NVIDIA's cuBLAS cannot be fused at all.\n\n## The idea\nInstead of waiting for a whole kernel to finish, MegaOps waits only for the piece of data a consumer needs. Picture a kitchen line. Normally the plating station waits until the cook finishes every dish. With MegaOps, each dish gets a small flag. When one is ready, its flag goes up and plating starts on it. The cooks never need to merge into one super-chef.\n\n## How it works\n1. **Data tiles with flags.** The user chops the tensor (multi-dimensional array) passed between two kernels into tiles. Each tile gets a semaphore, a tiny counter used as a ready signal. Producers raise it after writing; consumers wait on it before reading.\n2. **Small changes to existing kernels.** A kernel gains a few arguments describing its semaphores and how its work maps to data tiles. Closed libraries like cuBLAS are handled by splitting one call into smaller sub-calls.\n3. **Parallel launch.** A runtime called AsyncStream sends dependent kernels to separate CUDA streams (independent GPU work queues) so they run at once.\n4. **Overlap-aware tuning.** MegaOps reorders thread blocks to follow the order inputs become ready, and prefetches upcoming weights. An autotuner adjusts one setting at a time, profiling only the first few identical layers.\n\n## Results\nTests used NVIDIA A100, L40 and H100 GPUs, plus 4×A100 and 8×H100 setups, on Qwen3 and Llama 3 models from 0.6 to 70 billion parameters. Against the best competitor in each setting, MegaOps averaged 1.10× decode throughput on one GPU and 1.09× on several. Prefill (reading the prompt) was 0.98× and 1.10×: level on one GPU, ahead on several. Against ThunderKittens, a hand-tuned megakernel, it ranged from 0.89× to 1.15× on that system's own workloads, and reached 1.33× on long decoding. Against the popular vLLM serving engine it averaged 1.27×, so a reply that took 10 seconds now takes under 8. Multi-GPU versions needed about 2.09× the code of a plain PyTorch implementation.\n\n## Why it matters\nMegakernels show how much speed is lost at kernel boundaries, but few teams can hand-fuse every new model. MegaOps suggests most of that speed is reachable while reusing existing Triton, cuBLAS and cuDNN kernels. Framework and serving developers could gain megakernel-like efficiency without rewriting a model whenever it changes.\n\n## Caveats\nIt is not always faster: some prefill cases are only at parity, and it sometimes trails ThunderKittens. Each kernel can synchronize on just one input and one output tensor. Uneven tile sizes need extra handling, and wrapping closed-source kernels adds overhead. Results depend on autotuning. Only dense models were tested, not mixture-of-experts models.\n\n## Key terms\n- **Kernel**: a program launched on the GPU to perform one operation.\n- **Megakernel**: a whole model fused into one kernel to avoid waits between operations.\n- **Streaming multiprocessor (SM)**: one of the GPU's many independent compute cores.\n- **Semaphore**: a small counter used as a \"this data is ready\" signal.\n- **CUDA stream**: an independent queue of GPU work; separate streams can run concurrently."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.08462",
+     "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+     "authors": [
+      "Arpit Bahety",
+      "Skand Peri",
+      "Sriniket Ambatipudi",
+      "Chen Xu",
+      "Haruki Nishimura",
+      "Masha Itkina",
+      "Roberto Martín-Martín"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "From just a few human takeovers, a robot infers the reason behind each correction as a reusable spatial rule and uses it to steer a frozen VLA policy away from failures in new scenes.",
+     "image": "https://arxiv.org/html/2611.08462v1/teaser.png",
+     "abs_url": "https://arxiv.org/abs/2611.08462",
+     "pdf_url": "https://arxiv.org/pdf/2611.08462",
+     "summary_md": "## In one sentence\nOopsieRecover lets a robot learn *why* a human stepped in to fix its mistake, from a few corrections, and reuse that lesson in new rooms and layouts.\n\n## Background you need\nA vision-language-action model (VLA) is a robot brain that takes camera images and a text instruction and outputs arm motions. VLAs can do many household tasks but still fail, for example by bumping into things. A common fix is DAgger-style training: a human takes over when the robot errs, and those corrected motions become new training data.\n\n## The problem\nRaw corrections teach a weak lesson. The robot learns \"in this exact situation, move like this\", not the reason. Move the mug or change the kitchen, and the old correction may not help. Existing methods need tens to hundreds of corrections and still generalise poorly. That is slow and costly for anyone deploying robots.\n\n## The idea\nThe key move is abduction: guessing the simplest explanation that fits what you saw. Picture a cooking teacher who twice grabs your hand as you reach across a hot stove. A good student does not memorise those two arm positions. They infer \"keep my arm away from the burner\" and apply it everywhere. OopsieRecover turns a handful of human takeovers into a reusable spatial rule, like \"keep the gripper clear of the steam handle\".\n\n## How it works\n1. **Collect corrections.** A human takes control when the robot is about to fail, steers it to safety and adds a short note. The system keeps the moments before the takeover and the human's fix.\n2. **Propose explanations.** A vision-language model (one that understands images and text) suggests reasons for the correction. Each guess is tested against all similar corrections and refined if too narrow or too loose.\n3. **Ground the rule in 3D.** The model marks relevant objects, such as a mug. A segmentation model outlines them, and depth data turns each outline into a tracked 3D cloud of points.\n4. **Build a switch-on penalty.** Each rule becomes a penalty with a gate that fires only when the risky situation appears. The system checks the gate would have fired before the real failure.\n5. **Steer the frozen policy.** The base VLA is never retrained. When a gate fires, the VLA proposes several short action sequences. A simple motion predictor estimates each outcome, and the robot runs the lowest-penalty one.\n\n## Results\nThe base model was π0.5, a public VLA. In the RoboCasa kitchen simulator, three tasks used 5–8 corrections each. Tests covered the original setup, new object poses, and new poses in unseen kitchens. OopsieRecover led or tied at every level against the plain VLA, a fine-tuned DAgger variant and two other correction methods. The DAgger variant gained roughly 40% in the original setup but did not transfer to new layouts.\n\nOn a real robot, with 3–6 corrections per task, task progress rose from 35.1% to 61.0%. With 8 corrections, one simulated task reached 84% success versus 28% for DAgger. One correction (\"don't hit the steam handle\") was tried in 10 new scenes. It prevented the failure in all 10.\n\n## Why it matters\nHome robots face endless small variations, and fixing each with fresh data does not scale. Learning the reason means one human nudge can protect the robot in many places. It also works on top of an existing model without retraining, which suits teams using off-the-shelf VLAs.\n\n## Caveats\nRules must be spatial relations between tracked points, so forces and hidden properties like weight are out of scope. Detection, tracking or prediction errors can trigger the gate wrongly. The robot only picks among actions the VLA proposes; if none is safe, recovery fails. The paper is also inconsistent about its task count.\n\n## Key terms\n- **VLA**: a model mapping images plus instructions to robot motions.\n- **Intervention**: a moment when a human takes over to fix the robot.\n- **DAgger**: training that adds human corrections as extra examples.\n- **Abduction**: inferring the simplest explanation consistent with observations.\n- **Gated penalty**: a cost that only switches on in a detected situation."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.15777",
+     "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+     "authors": [
+      "Lichen Li",
+      "Ziping Dong",
+      "Sicheng Feng",
+      "Qi Li",
+      "Xinchao Wang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 136,
+     "tldr": "A 2,919-task benchmark shows that fast, no-reasoning decision models can be capable without being reliable, and that the two rankings often disagree.",
+     "image": "https://arxiv.org/html/2611.15777v1/s1-deep-dive-paper.png",
+     "abs_url": "https://arxiv.org/abs/2611.15777",
+     "pdf_url": "https://arxiv.org/pdf/2611.15777",
+     "summary_md": "## In one sentence\nSO-Arena is a benchmark that tests fast, no-reasoning \"System One\" AI decision models on both how much they can do and how dependably they choose, and finds those two things often disagree.\n\n## Background you need\nMany language models now write out long reasoning before answering; the paper calls these System Two models. System One models skip that step. They read a situation and a goal and, in a single pass, output probabilities over a fixed set of choices. They suit quick jobs like routing requests, picking tools, or checking task completion.\n\n## The problem\nThese fast models increasingly sit inside agents, making many small decisions. Yet they are usually judged by one number: average accuracy. It hides which tasks a model handles as difficulty rises, and whether its choices are stable. A model that changes its answer when options are shuffled, or confidently picks a wrong option when the right one is missing, can quietly break a pipeline.\n\n## The idea\nTreat a decision model like a job candidate checked for both skill and trustworthiness. A skills test measures ability. A second check asks whether they answer the same way when options are reordered, and whether they notice when no option is correct. SO-Arena scores both and ranks models on each.\n\n## How it works\n1. **Collect trustworthy tasks.** The authors gathered 2,919 tasks from 40 public datasets and environments. Labels were reviewed and doubtful items dropped. There are 2,300 static questions and 619 interactive ones: 337 web tasks and 282 tool-use episodes.\n2. **Organize by skill and difficulty.** Tasks span 11 domains in five families: semantic understanding, knowledge and reasoning, safety and policy compliance, evidence assessment, and agent task completion. Nine domains have difficulty tiers.\n3. **Score capability.** The capability score averages each domain's hardest tier, weighting domains equally, on a 0–100 scale.\n4. **Score reliability.** Order stability checks whether a model keeps its answer across 12 shuffles of the options. Null discrimination checks whether it notices when the correct option has been removed. The reliability score combines both and stays above zero only if both beat chance.\n\n## Results\nThe team evaluated 21 models, including two System Two models as references. GPT-6 Sol scored 82.3 and GPT-6 Luna 79.7 on capability. The best System One models, GLiDE and KnowLine-31B, each scored 70.2, about ten points behind Luna. But every open-weight System One model answered within 0.3 seconds per task on one H100 GPU. That is tens of times faster than the reasoning models.\n\nReliability told a different story. Fourteen of 18 System One models scored above 0.8 on order stability (adjusted so chance is zero). The most reliable models, JevAny-27B and Jev API 1.14, ranked only eighth and sixth on capability. Spotting a missing correct answer varied widely, from near chance to about 0.8, even among similarly capable models.\n\nSystem One models roughly matched Luna on direct judgments like sentiment or retrieval. They fell well behind on multi-step math, science and code. For one model that can switch thinking on, math accuracy jumped from 50.8 to 92.5.\n\n## Why it matters\nAgent builders need to know which fast model can safely handle routing, safety checks or verification. SO-Arena shows that the most capable model is not automatically the most dependable. It also maps where skipping reasoning is fine and where it costs dearly.\n\n## Caveats\nDifficulty tiers are set within each domain, so \"hard\" in one domain does not equal \"hard\" in another. Stability measures consistency, not correctness: a model can be consistently wrong. Some reference labels came from models rather than people. Latency for closed models was measured over the network, so it is not directly comparable to local timings.\n\n## Key terms\n- **System One model**: a model that picks an answer in one pass without writing out reasoning.\n- **System Two model**: a model that generates reasoning text before answering.\n- **Capability score**: average accuracy on the hardest tier of each domain.\n- **Order stability**: how often a model keeps the same answer when the options are shuffled.\n- **Null discrimination**: how well a model notices that none of the given options is correct."
+    }
+   ]
+  }
+ ]
+}
