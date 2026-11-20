@@ -1,0 +1,251 @@
+{
+ "date": "2026-11-20",
+ "generated": "2026-11-20T11:21:02+00:00",
+ "news": [
+  {
+   "title": "Anthropic closes up 17% in its Nasdaq debut, at a $1.3 trillion market cap",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "source": "Reuters",
+   "summary": "Anthropic's shares finished their first day of trading at $97.17, up about 17% from the $83 IPO price. That gives the company a market value of roughly $1.3 trillion.",
+   "image": null,
+   "ts": 1795107360
+  },
+  {
+   "title": "Apple job listing points to an AI agent that codes, browses and controls apps",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+   "source": "Bloomberg",
+   "summary": "An Apple job posting suggests the company is building an AI agent that can write code, browse the web and operate apps on its devices.",
+   "image": null,
+   "ts": 1795127400
+  },
+  {
+   "title": "Nvidia nears a $500M+ deal for diffusion LLM startup Inception",
+   "url": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million",
+   "source": "The Information",
+   "summary": "Nvidia is reportedly in advanced talks to buy Inception, which builds diffusion-based language models, for more than $500 million plus earnouts. The talks reportedly began before Jensen Huang's departure.",
+   "image": null,
+   "ts": 1795129200
+  },
+  {
+   "title": "Gemini for macOS gets computer use across apps, files and the web",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch",
+   "summary": "Google's Gemini Mac app can now work across apps, files and the web on a user's behalf. The feature is rolling out to paid subscribers in the US.",
+   "image": null,
+   "ts": 1795114200
+  },
+  {
+   "title": "Google and Blue Origin plan TPU-powered AI satellites for 2029",
+   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+   "source": "The Verge",
+   "summary": "Google is working with Blue Origin to launch satellites carrying its TPU AI chips on the New Glenn rocket, part of Project Suncatcher. The launch is targeted for 2029.",
+   "image": null,
+   "ts": 1795096800
+  },
+  {
+   "title": "Commerce approved sales of 879,000+ AI chips to Chinese firms, some military-linked",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "source": "CNBC",
+   "summary": "Documents show the US Commerce Department approved sales of more than 879,000 AI chips to Chinese companies. Some of the buyers are on a military-linked list.",
+   "image": null,
+   "ts": 1795143300
+  },
+  {
+   "title": "Two dozen House lawmakers form a bipartisan AI Safety and Innovation Caucus",
+   "url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829",
+   "source": "Politico",
+   "summary": "More than 24 House members from both parties have launched a caucus focused on AI risks and on keeping the US competitive.",
+   "image": null,
+   "ts": 1795114860
+  },
+  {
+   "title": "European Commission confirms cyberattack carried out with an AI pentesting tool",
+   "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/",
+   "source": "Politico Europe",
+   "summary": "The European Commission confirmed a cyberattack that disrupted its systems for more than 10 days. CERT-EU says the attackers used an AI penetration-testing tool.",
+   "image": null,
+   "ts": 1795098900
+  },
+  {
+   "title": "Google built a 'Mirror Dimension' internet to test its Chrome AI agents",
+   "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+   "source": "Wired",
+   "summary": "Google built an isolated, simulated internet, including fake social media and other sites, so it can test how its AI browsing agents behave before they reach the real web.",
+   "image": null,
+   "ts": 1795109100
+  },
+  {
+   "title": "Moonshot AI scraps a $150M deal to rent Nvidia chips in Indonesia",
+   "url": "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia",
+   "source": "The Information",
+   "summary": "China's Moonshot AI cancelled a $150 million contract with a Southeast Asian neocloud for access to Nvidia chips. The cancellation followed new US rules on remote access to chips.",
+   "image": null,
+   "ts": 1795085700
+  },
+  {
+   "title": "Nscale needs a US license to give ByteDance remote access to Nvidia GPUs",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs",
+   "source": "Bloomberg",
+   "summary": "Under the new US chip rules, Nscale must get a license before it can let ByteDance remotely use Nvidia GPUs. ByteDance accounts for a large share of Nscale's revenue.",
+   "image": null,
+   "ts": 1795155300
+  },
+  {
+   "title": "Asian tech stocks fall sharply as Anthropic's IPO fails to stop the AI sell-off",
+   "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b",
+   "source": "Financial Times",
+   "summary": "Asian tech shares dropped on Friday despite Anthropic's record listing, and SoftBank fell the most.",
+   "image": null,
+   "ts": 1795153500
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.22880",
+     "title": "Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving",
+     "authors": [
+      "Guoqing Wang",
+      "Pin Tang",
+      "Xiangxuan Ren",
+      "Chao Ma"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "AgentWorld lets a self-driving AI think ahead by tracking a short list of nearby road users and what they will do, instead of imagining full future video frames, which beats strong rivals in simulated driving while using about 98 tokens per scene instead of hundreds.",
+     "image": "https://agentworld-ad.github.io/static/images/intro.webp",
+     "abs_url": "https://arxiv.org/abs/2611.22880",
+     "pdf_url": "https://arxiv.org/pdf/2611.22880",
+     "summary_md": "## In one sentence\nAgentWorld is a self-driving model that imagines the future as a short list of \"who is around me and what they will do,\" instead of drawing whole future video frames, and this makes it plan better while using far fewer tokens.\n\n## Background you need\nA vision-language-action model is a large AI model that looks at camera images, can reason in words, and outputs driving actions such as a path to follow. A world model is the part that predicts what will happen next, so the car can \"think ahead\" before it acts. These models work on tokens: small chunks of information, like words in a sentence or patches of an image.\n\n## The problem\nMany recent driving models think ahead by predicting future camera frames pixel by pixel. That produces realistic pictures, but most of the detail is useless for driving. The color of a building or the texture of the road does not change whether you should brake. Only a small share of those tokens describe what matters: where other cars and people are, how they move, and how they might interact with you. Spending hundreds of tokens per scene on scenery makes the model slower and spreads its attention thin.\n\n## The idea\nThink of an experienced driver at a busy intersection. They do not replay a high-definition movie in their head. They keep a mental checklist: \"bus pulling out on the left, cyclist ahead, pedestrian waiting at the crossing.\" AgentWorld builds exactly that kind of checklist. Each item is an \"agent token\" tied to one nearby road user. The token carries what it is, where it sits in 3D, how it is moving, and how it relates to others. The model then reasons and plans over this compact list.\n\n## How it works\n1. **Find the agents.** A set of learned queries looks at both 2D camera features and 3D geometry of the scene. Two branches, one for shape and position and one for appearance and meaning, are blended through learned gates into one grounded token per agent.\n2. **Ground them in reality.** During training, each token is matched to a real object and checked against its true category, 3D box and future motion. This forces the tokens to stay honest about the physical world.\n3. **Teach it to reason.** With supervised fine-tuning (training on worked examples), the model learns to pick out the agents that matter, explain the risk they pose, and then give a high-level action and future waypoints for its own car.\n4. **Sharpen it with reinforcement learning.** The model practices and is scored by rewards for correct output format, accurate perception, good actions, accurate trajectories, and safe interactions. The safety part rewards avoiding collisions, keeping clearance and keeping a healthy time-to-collision (how many seconds until a crash if nothing changes).\n5. **Drive.** At run time the extra training heads are dropped. The model just reads images and writes out its agent-centric reasoning and its planned path.\n\n## Results\nIn closed-loop tests on Bench2Drive, a benchmark where the model actually drives inside the CARLA simulator, AgentWorld scored 81.17 on the overall driving score. The strongest compared systems, AutoVLA and Orion, scored 78.84 and 77.74. Its success rate, the share of routes finished without failure, was 61.36%, against 57.73% for AutoVLA. It also scored highest on comfort (54.39), meaning smoother rides with less harsh braking or swerving.\n\nIn open-loop tests on the nuScenes dataset, where predictions are compared to recorded human driving, its planned path was on average 0.40 meters from the human one, with a 0.11% collision rate.\n\nIt is also lean. It uses about 98 tokens per scene, versus 653 for a pixel-predicting rival, and answers in 0.31 seconds versus 0.40 seconds.\n\n## Why it matters\nSelf-driving companies want models that think ahead but still run fast on the car's computer. AgentWorld shows that thinking about road users, not pixels, can be both cheaper and better. Its reasoning is also easier to inspect: an engineer can read which agents the model focused on and why. That helps with debugging and safety reviews.\n\n## Caveats\nClosed-loop results come from a simulator, not real roads. The paper's code had not been released at the time of writing. Training relies on detailed 3D labels for every nearby object, which are expensive to collect. The method also bets that agents are what matter, so things that are not agents, such as debris, unusual road layouts or faded lane markings, may be handled less well. The gains over the best baselines are a few points, not a leap.\n\n## Key terms\n- **Vision-language-action model:** an AI model that sees images, reasons in language and outputs actions.\n- **World model:** the part of a system that predicts what will happen next.\n- **Agent token:** a compact piece of data describing one nearby road user.\n- **Closed-loop testing:** the model drives and its actions change what happens next, unlike replaying recorded data.\n- **Reinforcement learning:** training by trial and reward instead of by copying examples.\n- **Time-to-collision:** seconds until two objects would crash if they kept their current motion."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.22296",
+     "title": "SpecSearch: Towards Hardware-Aware Efficient Speculative Decoding",
+     "authors": [
+      "Selin Yildirim",
+      "Ali Zeyrek",
+      "Deming Chen"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "SpecSearch automatically chooses how a GPU should run speculative decoding (whether to draft, how far ahead, and at what number precision) for each workload, averaging about 2 times the throughput of normal generation and 1.36 times vLLM's default speculative setup.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.22296",
+     "pdf_url": "https://arxiv.org/pdf/2611.22296",
+     "summary_md": "## In one sentence\nSpecSearch is a tool that automatically picks the fastest way to run a language model's speculative decoding on a given GPU and workload, roughly doubling throughput over plain generation without anyone hand-tuning settings.\n\n## Background you need\nLanguage models write one token (a word piece) at a time, which is slow. Speculative decoding speeds this up: a small, fast \"drafter\" model guesses several tokens ahead, and the big model checks them all in one pass, keeping the ones it agrees with. Throughput means how many tokens a server produces per second across all users. Concurrency is how many requests the server handles at once.\n\n## The problem\nSpeculative decoding is not always a win. On an RTX 5090 graphics card, with short 256-token answers, it gave 3.5 times the throughput of normal generation when only 2 requests ran at once. With 64 requests at once, it became slower: 0.76 times normal speed. When the GPU is already busy, checking the drafter's guesses costs more than it saves.\n\nMany other knobs matter too. How many tokens should the drafter guess? Should the model weights or the KV cache (the model's short-term memory of what it has already read) be stored in lower precision to save memory? The drafter itself eats memory, cutting room for that cache to about 0.73 times what plain generation gets. Serving software like vLLM leaves these as manual settings that people usually set once and forget.\n\n## The idea\nThink of a navigation app choosing your route. The best road depends on traffic and your vehicle, and no single route is best all day. SpecSearch is that app for speculative decoding. It looks at the GPU, how many requests are waiting and how long the answers will be, then picks the best combination of settings.\n\n## How it works\n1. **Define the menu.** Options include plain generation or speculative decoding guessing 3, 7 or 15 tokens ahead, or a rule that changes that number as load changes. Weights can be 16-bit, 8-bit or 4-bit; the cache can be 16-bit or 8-bit.\n2. **Rule out the impossible.** A math model estimates memory use, how many requests fit, and step speed from the GPU's compute power and memory bandwidth. Its memory estimates match vLLM within 0.2%, so it can safely throw out options that would not fit.\n3. **Measure what is left.** In full mode, the surviving options are run for real on the target GPU: about 360 short test runs covering 4 load levels and 3 answer lengths. The winner for each case goes into a lookup table.\n4. **Skip measuring on new GPUs.** To avoid that work, the authors fine-tune a small language model (Qwen3-4B, with small add-on LoRA weights; the main model stays frozen) to act as a multiple-choice picker. It reads a text description of the GPU, the workload and eight candidate settings, and picks the best one. It learns from measurements on other GPUs.\n\n## Results\nTests used the Qwen3-4B model with the DFlash drafter on four GPUs: NVIDIA RTX 5090, H100 and L40, and AMD MI300X. Tasks covered math, coding and chat benchmarks.\n\nWith full measurement, SpecSearch averaged 2.01 times the throughput of the best plain generation and 1.36 times vLLM's default speculative decoding. On the L40 it beat that default by 1.51 times. With 128 requests and long answers on the MI300X, it produced 12,030 tokens per second against 8,910. A job that took 10 minutes would take about 7.4.\n\nThe picker model, never measured on the GPU it chose for, still kept 97.4% of that gain. It averaged 1.30 times vLLM's default and was within 5% of the best choice in 38 of 48 cases. Another speculative decoding system, MagicDec, reached only 0.08 to 0.13 times SpecSearch's throughput where it could run at all.\n\n## Why it matters\nCompanies serving models on mixed hardware, or under traffic that swings across the day, leave speed on the table with fixed settings. SpecSearch shows the right choice can roughly double output from the same GPUs. That means fewer machines and lower cost per answer. The picker means a new GPU type need not be benchmarked by hand first.\n\n## Caveats\nEverything was tested on one model size (4 billion parameters) and one drafter type; other drafters such as EAGLE would need changes to the math model. The picker only chooses fixed settings, not the load-adaptive rule. It made notably worse picks on the H100 at moderate load, losing 14 to 22% there. Shrinking the main model's weights to 8-bit lowered speed across the board, so that knob rarely helped.\n\n## Key terms\n- **Speculative decoding:** a small model drafts tokens and a big model checks them in one pass.\n- **Drafter:** the small, fast guessing model.\n- **Throughput:** total tokens a server produces per second.\n- **Concurrency:** how many requests run at the same time.\n- **KV cache:** the model's stored memory of text it has already processed.\n- **LoRA:** a cheap way to fine-tune a model by training a few small extra weights."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.04657",
+     "title": "Exploiting Biases in Attention for Transformers",
+     "authors": [
+      "Charles Herr",
+      "Gabriele Spadaro",
+      "Enzo Tartaglione"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A learned per-token importance score lets vision transformers skip unpopular tokens in attention, making them up to about 1.6x faster on large images with a 1 to 3 point accuracy cost.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.04657",
+     "pdf_url": "https://arxiv.org/pdf/2611.04657",
+     "summary_md": "## In one sentence\nThe authors teach a vision model to give every image patch a single \"importance score\", then let it skip the least important patches inside attention, cutting compute by up to about a third with a small loss in accuracy.\n\n## Background you need\nA vision transformer cuts an image into small square patches, called tokens, and processes them together. Its core step is attention: each token \"looks at\" every other token to decide what to pay attention to. Each token sends a query (what it seeks) and offers a key and value (what it contains). This work grows with the square of the number of tokens.\n\n## The problem\nLarge images produce many tokens, so attention dominates the cost. That means slower results and bigger compute bills for anyone analyzing large images.\n\nThe authors noticed a pattern. In trained models, most queries end up looking at the same few tokens. A handful of \"popular\" tokens soak up most of the attention, and this gets stronger in deeper layers.\n\n## The idea\nIf popularity barely depends on who is asking, you can rate each token once instead of comparing it against every query. Think of a conference where organizers rate each speaker once. Attendees then visit only the top-rated booths, instead of interviewing everyone.\n\nThe paper adds exactly such a rating, called a bias, to each attention head (one of several parallel attention units in a layer).\n\n## How it works\n1. **Add a learned score.** Each attention head gets a tiny extra layer that reads a token and outputs one number: its importance. It is added to every query's match score for that token.\n2. **Keep the top tokens.** Before computing keys and values, the model keeps only the highest-scoring tokens. Every query compares itself only against this shortlist.\n3. **Prune more in deeper layers.** The share of tokens kept drops steadily with depth. In the main setting, the first layer keeps 90% and the last layer keeps 10%.\n4. **Fine-tune with pruning on.** The authors fine-tune existing models (three DeiT sizes and a large ViT-L) on ImageNet, a standard photo dataset, with pruning switched on.\n\n## Results\nOn 1024-pixel images and one NVIDIA A40 graphics card, the mid-sized DeiT-S dropped from 485.8 to 331.3 billion operations per image. Its time per image fell from 92 to 63 milliseconds. Top-1 accuracy (the right answer is the model's first guess) went from 79.83% to 78.55%.\n\nThe largest DeiT-B fell from 195 to 140 milliseconds, losing about 1.2 accuracy points. The smallest DeiT-Ti lost more, about 3 points (72.13% to 69.10%). Speedups ranged from about 1.45× to 1.61× with an optimized attention routine. A job taking 10 seconds would take about 6 to 7.\n\nOn COCO object detection, box accuracy slipped from 43.3 to 42.7, but the full detector only got about 1.17× faster.\n\nAgainst standard pruning that removes 30% of weights, this method was more accurate (78.55% versus 76.80%) at similar speed. It matched ToMe, a popular token-merging method, and combining both did better at tight budgets. Pruning only at inference time, without training, gave 76.90% instead of 78.55%.\n\n## Why it matters\nAnyone running vision transformers on large images, like satellite or medical scans, pays heavily for attention. The trick is simple, adds almost no parameters, and keeps fixed shapes, so it runs well on standard hardware.\n\n## Caveats\nEvery model needs fine-tuning; this is not a plug-in for frozen models. Small models lose noticeably more accuracy. Gains shrink for wider models, where attention is a smaller share of total cost. Speed was measured on one graphics card type, and only on images, not language or video. The fixed per-layer budget cannot adapt to easy versus hard images.\n\n## Key terms\n- **Token:** a small piece of the input, here an image patch, that the model processes.\n- **Attention:** the step where each token decides which other tokens to draw information from.\n- **Query, key, value:** what a token is looking for, what it advertises, and what it hands over.\n- **Bias (here):** a learned per-token importance score added to all attention matches.\n- **Pruning:** skipping parts of a computation judged unimportant to save time.\n"
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.18145",
+     "title": "Compiling Specialized GPU-Initiated Networking",
+     "authors": [
+      "Javid Baydamirli",
+      "Ismayil Ismayilov",
+      "Kaan Oktay",
+      "Didem Unat"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Obaleth is a compiler that builds GPU-to-GPU messaging directly into kernels and tailors it to the hardware, beating NVSHMEM, NCCL GIN and DeepEP on speed and memory use.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.18145",
+     "pdf_url": "https://arxiv.org/pdf/2611.18145",
+     "summary_md": "## In one sentence\nObaleth is a compiler that writes the networking code inside a GPU program itself, instead of calling a one-size-fits-all library, so messages between GPUs get sent faster.\n\n## Background you need\nBig AI models run on many GPUs (graphics chips used for AI math) that must constantly swap data. In \"GPU-initiated\" networking, the GPU sends data to other GPUs directly from inside its running program, without asking the main processor for help. Today this is done through general-purpose libraries such as NVIDIA's NVSHMEM and NCCL.\n\n## The problem\nAI systems tune their math carefully to each model and chip. Communication still goes through generic library calls built to work for any program. A compiler (the tool that turns code into chip instructions) cannot see inside those calls, so the networking stays generic. This hurts most for small, frequent messages. Mixture-of-experts models send each word's data to specialist parts of the model on other GPUs. Libraries like DeepEP exist just to speed up that traffic.\n\n## The idea\nTreat communication as ordinary code the compiler can see and reshape, not a sealed box. A generic courier treats every parcel the same: full tracking, one parcel per trip. A company with its own fleet knows its routes, so it bundles parcels and skips needless checks. Obaleth gives the compiler that insider view of GPU messages.\n\n## How it works\n1. **Bring messages into the compiler's view.** Sends and receives become part of the program's intermediate representation (the compiler's internal working copy of the code).\n2. **Track completions by buffer lifetime.** A \"completion\" is the signal that a message has safely arrived. Obaleth waits for it only when a block of memory (a buffer) is about to be reused or read.\n3. **Tune ordering, syncing and batching.** The compiler adjusts memory ordering (rules that keep data writes in the right sequence) and synchronization (points where threads wait for each other). It also batches several small sends into fewer, larger ones.\n4. **Generate specialized transport code.** Instead of a generic library call, Obaleth produces networking code tailored to the specific transport (the physical or software path the data travels). This works on both NVIDIA and AMD GPUs.\n\n## Results\nThese numbers come from the paper's abstract.\n- On NVIDIA H100 GPUs, small messages went up to 3.3× faster. At best, a small send takes under a third of the time.\n- On 256 GPUs, \"all-to-all\" exchange (every GPU sends data to every other GPU) ran 1.25× faster than NVSHMEM. It ran 2.3× faster than NCCL GIN, NCCL's GPU-initiated networking mode.\n- It did this while using much less memory and fewer registers (the tiny, very fast storage slots on each GPU core).\n- Inside vLLM, a popular system for serving language models, Obaleth served the Qwen3-235B model on 16 NVIDIA B200 GPUs. Requests finished up to 1.29× faster than with DeepEP, a widely used library for mixture-of-experts traffic.\n\n## Why it matters\nLarge models, especially mixture-of-experts models, must move lots of data between GPUs. Faster networking means quicker replies and more users per GPU. Because the compiler does the tuning, engineers may not need to hand-write networking code for each new model or chip. It supports NVIDIA and AMD GPUs, and the code is open.\n\n## Caveats\n- This summary is based on the abstract only. The paper's detailed method, design limits and full experiments could not be checked.\n- All gains are \"up to\" figures. Typical improvements across message sizes and workloads may be smaller.\n- The serving result covers one model on one 16-GPU setup, compared against one baseline.\n\n## Key terms\n- **GPU-initiated networking**: the GPU starts data transfers to other GPUs itself, without waiting on the main processor.\n- **Intermediate representation**: the compiler's internal version of a program, which it rewrites to make faster.\n- **All-to-all**: a pattern where every GPU sends a piece of data to every other GPU.\n- **Mixture-of-experts**: a model design that routes each word to a few specialist sub-networks, often spread over many GPUs.\n- **Transport**: the path, such as a direct chip link or a network card, that data uses to travel between GPUs.\n"
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.06918",
+     "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+     "authors": [
+      "Weichen Fan",
+      "Haiwen Diao",
+      "Penghao Wu",
+      "Siyuan Hu",
+      "Ziqi Huang",
+      "Tianqi Liu",
+      "Mingze Sun",
+      "Ziyi Wang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "NEO-VLA drops the separate vision encoder and lets a robot's action module read visual information from any layer of one shared pixel-and-language network, beating encoder-based backbones on manipulation benchmarks.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.06918",
+     "pdf_url": "https://arxiv.org/pdf/2611.06918",
+     "summary_md": "## In one sentence\nNEO-VLA is a robot-control model that looks at raw camera pixels directly, instead of relying on a separate pre-built \"vision module\", and this makes it better at manipulation tasks.\n\n## Background you need\nA vision-language-action model (VLA) is a neural network that sees camera images, reads an instruction like \"put the cup in the drawer\", and outputs robot arm motions. Most VLAs are built from a vision-language model: a chatbot-style network that also understands images. Those models usually include a vision encoder, a separately trained network that squeezes each image into a compact summary before the language part ever sees it.\n\n## The problem\nManipulation depends on small visual details: the edge of a handle, the depth of a slot. A vision encoder was trained for other goals, like matching images to captions. Its final summary may discard exactly what a gripper needs. The action module only gets that finished summary, never the richer work done along the way.\n\n## The idea\nThink of a chef who only gets a waiter's one-line summary of a customer's order, versus a chef who can listen to the whole conversation. NEO-VLA removes the separate encoder entirely. Pixels and words flow through one shared network from the first layer. The action module can then listen in on any layer it finds useful.\n\n## How it works\n1. **Cheap image chopping.** A small convolutional stem (a few simple image filters) cuts each camera view into patches. Each 32×32 pixel square becomes one token, the basic unit the network reads.\n2. **One shared backbone.** Image tokens and instruction tokens go together into a single 40-layer network with about 2 billion parameters (adjustable numbers the model learns).\n3. **An action expert that reads many layers.** A separate action module reads the backbone's stored internal state from a chosen set of layers. It uses flow matching, a method that starts from random noise and refines it in 10 steps into a smooth chunk of 30 future motions.\n4. **Three training stages.** First the backbone is frozen and only the action module learns. Then everything trains together on about 2.2 million robot episodes (roughly 10,000 hours) from nine public datasets. Image-and-text training is mixed in to keep language skills. A last stage uses the team's own robot data.\n\n## Results\nOn LIBERO, a standard simulated benchmark of household-style tasks, the authors froze each backbone and trained only the action module. NEO-VLA averaged 90.9% task success. Two popular encoder-based backbones, Qwen3-VL-2B and Gemma-3-4B, scored 79.5% and 84.5% under the same setup.\n\nSimply wiring Qwen3-VL's action module to the encoder's middle layers did not help. Frozen performance dropped to 64.9%. Joint training from pixels up seems to matter, not just layer access.\n\nProbing showed that the signals most useful for action often peak in middle layers, not at the end. On RoboTwin 2.0, a two-arm benchmark, success fell only from 75.78% to 69.40% when scenes were randomized. On three real-robot tasks with 50 demonstrations each, NEO-VLA succeeded 12, 17 and 13 times out of 20. The strong open model π0.5 scored 10, 14 and 13.\n\n## Why it matters\nMost robot-learning teams build on off-the-shelf vision-language models. This work suggests that choice quietly limits how well robots see fine detail. Encoder-free backbones could be a better base for robot foundation models, and the code and weights are public.\n\n## Caveats\nWhen all weights are trained, competitors get much closer. Comparisons with other papers mix different simulators, cameras and training data, as the authors themselves note. The final training stage uses private data that is not described in detail. Real-robot tests cover just three tasks and 20 trials each.\n\n## Key terms\n- **Vision-language-action model (VLA):** a network that turns images plus an instruction into robot motions.\n- **Vision encoder:** a separate network that compresses an image into a summary before the main model sees it.\n- **Flow matching:** a way to generate outputs by gradually refining random noise into a sensible answer.\n- **Frozen backbone:** keeping the main network's weights fixed and training only a small add-on module.\n- **LIBERO:** a simulated benchmark of tabletop household manipulation tasks.\n"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.17287",
+     "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+     "authors": [
+      "Jiacheng Xu",
+      "Shuo He",
+      "Fuxiang Zhang",
+      "Chaojie Wang",
+      "Bo An"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "When a checker can only catch wrong answers but never confirm right ones, training a model only to avoid the caught failures beats rewarding the passes, and keeps the model more creative.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.17287",
+     "pdf_url": "https://arxiv.org/pdf/2611.17287",
+     "summary_md": "## In one sentence\nThis paper trains a language model with reinforcement learning when the checker can catch wrong answers but cannot prove right ones, by learning only from the failures.\n\n## Background you need\nReinforcement learning with verifiable rewards (RLVR) teaches models to reason. The model writes many attempts, an automatic checker scores them, and the model is nudged toward high scorers. GRPO (Group Relative Policy Optimization) is the standard recipe: it compares a group of attempts at one question and boosts the better ones.\n\n## The problem\nRLVR assumes the checker is right both ways. Real checkers often are not. A few unit tests can prove code is broken, but passing them does not prove it works. Constraint checks on puzzles and a model checking its own math behave the same way.\n\nThe authors call this one-sided verifiability. A failure is a trusted counterexample; a pass only means \"not caught yet.\" Rewarding every pass teaches the model to slip past weak tests. That is reward hacking: gaming the score instead of doing the job.\n\n## The idea\nPicture a driving instructor who only shouts \"wrong!\" and never says \"perfect.\" Praising every quiet moment would teach you to drive badly where nobody watches. Better to drop only the moves that drew a shout and keep exploring. NOPO (Negative-Only Policy Optimization) does this. Passing answers count as \"unlabeled,\" and the model is only pushed away from clear failures.\n\n## How it works\n1. **Sample and check.** The model writes a group of attempts per problem. A cheap checker (public unit tests, a constraint checker, or the model as its own verifier) flags clear failures.\n2. **Never reward passes.** Passing attempts get no positive push, because they might still be wrong.\n3. **Suppress failures, gently.** Each failure is made less likely, measured against a frozen copy of the starting model. Once a failure falls below the original model's odds, the push fades. This self-limiting loss comes from Negative Preference Optimization, a method for making models \"unlearn\" content. It stops over-correction that could erase general skills.\n4. **Scale by group support.** Each group's update is weighted by how many attempts passed. If none passed, the update is off. This stops it fleeing one mistake into another.\n\n## Results\nThe team trained two open models, Qwen3-4B and Qwen3-8B. They compared against GRPO, an entropy-minimization method, weighted reward baselines and the untouched model. Tests covered code (TACO, CodeContests, LiveCodeBench), logic puzzles (ZebraLogic) and math (OlympiadBench). The main score is pass@16: the chance at least one of 16 tries is correct.\n\nNOPO scored best in 9 of 10 model-and-benchmark pairs. On CodeContests with the 4B model it reached 50.47%, versus 43.75% for GRPO and 41.18% for the base model. That is about seven more problems solved per hundred than GRPO. The 8B model reached 55.04% on CodeContests and 42.86% on LiveCodeBench.\n\nThe gap widens with more tries. At 512 tries on CodeContests (4B), NOPO hit 66.95%. GRPO reached 48.54%, below the base model's 51.05%. GRPO made the model confident but narrow, so extra tries helped less. NOPO kept its range of ideas wide. Gains also reportedly carried over to unseen Codeforces problems.\n\n## Why it matters\nFew teams have complete tests or answer keys for every training problem. NOPO lets them use cheap, partial checks without teaching models to game them. It also suggests reinforcement learning need not narrow a model's thinking.\n\n## Caveats\nOnly two fairly small models from one family were tested. NOPO lost in one of ten settings. It needs some passing attempts per group, so very hard problems give little signal. It also assumes failures are trustworthy; a flaky test rejecting good code would mislead it.\n\n## Key terms\n- **RLVR:** training a model by letting an automatic checker score its attempts.\n- **One-sided verifiability:** a checker that can prove an answer wrong but not right.\n- **GRPO:** a common method that boosts the better attempts within a group of tries.\n- **Reward hacking:** a model fooling the scorer instead of solving the task.\n- **pass@k:** the chance at least one of k attempts is correct.\n"
+    }
+   ]
+  }
+ ]
+}

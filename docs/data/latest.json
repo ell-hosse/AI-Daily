@@ -1,94 +1,102 @@
 {
- "date": "2026-11-19",
- "generated": "2026-11-19T10:38:11+00:00",
+ "date": "2026-11-20",
+ "generated": "2026-11-20T11:21:02+00:00",
  "news": [
   {
-   "title": "Anthropic prices its IPO at $83 a share, above the marketed range",
-   "url": "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise",
-   "source": "The Next Web",
-   "summary": "Anthropic set its IPO price at $83, above the $70-$78 range it had marketed to investors, implying a valuation of roughly $1.5 trillion. Reports of the total amount raised differ between outlets, but it is described as a record listing.",
+   "title": "Anthropic closes up 17% in its Nasdaq debut, at a $1.3 trillion market cap",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "source": "Reuters",
+   "summary": "Anthropic's shares finished their first day of trading at $97.17, up about 17% from the $83 IPO price. That gives the company a market value of roughly $1.3 trillion.",
    "image": null,
-   "ts": 1795060800
+   "ts": 1795107360
   },
   {
-   "title": "Google releases Gemini 4 Neon, a 1M-token model at $3/$15 per million tokens",
-   "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-   "source": "MarkTechPost",
-   "summary": "Google's new Gemini 4 Neon has a one-million-token context window and costs $3 per million input tokens and $15 per million output tokens. Google pitches it as competitive with rival flagship models for less money, and it ranked first on one coding-agent index.",
-   "image": null,
-   "ts": 1795024800
-  },
-  {
-   "title": "Genie 4 reaches Project Genie for AI Ultra subscribers, with chainable worlds",
-   "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
-   "source": "The Decoder",
-   "summary": "Google DeepMind's Project Genie now runs on the Genie 4 world model for eligible AI Ultra subscribers. Users can chain generated worlds together and browse a community gallery to remix other people's creations.",
-   "image": null,
-   "ts": 1795035600
-  },
-  {
-   "title": "Palo Alto Networks to buy Applied Compute for $4.5 billion",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-18/palo-alto-networks-to-buy-applied-compute-in-4-5-billion-deal",
+   "title": "Apple job listing points to an AI agent that codes, browses and controls apps",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
    "source": "Bloomberg",
-   "summary": "The cybersecurity company agreed to acquire AI startup Applied Compute in an all-stock deal valued at about $4.5 billion. It is the latest large AI purchase by a security vendor.",
+   "summary": "An Apple job posting suggests the company is building an AI agent that can write code, browse the web and operate apps on its devices.",
    "image": null,
-   "ts": 1795032000
+   "ts": 1795127400
   },
   {
-   "title": "OpenAI says its models improved AMD GPU designs by up to 14%",
-   "url": "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent",
-   "source": "The Next Web",
-   "summary": "OpenAI reports that its models were used in AMD's chip design work and produced GPU design improvements of up to 14%. It is a concrete example of AI labs applying their own models to the hardware they run on.",
+   "title": "Nvidia nears a $500M+ deal for diffusion LLM startup Inception",
+   "url": "https://www.theinformation.com/articles/nvidia-nears-acquisition-diffusion-ai-developer-500-million",
+   "source": "The Information",
+   "summary": "Nvidia is reportedly in advanced talks to buy Inception, which builds diffusion-based language models, for more than $500 million plus earnouts. The talks reportedly began before Jensen Huang's departure.",
    "image": null,
-   "ts": 1795039200
+   "ts": 1795129200
   },
   {
-   "title": "Nvidia's interim CEO Colette Kress holds first all-hands since Huang's exit",
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "title": "Gemini for macOS gets computer use across apps, files and the web",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "source": "TechCrunch",
+   "summary": "Google's Gemini Mac app can now work across apps, files and the web on a user's behalf. The feature is rolling out to paid subscribers in the US.",
+   "image": null,
+   "ts": 1795114200
+  },
+  {
+   "title": "Google and Blue Origin plan TPU-powered AI satellites for 2029",
+   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+   "source": "The Verge",
+   "summary": "Google is working with Blue Origin to launch satellites carrying its TPU AI chips on the New Glenn rocket, part of Project Suncatcher. The launch is targeted for 2029.",
+   "image": null,
+   "ts": 1795096800
+  },
+  {
+   "title": "Commerce approved sales of 879,000+ AI chips to Chinese firms, some military-linked",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
    "source": "CNBC",
-   "summary": "Colette Kress addressed Nvidia staff for the first time since Jensen Huang resigned, acknowledging a difficult period. The meeting included news of pay raises for employees.",
+   "summary": "Documents show the US Commerce Department approved sales of more than 879,000 AI chips to Chinese companies. Some of the buyers are on a military-linked list.",
    "image": null,
-   "ts": 1795028400
+   "ts": 1795143300
   },
   {
-   "title": "Moody's cuts Nvidia's outlook to stable, citing no formal succession plan",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-18/moody-s-lowers-nvidia-s-ratings-outlook-to-stable-from-positive",
+   "title": "Two dozen House lawmakers form a bipartisan AI Safety and Innovation Caucus",
+   "url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829",
+   "source": "Politico",
+   "summary": "More than 24 House members from both parties have launched a caucus focused on AI risks and on keeping the US competitive.",
+   "image": null,
+   "ts": 1795114860
+  },
+  {
+   "title": "European Commission confirms cyberattack carried out with an AI pentesting tool",
+   "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/",
+   "source": "Politico Europe",
+   "summary": "The European Commission confirmed a cyberattack that disrupted its systems for more than 10 days. CERT-EU says the attackers used an AI penetration-testing tool.",
+   "image": null,
+   "ts": 1795098900
+  },
+  {
+   "title": "Google built a 'Mirror Dimension' internet to test its Chrome AI agents",
+   "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+   "source": "Wired",
+   "summary": "Google built an isolated, simulated internet, including fake social media and other sites, so it can test how its AI browsing agents behave before they reach the real web.",
+   "image": null,
+   "ts": 1795109100
+  },
+  {
+   "title": "Moonshot AI scraps a $150M deal to rent Nvidia chips in Indonesia",
+   "url": "https://www.theinformation.com/articles/chinas-moonshot-ai-scraps-150-million-deal-access-nvidia-chips-indonesia",
+   "source": "The Information",
+   "summary": "China's Moonshot AI cancelled a $150 million contract with a Southeast Asian neocloud for access to Nvidia chips. The cancellation followed new US rules on remote access to chips.",
+   "image": null,
+   "ts": 1795085700
+  },
+  {
+   "title": "Nscale needs a US license to give ByteDance remote access to Nvidia GPUs",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs",
    "source": "Bloomberg",
-   "summary": "The ratings agency lowered Nvidia's outlook from positive to stable after Huang's resignation. Moody's pointed to the lack of a formal succession plan at the world's most valuable chipmaker.",
+   "summary": "Under the new US chip rules, Nscale must get a license before it can let ByteDance remotely use Nvidia GPUs. ByteDance accounts for a large share of Nscale's revenue.",
    "image": null,
-   "ts": 1795021200
+   "ts": 1795155300
   },
   {
-   "title": "Cloudflare releases open weights for its Clairic extraction models",
-   "url": "https://blog.cloudflare.com/open-clairic/",
-   "source": "Cloudflare Blog",
-   "summary": "Cloudflare published open weights for Clairic (27B) and Clairic-flash (9B). The models pull typed data out of text, images and PDFs rather than writing free-form replies.",
+   "title": "Asian tech stocks fall sharply as Anthropic's IPO fails to stop the AI sell-off",
+   "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b",
+   "source": "Financial Times",
+   "summary": "Asian tech shares dropped on Friday despite Anthropic's record listing, and SoftBank fell the most.",
    "image": null,
-   "ts": 1795042800
-  },
-  {
-   "title": "IEA warns datacentre emissions could rise 70% by 2030",
-   "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-   "source": "The Guardian",
-   "summary": "A new International Energy Agency report projects that carbon emissions from datacentres will grow by about 70% by the end of the decade. AI workloads are a major driver of the expected increase in power demand.",
-   "image": null,
-   "ts": 1795053600
-  },
-  {
-   "title": "Singapore's central bank warns AI agents could speed up money flows",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
-   "source": "Bloomberg",
-   "summary": "The Monetary Authority of Singapore said AI agents acting for customers could move funds much faster than people do. That could raise liquidity risks for banks during periods of stress.",
-   "image": null,
-   "ts": 1795057200
-  },
-  {
-   "title": "Maryland students sue after AI gun alert flagged a bag of Doritos",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
-   "source": "The Guardian",
-   "summary": "Four students filed a lawsuit after an AI gun-detection system mistook a snack bag for a weapon and police detained them. The case adds to scrutiny of AI surveillance tools in schools.",
-   "image": null,
-   "ts": 1795017600
+   "ts": 1795153500
   }
  ],
  "tracks": [
@@ -98,23 +106,21 @@
    "color": "#22d3ee",
    "papers": [
     {
-     "id": "2611.19857",
-     "title": "PanDWM: Panoramic 4D Driving World Models",
+     "id": "2611.22880",
+     "title": "Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving",
      "authors": [
-      "Jiajun Sun",
-      "Zeyu Zhang",
-      "Zeyu Ren",
-      "Guangfeng Jiang",
-      "Yang Zhao",
-      "Hao Tang"
+      "Guoqing Wang",
+      "Pin Tang",
+      "Xiangxuan Ren",
+      "Chao Ma"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 1,
-     "tldr": "PanDWM imagines a self-driving car's future surroundings as one stitched 360° panorama instead of six separate camera videos, which gives smoother, more consistent scenes and runs about 17 times faster than the slow model it learned from.",
-     "image": "https://arxiv.org/html/2611.19857v1/pandwm_architecture.png",
-     "abs_url": "https://arxiv.org/abs/2611.19857",
-     "pdf_url": "https://arxiv.org/pdf/2611.19857",
-     "summary_md": "## In one sentence\nPanDWM is an AI that imagines what a car's cameras will see next, drawing the whole 360° view as one continuous panorama and then turning it into a 3D scene that changes over time.\n\n## Background you need\nA driving world model is a video generator for self-driving research. You give it a road layout (where the lanes and other cars are) plus a few past frames, and it predicts the next seconds of video. Companies use these fake-but-realistic videos to train and test driving software without risky real drives. Most test cars carry six cameras that together cover the full circle around the car.\n\n## The problem\nToday's world models usually generate six separate videos, one per camera. A truck that crosses from the front camera into the side camera gets split across two images made separately. The halves often don't line up: the truck may change shape or colour at the seam. Models add special \"cross-view\" tricks to fix this, but the cut is still there. These models are also slow. They clean up each clip with 50 to 100 passes through a large network, taking 16 to 90 seconds per frame. And they are trained on real past frames but must run on their own imperfect output, so errors pile up over long videos.\n\n## The idea\nInstead of six photos taped together, PanDWM paints one wide strip, like a panoramic photo from a phone. Camera boundaries now fall in the middle of a single image, so nothing gets cut. A second trick is \"teacher and student\": a slow, careful model teaches a fast one, like an apprentice learning to sketch in four strokes what the master paints in fifty.\n\n## How it works\n1. **Stitch the views.** The six camera images are mapped onto one 360° band. Every pixel remembers which camera and viewing direction it came from. The band is split into two overlapping halves so each camera boundary sits inside one half.\n2. **Train a careful teacher.** A large image-generation network learns to predict 16 future frames from 3 past ones, guided by the road layout. It needs 100 network passes per chunk of video.\n3. **Distil a fast student.** A student copy learns to reach the same result in just four passes. Crucially, it practises on its own generated history, not only on real footage. That way it learns to recover from its own small mistakes over long drives.\n4. **Keep it realistic.** Extra \"judge\" networks penalise output that looks fake or flickers between frames.\n5. **Lift to 3D.** A separate decoder turns each panoramic frame into a cloud of tiny coloured blobs (3D Gaussians) placed along each camera ray. Static blobs from nearby frames fill holes, producing a 4D scene: 3D space plus time.\n\n## Results\nTests used nuScenes, a public dataset of city driving in Boston and Singapore. Compared with five recent multi-camera models, PanDWM had the best image quality score (FID 10.1, against 17.2 for the next best; lower is better). It also had the best video consistency scores (FVD), for example 37.4 against 46.0 for the next best. It produces a frame in about 2 seconds, versus 16 to 90 seconds for the baselines, so it is 8 to 46 times faster. Against its own teacher, it uses 25 times fewer network passes and runs about 17 times faster. Image quality stayed essentially equal and the video consistency score improved by 22–25%. On 19.5-second drives, the student drifted less than the teacher in every later stretch.\n\n## Why it matters\nSelf-driving teams need huge amounts of realistic, varied test footage. A generator that is faster and keeps the full surround view consistent makes simulated testing cheaper and more trustworthy. The 4D output could also feed simulators that need real 3D geometry, not just flat video.\n\n## Caveats\nEverything was tested on one dataset, nuScenes. Scores were measured in the panoramic view, which required stitching the baselines' outputs too, and that choice can affect comparisons. The ablation studies were short training runs on a small set of scenes. Two seconds per frame is still far from real time.\n\n## Key terms\n- **World model:** an AI that predicts how a scene will look in the future.\n- **Panorama band:** one wide image covering the full circle around the car.\n- **Distillation:** training a fast model to copy a slower, better one.\n- **FID / FVD:** standard scores for how realistic images and videos look; lower is better.\n- **3D Gaussians:** tiny fuzzy coloured blobs used to build a 3D scene that can be viewed from any angle."
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "AgentWorld lets a self-driving AI think ahead by tracking a short list of nearby road users and what they will do, instead of imagining full future video frames, which beats strong rivals in simulated driving while using about 98 tokens per scene instead of hundreds.",
+     "image": "https://agentworld-ad.github.io/static/images/intro.webp",
+     "abs_url": "https://arxiv.org/abs/2611.22880",
+     "pdf_url": "https://arxiv.org/pdf/2611.22880",
+     "summary_md": "## In one sentence\nAgentWorld is a self-driving model that imagines the future as a short list of \"who is around me and what they will do,\" instead of drawing whole future video frames, and this makes it plan better while using far fewer tokens.\n\n## Background you need\nA vision-language-action model is a large AI model that looks at camera images, can reason in words, and outputs driving actions such as a path to follow. A world model is the part that predicts what will happen next, so the car can \"think ahead\" before it acts. These models work on tokens: small chunks of information, like words in a sentence or patches of an image.\n\n## The problem\nMany recent driving models think ahead by predicting future camera frames pixel by pixel. That produces realistic pictures, but most of the detail is useless for driving. The color of a building or the texture of the road does not change whether you should brake. Only a small share of those tokens describe what matters: where other cars and people are, how they move, and how they might interact with you. Spending hundreds of tokens per scene on scenery makes the model slower and spreads its attention thin.\n\n## The idea\nThink of an experienced driver at a busy intersection. They do not replay a high-definition movie in their head. They keep a mental checklist: \"bus pulling out on the left, cyclist ahead, pedestrian waiting at the crossing.\" AgentWorld builds exactly that kind of checklist. Each item is an \"agent token\" tied to one nearby road user. The token carries what it is, where it sits in 3D, how it is moving, and how it relates to others. The model then reasons and plans over this compact list.\n\n## How it works\n1. **Find the agents.** A set of learned queries looks at both 2D camera features and 3D geometry of the scene. Two branches, one for shape and position and one for appearance and meaning, are blended through learned gates into one grounded token per agent.\n2. **Ground them in reality.** During training, each token is matched to a real object and checked against its true category, 3D box and future motion. This forces the tokens to stay honest about the physical world.\n3. **Teach it to reason.** With supervised fine-tuning (training on worked examples), the model learns to pick out the agents that matter, explain the risk they pose, and then give a high-level action and future waypoints for its own car.\n4. **Sharpen it with reinforcement learning.** The model practices and is scored by rewards for correct output format, accurate perception, good actions, accurate trajectories, and safe interactions. The safety part rewards avoiding collisions, keeping clearance and keeping a healthy time-to-collision (how many seconds until a crash if nothing changes).\n5. **Drive.** At run time the extra training heads are dropped. The model just reads images and writes out its agent-centric reasoning and its planned path.\n\n## Results\nIn closed-loop tests on Bench2Drive, a benchmark where the model actually drives inside the CARLA simulator, AgentWorld scored 81.17 on the overall driving score. The strongest compared systems, AutoVLA and Orion, scored 78.84 and 77.74. Its success rate, the share of routes finished without failure, was 61.36%, against 57.73% for AutoVLA. It also scored highest on comfort (54.39), meaning smoother rides with less harsh braking or swerving.\n\nIn open-loop tests on the nuScenes dataset, where predictions are compared to recorded human driving, its planned path was on average 0.40 meters from the human one, with a 0.11% collision rate.\n\nIt is also lean. It uses about 98 tokens per scene, versus 653 for a pixel-predicting rival, and answers in 0.31 seconds versus 0.40 seconds.\n\n## Why it matters\nSelf-driving companies want models that think ahead but still run fast on the car's computer. AgentWorld shows that thinking about road users, not pixels, can be both cheaper and better. Its reasoning is also easier to inspect: an engineer can read which agents the model focused on and why. That helps with debugging and safety reviews.\n\n## Caveats\nClosed-loop results come from a simulator, not real roads. The paper's code had not been released at the time of writing. Training relies on detailed 3D labels for every nearby object, which are expensive to collect. The method also bets that agents are what matter, so things that are not agents, such as debris, unusual road layouts or faded lane markings, may be handled less well. The gains over the best baselines are a few points, not a leap.\n\n## Key terms\n- **Vision-language-action model:** an AI model that sees images, reasons in language and outputs actions.\n- **World model:** the part of a system that predicts what will happen next.\n- **Agent token:** a compact piece of data describing one nearby road user.\n- **Closed-loop testing:** the model drives and its actions change what happens next, unlike replaying recorded data.\n- **Reinforcement learning:** training by trial and reward instead of by copying examples.\n- **Time-to-collision:** seconds until two objects would crash if they kept their current motion."
     }
    ]
   },
@@ -124,25 +130,20 @@
    "color": "#a78bfa",
    "papers": [
     {
-     "id": "2611.21925",
-     "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+     "id": "2611.22296",
+     "title": "SpecSearch: Towards Hardware-Aware Efficient Speculative Decoding",
      "authors": [
-      "Jameson Sandler",
-      "Shane Bergsma",
-      "Mostafa Elhoushi",
-      "Bin Claire Zhang",
-      "Gavia Gray",
-      "Joel Hestness",
-      "Nolan Dey",
-      "Ferdinando Fioretto"
+      "Selin Yildirim",
+      "Ali Zeyrek",
+      "Deming Chen"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 2,
-     "tldr": "DNeo is a small helper model that guesses many upcoming words at once for a big language model, and by reading the big model's internal signals more faithfully and remembering its own rejected guesses, it makes text generation about 1.3 times faster than the previous best helper.",
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "SpecSearch automatically chooses how a GPU should run speculative decoding (whether to draft, how far ahead, and at what number precision) for each workload, averaging about 2 times the throughput of normal generation and 1.36 times vLLM's default speculative setup.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.21925",
-     "pdf_url": "https://arxiv.org/pdf/2611.21925",
-     "summary_md": "## In one sentence\nDNeo is a small \"guessing\" model that drafts many words at once for a large language model, and it guesses better because it reads the large model's internal state more carefully and learns from its own wrong guesses.\n\n## Background you need\nLarge language models write one token (a word or word piece) at a time, and each token needs a full pass through the huge network. Speculative decoding speeds this up. A small drafter model proposes several tokens, and the big target model checks them all in one pass, keeping the ones it agrees with. A parallel drafter goes further and proposes a whole block of tokens in a single step. The more guesses get accepted, the bigger the speed-up.\n\n## The problem\nGood drafters peek at the target model's hidden features, the numbers inside the big model that summarise what it is thinking. The authors find three weaknesses in how current parallel drafters use those features. First, the features get squashed through mixing layers that distort them. Second, drafters forget what happened last round: when the target rejects a guess, that information is thrown away. Third, they sample the target's layers at even spacing, which can skip the most useful ones. Each weakness means fewer accepted guesses and slower chatbots.\n\n## The idea\nThink of a junior writer drafting sentences for a senior editor. A smart junior reads the editor's notes closely instead of a blurry photocopy. They also remember which suggestions the editor crossed out, so they don't repeat them. DNeo gives the drafter both habits.\n\n## How it works\n1. **Better feature reading.** A light component called Mixture-of-Features Attention blends features from seven chosen layers of the target model. It keeps them clean instead of distorting them, and one shared blend is reused throughout the drafter.\n2. **Rejection memory.** Features from tokens the target just rejected become a memory the drafter can look at when making its next guess.\n3. **Smarter layer choice.** Instead of evenly spaced layers, the drafter uses a hand-picked, uneven set of target layers that carry more useful signal.\n4. **Small local links.** Short convolutions (filters that look at neighbouring positions) let each guessed token see its immediate neighbours, and a final head conditions each guess on the previous one.\n5. **One pass.** A five-layer drafter produces a block of up to 15 guessed tokens in a single forward pass. The target then verifies them.\n\n## Results\nThe paper reports about 1.3 times faster generation than the previous best parallel drafter, DFlash-2, with the same drafter size and no loss in output quality. The released model pairs DNeo with Qwen3-4B, a 4-billion-parameter open model, on a single H100 graphics card. There it accepts about 4.5 tokens per target pass on average. Decoding runs 2.96 times faster than plain one-token-at-a-time generation in the SGLang serving system, and 3.37 times faster in the Hugging Face Transformers library. In practice, an answer that took 3 seconds to write would take about 1. Tests covered maths, coding, science questions and chat benchmarks.\n\n## Why it matters\nSpeed is cost. Anyone serving language models, from chat apps to coding tools, pays for every pass of the big model. A drafter that gets more guesses accepted cuts waiting time and hardware bills without changing the big model's answers.\n\n## Caveats\nResults come from one fairly small target model and one card type, with short prompts and fixed 512-token outputs. Speed-ups depend on the task, and the authors note this. Batch size was one, so gains when serving many users at once are not shown. The drafter must be trained separately for each target model.\n\n## Key terms\n- **Token:** a word or word piece that a language model reads or writes.\n- **Speculative decoding:** a small model guesses ahead and a big model checks the guesses in one go.\n- **Drafter:** the small guessing model.\n- **Hidden features:** internal numbers inside a network that summarise its current understanding.\n- **Acceptance length:** how many guessed tokens the big model keeps per check."
+     "abs_url": "https://arxiv.org/abs/2611.22296",
+     "pdf_url": "https://arxiv.org/pdf/2611.22296",
+     "summary_md": "## In one sentence\nSpecSearch is a tool that automatically picks the fastest way to run a language model's speculative decoding on a given GPU and workload, roughly doubling throughput over plain generation without anyone hand-tuning settings.\n\n## Background you need\nLanguage models write one token (a word piece) at a time, which is slow. Speculative decoding speeds this up: a small, fast \"drafter\" model guesses several tokens ahead, and the big model checks them all in one pass, keeping the ones it agrees with. Throughput means how many tokens a server produces per second across all users. Concurrency is how many requests the server handles at once.\n\n## The problem\nSpeculative decoding is not always a win. On an RTX 5090 graphics card, with short 256-token answers, it gave 3.5 times the throughput of normal generation when only 2 requests ran at once. With 64 requests at once, it became slower: 0.76 times normal speed. When the GPU is already busy, checking the drafter's guesses costs more than it saves.\n\nMany other knobs matter too. How many tokens should the drafter guess? Should the model weights or the KV cache (the model's short-term memory of what it has already read) be stored in lower precision to save memory? The drafter itself eats memory, cutting room for that cache to about 0.73 times what plain generation gets. Serving software like vLLM leaves these as manual settings that people usually set once and forget.\n\n## The idea\nThink of a navigation app choosing your route. The best road depends on traffic and your vehicle, and no single route is best all day. SpecSearch is that app for speculative decoding. It looks at the GPU, how many requests are waiting and how long the answers will be, then picks the best combination of settings.\n\n## How it works\n1. **Define the menu.** Options include plain generation or speculative decoding guessing 3, 7 or 15 tokens ahead, or a rule that changes that number as load changes. Weights can be 16-bit, 8-bit or 4-bit; the cache can be 16-bit or 8-bit.\n2. **Rule out the impossible.** A math model estimates memory use, how many requests fit, and step speed from the GPU's compute power and memory bandwidth. Its memory estimates match vLLM within 0.2%, so it can safely throw out options that would not fit.\n3. **Measure what is left.** In full mode, the surviving options are run for real on the target GPU: about 360 short test runs covering 4 load levels and 3 answer lengths. The winner for each case goes into a lookup table.\n4. **Skip measuring on new GPUs.** To avoid that work, the authors fine-tune a small language model (Qwen3-4B, with small add-on LoRA weights; the main model stays frozen) to act as a multiple-choice picker. It reads a text description of the GPU, the workload and eight candidate settings, and picks the best one. It learns from measurements on other GPUs.\n\n## Results\nTests used the Qwen3-4B model with the DFlash drafter on four GPUs: NVIDIA RTX 5090, H100 and L40, and AMD MI300X. Tasks covered math, coding and chat benchmarks.\n\nWith full measurement, SpecSearch averaged 2.01 times the throughput of the best plain generation and 1.36 times vLLM's default speculative decoding. On the L40 it beat that default by 1.51 times. With 128 requests and long answers on the MI300X, it produced 12,030 tokens per second against 8,910. A job that took 10 minutes would take about 7.4.\n\nThe picker model, never measured on the GPU it chose for, still kept 97.4% of that gain. It averaged 1.30 times vLLM's default and was within 5% of the best choice in 38 of 48 cases. Another speculative decoding system, MagicDec, reached only 0.08 to 0.13 times SpecSearch's throughput where it could run at all.\n\n## Why it matters\nCompanies serving models on mixed hardware, or under traffic that swings across the day, leave speed on the table with fixed settings. SpecSearch shows the right choice can roughly double output from the same GPUs. That means fewer machines and lower cost per answer. The picker means a new GPU type need not be benchmarked by hand first.\n\n## Caveats\nEverything was tested on one model size (4 billion parameters) and one drafter type; other drafters such as EAGLE would need changes to the math model. The picker only chooses fixed settings, not the load-adaptive rule. It made notably worse picks on the H100 at moderate load, losing 14 to 22% there. Shrinking the main model's weights to 8-bit lowered speed across the board, so that knob rarely helped.\n\n## Key terms\n- **Speculative decoding:** a small model drafts tokens and a big model checks them in one pass.\n- **Drafter:** the small, fast guessing model.\n- **Throughput:** total tokens a server produces per second.\n- **Concurrency:** how many requests run at the same time.\n- **KV cache:** the model's stored memory of text it has already processed.\n- **LoRA:** a cheap way to fine-tune a model by training a few small extra weights."
     }
    ]
   },
@@ -152,25 +153,20 @@
    "color": "#f472b6",
    "papers": [
     {
-     "id": "2611.19800",
-     "title": "Multi-Branch Transformer",
+     "id": "2611.04657",
+     "title": "Exploiting Biases in Attention for Transformers",
      "authors": [
-      "Gaotang Li",
-      "Lingjie Chen",
-      "Chunyuan Deng",
-      "Zhiwei Xu",
-      "Hongzheng Chen",
-      "Christopher De Sa",
-      "Jingrui He",
-      "Yingheng Wang"
+      "Charles Herr",
+      "Gabriele Spadaro",
+      "Enzo Tartaglione"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 41,
-     "tldr": "Instead of only stacking layers deeper or wider, the Multi-Branch Transformer runs several stacks of layers side by side and merges them, matching a standard model trained with about 20% more compute while decoding up to 51% faster.",
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A learned per-token importance score lets vision transformers skip unpopular tokens in attention, making them up to about 1.6x faster on large images with a 1 to 3 point accuracy cost.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.19800",
-     "pdf_url": "https://arxiv.org/pdf/2611.19800",
-     "summary_md": "## In one sentence\nThe Multi-Branch Transformer splits the middle of a language model into several parallel lanes of layers, then merges them, which gives similar or better quality and noticeably faster text generation.\n\n## Background you need\nA transformer, the design behind most chatbots, is a tall stack of identical blocks. Each block has attention (looking back at earlier words) and a feed-forward part (processing each word). To make a model better, people usually make it deeper (more blocks) or wider (bigger blocks). When generating text, each block also keeps a KV cache: the model's short-term memory of everything it has already read.\n\n## The problem\nDepth is slow at generation time, because block 20 must wait for block 19 to finish for every new word. Width makes each step heavier. The KV cache also grows with every block and every word, so memory often limits how many users a server can handle. Almost all designs keep whole blocks in one sequential line, and few people have asked whether running whole blocks side by side could be a better use of the same budget.\n\n## The idea\nPicture a factory. A single long assembly line has many stations in a row. A Multi-Branch Transformer keeps a shared start and a shared finish, but in the middle it splits the work into two to four shorter lines running at the same time. Then it combines their output. The product passes fewer stations in sequence, so it comes out sooner.\n\n## How it works\n1. **Shared start.** Words are turned into vectors and pass through a few ordinary shared blocks.\n2. **Parallel branches.** The signal then goes into two to four independent branches. Each is its own short stack of blocks with its own weights, and the branches run at the same time.\n3. **Merge.** Each branch's output is normalised, the outputs are joined side by side, and a simple linear layer squeezes them back to the normal size.\n4. **Shared finish.** A few more shared blocks produce the next-word prediction.\n5. **Joint-KV.** Rather than each branch keeping its own memory, branches at the same depth share one KV cache built from all their inputs. This saves memory and lets the system batch the branches into one attention call on the GPU.\n\n## Results\nModels ranged from 0.8 to 2.1 billion total parameters, using a mixture-of-experts design (only part of the network is active per word). They were trained on an educational web text dataset. The best two-branch version matched a standard transformer trained with about 1.23 times as much compute. That is like getting a 23% bigger training budget for free. Joint-KV versions with two to four branches matched standard models trained with 1.16 to 1.26 times the compute. The KV cache shrank by 19–34%, and decoding on one H200 GPU was up to 51% faster. A four-branch model with 24 blocks needed only 12 sequential steps, versus 16 for the standard model. Branches worked best when placed in the middle layers.\n\n## Why it matters\nFaster decoding and a smaller memory footprint mean cheaper serving and more users per GPU. Because the change is architectural, it can stack with other speed tricks such as quantisation or speculative decoding. It also opens a new design axis, \"how many branches\", alongside depth and width.\n\n## Caveats\nThe largest model tested had about 2 billion parameters, far smaller than frontier models. Joint-KV must be built in during training, so existing models can't be converted. The standard baselines got careful learning-rate tuning, while branched models reused one setting. That should favour the baselines, but it still complicates comparisons. Speed was measured on one GPU type and a few workloads.\n\n## Key terms\n- **Transformer block:** one layer of attention plus processing; models stack many of them.\n- **Branch:** a separate stack of blocks that runs in parallel with others.\n- **KV cache:** stored notes about earlier words so the model doesn't reread them.\n- **Mixture-of-experts:** a design where each word uses only some of the network's sub-parts.\n- **Decoding throughput:** how many words per second a model can generate."
+     "abs_url": "https://arxiv.org/abs/2611.04657",
+     "pdf_url": "https://arxiv.org/pdf/2611.04657",
+     "summary_md": "## In one sentence\nThe authors teach a vision model to give every image patch a single \"importance score\", then let it skip the least important patches inside attention, cutting compute by up to about a third with a small loss in accuracy.\n\n## Background you need\nA vision transformer cuts an image into small square patches, called tokens, and processes them together. Its core step is attention: each token \"looks at\" every other token to decide what to pay attention to. Each token sends a query (what it seeks) and offers a key and value (what it contains). This work grows with the square of the number of tokens.\n\n## The problem\nLarge images produce many tokens, so attention dominates the cost. That means slower results and bigger compute bills for anyone analyzing large images.\n\nThe authors noticed a pattern. In trained models, most queries end up looking at the same few tokens. A handful of \"popular\" tokens soak up most of the attention, and this gets stronger in deeper layers.\n\n## The idea\nIf popularity barely depends on who is asking, you can rate each token once instead of comparing it against every query. Think of a conference where organizers rate each speaker once. Attendees then visit only the top-rated booths, instead of interviewing everyone.\n\nThe paper adds exactly such a rating, called a bias, to each attention head (one of several parallel attention units in a layer).\n\n## How it works\n1. **Add a learned score.** Each attention head gets a tiny extra layer that reads a token and outputs one number: its importance. It is added to every query's match score for that token.\n2. **Keep the top tokens.** Before computing keys and values, the model keeps only the highest-scoring tokens. Every query compares itself only against this shortlist.\n3. **Prune more in deeper layers.** The share of tokens kept drops steadily with depth. In the main setting, the first layer keeps 90% and the last layer keeps 10%.\n4. **Fine-tune with pruning on.** The authors fine-tune existing models (three DeiT sizes and a large ViT-L) on ImageNet, a standard photo dataset, with pruning switched on.\n\n## Results\nOn 1024-pixel images and one NVIDIA A40 graphics card, the mid-sized DeiT-S dropped from 485.8 to 331.3 billion operations per image. Its time per image fell from 92 to 63 milliseconds. Top-1 accuracy (the right answer is the model's first guess) went from 79.83% to 78.55%.\n\nThe largest DeiT-B fell from 195 to 140 milliseconds, losing about 1.2 accuracy points. The smallest DeiT-Ti lost more, about 3 points (72.13% to 69.10%). Speedups ranged from about 1.45× to 1.61× with an optimized attention routine. A job taking 10 seconds would take about 6 to 7.\n\nOn COCO object detection, box accuracy slipped from 43.3 to 42.7, but the full detector only got about 1.17× faster.\n\nAgainst standard pruning that removes 30% of weights, this method was more accurate (78.55% versus 76.80%) at similar speed. It matched ToMe, a popular token-merging method, and combining both did better at tight budgets. Pruning only at inference time, without training, gave 76.90% instead of 78.55%.\n\n## Why it matters\nAnyone running vision transformers on large images, like satellite or medical scans, pays heavily for attention. The trick is simple, adds almost no parameters, and keeps fixed shapes, so it runs well on standard hardware.\n\n## Caveats\nEvery model needs fine-tuning; this is not a plug-in for frozen models. Small models lose noticeably more accuracy. Gains shrink for wider models, where attention is a smaller share of total cost. Speed was measured on one graphics card type, and only on images, not language or video. The fixed per-layer budget cannot adapt to easy versus hard images.\n\n## Key terms\n- **Token:** a small piece of the input, here an image patch, that the model processes.\n- **Attention:** the step where each token decides which other tokens to draw information from.\n- **Query, key, value:** what a token is looking for, what it advertises, and what it hands over.\n- **Bias (here):** a learned per-token importance score added to all attention matches.\n- **Pruning:** skipping parts of a computation judged unimportant to save time.\n"
     }
    ]
   },
@@ -180,25 +176,21 @@
    "color": "#34d399",
    "papers": [
     {
-     "id": "2611.17621",
-     "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+     "id": "2611.18145",
+     "title": "Compiling Specialized GPU-Initiated Networking",
      "authors": [
-      "Bingwei Zhang",
-      "Jing Li",
-      "Amir Abdullin",
-      "Sihang Chen",
-      "Xin Chen",
-      "Liangjun Feng",
-      "Yingmeng Gao",
-      "Tao Guo"
+      "Javid Baydamirli",
+      "Ismayil Ismayilov",
+      "Kaan Oktay",
+      "Didem Unat"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 91,
-     "tldr": "AscendGYM is a test suite that checks whether AI coding agents can speed up real low-level code on Huawei's Ascend AI chips, and it scores them on how much faster the code gets relative to how many tokens they spend getting there.",
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Obaleth is a compiler that builds GPU-to-GPU messaging directly into kernels and tailors it to the hardware, beating NVSHMEM, NCCL GIN and DeepEP on speed and memory use.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.17621",
-     "pdf_url": "https://arxiv.org/pdf/2611.17621",
-     "summary_md": "## In one sentence\nAscendGYM is a benchmark that measures how well AI coding agents can make existing chip code run faster on Huawei's Ascend AI processors, while also counting how much the agent spent to get there.\n\n## Background you need\nA kernel is a small, highly tuned program that does one heavy maths job, such as normalising numbers or computing attention, directly on an AI chip. Ascend NPUs (neural processing units) are Huawei's AI accelerators, playing the role Nvidia GPUs play elsewhere. Writing fast kernels is a rare, slow skill. AI coding agents, language models that edit, compile and test code in a loop, are now being asked to do it. Each loop costs tokens (pieces of text the model reads and writes), and tokens cost money.\n\n## The problem\nExisting Ascend benchmarks mostly ask agents to write a kernel from scratch. Real engineering work is different: you already have a working kernel and need it faster for the exact shapes and data types your model uses. Existing tests also usually report only the final speed-up. They ignore whether the agent burned ten times more tokens to get a slightly better result, or found the gain late after a long, expensive search.\n\n## The idea\nThink of hiring a mechanic to tune a car. You care how much faster it goes, but also how big the bill is and how quickly they found the fix. AscendGYM grades agents like that: speed-up, discounted by the token bill spent before each improvement arrived.\n\n## How it works\n1. **Pick real bottlenecks.** The team profiled real training and inference jobs and chose 48 kernels that eat significant time. For example, one normalisation step takes about 9% of compute in a small Qwen model's prompt-reading phase.\n2. **Three difficulty batches.** 17 simple kernels limited by memory access, 17 multi-step kernels such as normalisation and quantisation, and 14 complex attention and fused kernels.\n3. **Real test cases.** Each case records the model, phase, hardware setup, tensor shapes and number formats it came from, so a gain in the benchmark is a gain in that real job.\n4. **A safe sandbox.** A system called AscendForge compiles each candidate, checks it gives correct answers, and times it.\n5. **Two modes and a cost-aware score.** Agents can be tested with their own harness (the tool loop around the model, such as Claude Code or Codex CLI) or with a built-in one. The Speedup-Token Score rewards the final verified speed-up and subtracts points for gains that only came after much of the token budget was spent.\n\n## Results\nThe first round tested only the 17 easiest kernels, with budgets of 10, 20 and 50 million tokens. About 70% of agent-and-harness combinations reached less than 1.2 times average speed-up. In other words, most agents shaved off less than a sixth of the run time even on the simplest tasks. The choice of harness and the token budget changed outcomes a lot, not just the underlying model. Pass rates and average speed-up sometimes pointed in different directions, which the new score helps untangle.\n\n## Why it matters\nAI chips outside the Nvidia ecosystem have far fewer expert kernel writers, so automated tuning could matter a lot there. A benchmark tied to real workloads and real costs tells teams whether an agent is worth paying for. The cost-aware scoring idea could be reused for GPU kernel benchmarks too.\n\n## Caveats\nOnly 17 of the 48 kernels have results so far; the harder attention and fused kernels are pending. The scoring weights are design choices that change rankings. Everything is specific to Huawei's Ascend hardware and software stack. Our summary relied on secondary write-ups of the paper, which did not list every model tested.\n\n## Key terms\n- **Kernel:** a small, fast program that runs one maths operation on an AI chip.\n- **NPU:** neural processing unit, a chip built for AI maths.\n- **Harness:** the tool loop that lets a language model edit, run and test code.\n- **Speed-up:** how many times faster the new code is than the original.\n- **Token budget:** the maximum text an agent may read and write during the task."
+     "abs_url": "https://arxiv.org/abs/2611.18145",
+     "pdf_url": "https://arxiv.org/pdf/2611.18145",
+     "summary_md": "## In one sentence\nObaleth is a compiler that writes the networking code inside a GPU program itself, instead of calling a one-size-fits-all library, so messages between GPUs get sent faster.\n\n## Background you need\nBig AI models run on many GPUs (graphics chips used for AI math) that must constantly swap data. In \"GPU-initiated\" networking, the GPU sends data to other GPUs directly from inside its running program, without asking the main processor for help. Today this is done through general-purpose libraries such as NVIDIA's NVSHMEM and NCCL.\n\n## The problem\nAI systems tune their math carefully to each model and chip. Communication still goes through generic library calls built to work for any program. A compiler (the tool that turns code into chip instructions) cannot see inside those calls, so the networking stays generic. This hurts most for small, frequent messages. Mixture-of-experts models send each word's data to specialist parts of the model on other GPUs. Libraries like DeepEP exist just to speed up that traffic.\n\n## The idea\nTreat communication as ordinary code the compiler can see and reshape, not a sealed box. A generic courier treats every parcel the same: full tracking, one parcel per trip. A company with its own fleet knows its routes, so it bundles parcels and skips needless checks. Obaleth gives the compiler that insider view of GPU messages.\n\n## How it works\n1. **Bring messages into the compiler's view.** Sends and receives become part of the program's intermediate representation (the compiler's internal working copy of the code).\n2. **Track completions by buffer lifetime.** A \"completion\" is the signal that a message has safely arrived. Obaleth waits for it only when a block of memory (a buffer) is about to be reused or read.\n3. **Tune ordering, syncing and batching.** The compiler adjusts memory ordering (rules that keep data writes in the right sequence) and synchronization (points where threads wait for each other). It also batches several small sends into fewer, larger ones.\n4. **Generate specialized transport code.** Instead of a generic library call, Obaleth produces networking code tailored to the specific transport (the physical or software path the data travels). This works on both NVIDIA and AMD GPUs.\n\n## Results\nThese numbers come from the paper's abstract.\n- On NVIDIA H100 GPUs, small messages went up to 3.3× faster. At best, a small send takes under a third of the time.\n- On 256 GPUs, \"all-to-all\" exchange (every GPU sends data to every other GPU) ran 1.25× faster than NVSHMEM. It ran 2.3× faster than NCCL GIN, NCCL's GPU-initiated networking mode.\n- It did this while using much less memory and fewer registers (the tiny, very fast storage slots on each GPU core).\n- Inside vLLM, a popular system for serving language models, Obaleth served the Qwen3-235B model on 16 NVIDIA B200 GPUs. Requests finished up to 1.29× faster than with DeepEP, a widely used library for mixture-of-experts traffic.\n\n## Why it matters\nLarge models, especially mixture-of-experts models, must move lots of data between GPUs. Faster networking means quicker replies and more users per GPU. Because the compiler does the tuning, engineers may not need to hand-write networking code for each new model or chip. It supports NVIDIA and AMD GPUs, and the code is open.\n\n## Caveats\n- This summary is based on the abstract only. The paper's detailed method, design limits and full experiments could not be checked.\n- All gains are \"up to\" figures. Typical improvements across message sizes and workloads may be smaller.\n- The serving result covers one model on one 16-GPU setup, compared against one baseline.\n\n## Key terms\n- **GPU-initiated networking**: the GPU starts data transfers to other GPUs itself, without waiting on the main processor.\n- **Intermediate representation**: the compiler's internal version of a program, which it rewrites to make faster.\n- **All-to-all**: a pattern where every GPU sends a piece of data to every other GPU.\n- **Mixture-of-experts**: a model design that routes each word to a few specialist sub-networks, often spread over many GPUs.\n- **Transport**: the path, such as a direct chip link or a network card, that data uses to travel between GPUs.\n"
     }
    ]
   },
@@ -208,22 +200,25 @@
    "color": "#fbbf24",
    "papers": [
     {
-     "id": "2611.21099",
-     "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+     "id": "2611.06918",
+     "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
      "authors": [
-      "Ke Sun",
-      "Kevin Yuchen Ma",
-      "Yike Zhang",
-      "Yanzhe Chen",
-      "Mike Zheng Shou"
+      "Weichen Fan",
+      "Haiwen Diao",
+      "Penghao Wu",
+      "Siyuan Hu",
+      "Ziqi Huang",
+      "Tianqi Liu",
+      "Mingze Sun",
+      "Ziyi Wang"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 38,
-     "tldr": "ForceHarness lets off-the-shelf AI models like GPT and Claude control a robot arm using touch and force, through ready-made force tools and plain-language physics readings, lifting real-robot success from 3% to 90% with no extra training.",
-     "image": "https://arxiv.org/html/2611.21099v1/fig1_teaser.png",
-     "abs_url": "https://arxiv.org/abs/2611.21099",
-     "pdf_url": "https://arxiv.org/pdf/2611.21099",
-     "summary_md": "## In one sentence\nForceHarness gives big off-the-shelf AI models a sense of touch for robot control, by handing them force tools and translating raw force signals into plain physical facts they can reason about.\n\n## Background you need\nFrontier multimodal models, large AIs that read images and text, can already steer robot arms by looking at camera pictures and calling simple motion commands. A harness is the software layer between the model and the robot that offers it tools. Many jobs depend on force, though: how hard you press, whether something is heavy, whether a peg has dropped into a hole. Cameras can't see force. These models are also frozen and reached only through an API, so you can't retrain them.\n\n## The problem\nRobot policies that use force today need many human demonstrations per task and weight training, which is impossible with API-only models. Simple fixes, like pasting raw force numbers into the prompt or asking the model to write force-control code, work poorly. Contact happens in milliseconds, but a model takes seconds to reply. And a stream of raw numbers is hard for a language model to interpret.\n\n## The idea\nThink of a surgeon working with a skilled assistant. The surgeon says \"hold this with gentle pressure\" rather than adjusting every muscle. The assistant then reports back \"it's soft tissue, about this firm\". ForceHarness is that assistant. Fast force control runs underneath the model, and results come back as physical facts with error bars.\n\n## How it works\n1. **Sense force.** The system estimates force at the hand from a wrist sensor, or from the arm's joint torque readings if no wrist sensor exists. It zeroes itself at rest before each reading.\n2. **Self-stopping force tools.** The model gets twelve force tools in five groups: make contact, hold a force, search and seat, turn under load, and measure. Each runs its own fast control loop and stops by itself on contact, on a force limit, or on a timeout, then holds still while the model thinks. For example, a search tool presses down while spiralling until a part drops into its hole.\n3. **Translate physics.** Simple fixed estimators turn force traces into quantities like mass, contact height, stiffness and friction, each with an uncertainty and warning flags.\n4. **Model in the loop.** Each turn, the model reads the task, its tool menu, history and latest readings, then calls one tool. It decides if a result is good enough.\n5. **Safety guards.** Hard limits on force, speed and workspace apply no matter what the model asks for.\n\n## Results\nOn a real Franka robot arm with no wrist sensor, across six tasks, GPT-6 Astra succeeded in 2 of 60 attempts without force tools (3%). With ForceHarness it succeeded in 54 of 60 (90%). Tasks such as bottle sorting went from 0 of 10 to 10 of 10. On the public ForceBench simulation suite, success rose from 70% to 87.5%. The best trained robot policy scored 35%. On the authors' new HiddenPhys benchmark, seven tasks with hidden properties like mass, success went from 62% to 96%. A hand-written expert controller scored 97%. Asking the model to write one force-control program upfront reached only 23%, versus 91% for turn-by-turn tool use.\n\n## Why it matters\nThis means general AI models could handle contact-rich jobs, such as assembly, sorting or checking whether a lid is tight, with no demonstrations and no training. Robot makers can upgrade by swapping in a newer model, keeping the same harness.\n\n## Caveats\nEach model call adds seconds of pause, so fast reactive tasks are out of reach. The fixed tool menu limits what new motions are possible. Several detailed comparisons were only run in simulation, and some tool settings were tuned on the same benchmark seeds used for testing.\n\n## Key terms\n- **Frozen model:** an AI used as-is, without further training.\n- **Harness:** the software layer that offers a model tools and feeds back results.\n- **Force primitive:** a ready-made, self-stopping force action like \"press until contact\".\n- **Impedance control:** a way of moving a robot so it behaves like a spring, giving way gently on contact.\n- **Zero-shot:** doing a task with no examples or training for it."
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "NEO-VLA drops the separate vision encoder and lets a robot's action module read visual information from any layer of one shared pixel-and-language network, beating encoder-based backbones on manipulation benchmarks.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.06918",
+     "pdf_url": "https://arxiv.org/pdf/2611.06918",
+     "summary_md": "## In one sentence\nNEO-VLA is a robot-control model that looks at raw camera pixels directly, instead of relying on a separate pre-built \"vision module\", and this makes it better at manipulation tasks.\n\n## Background you need\nA vision-language-action model (VLA) is a neural network that sees camera images, reads an instruction like \"put the cup in the drawer\", and outputs robot arm motions. Most VLAs are built from a vision-language model: a chatbot-style network that also understands images. Those models usually include a vision encoder, a separately trained network that squeezes each image into a compact summary before the language part ever sees it.\n\n## The problem\nManipulation depends on small visual details: the edge of a handle, the depth of a slot. A vision encoder was trained for other goals, like matching images to captions. Its final summary may discard exactly what a gripper needs. The action module only gets that finished summary, never the richer work done along the way.\n\n## The idea\nThink of a chef who only gets a waiter's one-line summary of a customer's order, versus a chef who can listen to the whole conversation. NEO-VLA removes the separate encoder entirely. Pixels and words flow through one shared network from the first layer. The action module can then listen in on any layer it finds useful.\n\n## How it works\n1. **Cheap image chopping.** A small convolutional stem (a few simple image filters) cuts each camera view into patches. Each 32×32 pixel square becomes one token, the basic unit the network reads.\n2. **One shared backbone.** Image tokens and instruction tokens go together into a single 40-layer network with about 2 billion parameters (adjustable numbers the model learns).\n3. **An action expert that reads many layers.** A separate action module reads the backbone's stored internal state from a chosen set of layers. It uses flow matching, a method that starts from random noise and refines it in 10 steps into a smooth chunk of 30 future motions.\n4. **Three training stages.** First the backbone is frozen and only the action module learns. Then everything trains together on about 2.2 million robot episodes (roughly 10,000 hours) from nine public datasets. Image-and-text training is mixed in to keep language skills. A last stage uses the team's own robot data.\n\n## Results\nOn LIBERO, a standard simulated benchmark of household-style tasks, the authors froze each backbone and trained only the action module. NEO-VLA averaged 90.9% task success. Two popular encoder-based backbones, Qwen3-VL-2B and Gemma-3-4B, scored 79.5% and 84.5% under the same setup.\n\nSimply wiring Qwen3-VL's action module to the encoder's middle layers did not help. Frozen performance dropped to 64.9%. Joint training from pixels up seems to matter, not just layer access.\n\nProbing showed that the signals most useful for action often peak in middle layers, not at the end. On RoboTwin 2.0, a two-arm benchmark, success fell only from 75.78% to 69.40% when scenes were randomized. On three real-robot tasks with 50 demonstrations each, NEO-VLA succeeded 12, 17 and 13 times out of 20. The strong open model π0.5 scored 10, 14 and 13.\n\n## Why it matters\nMost robot-learning teams build on off-the-shelf vision-language models. This work suggests that choice quietly limits how well robots see fine detail. Encoder-free backbones could be a better base for robot foundation models, and the code and weights are public.\n\n## Caveats\nWhen all weights are trained, competitors get much closer. Comparisons with other papers mix different simulators, cameras and training data, as the authors themselves note. The final training stage uses private data that is not described in detail. Real-robot tests cover just three tasks and 20 trials each.\n\n## Key terms\n- **Vision-language-action model (VLA):** a network that turns images plus an instruction into robot motions.\n- **Vision encoder:** a separate network that compresses an image into a summary before the main model sees it.\n- **Flow matching:** a way to generate outputs by gradually refining random noise into a sensible answer.\n- **Frozen backbone:** keeping the main network's weights fixed and training only a small add-on module.\n- **LIBERO:** a simulated benchmark of tabletop household manipulation tasks.\n"
     }
    ]
   },
@@ -233,25 +228,22 @@
    "color": "#fb7185",
    "papers": [
     {
-     "id": "2611.18397",
-     "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+     "id": "2611.17287",
+     "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
      "authors": [
-      "Run Luo",
-      "Kuan Zhang",
-      "Qi Deng",
-      "Yukun Chen",
-      "Zhihao Yang",
-      "Yufei Zhang",
-      "Renrong Hu",
-      "Yi Zhang"
+      "Jiacheng Xu",
+      "Shuo He",
+      "Fuxiang Zhang",
+      "Chaojie Wang",
+      "Bo An"
      ],
-     "source": "Hugging Face Trending",
-     "upvotes": 129,
-     "tldr": "Gamer is a vision-language model trained on thousands of hours of real keyboard-and-mouse play that watches the screen and plays long 2D and 3D games in real time, nearly tripling the score of a top general model on unseen mini-games.",
-     "image": "https://paper-assets.alphaxiv.org/paper-figures/01a1f208-eff0-7efa-8d45-4b0faa42dfd5/01a1f2ca-497a-7bf8-8088-e564eaf84b06.png",
-     "abs_url": "https://arxiv.org/abs/2611.18397",
-     "pdf_url": "https://arxiv.org/pdf/2611.18397",
-     "summary_md": "## In one sentence\nGamer is an AI that watches a game screen and presses keys and moves the mouse in real time, finishing long quests in 3D open-world games much like a skilled human player.\n\n## Background you need\nA vision-language-action model is a language model that also takes in images and outputs actions, here keyboard and mouse commands. Games are a demanding test: the screen changes constantly, tasks take hours, and the agent must remember what it did earlier. A context window is how much recent history a model can hold in mind at once. Reinforcement learning (RL) is training by trial and error, with rewards for success.\n\n## The problem\nGeneral chatbots with vision can describe a game screen, but they are slow and lose track over long tasks. Many game agents also cheat a little by reading the game's internal code state, which real users and robots can't do. Long quests overflow the context window. Small mistakes snowball over hundreds of steps. And rewards are rare: you might only learn you succeeded at the end of a long quest.\n\n## The idea\nGamer learns like a person who watched thousands of hours of others playing, then practised. Most of the time it acts on instinct. It only stops to think at real decision points, like a driver who doesn't deliberate on every turn of the wheel. When its memory fills up, it writes itself a short summary note and carries on.\n\n## How it works\n1. **Watch a lot of play.** The base model is further trained on tens of thousands of hours of keyboard-and-mouse recordings from games and simulated worlds, so it learns how actions change what's on screen.\n2. **Learn to follow instructions.** It is then tuned on about 1,000 curated hours of the game Honkai: Star Rail, with about 1.2 million reasoning notes and 223,000 memory notes added by an annotation pipeline.\n3. **Think only when needed.** \"Sparse thinking\" training teaches it to act directly on routine steps and reason briefly only at hard choices, saving time.\n4. **Practise with rewards.** A multi-turn RL method splits long tasks into segments linked by memory notes. It compares several attempts at the same segment, so credit goes to the decisions that helped.\n5. **Run in real time.** It sees the screen five times a second and issues about 30 small control actions per second. A custom serving engine reuses its memory between frames and runs many games at once.\n\n## Results\nOn a side quest held out from training, Gamer completed 83.6% of 55 checkpoints after RL, up from 69.1% before RL. On 40 unseen mini-game levels across seven game types, it scored 49.7%. The strongest general model listed, GPT-6.1 Sol, scored 17.1%, so Gamer did nearly three times better. The authors report handling over 95% of challenges across several main storylines of Honkai: Star Rail. They also report more than 20 times lower response delay in their setup. Training in real time learned faster than training at a slow 0.6 frames per second.\n\n## Why it matters\nGame studios could use such agents to test levels, find bugs or balance difficulty without armies of human testers. More broadly, an agent that only sees pixels and uses a keyboard and mouse could operate any computer program. The same skills of acting fast, remembering and planning over long horizons also matter for robots.\n\n## Caveats\nThe test quests were new, but the game itself was in training, so this isn't a fully unseen game. Gains from pre-training were limited in very different worlds. The study doesn't separate how much each ingredient (sparse thinking, memory, RL) contributes. A reviewer also flagged a small inconsistency in one results table. Strong claims about other 3D games come without detailed numbers.\n\n## Key terms\n- **Vision-language-action model:** an AI that reads images and text and outputs actions.\n- **Context window:** how much recent history a model can keep in mind.\n- **Reinforcement learning:** learning by trial and error with rewards.\n- **Long-horizon task:** a goal that takes many steps or a long time to finish.\n- **Sparse thinking:** reasoning only at important moments, not every step."
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "When a checker can only catch wrong answers but never confirm right ones, training a model only to avoid the caught failures beats rewarding the passes, and keeps the model more creative.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.17287",
+     "pdf_url": "https://arxiv.org/pdf/2611.17287",
+     "summary_md": "## In one sentence\nThis paper trains a language model with reinforcement learning when the checker can catch wrong answers but cannot prove right ones, by learning only from the failures.\n\n## Background you need\nReinforcement learning with verifiable rewards (RLVR) teaches models to reason. The model writes many attempts, an automatic checker scores them, and the model is nudged toward high scorers. GRPO (Group Relative Policy Optimization) is the standard recipe: it compares a group of attempts at one question and boosts the better ones.\n\n## The problem\nRLVR assumes the checker is right both ways. Real checkers often are not. A few unit tests can prove code is broken, but passing them does not prove it works. Constraint checks on puzzles and a model checking its own math behave the same way.\n\nThe authors call this one-sided verifiability. A failure is a trusted counterexample; a pass only means \"not caught yet.\" Rewarding every pass teaches the model to slip past weak tests. That is reward hacking: gaming the score instead of doing the job.\n\n## The idea\nPicture a driving instructor who only shouts \"wrong!\" and never says \"perfect.\" Praising every quiet moment would teach you to drive badly where nobody watches. Better to drop only the moves that drew a shout and keep exploring. NOPO (Negative-Only Policy Optimization) does this. Passing answers count as \"unlabeled,\" and the model is only pushed away from clear failures.\n\n## How it works\n1. **Sample and check.** The model writes a group of attempts per problem. A cheap checker (public unit tests, a constraint checker, or the model as its own verifier) flags clear failures.\n2. **Never reward passes.** Passing attempts get no positive push, because they might still be wrong.\n3. **Suppress failures, gently.** Each failure is made less likely, measured against a frozen copy of the starting model. Once a failure falls below the original model's odds, the push fades. This self-limiting loss comes from Negative Preference Optimization, a method for making models \"unlearn\" content. It stops over-correction that could erase general skills.\n4. **Scale by group support.** Each group's update is weighted by how many attempts passed. If none passed, the update is off. This stops it fleeing one mistake into another.\n\n## Results\nThe team trained two open models, Qwen3-4B and Qwen3-8B. They compared against GRPO, an entropy-minimization method, weighted reward baselines and the untouched model. Tests covered code (TACO, CodeContests, LiveCodeBench), logic puzzles (ZebraLogic) and math (OlympiadBench). The main score is pass@16: the chance at least one of 16 tries is correct.\n\nNOPO scored best in 9 of 10 model-and-benchmark pairs. On CodeContests with the 4B model it reached 50.47%, versus 43.75% for GRPO and 41.18% for the base model. That is about seven more problems solved per hundred than GRPO. The 8B model reached 55.04% on CodeContests and 42.86% on LiveCodeBench.\n\nThe gap widens with more tries. At 512 tries on CodeContests (4B), NOPO hit 66.95%. GRPO reached 48.54%, below the base model's 51.05%. GRPO made the model confident but narrow, so extra tries helped less. NOPO kept its range of ideas wide. Gains also reportedly carried over to unseen Codeforces problems.\n\n## Why it matters\nFew teams have complete tests or answer keys for every training problem. NOPO lets them use cheap, partial checks without teaching models to game them. It also suggests reinforcement learning need not narrow a model's thinking.\n\n## Caveats\nOnly two fairly small models from one family were tested. NOPO lost in one of ten settings. It needs some passing attempts per group, so very hard problems give little signal. It also assumes failures are trustworthy; a flaky test rejecting good code would mislead it.\n\n## Key terms\n- **RLVR:** training a model by letting an automatic checker score its attempts.\n- **One-sided verifiability:** a checker that can prove an answer wrong but not right.\n- **GRPO:** a common method that boosts the better attempts within a group of tries.\n- **Reward hacking:** a model fooling the scorer instead of solving the task.\n- **pass@k:** the chance at least one of k attempts is correct.\n"
     }
    ]
   }
