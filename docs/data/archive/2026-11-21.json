@@ -1,0 +1,259 @@
+{
+ "date": "2026-11-21",
+ "generated": "2026-11-21T10:49:08+00:00",
+ "news": [
+  {
+   "title": "SEC investigating Nvidia's accounting practices, sources tell Reuters",
+   "url": "https://live.euronext.com/en/financial-news/nvidias-accounting-focus-us-sec-investigation-sources-say",
+   "source": "Reuters",
+   "summary": "According to two people briefed on the matter, SEC enforcement staff are looking into possible accounting issues at Nvidia. Reuters could not find out when the inquiry began or what it covers. Nvidia shares ended about 13% lower on Friday after the report.",
+   "image": null,
+   "ts": 1795208700
+  },
+  {
+   "title": "Wall Street ends sharply lower in AI selloff; S&P 500 and Dow enter correction",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html",
+   "source": "Reuters",
+   "summary": "The Nasdaq fell 5.3% and the S&P 500 3.7% on Friday, a seventh straight daily loss for the S&P 500, as AI stocks such as Nvidia, CoreWeave and Nebius dropped. Rate-hike fears added to the pressure. Anthropic shares fell 9.1% on their second day of trading.",
+   "image": null,
+   "ts": 1795210560
+  },
+  {
+   "title": "DeepSeek closes 100 billion yuan funding round ahead of planned STAR Market IPO",
+   "url": "https://www.caixinglobal.com/2026-11-20/deepseek-closes-100-billion-yuan-funding-round-102506825.html",
+   "source": "Caixin Global",
+   "summary": "DeepSeek completed a second external round of about 100 billion yuan (about $15 billion), with funds linked to Tencent and CATL participating, according to business registration records. The company is preparing a Shanghai STAR Market listing and has limited some services, citing a shortage of computing capacity.",
+   "image": null,
+   "ts": 1795105380
+  },
+  {
+   "title": "Trump and Xi agreed humans must stay involved in military AI decisions, Bessent says",
+   "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/",
+   "source": "Defense News",
+   "summary": "Treasury Secretary Scott Bessent said Trump and Xi agreed at their Shenzhen meeting that no major military operation involving AI should go ahead without human involvement. He also said US labs must keep their lead and that Chinese orders for licensed H200 chips have been scarce.",
+   "image": null,
+   "ts": 1795197240
+  },
+  {
+   "title": "UN weapons conference agrees to two years of work toward rules on 'killer robots'",
+   "url": "https://www.dawn.com/news/2046098/countries-open-path-towards-killer-robots-pact",
+   "source": "AFP / Dawn",
+   "summary": "After five days of talks that ran into overtime, states at the Convention on Certain Conventional Weapons review conference in Geneva agreed to 'elaborate' an instrument on lethal autonomous weapons over the next two years. Campaign groups said the mandate had been watered down because the US and Russia resisted binding rules.",
+   "image": null,
+   "ts": 1795240200
+  },
+  {
+   "title": "Amazon: China-linked attackers' AI agents found and exploited a zero-day to take over a university server",
+   "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+   "source": "The Register",
+   "summary": "Amazon's threat intelligence team says attackers used Cairn, an open-source AI pentesting framework, to find and exploit a path-traversal flaw in MONAI Label. The agents gained root on an East Asian university server after adapting for nearly a day without human direction.",
+   "image": null,
+   "ts": 1795195800
+  },
+  {
+   "title": "OpenAI says its models improved AMD's upcoming flagship GPU design by up to 14% in PPA",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+   "source": "Tom's Hardware",
+   "summary": "OpenAI says its models rewrote SystemVerilog RTL for AMD's next flagship GPU, improving power, performance and area (PPA) by up to 14%, with smaller gains on CPUs. It says this compressed about a year of chip work into under five months. The figures have not been independently verified.",
+   "image": null,
+   "ts": 1795170600
+  },
+  {
+   "title": "SpaceX's Cursor tells lawmakers it's considering phasing out Chinese AI models",
+   "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+   "source": "CNBC",
+   "summary": "A House report reviewed by CNBC says Cursor, now a SpaceX subsidiary, told congressional investigators it may stop using Chinese open-weight models because of geopolitical risk. The report also says US open-weight alternatives lag on price and performance.",
+   "image": null,
+   "ts": 1795186800
+  },
+  {
+   "title": "Thinking Machines releases Inkling 2 Mini, an open-weight 26B model for laptops",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "source": "Thinking Machines Lab",
+   "summary": "Mira Murati's lab released open weights for Inkling 2 Mini, a 26.4B-parameter mixture-of-experts model whose middle layers run in loops and which needs about 20GB of memory. The lab says it leads open models under 100B parameters on DeepSWE and the Vals Index.",
+   "image": null,
+   "ts": 1795194000
+  },
+  {
+   "title": "Ex-Qwen chief's Pragmatik Labs raises funding at $5 billion valuation",
+   "url": "https://technode.com/2026/11/20/ex-qwen-chiefs-pragmatik-labs-raises-funding-at-5-billion-valuation/",
+   "source": "TechNode",
+   "summary": "Pragmatik Labs, the Shanghai agent startup founded by former Alibaba Qwen lead Lin Junyang, raised tens of millions of dollars from investors including HyT Capital, CDH and Geely, citing Bloomberg. Its valuation is now 2.5 times the $2 billion set in August.",
+   "image": null,
+   "ts": 1795184040
+  },
+  {
+   "title": "Waymo recalls robotaxis over closed freeway lanes and manual traffic control",
+   "url": "https://1027wbow.com/2026/11/20/waymo-recalls-self-driving-cars-over-closed-freeway-lanes-manual-traffic-control/",
+   "source": "Reuters",
+   "summary": "Waymo issued two recalls covering how its vehicles handle closed freeway lanes and manual traffic direction. Earlier in the week it stopped freeway driving after a California regulator barred its cars from the state's freeways.",
+   "image": null,
+   "ts": 1795205340
+  },
+  {
+   "title": "Newsom proposes 'kill switch' power for California to shut down dangerous AI",
+   "url": "https://lbpost.com/news/state/ai-kill-switch-openai-anthropic-california-governor",
+   "source": "CalMatters / Long Beach Post",
+   "summary": "An expert panel convened by Gov. Newsom recommended that state officials get emergency power to order dangerous AI systems shut down. It also proposed licensed independent auditors and a 48-hour deadline for reporting critical safety incidents, as a blueprint for legislation when lawmakers return in December.",
+   "image": null,
+   "ts": 1795111860
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.22374",
+     "title": "AutoE2E: Don't speak - Language free end-to-end autonomy. A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis",
+     "authors": [
+      "Muhammad Zain Khawaja",
+      "Zaynab El Mawas",
+      "Ryota Yamada",
+      "Gabriela Cordova",
+      "Arseni Lysak",
+      "Intisar Chowdhury",
+      "Bharat Jayaprakash",
+      "Apostolos Georgiadis"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "An open, compact 80M-parameter driving model fuses cameras, HD maps and routes to plan trajectories, matching or beating 4-10B-parameter language-based planners on open-loop accuracy while running about eight times faster on a test car.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.22374",
+     "pdf_url": "https://arxiv.org/pdf/2611.22374",
+     "summary_md": "## In one sentence\nAn open group of researchers built a small, fast self-driving model that turns camera images, a detailed map and a planned route straight into the car's next few seconds of motion, with no language model in the loop.\n\n## Background you need\n\"End-to-end\" driving means one learned model goes from raw sensor data to a planned path, instead of a chain of hand-built modules. A bird's-eye view (BEV) is a top-down grid of the area around the car, built from its cameras. An HD map is a precise digital map of lanes and road edges. Many recent systems are vision-language-action (VLA) models, which reason in words before acting.\n\n## The problem\nThose language-based planners are big, often 4 to 10 billion parameters (the adjustable numbers inside a model). They are slow and costly to run in a car. Their written reasoning is also hard to check against what the car actually did. And much research uses cameras only, while real cars also have maps and routes.\n\n## The idea\nThink of an experienced driver who does not narrate every turn out loud. They glance at the road, check the sat-nav and steer. AutoE2E is that quiet driver. It gives the same answer for the same input, so engineers can check its code rather than a story.\n\n## How it works\n1. **Build a top-down picture.** Six surround cameras, with frames from the last 3.5 seconds, feed a frozen, pretrained camera network (frozen means left unchanged). It produces a top-down grid of about 180 by 120 meters.\n2. **Add the map and route.** A 14-layer map image and a 2-layer route image (the lane corridor and the destination) are encoded separately. A learned \"gate\" decides how much route information to mix in.\n3. **Plan the motion.** A small step-by-step network makes 64 steps, one per tenth of a second. At each step it looks at 16 spots in the top-down grid and outputs an acceleration and a steering curvature. These become 6.4 seconds of path.\n4. **Train cheaply.** Only about 1.45 million of the roughly 79.9 million parameters are trained (about 1.8%). It trains on the nuPlan dataset, then fine-tunes on about 39,000 German KITScenes samples.\n\n## Results\nOn the KITScenes validation set, the fine-tuned model's predicted position was off by 0.745 meters on average over 3 seconds. Without fine-tuning it was 0.915 meters, so fine-tuning cut error by about a fifth.\n\nOn 202 shared test moments, AutoE2E (0.744 m average error at 3 s) was slightly better than Qwen-Drive-1.0 (0.764 m), a model of about 4 billion parameters. It was well ahead of the roughly 10-billion-parameter Alpamayo 1.5 (1.124 m). Qwen-Drive kept a better 3-second endpoint.\n\nOn TU Munich's EDGAR test car, a retrained version took 101 milliseconds per decision on one GPU using 0.5 GB of memory. Alpamayo 1.5 and another large model needed about 800 milliseconds and 14 to 21 GB. That is roughly eight times faster, at a fraction of the memory.\n\n## Why it matters\nRobotaxi teams need planners that fit in-car computers and react fast. A small, open model gives everyone a shared baseline, and shows that skipping language reasoning need not cost accuracy.\n\n## Caveats\nAll key tests are \"open-loop\": the model predicts a path but never actually drives, so its mistakes never compound. In a short simulated driving test, the model avoided crashes in five scenes but left the road in four of them within about 4 seconds. The authors blame a \"copycat\" habit of repeating its own recent steering. The route was fitted afterward to the driven path, which may flatter results. Only about 4 in 10 predicted paths stayed inside the route corridor. Neither released checkpoint passed the project's own quality checks.\n\n## Key terms\n- **End-to-end driving:** one model maps sensor input directly to a planned path.\n- **Bird's-eye view (BEV):** a top-down grid of the car's surroundings built from cameras.\n- **Open-loop evaluation:** comparing predicted paths with recorded human driving, without letting the model control the car.\n- **Displacement error:** how far, in meters, the predicted position is from where the car really went."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.18482",
+     "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models",
+     "authors": [
+      "Sicheng Feng",
+      "Zigeng Chen",
+      "Song Wang",
+      "Gongfan Fang",
+      "Xinchao Wang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 35,
+     "tldr": "MMFlash trains a speculative-decoding drafter to focus on image-dependent tokens, making vision-language models answer up to 3.58x faster with identical output.",
+     "image": "https://arxiv.org/html/2611.18482v1/overview_new.png",
+     "abs_url": "https://arxiv.org/abs/2611.18482",
+     "pdf_url": "https://arxiv.org/pdf/2611.18482",
+     "summary_md": "## In one sentence\nMMFlash makes image- and video-reading AI models answer up to about 3.6 times faster by training their small \"guesser\" model to focus on the words that depend most on the picture.\n\n## Background you need\nA vision-language model is an AI that reads images or video plus text and writes a text answer. These models normally write one token (a word piece) at a time, which is slow. Speculative decoding speeds this up: a small, fast \"drafter\" model guesses several tokens ahead, and the big model checks all of them in one go, keeping only the correct ones. Because the big model has the final say, the output is exactly the same as before, just faster.\n\n## The problem\nRecent drafters such as DFlash guess a block of 16 tokens in one step. But they were built and tested mostly on plain text. With images involved, the authors found a clear weak spot.\n\nThey scored each token by how much the image changes the big model's prediction, comparing runs with and without the image. For tokens least tied to the image, about 46% of guesses were accepted. For the most image-dependent quarter, only about 22% were. Training the drafter on 900,000 image-text examples did not close the gap. Each rejection throws away the rest of the guessed block, so these tokens slow everything down.\n\n## The idea\nThink of a tutor helping a student before an exam. Instead of drilling every question equally, the tutor spends extra time on the question types the student keeps getting wrong, and that actually show up on the test. MMFlash does the same for the drafter. During training it gives extra weight to tokens that depend heavily on the image and that the drafter still predicts badly.\n\n## How it works\n1. **Score image dependence offline.** For each training token, the big model is run with and without the image. The gap between the two predictions becomes a \"visual dependence\" score. This is done once, ahead of training.\n2. **Reweight the training loss.** Each token's training weight combines three things: how much the image matters, the chance that checking even reaches that spot in the block, and how often the drafter still misses it.\n3. **Trim long videos.** Videos can produce over 40,000 input tokens. The drafter sees only a few anchor tokens, a regular sample of visual tokens, all the text, and a recent window, about 1,600 tokens in total.\n4. **Draft and verify as usual.** At run time the drafter proposes 16 tokens at once, and the big model verifies them in parallel.\n\n## Results\nTests used Qwen3.5 models with 4 and 9 billion parameters on seven image benchmarks, such as chart reading and visual math, on one H200 graphics card.\n\n- With the 4-billion model, MMFlash averaged 3.00× faster than normal decoding. DFlash managed 2.72× and EAGLE-3 (a popular earlier drafter) 1.58×. So a reply taking 9 seconds would take about 3.\n- The best single result was 3.58× on chart questions with the 9-billion model.\n- On long-video tests, it reached 2.33–2.71× speedups, beating DFlash by 11–23%.\n- With 32 users served at once, gains shrank but remained, for example 1.89× on one chart task.\n\n## Why it matters\nImage and video assistants are getting wordier, especially \"reasoning\" models that think out loud. Faster answers cut waiting time and hardware cost, with no change to output quality. The lesson: train drafters for the task at hand, not just copy text-only ones.\n\n## Caveats\nSpeedups shrink a lot when many users share a card. Preparation costs more, since the big model runs twice over all training data. Most tests used one model family, though the authors also report Gemma and a 27-billion Qwen model. Gains over DFlash are moderate, around 10% on average for images.\n\n## Key terms\n- **Speculative decoding:** a small model guesses ahead and a big model checks the guesses in bulk.\n- **Drafter:** the small, fast guessing model.\n- **Acceptance rate:** how often the big model agrees with a guessed token.\n- **Visual dependence:** how much seeing the image changes the next-word prediction.\n- **Sparse attention:** letting the model look at only a chosen subset of its input to save work."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.24809",
+     "title": "On-Policy Morphing into Hybrid Attention Models",
+     "authors": [
+      "Disen Lan",
+      "Xuanda Wang",
+      "Jianbin Zheng",
+      "Huafeng Kuang",
+      "Wei Tang",
+      "Yu Cheng"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 13,
+     "tldr": "FlashMorph2 picks which layers keep full attention when converting a Transformer into a hybrid linear-attention model by testing real sampled hybrids end to end, improving long-context scores at a few GPU-hours of cost.",
+     "image": "https://arxiv.org/html/2611.24809v1/flashmorph2_framework.png",
+     "abs_url": "https://arxiv.org/abs/2611.24809",
+     "pdf_url": "https://arxiv.org/pdf/2611.24809",
+     "summary_md": "## In one sentence\nFlashMorph2 is a cheaper, more accurate way to decide which layers of an existing language model should keep their expensive full attention when you convert it into a faster \"hybrid\" model.\n\n## Background you need\nAttention is the step where a language model looks back over everything it has read. Full attention compares each new word with every earlier word, so its cost and memory grow with text length. Linear attention instead keeps a fixed-size running summary, which is much cheaper but worse at recalling exact details. A hybrid model mixes the two: here, one layer in four keeps full attention and the other three use linear attention.\n\n## The problem\nTraining a hybrid model from scratch is costly, so people convert already-trained models instead. The hard part is choosing which layers stay full attention. A 28-layer model with 7 full layers has over a million possible choices, so you cannot test them all.\n\nThe previous method, FlashMorph, learned soft \"dials\" blending both attention types in every layer. The authors see two mismatches. First, the final model uses one type per layer, not a blend, and each layer receives the hybrid's own outputs, not ideal ones from the original. Second, FlashMorph froze the weights while choosing, yet the model is retrained afterwards and its weights change.\n\n## The idea\nImagine picking a sports team. FlashMorph judges players from isolated highlight clips. FlashMorph2 puts sampled line-ups on the field for full games, letting players train as they go, and keeps the line-up that wins.\n\n## How it works\n1. **Prepare a flexible model.** Each layer of the original model gets a linear-attention twin, briefly trained to copy the original layer.\n2. **Sample real line-ups.** Each layer has a learned score. Adding a bit of randomness, the method picks the top 7 layers (for a 28-layer model) to keep full attention, giving one concrete hybrid design.\n3. **Run it end to end.** The sampled hybrid processes text fully, so every layer sees what the hybrid itself produces. Its output is compared with the original model's output.\n4. **Learn scores and weights together.** Training nudges both the layer scores and the model weights, using the same goal as the later retraining step. This stage uses only 20 million tokens.\n5. **Pick and retrain.** The top-scoring layers are fixed, the model restarts from its original weights, and it is retrained on about 2 billion tokens.\n\n## Results\nTests used Qwen3 models from 0.6 to 8 billion parameters, with three kinds of linear attention.\n\n- Averaged over settings, FlashMorph2 beat FlashMorph by 2.42 points on RULER (a long-text retrieval test), 1.08 on LongBench (long-document tasks) and 0.76 on recall-heavy tasks.\n- On the 0.6-billion model with one linear-attention type, RULER rose from 60.3 to 63.7. With another type, it rose from 55.8 to 61.2.\n- On the 1.7-billion model, its LongBench score of 33.8 slightly beat the original full-attention model's 32.4. RULER still trailed the original, at 74.5 versus 87.7.\n- Choosing layers took 0.72 to 3.57 graphics-card hours. That is 8 to 21 times faster than one rival method, HALO, and 560 to 854 times faster than another.\n- Removing the end-to-end runs crashed RULER from 74.5 to 44.9. Without them, every full-attention layer piled up at the top of the model.\n\n## Why it matters\nHybrid models use much less memory on long inputs, so they can serve longer documents and more users per card. Better layer choice means teams can convert models they already have, cheaply, while keeping more of their long-text skill.\n\n## Caveats\nConverted hybrids still lose noticeably to the original on hard retrieval tests. FlashMorph2 costs about twice as much compute as FlashMorph for selection, though this is under 1% of the total conversion. Gains are small in some settings. The visible results focus on small models, and no real speed or memory measurements were reported.\n\n## Key terms\n- **Full attention:** every word compares itself with every earlier word; accurate but costly.\n- **Linear attention:** a cheaper version that keeps a fixed-size running summary.\n- **Hybrid model:** a model mixing a few full-attention layers with many linear ones.\n- **Distillation:** training a model to copy another model's outputs.\n- **RULER:** a test of finding and using facts buried in long text."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.26268",
+     "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
+     "authors": [
+      "Yingqi Shi",
+      "Junru Lu",
+      "Yun Liu",
+      "Di Yin",
+      "Xing Sun"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 16,
+     "tldr": "LightningMoBA speeds up block-sparse attention on Hopper GPUs with threshold-based block selection, block-centric scheduling and overlapped memory fetches, giving 1.2-1.6x faster long-context generation than FlashMoBA at similar accuracy.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.26268",
+     "pdf_url": "https://arxiv.org/pdf/2611.26268",
+     "summary_md": "## In one sentence\nLightningMoBA is a faster GPU implementation of a \"pick the relevant chunks\" style of attention, letting long-context language models generate text 1.2 to 1.6 times faster with about the same quality.\n\n## Background you need\nAttention is the step where a language model compares each new word with everything it has read so far. Its cost grows with the square of the text length, so long documents get expensive fast. Mixture of Block Attention (MoBA) cuts this cost by splitting earlier text into blocks and letting each word look only at a few top-scoring blocks. A kernel is a small program that runs a step like this directly on the GPU.\n\n## The problem\nDoing less arithmetic does not always mean finishing sooner on a GPU. Picking blocks and reading memory in scattered patterns can eat up the savings. The best existing kernel, FlashMoBA, gives every word the same fixed number of blocks (say, the top 16). That wastes effort when one block clearly wins and drops useful blocks when scores are spread out. It also hands out work by groups of words, so several GPU workers load the same memory block again and again.\n\n## The idea\nThink of a librarian fetching books for many readers. The old approach walks the shelves once per reader, always bringing exactly 16 books. LightningMoBA instead brings each reader every book that is \"nearly as good\" as their best match, and walks to each shelf once, handing that book to every reader who wants it.\n\n## How it works\n1. **Threshold routing.** Each word keeps every earlier block whose score is within a set margin of its best block. So the number of blocks varies per word. The selection is built in two quick passes, with no sorting.\n2. **Block-centric work.** Work is grouped by memory block, not by word. A GPU worker loads one block of stored keys and values (the model's memory of earlier text) once, then reuses it for every word that picked it.\n3. **Splitting busy blocks.** Blocks wanted by thousands of words are cut into chunks of at most 4,096 words, then merged. This keeps GPU workers evenly loaded.\n4. **Overlapping memory and math.** On NVIDIA Hopper GPUs, one small group of threads fetches data while another does the matrix math on the tensor cores (special matrix-multiply units). The GPU rarely sits idle waiting for memory.\n\n## Results\nTests ran on five models, including Qwen3-4B, Llama-3.1-8B and the large Qwen3-235B-A22B, at context lengths from 4K to 128K tokens. Against FlashMoBA keeping the top 16 blocks, full generation was 1.20 to 1.60 times faster on average per model. A reply that took 10 seconds would take roughly 6 to 8. Average accuracy on the RULER long-context test went from 74.42 to 75.28. With a top-32 budget, it was faster in all 30 model and length settings tested.\n\nInside the kernel, block selection got 7 to 11 times faster at a top-64 budget. For training Qwen3-4B on 128K-token inputs, steps were up to 1.6 times faster with nearly identical loss.\n\n## Why it matters\nLong-context features, such as reading whole codebases, are limited by attention cost. This work shows sparse attention needs a smart GPU plan to pay off. Teams serving long-context models could get faster replies and lower GPU bills without retraining from scratch.\n\n## Caveats\nAt the top-16 budget, most of the gain comes from the new execution engine, not from threshold routing. Routing helps mainly at larger budgets. At 64K tokens, top-16 accuracy dropped by 1.4 to 5.7 points on every model. The memory-overlap trick needs Hopper-generation GPUs. Many kernel numbers come from replayed data, not full runs. The threshold must be tuned per model, and uneven load across GPUs remains unsolved.\n\n## Key terms\n- **Sparse attention:** letting each word look at only part of the earlier text to save compute.\n- **MoBA:** a sparse attention method that scores blocks of earlier text and keeps the best ones.\n- **Kernel:** a small, highly tuned program that runs one operation on the GPU.\n- **KV cache:** the stored keys and values, the model's memory of text it already read.\n- **RULER:** a benchmark that checks whether models can find and use facts buried in long inputs.\n"
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.25980",
+     "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+     "authors": [
+      "John Won",
+      "Yonghoon Dong",
+      "Jinwoo Shin"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 11,
+     "tldr": "AFFECT adds a training penalty that makes robot world models respond to small action changes like reality does, raising sim-to-real policy-ranking correlation on DROID from 0.47 to 0.79 and improving planning success by up to 8.3 points.",
+     "image": "https://arxiv.org/html/2611.25980v1/main2.png",
+     "abs_url": "https://arxiv.org/abs/2611.25980",
+     "pdf_url": "https://arxiv.org/pdf/2611.25980",
+     "summary_md": "## In one sentence\nThe authors add an extra training lesson that teaches robot \"world models\" to notice how small changes in a robot's movements change what happens next, making them better stand-ins for real-world testing.\n\n## Background you need\nA world model is an AI system that predicts future video given the current scene and a planned sequence of robot movements. Think of it as a video game engine learned from data. Teams use them to test robot control programs (policies) without a real robot, and to plan by imagining options. FVD (Fréchet Video Distance) is a standard score for how realistic generated video looks; lower is better.\n\n## The problem\nToday's world models often make good-looking videos that hardly change when the robot's commands change slightly. But in the real world, a gripper shifted by one centimeter can mean the difference between grabbing a cup and knocking it over. A model that ignores this may rank a bad policy above a good one. Fixing this usually needs repeated runs from identical starting scenes, which is slow.\n\n## The idea\nPicture a flight-simulator tester who nudges the controls slightly and checks that the simulated plane responds like the real one. AFFECT does this for world models. It wiggles the robot's actions with known random noise. Then it checks that the model's predicted video shifts the same way the real recorded video shifted.\n\n## How it works\n1. **Collect wiggled play data.** A \"play\" policy, trained on unscripted human remote-control data, runs the robot by itself. Smooth random noise is added to each short chunk of movements and logged. No scene resets are needed.\n2. **Summarize with fixed measures.** Two simple, fixed summaries are computed: one of the noise (such as its total push in each direction) and one of the video (such as how image features changed). Centering the noise makes scene-only details, like lighting, cancel out.\n3. **Measure the \"action effect\".** For both real and generated videos, the method measures how strongly the video summary moves together with the noise summary.\n4. **Add a matching penalty.** During training, the model generates its own futures from the same inputs. It is penalized when its action effect differs from the real one. The penalty is added every 8 training steps, and the model's design is unchanged.\n\n## Results\nAFFECT was added to two video world models, DreamDojo and Cosmos3, and tested on a simulated arm plus two real robot setups, DROID and ALOHA-2. It helped in all six combinations.\n\nThe key test was whether a policy's success rate inside the world model matches its success on the real robot. On DROID with DreamDojo, this correlation rose from 0.47 to 0.79 (1.0 would be a perfect match). On ALOHA-2 with Cosmos3, it rose from 0.30 to 0.69. So its ranking of policies becomes far more trustworthy.\n\nVideo quality improved too: DreamDojo's FVD on DROID fell from 807 to 622.\n\nFor planning, the world model imagined moves proposed by five policies, and a scorer picked the best. On five simulated pick-and-place tasks, success rose from 60.0% with plain DreamDojo to 68.3% with AFFECT. Random picking got 46.7%. A three-step real ALOHA-2 task gained about 8.4 points.\n\n## Why it matters\nTesting robot policies on real hardware is slow and expensive. A world model that reliably ranks policies lets teams screen many candidates in software first. Being just an extra loss, AFFECT fits existing models.\n\n## Caveats\nThe video and noise summaries are hand-chosen, so what AFFECT can capture depends on those choices. Generating videos in training adds cost. Results are not uniformly positive: on ALOHA-2, DreamDojo's FVD got slightly worse (183 to 188). The gains also shrink with less than 20% of the training data. The real-robot tests are small: 12 episodes per checkpoint, 4 checkpoints and 2 tasks per robot.\n\n## Key terms\n- **World model:** a learned simulator that predicts future video from the current scene and planned robot actions.\n- **Policy:** the program that decides a robot's next movements.\n- **Correlation:** a 0-to-1 measure of how well two sets of numbers rise and fall together.\n- **FVD:** a score of how realistic generated video is; lower is better."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.26409",
+     "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+     "authors": [
+      "Changli Tang",
+      "Jie Yang",
+      "Tianyi Wang",
+      "Lei Li",
+      "Daoze Zhang",
+      "Zijie Xin",
+      "Zhan Liu",
+      "Li Li"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 40,
+     "tldr": "Tencent releases WeMM-Video, an open 2B-to-35B family of models that understand video and its soundtrack together, beating other open omni models on most audio-visual benchmarks while still trailing Gemini-3.0-Flash.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.26409",
+     "pdf_url": "https://arxiv.org/pdf/2611.26409",
+     "summary_md": "## In one sentence\nWeMM-Video is Tencent's open family of AI models that watch videos while also listening to their soundtrack, then answer questions about them in Chinese or English.\n\n## Background you need\nA vision-language model reads images or video frames plus text and writes text answers. An \"omni-modal\" model also takes audio, so it can hear speech, music and sound effects. Most open video models today watch silent frames only. Benchmarks are standard test sets used to compare models on the same questions.\n\n## The problem\nReal videos carry much of their meaning in sound. A lecture, a sports clip or a vlog makes little sense with the audio muted. Open models that handle both sight and sound together have lagged behind closed systems like Google's Gemini. Many also lose ground on plain text or image tasks when audio is added. Developers who want to run such a model on their own hardware have had few strong choices.\n\n## The idea\nThink of a film editor who lines up the picture track and the sound track on one timeline. WeMM-Video does the same: it turns frames and audio into tokens (small chunks the model reads) and places them in time order, each tagged with a timestamp. The language model then reads one merged stream, so it can link what was said to what was shown at that moment.\n\n## How it works\n1. **Start from strong parts.** Each model is built on an existing Qwen language model. The largest, 35B-A3B, is a mixture-of-experts model (only about 3 billion of its 36 billion parameters run per word). The audio encoder starts from Qwen2.5-Omni.\n2. **Turn sound into tokens.** A Whisper-style audio encoder listens to 16 kHz audio. A compressor squeezes each tenth of a second into one token, so one second of sound becomes 10 tokens.\n3. **Interleave by time.** Video frames get text timestamps. Visual and audio tokens are woven together in the order they happened.\n4. **Train in stages.** The models see about 1.2 trillion tokens of mixed media in a step-by-step pretraining. The image encoder is frozen after the first stage.\n5. **Polish the answers.** Post-training learns from several teacher models on the model's own outputs. A preference step discourages repeating itself. Finally, reinforcement learning (learning from reward signals) targets specialist skills. Each model offers a quick \"Instruct\" mode and a slower \"Thinking\" mode.\n\n## Results\nThe flagship 35B-A3B was tested on 30 joint audio-video benchmarks in Thinking mode. It beat Qwen3.5-Omni-Flash on 28 and Seed2.0-Mini on 26, but beat Gemini-3.0-Flash on only 9. On Video-MME with audio, it scored 86.4, versus 79.3 for Qwen3.5-Omni-Flash and 88.6 for Gemini. So it is close to, but still behind, the leading closed model.\n\nThe small 4B model scored 83.9 on Video-MME with audio, versus 77.3 for the much larger Qwen3-Omni-30B-A3B. On plain text the flagship gave up a little versus its base model: 84.7 versus 85.2 on the knowledge test MMLU-Pro. The family spans 2B, 4B, 9B and 35B-A3B sizes, all under the Apache 2.0 license.\n\n## Why it matters\nDevelopers get open weights for models that truly use sound and picture together. That helps with video search, captioning, meeting summaries and content moderation. The small models make audio-visual understanding possible on modest GPUs.\n## Caveats\nAll scores so far come from the authors; nobody has reproduced them independently. The report does not say how many frames or what image resolution were used in testing. Published serving setups cap context at 8,192 tokens, roughly 13 minutes of audio. Running the models needs patched versions of the vLLM or SGLang serving tools. No speed or memory figures are reported. Text and some audio scores trail the base or rival models.\n\n## Key terms\n- **Omni-modal model:** one model that takes text, images, audio and video together.\n- **Token:** a small chunk of input (word piece, image patch, slice of sound) the model reads.\n- **Mixture of experts:** a model with many sub-networks, where only a few run for each word.\n- **Reinforcement learning:** training by rewarding good answers rather than copying examples.\n- **Video-MME:** a widely used video question-answering benchmark; the \"with audio\" version includes the soundtrack.\n"
+    }
+   ]
+  }
+ ]
+}
