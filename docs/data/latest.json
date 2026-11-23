@@ -1,86 +1,102 @@
 {
- "date": "2026-11-22",
- "generated": "2026-11-22T10:31:57+00:00",
+ "date": "2026-11-23",
+ "generated": "2026-11-23T10:30:08+00:00",
  "news": [
   {
-   "title": "Lean and Mathlib communities certify Claude-assisted Riemann hypothesis proof",
-   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "source": "Lean community blog",
-   "summary": "The Lean and Mathlib communities say Anthropic researcher Levent Alpöge's 17-million-line Lean library correctly states and proves the Riemann Hypothesis, after a day of compilation and kernel checks. The certification covers the formal artifact only; a human-readable account of the proof is still being prepared.",
+   "title": "OpenAI publishes internal perplexity data and pitches it as a shared yardstick for AI progress",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "source": "OpenAI",
+   "summary": "Chief scientist Jakub Pachocki released internal pretraining perplexity measurements and proposed next-token prediction performance as a common way for frontier labs to compare progress, tying it to proposed shared safety limits. Critics note prediction scores alone don't capture real-world task behavior.",
    "image": null,
-   "ts": 1795296480
+   "ts": 1795399200
   },
   {
-   "title": "Signal restricts mobile screenshots, calling OS-level AI agents an 'existential threat'",
-   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-   "source": "TechCrunch",
-   "summary": "Signal is bringing screenshot restrictions to its Android and iOS apps to keep built-in AI agents from reading chats. President Meredith Whittaker acknowledged the measure is incomplete, and users can turn it off at the cost of Signal's privacy guarantees.",
+   "title": "US and China explore joint guardrails on AI",
+   "url": "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai",
+   "source": "Semafor",
+   "summary": "US and Chinese officials are exploring joint AI safeguards following the Trump–Xi agreement to keep humans in the loop on military AI decisions, even as Washington keeps restricting advanced chip exports.",
    "image": null,
-   "ts": 1795297020
+   "ts": 1795356000
   },
   {
-   "title": "Amazon nears $7.5 billion deal to buy AI startup Decart, FT reports",
-   "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
-   "source": "Seeking Alpha",
-   "summary": "Citing the Financial Times, Seeking Alpha reports that Amazon is in advanced talks to acquire Decart, which makes AI chip-switching software and world models, for about $7.5 billion. An announcement could come as soon as next week.",
+   "title": "WSJ names Li Ming as operator behind Megaspeed's Nvidia chip pipeline to China",
+   "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
+   "source": "The Wall Street Journal",
+   "summary": "The Journal reports that Li Ming ran a network that moved roughly $12 billion worth of export-restricted Nvidia chips to China, adding to scrutiny of Megaspeed, Nvidia's largest Southeast Asian buyer.",
    "image": null,
-   "ts": 1795284240
+   "ts": 1795395600
   },
   {
-   "title": "OpenRouter drops three inference providers after canary research exposes prompt theft",
-   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-   "source": "The Hacker News",
-   "summary": "Dragos researchers seeded about two million prompts with canary secrets and found attackers inside three AI inference providers, including on requests flagged for zero data retention. In response, OpenRouter off-boarded three providers and removed 125 endpoints from ZDR eligibility.",
+   "title": "Who pays for the grid behind SpaceX's $74 billion AI data centers?",
+   "url": "https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/",
+   "source": "Fortune",
+   "summary": "Residents and officials in Texas and Arizona are questioning who will cover grid expansion for SpaceX's planned AI campuses, with the Arizona site alone potentially drawing about 6 gigawatts.",
    "image": null,
    "ts": 1795348800
   },
   {
-   "title": "Trump threatens 'tremendous tax' on US companies building AI data centers abroad",
-   "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html",
-   "source": "Associated Press (via Yahoo News)",
-   "summary": "At a White House briefing on Friday, Trump said he would penalize US companies that build AI data centers overseas, though he had not yet briefed staff and gave no enforcement details. Polls show growing local opposition to data center construction in the US.",
+   "title": "Apple begins Siri AI rollout and opens developer preview to third-party apps",
+   "url": "https://developer.apple.com/news?id=gdk2umrf",
+   "source": "Apple Developer",
+   "summary": "Apple is shipping Siri AI in its own apps and has opened a developer preview with the iOS 27.3 beta so third-party apps can integrate via App Intents, though App Store release comes later and the EU is excluded.",
    "image": null,
-   "ts": 1795221480
+   "ts": 1795420800
   },
   {
-   "title": "China's spy agency ran a campaign to acquire advanced AI chips, NYT reports",
-   "url": "https://www.orissapost.com/chinas-spy-agency-made-advanced-ai-chips-priority-ran-campaign-to-acquire-them-report/",
-   "source": "OrissaPOST (PTI, citing The New York Times)",
-   "summary": "The New York Times reports that China's Ministry of State Security formed a working group to help acquire and smuggle advanced chips and to gather intelligence on the chip supply chain, a campaign running for at least two years. The report follows the Nvidia–Megaspeed affair; China denies the espionage allegations.",
+   "title": "Defense AI startup Agon raises $70 million Series A led by Roelof Botha",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
+   "source": "Bloomberg",
+   "summary": "UK-based Agon raised $70 million at a $450 million valuation, led by former Sequoia chief Roelof Botha, to build simulation models that train autonomous drone, naval and ground-robot behavior.",
    "image": null,
-   "ts": 1795342020
+   "ts": 1795417200
   },
   {
-   "title": "Data centers full of US chips are serving Chinese AI models",
-   "url": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
-   "source": "Fortune",
-   "summary": "In a commentary, Georgetown CSET researchers note that DeepSeek's latest model is offered by at least 16 inference providers based outside China, including Amazon Bedrock. They argue the US should compete with cheaper open-weight models rather than ban US clouds from serving Chinese models.",
+   "title": "Ant Group leads $100 million round in humanoid startup Simplexity Robotics",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+   "source": "Bloomberg",
+   "summary": "Ant Group led a $100 million Pre-A round valuing Hangzhou embodied-AI startup Simplexity Robotics at $1.6 billion, as China's humanoid-robot race intensifies.",
    "image": null,
-   "ts": 1795255200
+   "ts": 1795334400
   },
   {
-   "title": "China's data regulator plans standards for metering and billing AI tokens",
-   "url": "https://thenextweb.com/news/chinas-data-regulator-plans-standards-for-measuring-and-billing-ai-tokens",
-   "source": "The Next Web",
-   "summary": "The National Data Administration says it will improve standards for measuring, billing and quality-checking AI tokens as 'token factories' sell compute-backed AI output as a service. Daily token use in China passed 500 trillion by June; no publication date for the standards was given.",
+   "title": "Meta reconsiders its 2030 net-zero goal as AI data centers drive record emissions",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "source": "Ars Technica",
+   "summary": "Meta is re-evaluating its net-zero milestones after reported emissions climbed from about 15.6 million to more than 21.7 million metric tons CO2e between 2024 and 2025, driven by AI infrastructure.",
    "image": null,
-   "ts": 1795273140
+   "ts": 1795363200
   },
   {
-   "title": "Australia's spy chief warns data centres and AI open a foreign-interference vector",
-   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/australia-spy-chief-warns-of-data-centre-ai-risks-age",
-   "source": "The Star (Bloomberg)",
-   "summary": "ASIO Director-General Mike Burgess told The Age that covert foreign ownership of data centres could give other states physical or virtual access to critical technology. Deputy Prime Minister Richard Marles called data centre construction a new avenue for foreign actors.",
+   "title": "Bessent warns against Fed overtightening as AI bubble fears mount",
+   "url": "https://www.semafor.com/article/11/22/2026/bessent-warns-on-fed-hike-as-ai-bubble-fears-mount",
+   "source": "Semafor",
+   "summary": "Treasury Secretary Scott Bessent cautioned the Fed against overtightening after tech shares slid, as investors debate whether AI spending and earnings expectations have peaked.",
    "image": null,
-   "ts": 1795326240
+   "ts": 1795370400
   },
   {
-   "title": "Tesla starts rolling out FSD v15 with game-like 'Reality View'",
-   "url": "https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584",
-   "source": "Gizmodo",
-   "summary": "Tesla began pushing FSD v15 to some vehicles on Saturday. The update adds a photorealistic third-person visualization of what the system plans to do, and Tesla claims 25x better handling of safety-critical cases. Musk compared the view to GTA.",
+   "title": "US intel chief Clayton warns of more outages as systems are rebuilt for AI",
+   "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+   "source": "CNBC",
+   "summary": "Director of National Intelligence Jay Clayton said Americans should expect more technology disruptions during AI-driven infrastructure upgrades, pointing to recent FAA, Microsoft and JPMorgan incidents.",
    "image": null,
-   "ts": 1795291200
+   "ts": 1795366800
+  },
+  {
+   "title": "Inside Dario Amodei's quiet campaign to win over thinkers on powerful AI",
+   "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
+   "source": "The Washington Post",
+   "summary": "The Post reports on the Anthropic CEO's private efforts to persuade outside intellectuals of his views on powerful AI and how it should be governed, days after Anthropic's IPO closed.",
+   "image": null,
+   "ts": 1795345200
+  },
+  {
+   "title": "OpenAI tests 'Dots' proactive personal agents for ChatGPT Plus",
+   "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+   "source": "Engadget",
+   "summary": "OpenAI is testing Dots, a proactive agent that can keep working on tasks between conversations, with limited availability on the $20-per-month Plus tier.",
+   "image": null,
+   "ts": 1795377600
   }
  ],
  "tracks": [
@@ -90,23 +106,25 @@
    "color": "#22d3ee",
    "papers": [
     {
-     "id": "2611.13494",
-     "title": "Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving",
+     "id": "2611.19138",
+     "title": "SuperGlance: Driving at a Glance with a Vision-Language Model",
      "authors": [
-      "Haohua Que",
-      "Mingkai Liu",
-      "Tianle Zhu",
-      "Zhipeng Bao",
-      "Yiping Li",
-      "Handong Yao"
+      "Jieyuan Pei",
+      "Xin Yan",
+      "Mingwei Xu",
+      "Haiyi Zhang",
+      "Siyu Zou",
+      "Zhangyi Hu",
+      "Zhuoxuan Li",
+      "Yuguang Yang"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "Connected self-driving cars share their planned paths and run the same small 'who goes first' judge, which cuts deadlocks and crashes at busy crossings in simulation.",
-     "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.13494",
-     "pdf_url": "https://arxiv.org/pdf/2611.13494",
-     "summary_md": "## In one sentence\nThe paper lets self-driving cars tell each other not just what they see but what they plan to do, so they can agree on who goes first at a crossing.\n\n## Background you need\nConnected cars swap data over a wireless link called V2X (vehicle-to-everything). An industry standard, SAE J3216, calls sharing what you sense \"Class A\" and sharing intentions, like planned paths, \"Class B\" or higher. An end-to-end driving system is one learned model that maps sensor data to driving commands.\n\n## The problem\nMost learned cooperative driving systems stop at Class A. Each car sees more, but still decides alone when to move. Two polite cars at a crossing may both wait forever (a deadlock), or both go and crash. Better shared vision cannot fix this. The missing piece is timing, not seeing.\n\n## The idea\nThe system, called When2Go, works like two people who agree on a shared rulebook before reaching a doorway. Each car broadcasts its planned path, then runs the same small \"who goes first\" judge on the same messages. Same judge, same inputs, same answer, so no arguing.\n\n## How it works\n1. **Sense and share.** Each car detects nearby objects using only LiDAR (a laser scanner that measures distance). It broadcasts those detections with predicted motion, plus its own two-second plan and intended path.\n2. **Build a conflict map.** The receiver draws a grid: distance along its route (30 meters) by time (two seconds). Layers mark vehicles, pedestrians, cyclists and partner plans. A filled cell means \"something will likely be here, then.\"\n3. **Pick a speed.** The planner tries 64 candidate speed profiles, from a full stop up to about 13.3 meters in two seconds. A network scores each for progress and risk, and the car takes the fastest low-risk option.\n4. **Decide the order.** A tiny network (about 270,000 weights) compares each pair of crossing paths. By design, two cars can never both claim priority. It was trained to copy a right-of-way rule.\n5. **Train by imitation.** The model copies a rule-based expert in the CARLA driving simulator. The expert sees things the learner cannot, like traffic lights. So stops with no visible cause are relabeled, to avoid teaching the car to freeze for no reason.\n\n## Results\nOne model was tested on three CARLA benchmarks.\n- On InterDrive, the driving score (a 0–100 blend of route progress and penalties) was 97.8 without other traffic and 90.7 with traffic. The best published scores were 90.1 and 78.9.\n- On V2Xverse it scored 70.0, against 59.1 for the best rerun rival.\n- On MDrive it scored 88.2 versus 85.1. Its share of collision-free vehicles was 95.0% versus 87.7%.\n- The gap over the strongest cooperative rival grew from 2.5 points with two cars to 32.3 with six to eight.\n- Removing the conflict map cost 6.4 points on V2Xverse. The order judge added 4.1 points over no ordering, but matched a hand-written priority rule.\n\nThe model takes about 0.1 seconds per car per step on a GPU. Each message is about 24 kilobytes, sent five times a second.\n\n## Why it matters\nV2X links today mostly share sensor views. This work suggests sharing plans is what unlocks smooth intersections. It points toward robotaxi fleets that coordinate timing without a central controller.\n\n## Caveats\nEverything is in simulation; nothing ran on real roads or real radios. Main results assume perfect communication. With 800 milliseconds of delay, one score fell 7.6 points. It is cautious: 29 of 100 V2Xverse runs ended blocked. It ignores traffic lights and signs, and never changes lanes. A simulator rule that pushes stuck cars forward was off for When2Go but on for rivals. No code release is reported.\n\n## Key terms\n- **V2X:** wireless data exchange between a vehicle and other cars or roadside units.\n- **Route-time conflict map:** a grid showing where along my route something will be, and when.\n- **Speed profile:** a plan for how fast to go at each moment over the next few seconds.\n- **Imitation learning:** training a model to copy an expert's choices.\n- **Driving score:** a benchmark number combining route completion with penalties for crashes and violations."
+     "tldr": "A self-driving vision-language model picks its path from a fixed menu of 5,273 options in one pass, planning about six times faster than a token-by-token rival and driving about 3.9 times farther between at-fault crashes in simulation.",
+     "image": "https://guobapei.github.io/SuperGlance/assets/fig_teaser_choose.png",
+     "abs_url": "https://arxiv.org/abs/2611.19138",
+     "pdf_url": "https://arxiv.org/pdf/2611.19138",
+     "summary_md": "## In one sentence\nSuperGlance lets a self-driving AI pick its path after one quick \"look\" at the scene instead of writing out its plan word by word, so it plans about six times faster and crashes less often in simulation.\n\n## Background you need\nMany new self-driving systems use a vision-language model (an AI that reads images and text, like a chatbot with eyes). They usually write their plan one small piece (a \"token\") at a time, and each piece needs another full pass through the network. A trajectory is the short path the car will follow, here the next 4 seconds.\n\n## The problem\nWriting a plan piece by piece is slow. The strong baseline, Qwen-Drive-1.0, needs about 518 milliseconds of graphics-chip time per plan, and over 5 seconds if it writes out its reasoning. A car moves many meters in that time, so the plan is stale on arrival. The usual fix bolts a small, fast planner outside the big model, but that planner loses the model's general knowledge.\n\n## The idea\nThe model has already \"understood\" the scene before writing its first word. That understanding sits in its hidden state (its internal summary of what it has seen). So instead of asking it to write a route, they ask it to point at one. Think of a taxi driver with a menu of 5,273 routes: rather than describing a route aloud, turn by turn, it glances at the road and ticks the best few.\n\n## How it works\n1. **Build a fixed menu of paths.** The 5,273 candidate paths are mostly typical human paths grouped from driving data, plus high-speed paths, a \"stay still\" option and braking and turning moves.\n2. **Score the menu in one pass.** The model (built on Qwen3.5-9B) reads the camera images once. A simple layer turns its hidden state into a score per path. The plan blends the top 64 paths by score.\n3. **Use pre-computed rewards.** Because the menu never changes, every path in every training scene is graded ahead of time. Training first learns from these grades. Then reinforcement learning (learning by reward) uses the exact average reward over all paths, not a guess from a few samples.\n4. **Keep the model's general smarts.** The model keeps practising multiple-choice questions on general topics and driving scenes. Each appears twice with answers shuffled, so it cannot cheat by always picking \"B\". A penalty stops each stage drifting far from its start.\n\n## Results\n- **Speed:** SuperGlance plans in about 84 milliseconds of chip time, versus 518 for Qwen-Drive-1.0. That is roughly six times faster.\n- **Closed-loop driving:** In the AlpaSim simulator, where the car lives with its own decisions, SuperGlance drove 1.248 km per crash it caused, versus 0.317 km for Qwen-Drive-1.0, when thinking time counted as delay. That is 3.9 times farther, up from 2.8 times when delay is ignored. It completed 72.2% of scenarios versus 36.6%.\n- **Open-loop benchmarks:** On NAVSIM, PAI-AV and the Waymo end-to-end set (scored on recorded drives), it matched or beat Qwen-Drive-1.0.\n- **Question answering:** On DriveLM driving questions it reached 85.51%, versus about 61% for the base model.\n\n## Why it matters\nCar makers want big-model knowledge without slow reactions. This shows one model can drive quickly and still answer questions about the scene. That could mean cheaper hardware or faster reactions. The exact-reward trick may help any system choosing from a fixed action list.\n\n## Caveats\nAll tests are in simulation or on recorded data, not real roads. The car can only blend menu paths, so rare maneuvers need new entries and retraining. Ten of its 53 at-fault crashes involved a stopped car in or near its lane. Language scores fell below the base model on five of seven tests. Timings come from one graphics card type.\n\n## Key terms\n- **Vision-language model:** an AI that takes images plus text and answers in text.\n- **Hidden state:** the model's internal summary of its inputs, before it writes anything.\n- **Trajectory:** the short future path the car plans to drive.\n- **Closed-loop testing:** simulation where the car's choices change what happens next.\n- **At-fault incident:** a crash the self-driving car itself caused.\n"
     }
    ]
   },
@@ -116,20 +134,25 @@
    "color": "#a78bfa",
    "papers": [
     {
-     "id": "2611.18652",
-     "title": "MeltKV: Memory-Aligned KV Cache Compression via Variable-Bit Packed Vector Quantization for Long-Context LLMs",
+     "id": "2611.25433",
+     "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
      "authors": [
-      "Jiyun Han",
-      "Seongjoon Cho",
-      "Seungkyu Choi"
+      "Payman Behnam",
+      "Elaheh Sobhani",
+      "Saad Amin",
+      "Yahya Hassan",
+      "Daniyal Khan",
+      "Biswadeep Chakraborty",
+      "Tanish Patwa",
+      "Souvik Kundu"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "MeltKV compresses an LLM's long-context memory to as little as 1-4 bits per value and packs it to fit GPU-friendly word sizes, cutting memory by about half and speeding up decoding versus earlier compression methods.",
-     "image": "https://arxiv.org/html/2611.18652v1/fig1.png",
-     "abs_url": "https://arxiv.org/abs/2611.18652",
-     "pdf_url": "https://arxiv.org/pdf/2611.18652",
-     "summary_md": "## In one sentence\nMeltKV shrinks the memory a language model uses to remember long documents and packs it so the GPU reads it quickly, cutting memory use and response time.\n\n## Background you need\nA large language model (LLM) keeps a KV cache: its short-term memory of every word it has already read. For long inputs, this cache can fill most of a GPU's memory. Quantization means storing numbers with fewer bits, like rounding prices to the nearest dollar. Vector quantization replaces a small group of numbers with the ID of the closest entry in a shared \"codebook\" of typical patterns.\n\n## The problem\nVector quantization compresses well on paper, but savings often vanish on real hardware. GPUs store data in standard sizes of 8 or 16 bits. If a codebook ID needs 12 bits, it gets padded into a 16-bit slot, wasting about a third of the space. Some methods keep a separate codebook for every attention head (one of many parallel \"readers\" in each layer), which makes decoding slower than no compression at all. One global codebook is fast but loses accuracy below 4 bits.\n\n## The idea\nMeltKV designs the precision and the memory layout together. It is like packing a moving truck: instead of giving each odd-sized item its own oversized box, you pair small and large items so every box is exactly full. MeltKV gives important data more bits and easy data fewer bits. Then it combines them so each stored word is exactly 8 or 16 bits.\n\n## How it works\n1. **Sort the data by difficulty.** In a one-time calibration on sample text, MeltKV groups the channels of the keys (one half of the KV cache) and ranks each group by how hard it is to compress. Groups become high, medium or low precision. Values (the other half) all get the same precision.\n2. **Pack IDs into standard sizes.** Medium groups use 8-bit IDs. A low-precision ID and a high-precision ID are glued together into one 16-bit word.\n3. **Share codebooks across heads.** Neighbouring attention heads share one codebook, shrinking total codebook size.\n4. **Keep one anchor token at full precision.** Models lean heavily on the first token, so MeltKV keeps just that one uncompressed, at under 0.1% extra time.\n5. **Fuse the work on the GPU.** A custom kernel (a small GPU program) unpacks the IDs and computes attention in one pass.\n\n## Results\nTests covered six 7–8 billion parameter models, including Llama-3-8B, Mistral-7B and Qwen2.5-7B, on a single RTX A6000 GPU. Baselines were uncompressed 16-bit storage and three earlier methods: KVQuant, CQ and MILLION.\n- At matched quality, MeltKV used 48.1% less memory and decoded 52.9% faster than earlier vector-quantization methods.\n- Perplexity measures how surprised a model is by real text; lower is better. At 4 bits, MeltKV averaged 5.18 versus 5.17 uncompressed. At 2 bits it scored 5.39, beating CQ (5.58) and MILLION (6.73).\n- On Qwen2.5-7B quiz-style tasks, 4-bit MeltKV matched uncompressed accuracy (67.7).\n- At 64,000 tokens of context, it decoded 1.47 times faster than the uncompressed model. A reply that took 3 seconds would take about 2.\n\n## Why it matters\nLong documents and chat histories are where serving costs grow fastest. A smaller, faster cache lets one GPU serve longer inputs or more users. It also reminds researchers to measure real memory and speed, not just theoretical bits.\n\n## Caveats\nAll speed tests used one workstation GPU and served one request at a time. Busy servers with many parallel users were not tested. At 1 bit, quality drops sharply; Llama-3's perplexity rose from 5.54 to 9.89. It needs a calibration step, though the choice of sample text barely mattered. Only models up to 8 billion parameters were evaluated.\n\n## Key terms\n- **KV cache**: the model's stored memory of earlier tokens, reused for each new word.\n- **Vector quantization**: replacing groups of numbers with the ID of a close match in a codebook.\n- **Codebook**: a small lookup table of typical patterns that IDs point to.\n- **Attention head**: one of many parallel units in a layer that decide which earlier words matter.\n- **Perplexity**: a score of how well a model predicts text; lower is better.\n"
+     "tldr": "RoCoKV trims a reasoning model's memory by pruning harder when the model is confident and dropping repetitive thoughts, giving up to 1.43x faster generation in vLLM.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.25433",
+     "pdf_url": "https://arxiv.org/pdf/2611.25433",
+     "summary_md": "## In one sentence\nRoCoKV shrinks the memory that \"thinking\" AI models use, keeping more when the model is unsure and dropping repetitive notes, so answers come faster.\n\n## Background you need\nReasoning models, such as DeepSeek-R1 and its smaller distilled versions, write out a long chain of thought (step-by-step working) before they answer. As they write, they store the KV cache (the model's short-term memory of every word so far) on the graphics card. KV cache compression discards the parts the model is least likely to need.\n\n## The problem\nFor ordinary chatbots, the memory cost comes mostly from the user's prompt. For reasoning models, it comes mostly from what the model writes itself. Those traces can run for thousands of words, and much of the text is low value: loops, re-checks, \"wait, let me try again\" and backtracking.\n\nThat bloat fills the graphics card, so fewer users fit per card and each word gets slower. The usual fix deletes entries with low attention (how much the model \"looks at\" a word). But repeated filler can still get lots of attention, so simple rules keep junk or cut what matters, and accuracy drops.\n\n## The idea\nRoCoKV adds two common-sense judgments to the cleanup. Think of a student's exam scratch paper. When confused, they keep every note. When confident, they erase more. If three lines say the same thing, one is enough.\n\nRoCoKV ties compression strength to the model's confidence, and it devalues entries that repeat recent reasoning.\n\n## How it works\n1. **Watch the model's confidence.** As the model writes each word, RoCoKV estimates how uncertain it is. Uncertain stretches get a larger memory budget. Confident stretches get pruned harder.\n2. **Penalize repeats.** Stored entries are ranked by importance, but entries very similar to recent reasoning are pushed down, so near-duplicate filler cannot crowd out distinct pieces.\n3. **Keep the best.** The top entries stay within the current budget; the rest are discarded.\n4. **Make it fast in a real server.** The authors wrote fused GPU code (several steps merged into one pass on the graphics card) and packaged it as a drop-in plugin for vLLM, a popular open-source serving system. It keeps vLLM's paged memory layout and its CUDA graph capture (a trick that replays pre-recorded GPU work to cut overhead), so the savings show up as real end-to-end speed.\n\n## Results\nAcross two reasoning models and three benchmarks, the authors report higher accuracy than earlier compression methods under tight memory budgets.\n\nFor speed, they ran DeepSeek-R1-Distill-Llama-8B inside vLLM and compared against keeping the full, uncompressed cache:\n- On AIME25, a hard math competition set, generation was 1.27× faster and throughput rose 38%. A 127-second job would take about 100.\n- On a long synthetic benchmark, it was 1.43× faster with 45% higher throughput. Throughput here means how much work one server finishes in a given time, so a 45% gain means roughly 45% more output from the same hardware.\n\n## Why it matters\nReasoning models are costly because they \"think out loud\" at length. Trimming that cost lowers the price per query and fits more users per card.\n\nAs a vLLM plugin, it could be tried without rebuilding a serving stack. The broader lesson: memory cleanup for reasoning models should use confidence and repetition, not just attention.\n\n## Caveats\nThese notes come from the paper's abstract and public listings. The full text was not reachable for this digest, so exact accuracy figures and the names of the baseline methods are not given here.\n\nThe speed numbers cover one 8-billion-parameter model; larger models and other hardware are not shown there. Compression always risks dropping something needed later. The custom GPU code must also keep pace with vLLM updates.\n\n## Key terms\n- **KV cache:** the model's stored memory of everything it has read and written so far in a conversation.\n- **Chain of thought:** the step-by-step reasoning text a model writes before giving its final answer.\n- **Pruning:** deleting less useful entries from memory to save space and time.\n- **Throughput:** how much total output a server produces per unit of time.\n- **vLLM:** a widely used open-source system for serving language models efficiently."
     }
    ]
   },
@@ -139,23 +162,18 @@
    "color": "#f472b6",
    "papers": [
     {
-     "id": "2611.13975",
-     "title": "Understanding Mixture-of-Experts Language Models Beyond Expert Boundaries",
+     "id": "2611.21003",
+     "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
      "authors": [
-      "Zhenhong Zhou",
-      "Mao Zheng",
-      "Mingyang Song",
-      "Qiankun Li",
-      "Kun Wang",
-      "Junfeng Fang"
+      "K2 Team (Institute of Foundation Models, MBZUAI)"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "Topic specialists in mixture-of-experts language models are individual neurons spread across experts, and keeping the right ones lets you prune these models heavily with little loss.",
+     "tldr": "MBZUAI's six fully open K2-Horizon models add sparse 'value experts' to attention, letting a 4B-active model nearly match a 32B dense model trained on the same data.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.13975",
-     "pdf_url": "https://arxiv.org/pdf/2611.13975",
-     "summary_md": "## In one sentence\nThe authors show that inside \"mixture-of-experts\" language models, the real topic specialists are individual neurons spread across many experts, and they use this map to shrink models by up to half while keeping most of their skill.\n\n## Background you need\nA mixture-of-experts model (MoE) splits part of each layer into many small sub-networks called experts. A router (a small scoring network) sends each word piece, or token, to only a few experts, so most of the model sits idle on any one token. Each expert is built from neurons, the smallest units that each compute one number. Pruning means deleting parts of a trained model to save memory and compute.\n\n## The problem\nMoE models like Qwen3-30B-A3B are cheap to run per token, but every expert must still sit in GPU memory, which makes hosting costly. Researchers also disagree about what experts learn. Some say experts specialize by topic, like math or code. Others say routing mostly follows surface clues, like which word appears. Pruning whole experts on the wrong theory can quietly delete skills users need.\n\n## The idea\nThe right unit of study is the neuron, not the expert. Picture a hospital where wards are experts. Asking whether one ward handles heart cases misses that heart specialists may work across several wards. The authors build a neuron-level staff directory, then keep the specialists each topic needs, wherever they sit.\n\n## How it works\n1. **Collect topic samples.** They gather short calibration texts in nine buckets, such as chat, math, medicine, code and Chinese. Half find important neurons; half check the findings.\n2. **Score each neuron (RAMP).** Routing-Aware Magnitude Profiling measures how much a neuron changes the layer's output on each topic. A token counts only if the router picked that expert, weighted by how strongly it chose it.\n3. **Compare neuron sets.** For each topic they take the top-scoring neurons and measure overlap between same-topic and different-topic samples.\n4. **Track training.** Using public checkpoints saved during training, they watch how neuron rankings shift during pre-training and fine-tuning.\n5. **Prune (RAMPr).** They merge scores across all topics and keep the top neurons per layer, with no fixed quota per expert. The shared experts and the router stay untouched.\n\n## Results\nAcross six open MoE models, top neurons chosen on samples of the same topic overlapped 58–74%. For different topics the overlap was only 15–24%, so topic specialists clearly exist. About 13–23% of experts held 66–83% of each topic's exclusive neurons.\n\nDuring pre-training, neuron rankings kept reshuffling even when expert-level rankings stayed nearly fixed. Fine-tuning barely changed which neurons mattered.\n\nFor pruning, keeping 75% of routed neurons preserved 91–98% of original benchmark performance. At 50%, all variants beat a gradient-based (Fisher) pruning baseline on an 11-task average in every model. On GLM-4.7-Flash at 75%, the method scored 71.90 versus 68.99 for REAP, a method that drops whole experts. At 50% on one NVIDIA H20 GPU, memory fell 36–43% and the speed of reading the prompt (prefill) rose 17–39%. Generating new tokens was about as fast as before.\n\n## Why it matters\nTeams hosting MoE models could fit them on fewer or smaller GPUs, knowing better which skills they trade away. The work also helps settle the specialization debate: topic structure is real, but it lives below the expert level. Future pruning and interpretability tools should look inside experts.\n\n## Caveats\nAt 50% retention, two models dropped sharply, to 61% (Qwen3) and 66% (GLM-4.7) of original performance. Results depend on the calibration text; for Qwen3, changing its mix moved a coding score from 4 to 67. REAP was compared on only two models. Generation speed did not improve. Some correlation numbers differ slightly between sections.\n\n## Key terms\n- **Mixture-of-experts (MoE):** a model that sends each token to a few of many small sub-networks.\n- **Router:** the small network that picks which experts handle each token.\n- **Neuron:** the smallest computing unit inside an expert.\n- **Pruning:** removing parts of a trained model to save memory and compute.\n- **Calibration data:** a small sample of text used to measure which parts matter.\n- **Prefill:** the step where the model reads the whole prompt before replying."
+     "abs_url": "https://arxiv.org/abs/2611.21003",
+     "pdf_url": "https://arxiv.org/pdf/2611.21003",
+     "summary_md": "## In one sentence\nMBZUAI's K2 team released six fully open language models, plus architecture tweaks that let a 4-billion-active model nearly match a 32-billion dense one.\n\n## Background you need\nA transformer is the standard design behind chatbots. Its \"attention\" step lets each word look back at earlier words. A mixture-of-experts model (MoE) holds many small sub-networks called experts, and a router picks a few for each word. The model can be huge while only a small \"active\" part works per word.\n\n## The problem\nServing cost grows with active parameters, the numbers used per word. Dense 32-billion models are strong but expensive. Most MoE designs sparsify only the feed-forward block, which processes each word on its own. Big runs also suffer loss spikes, sudden error jumps that can waste weeks of compute. Teams rarely publish how they cope.\n\n## The idea\nThe team made sparsity reach one more place: the \"value\" part of attention, which decides what information a word passes on once others look at it. Think of a newsroom. Instead of one house editor, each reporter has 64 specialist editors on call and picks the 4 best for today's story. Two smaller fixes keep training stable.\n\n## How it works\n1. **Mixture-of-Value Attention (MoVA).** The single value projection in attention is replaced by 64 alternatives. A router picks 4 per word and blends them. Only the blend goes into the KV cache (the model's short-term memory of what it has read), so memory use is unchanged.\n2. **Softplus attention gate.** A common gate scales attention output between 0 and 1, starting at one half. It can never boost a signal. The new gate starts at 1 and has no upper limit, so it can quiet or amplify.\n3. **Grouped normalization.** Normalization rescales numbers inside the network. In wide layers, single values can reach about 90. Rescaling smaller groups separately caps those extremes.\n4. **Standard MoE plus a careful recipe.** The 36-billion-total model has 100 experts with 8 active per word, plus one always-on shared expert. Four models shared the same 22 trillion training tokens (word pieces). Readable length was then stretched from 32,000 to 512,000 tokens. A monitor rolled training back to a saved copy when loss spiked.\n\n## Results\nThe key test pits the 36B-A4B model (about 4.7 billion active) against the 32B dense model on identical data. It uses roughly one-seventh the active parameters. On MMLU, a broad knowledge test, it scored 86.9 versus 88.1. On AIME 2026 math problems it got 92.1 versus 92.2. On the reasoning suite BBH it was ahead, 88.9 versus 87.6. It also led on MBPP coding (92.8 versus 91.2). That is near-equal quality for far less compute per word.\n\nThe flagship 375B model, with 23 billion active, scored 65.3 on the Toolathlon-Verified tool-use benchmark., ahead of four comparable open models. It reached 90.65 on the RULER long-text test at 128,000 tokens. Over two pre-training phases it needed 40 rollbacks, the deepest rewinding 4,217 steps.\n\n## Why it matters\nFewer active parameters means cheaper, faster serving at similar quality. MoVA adds no memory and leaves attention untouched, so common speedups like FlashAttention still work. Weights, checkpoints, data and code are all public, including a rare, candid record of loss spikes.\n\n## Caveats\nNo test switches MoVA off, so its gain can't be split from the regular MoE layers. The gate and normalization fixes are argued in theory, not measured. Many base-model scores come from intermediate checkpoints. Most synthetic training data was never verified, so some of it is wrong. The flagship still lags on expert-level science reasoning.\n\n## Key terms\n- **Active parameters:** the part of the model's numbers actually used for each word; this drives running cost.\n- **Mixture of experts:** a model with many sub-networks where a router uses only a few per word.\n- **Value projection:** the part of attention that shapes what a word shares with others.\n- **KV cache:** stored notes on earlier words, so the model doesn't reread them.\n- **Loss spike:** a sudden jump in training error that can derail a run."
     }
    ]
   },
@@ -165,25 +183,23 @@
    "color": "#34d399",
    "papers": [
     {
-     "id": "2611.04998",
-     "title": "ForgeKernel: Self-Evolving Kernels Catching and Surpassing Experts and Agents",
+     "id": "2611.24437",
+     "title": "Dissecting an Unexplored SASS Control-Code Field: Barrier Exemption and Programmable Warp Priority",
      "authors": [
-      "Yaojian Chen",
-      "Zhui Zhu",
-      "Zhen Li",
-      "Qingfeng He",
-      "Lin Gan",
-      "Dazhi Peng",
-      "Shengye Xiang",
-      "Xianglong Deng"
+      "Ziwen Wang",
+      "Qi Luo",
+      "Kunlin Li",
+      "Changxi Liu",
+      "Dongsheng Wang",
+      "Yun Chen"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "An AI agent system that separates kernel design from coding, keeps a verified notebook of GPU tricks, and uses its own best kernels as the next target, matching or beating expert libraries on 25 of 29 NVIDIA setups.",
+     "tldr": "Researchers decoded hidden scheduling bits in NVIDIA GPU machine code and built a tool that sets them in compiled programs, speeding kernels up to 31.9% and LLM inference up to 3.6%.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.04998",
-     "pdf_url": "https://arxiv.org/pdf/2611.04998",
-     "summary_md": "## In one sentence\nForgeKernel is a team of AI agents that writes fast GPU code, learns hardware lessons that carry over between jobs, and keeps improving by treating its own best result as the next target to beat.\n\n## Background you need\nA GPU kernel is a small program that runs one operation, like attention or a matrix multiply, on a graphics chip. Its speed depends on how work is split and how data moves through memory. Expert libraries hand-tune these choices for each chip. A \"kernel agent\" is a large language model (an AI that writes text and code) that tries to do this tuning automatically.\n\n## The problem\nNew layers and chips appear constantly, and experts are scarce. Existing kernel agents have two habits that limit them. First, they pick a basic design early and only polish within it, even when the design itself is the bottleneck. Second, every run starts from the same blank knowledge, so lessons learned on one operator are thrown away.\n\n## The idea\nThink of an architect and a builder. The architect decides the floor plan; the builder lays bricks. If the house is cramped, a good architect redraws the plan instead of asking for tidier bricks. ForgeKernel splits kernel writing the same way. It also keeps a shared notebook of verified tricks about the chip. Each finished house becomes the \"model home\" the next crew must beat.\n\n## How it works\n1. **Plan the design.** An architecture agent reads the operation, the input sizes, the target chip, and timing measurements of a strong reference kernel. It decides how work is split, how data flows, and how steps are scheduled.\n2. **Break it into milestones.** The plan becomes an ordered list. The first milestone builds a correct kernel with the key structural choices baked in. Later milestones tune details inside that structure.\n3. **Write and test the code.** A separate coding agent implements each milestone and debugs it. A test harness checks correctness and times it against the reference. The coding agent never sees the reference's source code.\n4. **Revise when stuck.** If progress stalls, the architect looks at measurements and runs small probe experiments. It may change the structure; changes with no clear gain are rolled back.\n5. **Evolve and remember.** A kernel that passes becomes the hidden reference for the next round. New hardware tricks enter the knowledge base only after a separate test confirms them on the real chip.\n\n## Results\nTests used NVIDIA H100 and B200 GPUs and Huawei's Ascend 910C chip. Across 29 NVIDIA setups covering 27 operations, ForgeKernel matched or beat the expert library in 25. On average it ran about 10% faster. Against seven kernels published by other AI kernel agents, it was about 39% faster on average.\n\nOn a public benchmark for the Ascend chip, it beat the best public submission per operator by about 25% on average. On a separate NVIDIA B200 leaderboard it solved all 26 kernels and was faster than the baseline in 98% of 660 workloads.\n\nSelf-evolution added real gains. A sparse attention kernel for a DeepSeek model went from 5.3% to 15.5% faster than an expert library called FlashMLA. Removing the knowledge base (an ablation test) hurt most: average results dropped from 0.4% above the expert to 3.8% below.\n\n## Why it matters\nModel builders wait on fast kernels before new layer designs become practical. A system that reaches expert speed, on several chip brands, could shorten that wait from months to days.\n\n## Caveats\nMany headline numbers are best-of-run picks or leaderboard snapshots, not averages over repeated runs. The agents can still get stuck in local optima. Stored hardware tricks are tied to specific chips and need retesting elsewhere. The authors note knowledge reuse is not proven to cause the speedups. The runs rely on costly frontier AI models.\n\n## Key terms\n- **Kernel:** a small program that runs one operation on a GPU.\n- **Reference kernel:** the fast existing kernel used as the bar to beat.\n- **Knowledge base:** a store of verified chip tricks, each with when to use it and a tiny working example.\n- **Geometric mean:** an average of speedups that keeps one huge win from dominating.\n"
+     "abs_url": "https://arxiv.org/abs/2611.24437",
+     "pdf_url": "https://arxiv.org/pdf/2611.24437",
+     "summary_md": "## In one sentence\nThe researchers decoded three hidden bits in NVIDIA's GPU machine code that NVIDIA's own libraries use but normal compilers never set, and built a tool that sets them in anyone's compiled programs to make them run faster.\n\n## Background you need\nSASS is the low-level machine code that NVIDIA GPUs actually run. Every instruction carries a small \"control code,\" a set of scheduling hints that tell the hardware when to issue the next instruction. A warp is a group of 32 threads that runs in lockstep, and a barrier is a checkpoint where all warps in a group must wait for each other before moving on.\n\n## The problem\nNVIDIA does not document these control codes. Its public compiler, nvcc, writes them for ordinary user code. But closed libraries like cuBLAS and cuDNN (NVIDIA's tuned math and neural-network libraries) are built differently. The authors scanned 25,806 compiled GPU binaries. One 3-bit field showed up over 500,000 times in NVIDIA's libraries and zero times in code compiled from PyTorch, FlashAttention, vLLM or llama.cpp. Open-source projects may be missing tricks NVIDIA keeps for itself.\n\n## The idea\nEarlier work assumed these bits only flagged register reuse. The authors show they sometimes carry a scheduling mark instead. One mark, \"exempt,\" works like a pass that lets a runner leave the starting line early for warm-up tasks that bother no one else. Other marks (\"start,\" \"tile,\" \"end\") act like a priority lane at a checkout. They move a warp between high, normal and low priority in the hardware scheduler.\n\n## How it works\n1. **Find the field.** They checked which instructions carry the bits and worked out the rule. For math instructions, the bits mean a mark only when a separate \"yield\" bit is set.\n2. **Probe the behavior.** Small timing tests on GPUs from Volta to Blackwell showed what each mark does. In one test, exempt let a waiting warp start its memory loads early, finishing 733 cycles sooner.\n3. **Work out when it is safe.** Exempt is safe only for instructions that touch a warp's own data, read-only constants, or private memory. Shared data that another warp might change must still wait.\n4. **Rewrite binaries automatically.** A post-compilation tool flips only these control bits after the compiler finishes. It never adds, removes or reorders instructions. Exempt placement is fully static. Priority marks use one profiling run to pick kernels where many thread blocks share a chip core.\n\n## Results\nTests ran on six GPUs across four generations, against normal nvcc builds.\n- An embedding kernel with uneven work got 31.9% faster from exempt alone.\n- A finance benchmark (BlackScholes) got 21% faster from priority marks, finishing in 36.2K cycles instead of 43.8K.\n- llama.cpp's 4-bit matrix-multiply kernels sped up 2.1% to 4.7%.\n- vLLM's mixture-of-experts kernels sped up as much as 5.4%.\n- End to end, llama.cpp decoding on a mixture-of-experts model ran up to 3.6% faster. Tuned vLLM decoding gained up to 2.3%.\n- The modified builds passed all 18,505 llama.cpp tests and all 10,267 vLLM tests.\n\nA 3.6% gain sounds small, but at data-center scale it is free throughput.\n\n## Why it matters\nTeams running LLM inference can get a few percent more speed just by adding a wrapper around the compiler. It also gives compiler builders and AI kernel-writing agents new knobs to tune.\n\n## Caveats\nGains appear only when the chip runs short of ready work during barrier waits. If other warps keep it busy, stalls drop but total time does not. The tool is cautious and skips shared-memory and general global-memory accesses it cannot prove safe. Priority marks fit few kernels: none of the dense-model kernels qualified. Only two frameworks and two Qwen3 models were tested. Undocumented behavior could change on future chips or drivers.\n\n## Key terms\n- **SASS:** the actual machine instructions an NVIDIA GPU executes.\n- **Control code:** extra bits on each instruction that guide hardware scheduling.\n- **Warp:** a bundle of 32 GPU threads that run the same instruction together.\n- **Barrier:** a sync point where warps wait until all have arrived.\n- **Warp scheduler:** the hardware unit that picks which warp issues next.\n- **Mixture-of-experts (MoE):** a model that sends each token to a few specialist sub-networks."
     }
    ]
   },
@@ -193,25 +209,25 @@
    "color": "#fbbf24",
    "papers": [
     {
-     "id": "2611.09672",
-     "title": "ODEAction: From Predicting Chunks to Evolving Actions",
+     "id": "2611.11554",
+     "title": "Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation",
      "authors": [
-      "Qishen Wang",
-      "Pengxiang Ding",
-      "Shifeng Bao",
-      "Mingyang Sun",
-      "Hengtao Li",
-      "Yi Gao",
-      "Baohua Yin",
-      "Yang Liu"
+      "Yunheng Wang",
+      "Jiaxi Zhang",
+      "Wei Lu",
+      "Yuetong Fang",
+      "Taowen Wang",
+      "Yixiao Feng",
+      "Shuning Zhang",
+      "Junzhe Xu"
      ],
      "source": "arXiv new",
      "upvotes": 0,
-     "tldr": "Instead of predicting robot moves in separate chunks that can jerk at the seams, ODEAction learns how the current action should keep changing, giving smoother motion and higher success in simulation and on a real dual-arm robot.",
+     "tldr": "Starting a humanoid robot's control model from a pretrained human-motion generator, and adding vision with small trainable add-ons, gives better whole-body task success than leading vision-language-action models.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.09672",
-     "pdf_url": "https://arxiv.org/pdf/2611.09672",
-     "summary_md": "## In one sentence\nODEAction lets a robot's control model describe how its current motion should keep changing, instead of guessing whole blocks of future moves, which makes robot arms move more smoothly and succeed more often.\n\n## Background you need\nA vision-language-action model (a VLA: a neural network that looks at camera images, reads an instruction like \"put the cup on the plate\" and outputs motor commands) is the main way people build general robot controllers today. Most VLAs use action chunking: they predict a batch of future commands, run it, then predict the next batch. An ODE (ordinary differential equation) is a rule saying how something changes given where it is now.\n\n## The problem\nEach chunk is predicted on its own, so commands may not line up where chunks meet. The arm can jerk or hesitate at these seams. For fine jobs like inserting a spoon, a small jump can ruin the task.\n\nEarlier fixes, such as RTC and Legato, try to stitch chunks together. But they still treat the chunk as the basic unit, so seams remain.\n\n## The idea\nThink of a hiker with a compass rather than a stack of separate printed maps. The hiker never jumps from the edge of one map to the next. They just keep walking the way the compass points from wherever they stand.\n\nThe model learns an \"action transition field\": given the current action and task progress, it says how the action should change next.\n\n## How it works\n1. **Turn demonstrations into smooth paths.** Each human demonstration is interpolated into a continuous trajectory over a normalized time from start to finish.\n2. **Practice from slightly wrong spots.** During training, the system picks a random time point and adds a little noise to the true action there. This mimics drifting off course.\n3. **Teach two things at once.** The target the model must predict combines \"keep moving along the demonstration\" with \"steer back toward it if you drifted.\" Training uses a simple error loss and never needs to solve the equation.\n4. **Roll forward at run time.** The robot starts from its current action and repeatedly takes small steps in the predicted direction. When a new camera image arrives, only the context changes; the action carries over, so there is no seam.\n5. **Plug in anywhere.** ODEAction is an add-on action head. The authors attached it to pi-0.5 and two StarVLA models.\n\n## Results\n- **LIBERO** (a standard simulated benchmark): average success rose from 96.85% to 98.25% on pi-0.5.\n- **EBench** (harder, fine-grained tasks): average success rose from 15.28% to 24.72%, about 62% more relative success. A jerkiness measure for the gripper fell by about 79%.\n- **RoboTwin** (all 50 dual-arm tasks, StarVLA-OFT base): success rose from 85.7% to 89.4% in clean scenes and from 87.3% to 89.8% in randomized ones.\n- **Against stitching methods** on five RoboTwin tasks: ODEAction reached 84.4%, while the base got 82.4%, RTC 81.2% and Legato 78.0%. Seam jumps shrank by 27.3%.\n- **Real dual-arm robot** (four tasks, 20 trials each): average success went from 65% to 80%. Inserting a spoon went from 25% to 55%.\n- **Removing parts**: without the noise or the pull-back term, success fell to 47.4% and 56.2%.\n\n## Why it matters\nSmooth motion decides whether delicate manipulation works at all. Because ODEAction is a drop-in head, teams with an existing VLA could try it without building a new backbone. It also frames control as a continuous process.\n\n## Caveats\nReal-robot tests cover only four tasks with 20 trials each, so one trial shifts a score by 5 points. Smoothness metrics count only successful runs. Only the simplest step-by-step solver was tried. Run time and compute cost are not reported. Absolute success on EBench stays low, under 25%.\n\n## Key terms\n- **Vision-language-action model (VLA):** a network that maps images plus a text instruction to robot motor commands.\n- **Action chunking:** predicting a batch of future commands at once, then executing it.\n- **Chunk boundary:** the seam between two batches.\n- **Action transition field:** the learned rule saying how the current action should change next.\n- **Euler integration:** following a direction by taking many small fixed steps."
+     "abs_url": "https://arxiv.org/abs/2611.11554",
+     "pdf_url": "https://arxiv.org/pdf/2611.11554",
+     "summary_md": "## In one sentence\nThe authors take an existing model that generates humanlike whole-body motion from text and teach it to look through a robot's camera, so it can steer a humanoid robot through tasks like carrying boxes, opening doors and sitting on sofas.\n\n## Background you need\nA humanoid doing \"loco-manipulation\" has to walk and use its hands together, like carrying a box across a room. Many recent robot brains are vision-language-action models: big models that see camera images, read an instruction and output movement commands. A text-to-motion model is different: it was trained only to produce realistic body movement, such as \"walk forward and sit down\".\n\n## The problem\nModels trained on images and text know what a sofa is. They know much less about how hips, legs and arms must move together to sit on it. Teaching it from scratch takes lots of costly robot demonstration data, which is scarce for humanoids.\n\n## The idea\nInstead of starting from a model that understands pictures, start from one that already understands movement. It is like teaching a trained dancer to follow stage cues, rather than teaching a film critic to dance. The authors call this family \"Kinematic Action Models\", meaning models whose foundation is body motion.\n\n## How it works\n1. **A frozen motion backbone.** They use Kimodo-G1, a text-to-motion generator built for the Unitree G1 humanoid. It builds a motion by gradually cleaning up random noise. Its weights are \"frozen\", meaning they are never changed.\n2. **Add eyes with small side branches.** Trainable add-ons (in the style of ControlNet, a trick for steering a frozen generator) read features from the robot's head camera. They gently nudge the motion generator's internal signals. Only 92 million of the 678 million total parameters (the model's adjustable numbers) are trained.\n3. **Root, then body, then hands.** The model first decides where the body should go, then how the limbs move, then whether each hand opens or closes.\n4. **Plan short, replan often.** Using up to 100 past frames as context, it plans about 1.7 seconds of future motion. The robot executes only the first half-second, then replans from fresh camera views. A separate controller, called SONIC, turns the planned motion into motor commands.\n5. **Pretrain on robot data.** They first train the add-ons on 419 hours of public humanoid demonstrations, which took about 60 hours on 16 GPUs.\n\n## Results\n- On the HumanoidArena simulated benchmark, one policy trained on seven tasks succeeded 72.1% of the time. That beat GR00T N1.7 (69.7%) and pi-0.5 (53.8%).\n- It was especially good at moving through scenes, such as sitting or navigating (about 84% success). It was weaker at handling objects (about 56%), where GR00T N1.7 scored 62%.\n- On the SIMPLE benchmark it averaged 75.8%, essentially tied with the best baseline, Psi-0, at 75.4%.\n- On eight real-robot tasks with 10 tries each, it succeeded 60% of the time. Baselines GR00T N1.6 and Psi-0 managed about 31% and 35%.\n- The motion foundation matters. Replacing it with a randomly started model dropped object-handling success from 51.7% to 18.3%. Unfreezing the backbone dropped it to 31.7%.\n- More pretraining data helped steadily: 105 hours gave 68.1%, and 419 hours gave 72.1%.\n\n## Why it matters\nFor humanoid builders, clumsy whole-body movement is a key bottleneck. This work suggests motion generators can be a second foundation alongside vision-language models.\n\n## Caveats\nThe system was only tested with one motion controller, SONIC, and one motion model. Real-world results rest on just 10 trials per task in a lab. Many baseline numbers were copied from earlier papers rather than rerun under identical conditions. Object handling still trails the best rivals, and performance drops when scenes are perturbed more.\n\n## Key terms\n- **Loco-manipulation:** walking and using the hands at the same time.\n- **Vision-language-action model:** a model that turns camera images and an instruction into robot movements.\n- **Text-to-motion model:** a generator that produces body movement from a short text description.\n- **Frozen backbone:** a pretrained core model whose weights stay fixed while small add-ons are trained.\n- **Action chunk:** a short sequence of future movements planned at once, then partly executed before replanning."
     }
    ]
   },
@@ -221,23 +237,19 @@
    "color": "#fb7185",
    "papers": [
     {
-     "id": "2611.14912",
-     "title": "Rethinking \"RL Generalizes, SFT Memorizes\": The Role of SFT Data",
+     "id": "2611.26590",
+     "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
      "authors": [
-      "Yunlong Hou",
-      "Fengzhuo Zhang",
-      "Yuan Cheng",
-      "Jiachun Pan",
-      "Xingyao Li",
-      "Zhuoran Yang"
+      "Jiahao Huang",
+      "Jun Wang"
      ],
-     "source": "arXiv new",
-     "upvotes": 0,
-     "tldr": "Given a varied mix of training examples and as many of them as reinforcement learning sees, plain supervised fine-tuning generalizes about as well as RL.",
+     "source": "Hugging Face Trending",
+     "upvotes": 43,
+     "tldr": "A new lens translates a vision-language model's internal states into words, showing it holds concepts first and only later learns to pick the right one for each question, and that editing those concepts changes its answers.",
      "image": null,
-     "abs_url": "https://arxiv.org/abs/2611.14912",
-     "pdf_url": "https://arxiv.org/pdf/2611.14912",
-     "summary_md": "## In one sentence\nPlain copy-the-answer training can teach a language model to reason as broadly as reinforcement learning, if it gets a varied mix of examples and enough of them.\n\n## Background you need\nAfter pre-training, language models are \"post-trained\" to get better at tasks like math. Supervised fine-tuning, or SFT, shows the model worked solutions and trains it to imitate them. Reinforcement learning with verifiable rewards, or RLVR, lets the model try problems many times and rewards the attempts whose final answer checks out. \"Generalization\" here means a model trained only on math also gets better at unrelated reasoning tests, such as science or logic quizzes.\n\n## The problem\nA popular belief says \"RL generalizes, SFT memorizes.\" Earlier studies found that SFT boosts the trained skill but helps little elsewhere, while RL lifts many skills at once. It matters because RL is slower and more complex to run. The authors suspected the comparison was unfair. RL usually sees far more attempts than the small, fixed dataset SFT gets. Was SFT weak, or underfed?\n\n## The idea\nPicture two students. One practices hundreds of problems and gets each attempt graded. The other reads one model answer per problem from a single tutor. Of course the first adapts better. The paper gives the reader as many worked answers as the practicer produced, in a varied mix of styles.\n\n## How it works\n1. **Same starting point.** The team post-trains Qwen2.5-7B (and, as a check, Qwen3-8B-Base) on about 17,000 math prompts. The RL baseline, GRPO, samples 8 attempts per prompt.\n2. **Vary where SFT data comes from.** One SFT set holds solutions from a bigger model, Qwen3-14B. Another holds solutions produced by the RL-trained model itself. \"Mix\" sets blend the two in different ratios.\n3. **Vary how much SFT data there is.** They match RL's budget in steps. First they keep one correct answer per solvable prompt (about 10,000 examples). Then they keep every correct attempt RL generated (about 39,600). Finally they also add the wrong attempts, reaching about 138,000 examples, the same total RL saw.\n4. **Look at solution methods.** A larger model labels which solving technique each answer uses, giving 138 method types. The team tracks rare, \"long-tail\" methods.\n5. **Back it with theory.** A simplified one-layer transformer model explains when SFT can and cannot transfer what it learned.\n\n## Results\nOn Qwen2.5-7B, RL raised the general-reasoning average across 12 non-math tests from 33.8 to 43.8. Math averages rose from 42.7 to 50.9.\n\nSmall SFT sets lag RL. The best small mix (70% self-generated, 30% bigger-model) reached 40.1, versus 38.7 for self-generated data alone.\n\nScale closes the gap. With the full matched budget, a 90/10 mix scored 44.4, slightly above RL's 43.8. Error bars overlap, so call it a tie. SFT on bigger-model data only reached 36.7 at the same scale. On Qwen3-8B-Base, the best mix scored 42.6 against RL's 42.5. On math, SFT stayed near RL (13.9 versus 14.2 on the AIME24 contest).\n\nBigger datasets covered more rare methods. On the MMLU-Pro test, correct answers using tail methods rose from 40 to 108. The theory agrees: SFT transfers well-covered methods but fails on rarely seen ones.\n\n## Why it matters\nTeams picking a post-training recipe now have evidence that cheaper, simpler SFT can match RL on breadth, if the data is diverse and large. Another lesson: copying one strong model is not enough; many varied attempts, even flawed ones, carry the signal.\n\n## Caveats\nTraining used only math prompts and only Qwen models. Error bars reflect test-set noise, not different training runs. The best SFT data partly comes from the RL model, so RL still did work upstream. Averages hide big swings: some SFT models score far below RL on MMLU-Pro. The theory uses a toy one-layer model.\n\n## Key terms\n- **SFT (supervised fine-tuning):** training a model to copy example solutions.\n- **RLVR:** reinforcement learning where rewards come from automatically checking final answers.\n- **Rollout:** one full attempt the model writes for a problem.\n- **GRPO:** a popular RL method that compares several attempts on the same prompt to decide which to reinforce.\n- **Long-tail methods:** solving techniques that appear rarely in the training data.\n"
+     "abs_url": "https://arxiv.org/abs/2611.26590",
+     "pdf_url": "https://arxiv.org/pdf/2611.26590",
+     "summary_md": "## In one sentence\nThe authors build a \"lens\" that reads which concepts an image-reading AI holds internally, then edit those concepts to show the model really uses them.\n\n## Background you need\nA vision-language model (VLM) answers text questions about images. A vision encoder turns the picture into numbers; a language decoder reads them with the question and writes the answer. Interpretability research inspects intermediate states (numbers passed between layers) to see what the model \"knows\" mid-computation. Global workspace theory, from brain science, says only some information gets broadcast to a shared stage everything else can use.\n\n## The problem\nWe see what goes into a VLM and what comes out, but not what happens between. Comparing raw internal states with similarity scores often misses when two states mean the same thing. Older lenses tied each concept to one exact word, like \"Canada\", though models may spread an idea across many words. And finding information inside a model does not prove it is used. Auditors and debuggers need both answers.\n\n## The idea\nTranslate every internal state into the model's own vocabulary. It is like asking a busy kitchen \"which ingredients are on the counter?\" and hearing answers in menu words. Since vision and language sides share one word list, they compare directly. Then you swap an ingredient and see if the dish changes.\n\n## How it works\n1. **Translate states into words.** The Multimodal Concept Lens (MC-Lens) uses a Jacobian (how a small nudge to one internal state changes the final state) to rank vocabulary words for any state, in both the vision encoder and the language decoder.\n2. **Use word sets, not single words.** A concept is a small group of directions: either spelling variants and aliases, or words greedily picked to rebuild the concept's signal (which surfaced helpers like \"maple\" for Canada).\n3. **Test selective access.** On 100 COCO photos with three objects each, the model answers one question per object, named only by colour, position or relation. A grey image is the control.\n4. **Edit concepts.** For a Canadian flag image, the \"Canada\" part of an internal state is swapped for \"Australia\", leaving the rest, the image and the question unchanged.\n\n## Results\nOn COCO, sensitivity to the asked-about object is near zero in early decoder layers, then rises sharply in a band the authors call the workspace. With the grey image the rise is much smaller, so the signal comes from the picture.\n\nIn flag edits on Qwen3-VL-8B, \"which country?\" flipped to Australia with any word set. The capital question, one extra reasoning step, was harder: greedy sets redirected almost all answers to Canberra, the broadest spelling set fewer than half, and swapping just the word \"Canada\" left Ottawa.\n\nOn 40 multi-step flag questions, editing only the country produced the new answer 70% of the time; editing country and capital, 87.5%. Replacing the whole state, the upper-bound control, hit 100%.\n\nTwo new tracking scores showed, in controlled training, that models first learn to hold concepts and only later to pick the right one. Similar patterns appeared across Qwen, DeepSeek and Gemma families.\n\n## Why it matters\nResearchers can check not just what a model sees but what it uses, helping debug wrong answers, spot shortcuts and audit safety. The training result suggests \"knowing\" and \"focusing\" are separate skills to monitor during model building.\n\n## Caveats\n\"Conscious\" is meant functionally; the authors say it implies nothing about experience. They have not yet shown how accessed information spreads to later processes, a core part of the theory. The multi-step test is small (40 cases), main numbers come from one model, and successful edits do not prove the edited route is the only one.\n\n## Key terms\n- **Vision-language model (VLM):** an AI that reads images and text together and answers in text.\n- **Jacobian:** a measure of how a small change in one place affects a later output.\n- **Concept direction set:** a group of word directions that together represent one idea.\n- **Counterfactual intervention:** changing one internal concept to see whether the answer changes.\n- **Global workspace:** a shared stage where selected information becomes available to the whole system.\n"
     }
    ]
   }

@@ -1,0 +1,257 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T10:30:08+00:00",
+ "news": [
+  {
+   "title": "OpenAI publishes internal perplexity data and pitches it as a shared yardstick for AI progress",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "source": "OpenAI",
+   "summary": "Chief scientist Jakub Pachocki released internal pretraining perplexity measurements and proposed next-token prediction performance as a common way for frontier labs to compare progress, tying it to proposed shared safety limits. Critics note prediction scores alone don't capture real-world task behavior.",
+   "image": null,
+   "ts": 1795399200
+  },
+  {
+   "title": "US and China explore joint guardrails on AI",
+   "url": "https://www.semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai",
+   "source": "Semafor",
+   "summary": "US and Chinese officials are exploring joint AI safeguards following the Trump–Xi agreement to keep humans in the loop on military AI decisions, even as Washington keeps restricting advanced chip exports.",
+   "image": null,
+   "ts": 1795356000
+  },
+  {
+   "title": "WSJ names Li Ming as operator behind Megaspeed's Nvidia chip pipeline to China",
+   "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
+   "source": "The Wall Street Journal",
+   "summary": "The Journal reports that Li Ming ran a network that moved roughly $12 billion worth of export-restricted Nvidia chips to China, adding to scrutiny of Megaspeed, Nvidia's largest Southeast Asian buyer.",
+   "image": null,
+   "ts": 1795395600
+  },
+  {
+   "title": "Who pays for the grid behind SpaceX's $74 billion AI data centers?",
+   "url": "https://fortune.com/2026/11/22/spacex-74-billion-ai-data-centers-texas-arizona-who-pays/",
+   "source": "Fortune",
+   "summary": "Residents and officials in Texas and Arizona are questioning who will cover grid expansion for SpaceX's planned AI campuses, with the Arizona site alone potentially drawing about 6 gigawatts.",
+   "image": null,
+   "ts": 1795348800
+  },
+  {
+   "title": "Apple begins Siri AI rollout and opens developer preview to third-party apps",
+   "url": "https://developer.apple.com/news?id=gdk2umrf",
+   "source": "Apple Developer",
+   "summary": "Apple is shipping Siri AI in its own apps and has opened a developer preview with the iOS 27.3 beta so third-party apps can integrate via App Intents, though App Store release comes later and the EU is excluded.",
+   "image": null,
+   "ts": 1795420800
+  },
+  {
+   "title": "Defense AI startup Agon raises $70 million Series A led by Roelof Botha",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-23/defense-ai-startup-agon-raises-70-million-series-a-from-vcs-ex-sequoia-boss",
+   "source": "Bloomberg",
+   "summary": "UK-based Agon raised $70 million at a $450 million valuation, led by former Sequoia chief Roelof Botha, to build simulation models that train autonomous drone, naval and ground-robot behavior.",
+   "image": null,
+   "ts": 1795417200
+  },
+  {
+   "title": "Ant Group leads $100 million round in humanoid startup Simplexity Robotics",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+   "source": "Bloomberg",
+   "summary": "Ant Group led a $100 million Pre-A round valuing Hangzhou embodied-AI startup Simplexity Robotics at $1.6 billion, as China's humanoid-robot race intensifies.",
+   "image": null,
+   "ts": 1795334400
+  },
+  {
+   "title": "Meta reconsiders its 2030 net-zero goal as AI data centers drive record emissions",
+   "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "source": "Ars Technica",
+   "summary": "Meta is re-evaluating its net-zero milestones after reported emissions climbed from about 15.6 million to more than 21.7 million metric tons CO2e between 2024 and 2025, driven by AI infrastructure.",
+   "image": null,
+   "ts": 1795363200
+  },
+  {
+   "title": "Bessent warns against Fed overtightening as AI bubble fears mount",
+   "url": "https://www.semafor.com/article/11/22/2026/bessent-warns-on-fed-hike-as-ai-bubble-fears-mount",
+   "source": "Semafor",
+   "summary": "Treasury Secretary Scott Bessent cautioned the Fed against overtightening after tech shares slid, as investors debate whether AI spending and earnings expectations have peaked.",
+   "image": null,
+   "ts": 1795370400
+  },
+  {
+   "title": "US intel chief Clayton warns of more outages as systems are rebuilt for AI",
+   "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+   "source": "CNBC",
+   "summary": "Director of National Intelligence Jay Clayton said Americans should expect more technology disruptions during AI-driven infrastructure upgrades, pointing to recent FAA, Microsoft and JPMorgan incidents.",
+   "image": null,
+   "ts": 1795366800
+  },
+  {
+   "title": "Inside Dario Amodei's quiet campaign to win over thinkers on powerful AI",
+   "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
+   "source": "The Washington Post",
+   "summary": "The Post reports on the Anthropic CEO's private efforts to persuade outside intellectuals of his views on powerful AI and how it should be governed, days after Anthropic's IPO closed.",
+   "image": null,
+   "ts": 1795345200
+  },
+  {
+   "title": "OpenAI tests 'Dots' proactive personal agents for ChatGPT Plus",
+   "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+   "source": "Engadget",
+   "summary": "OpenAI is testing Dots, a proactive agent that can keep working on tasks between conversations, with limited availability on the $20-per-month Plus tier.",
+   "image": null,
+   "ts": 1795377600
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.19138",
+     "title": "SuperGlance: Driving at a Glance with a Vision-Language Model",
+     "authors": [
+      "Jieyuan Pei",
+      "Xin Yan",
+      "Mingwei Xu",
+      "Haiyi Zhang",
+      "Siyu Zou",
+      "Zhangyi Hu",
+      "Zhuoxuan Li",
+      "Yuguang Yang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A self-driving vision-language model picks its path from a fixed menu of 5,273 options in one pass, planning about six times faster than a token-by-token rival and driving about 3.9 times farther between at-fault crashes in simulation.",
+     "image": "https://guobapei.github.io/SuperGlance/assets/fig_teaser_choose.png",
+     "abs_url": "https://arxiv.org/abs/2611.19138",
+     "pdf_url": "https://arxiv.org/pdf/2611.19138",
+     "summary_md": "## In one sentence\nSuperGlance lets a self-driving AI pick its path after one quick \"look\" at the scene instead of writing out its plan word by word, so it plans about six times faster and crashes less often in simulation.\n\n## Background you need\nMany new self-driving systems use a vision-language model (an AI that reads images and text, like a chatbot with eyes). They usually write their plan one small piece (a \"token\") at a time, and each piece needs another full pass through the network. A trajectory is the short path the car will follow, here the next 4 seconds.\n\n## The problem\nWriting a plan piece by piece is slow. The strong baseline, Qwen-Drive-1.0, needs about 518 milliseconds of graphics-chip time per plan, and over 5 seconds if it writes out its reasoning. A car moves many meters in that time, so the plan is stale on arrival. The usual fix bolts a small, fast planner outside the big model, but that planner loses the model's general knowledge.\n\n## The idea\nThe model has already \"understood\" the scene before writing its first word. That understanding sits in its hidden state (its internal summary of what it has seen). So instead of asking it to write a route, they ask it to point at one. Think of a taxi driver with a menu of 5,273 routes: rather than describing a route aloud, turn by turn, it glances at the road and ticks the best few.\n\n## How it works\n1. **Build a fixed menu of paths.** The 5,273 candidate paths are mostly typical human paths grouped from driving data, plus high-speed paths, a \"stay still\" option and braking and turning moves.\n2. **Score the menu in one pass.** The model (built on Qwen3.5-9B) reads the camera images once. A simple layer turns its hidden state into a score per path. The plan blends the top 64 paths by score.\n3. **Use pre-computed rewards.** Because the menu never changes, every path in every training scene is graded ahead of time. Training first learns from these grades. Then reinforcement learning (learning by reward) uses the exact average reward over all paths, not a guess from a few samples.\n4. **Keep the model's general smarts.** The model keeps practising multiple-choice questions on general topics and driving scenes. Each appears twice with answers shuffled, so it cannot cheat by always picking \"B\". A penalty stops each stage drifting far from its start.\n\n## Results\n- **Speed:** SuperGlance plans in about 84 milliseconds of chip time, versus 518 for Qwen-Drive-1.0. That is roughly six times faster.\n- **Closed-loop driving:** In the AlpaSim simulator, where the car lives with its own decisions, SuperGlance drove 1.248 km per crash it caused, versus 0.317 km for Qwen-Drive-1.0, when thinking time counted as delay. That is 3.9 times farther, up from 2.8 times when delay is ignored. It completed 72.2% of scenarios versus 36.6%.\n- **Open-loop benchmarks:** On NAVSIM, PAI-AV and the Waymo end-to-end set (scored on recorded drives), it matched or beat Qwen-Drive-1.0.\n- **Question answering:** On DriveLM driving questions it reached 85.51%, versus about 61% for the base model.\n\n## Why it matters\nCar makers want big-model knowledge without slow reactions. This shows one model can drive quickly and still answer questions about the scene. That could mean cheaper hardware or faster reactions. The exact-reward trick may help any system choosing from a fixed action list.\n\n## Caveats\nAll tests are in simulation or on recorded data, not real roads. The car can only blend menu paths, so rare maneuvers need new entries and retraining. Ten of its 53 at-fault crashes involved a stopped car in or near its lane. Language scores fell below the base model on five of seven tests. Timings come from one graphics card type.\n\n## Key terms\n- **Vision-language model:** an AI that takes images plus text and answers in text.\n- **Hidden state:** the model's internal summary of its inputs, before it writes anything.\n- **Trajectory:** the short future path the car plans to drive.\n- **Closed-loop testing:** simulation where the car's choices change what happens next.\n- **At-fault incident:** a crash the self-driving car itself caused.\n"
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.25433",
+     "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+     "authors": [
+      "Payman Behnam",
+      "Elaheh Sobhani",
+      "Saad Amin",
+      "Yahya Hassan",
+      "Daniyal Khan",
+      "Biswadeep Chakraborty",
+      "Tanish Patwa",
+      "Souvik Kundu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "RoCoKV trims a reasoning model's memory by pruning harder when the model is confident and dropping repetitive thoughts, giving up to 1.43x faster generation in vLLM.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.25433",
+     "pdf_url": "https://arxiv.org/pdf/2611.25433",
+     "summary_md": "## In one sentence\nRoCoKV shrinks the memory that \"thinking\" AI models use, keeping more when the model is unsure and dropping repetitive notes, so answers come faster.\n\n## Background you need\nReasoning models, such as DeepSeek-R1 and its smaller distilled versions, write out a long chain of thought (step-by-step working) before they answer. As they write, they store the KV cache (the model's short-term memory of every word so far) on the graphics card. KV cache compression discards the parts the model is least likely to need.\n\n## The problem\nFor ordinary chatbots, the memory cost comes mostly from the user's prompt. For reasoning models, it comes mostly from what the model writes itself. Those traces can run for thousands of words, and much of the text is low value: loops, re-checks, \"wait, let me try again\" and backtracking.\n\nThat bloat fills the graphics card, so fewer users fit per card and each word gets slower. The usual fix deletes entries with low attention (how much the model \"looks at\" a word). But repeated filler can still get lots of attention, so simple rules keep junk or cut what matters, and accuracy drops.\n\n## The idea\nRoCoKV adds two common-sense judgments to the cleanup. Think of a student's exam scratch paper. When confused, they keep every note. When confident, they erase more. If three lines say the same thing, one is enough.\n\nRoCoKV ties compression strength to the model's confidence, and it devalues entries that repeat recent reasoning.\n\n## How it works\n1. **Watch the model's confidence.** As the model writes each word, RoCoKV estimates how uncertain it is. Uncertain stretches get a larger memory budget. Confident stretches get pruned harder.\n2. **Penalize repeats.** Stored entries are ranked by importance, but entries very similar to recent reasoning are pushed down, so near-duplicate filler cannot crowd out distinct pieces.\n3. **Keep the best.** The top entries stay within the current budget; the rest are discarded.\n4. **Make it fast in a real server.** The authors wrote fused GPU code (several steps merged into one pass on the graphics card) and packaged it as a drop-in plugin for vLLM, a popular open-source serving system. It keeps vLLM's paged memory layout and its CUDA graph capture (a trick that replays pre-recorded GPU work to cut overhead), so the savings show up as real end-to-end speed.\n\n## Results\nAcross two reasoning models and three benchmarks, the authors report higher accuracy than earlier compression methods under tight memory budgets.\n\nFor speed, they ran DeepSeek-R1-Distill-Llama-8B inside vLLM and compared against keeping the full, uncompressed cache:\n- On AIME25, a hard math competition set, generation was 1.27× faster and throughput rose 38%. A 127-second job would take about 100.\n- On a long synthetic benchmark, it was 1.43× faster with 45% higher throughput. Throughput here means how much work one server finishes in a given time, so a 45% gain means roughly 45% more output from the same hardware.\n\n## Why it matters\nReasoning models are costly because they \"think out loud\" at length. Trimming that cost lowers the price per query and fits more users per card.\n\nAs a vLLM plugin, it could be tried without rebuilding a serving stack. The broader lesson: memory cleanup for reasoning models should use confidence and repetition, not just attention.\n\n## Caveats\nThese notes come from the paper's abstract and public listings. The full text was not reachable for this digest, so exact accuracy figures and the names of the baseline methods are not given here.\n\nThe speed numbers cover one 8-billion-parameter model; larger models and other hardware are not shown there. Compression always risks dropping something needed later. The custom GPU code must also keep pace with vLLM updates.\n\n## Key terms\n- **KV cache:** the model's stored memory of everything it has read and written so far in a conversation.\n- **Chain of thought:** the step-by-step reasoning text a model writes before giving its final answer.\n- **Pruning:** deleting less useful entries from memory to save space and time.\n- **Throughput:** how much total output a server produces per unit of time.\n- **vLLM:** a widely used open-source system for serving language models efficiently."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.21003",
+     "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+     "authors": [
+      "K2 Team (Institute of Foundation Models, MBZUAI)"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "MBZUAI's six fully open K2-Horizon models add sparse 'value experts' to attention, letting a 4B-active model nearly match a 32B dense model trained on the same data.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.21003",
+     "pdf_url": "https://arxiv.org/pdf/2611.21003",
+     "summary_md": "## In one sentence\nMBZUAI's K2 team released six fully open language models, plus architecture tweaks that let a 4-billion-active model nearly match a 32-billion dense one.\n\n## Background you need\nA transformer is the standard design behind chatbots. Its \"attention\" step lets each word look back at earlier words. A mixture-of-experts model (MoE) holds many small sub-networks called experts, and a router picks a few for each word. The model can be huge while only a small \"active\" part works per word.\n\n## The problem\nServing cost grows with active parameters, the numbers used per word. Dense 32-billion models are strong but expensive. Most MoE designs sparsify only the feed-forward block, which processes each word on its own. Big runs also suffer loss spikes, sudden error jumps that can waste weeks of compute. Teams rarely publish how they cope.\n\n## The idea\nThe team made sparsity reach one more place: the \"value\" part of attention, which decides what information a word passes on once others look at it. Think of a newsroom. Instead of one house editor, each reporter has 64 specialist editors on call and picks the 4 best for today's story. Two smaller fixes keep training stable.\n\n## How it works\n1. **Mixture-of-Value Attention (MoVA).** The single value projection in attention is replaced by 64 alternatives. A router picks 4 per word and blends them. Only the blend goes into the KV cache (the model's short-term memory of what it has read), so memory use is unchanged.\n2. **Softplus attention gate.** A common gate scales attention output between 0 and 1, starting at one half. It can never boost a signal. The new gate starts at 1 and has no upper limit, so it can quiet or amplify.\n3. **Grouped normalization.** Normalization rescales numbers inside the network. In wide layers, single values can reach about 90. Rescaling smaller groups separately caps those extremes.\n4. **Standard MoE plus a careful recipe.** The 36-billion-total model has 100 experts with 8 active per word, plus one always-on shared expert. Four models shared the same 22 trillion training tokens (word pieces). Readable length was then stretched from 32,000 to 512,000 tokens. A monitor rolled training back to a saved copy when loss spiked.\n\n## Results\nThe key test pits the 36B-A4B model (about 4.7 billion active) against the 32B dense model on identical data. It uses roughly one-seventh the active parameters. On MMLU, a broad knowledge test, it scored 86.9 versus 88.1. On AIME 2026 math problems it got 92.1 versus 92.2. On the reasoning suite BBH it was ahead, 88.9 versus 87.6. It also led on MBPP coding (92.8 versus 91.2). That is near-equal quality for far less compute per word.\n\nThe flagship 375B model, with 23 billion active, scored 65.3 on the Toolathlon-Verified tool-use benchmark., ahead of four comparable open models. It reached 90.65 on the RULER long-text test at 128,000 tokens. Over two pre-training phases it needed 40 rollbacks, the deepest rewinding 4,217 steps.\n\n## Why it matters\nFewer active parameters means cheaper, faster serving at similar quality. MoVA adds no memory and leaves attention untouched, so common speedups like FlashAttention still work. Weights, checkpoints, data and code are all public, including a rare, candid record of loss spikes.\n\n## Caveats\nNo test switches MoVA off, so its gain can't be split from the regular MoE layers. The gate and normalization fixes are argued in theory, not measured. Many base-model scores come from intermediate checkpoints. Most synthetic training data was never verified, so some of it is wrong. The flagship still lags on expert-level science reasoning.\n\n## Key terms\n- **Active parameters:** the part of the model's numbers actually used for each word; this drives running cost.\n- **Mixture of experts:** a model with many sub-networks where a router uses only a few per word.\n- **Value projection:** the part of attention that shapes what a word shares with others.\n- **KV cache:** stored notes on earlier words, so the model doesn't reread them.\n- **Loss spike:** a sudden jump in training error that can derail a run."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.24437",
+     "title": "Dissecting an Unexplored SASS Control-Code Field: Barrier Exemption and Programmable Warp Priority",
+     "authors": [
+      "Ziwen Wang",
+      "Qi Luo",
+      "Kunlin Li",
+      "Changxi Liu",
+      "Dongsheng Wang",
+      "Yun Chen"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Researchers decoded hidden scheduling bits in NVIDIA GPU machine code and built a tool that sets them in compiled programs, speeding kernels up to 31.9% and LLM inference up to 3.6%.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.24437",
+     "pdf_url": "https://arxiv.org/pdf/2611.24437",
+     "summary_md": "## In one sentence\nThe researchers decoded three hidden bits in NVIDIA's GPU machine code that NVIDIA's own libraries use but normal compilers never set, and built a tool that sets them in anyone's compiled programs to make them run faster.\n\n## Background you need\nSASS is the low-level machine code that NVIDIA GPUs actually run. Every instruction carries a small \"control code,\" a set of scheduling hints that tell the hardware when to issue the next instruction. A warp is a group of 32 threads that runs in lockstep, and a barrier is a checkpoint where all warps in a group must wait for each other before moving on.\n\n## The problem\nNVIDIA does not document these control codes. Its public compiler, nvcc, writes them for ordinary user code. But closed libraries like cuBLAS and cuDNN (NVIDIA's tuned math and neural-network libraries) are built differently. The authors scanned 25,806 compiled GPU binaries. One 3-bit field showed up over 500,000 times in NVIDIA's libraries and zero times in code compiled from PyTorch, FlashAttention, vLLM or llama.cpp. Open-source projects may be missing tricks NVIDIA keeps for itself.\n\n## The idea\nEarlier work assumed these bits only flagged register reuse. The authors show they sometimes carry a scheduling mark instead. One mark, \"exempt,\" works like a pass that lets a runner leave the starting line early for warm-up tasks that bother no one else. Other marks (\"start,\" \"tile,\" \"end\") act like a priority lane at a checkout. They move a warp between high, normal and low priority in the hardware scheduler.\n\n## How it works\n1. **Find the field.** They checked which instructions carry the bits and worked out the rule. For math instructions, the bits mean a mark only when a separate \"yield\" bit is set.\n2. **Probe the behavior.** Small timing tests on GPUs from Volta to Blackwell showed what each mark does. In one test, exempt let a waiting warp start its memory loads early, finishing 733 cycles sooner.\n3. **Work out when it is safe.** Exempt is safe only for instructions that touch a warp's own data, read-only constants, or private memory. Shared data that another warp might change must still wait.\n4. **Rewrite binaries automatically.** A post-compilation tool flips only these control bits after the compiler finishes. It never adds, removes or reorders instructions. Exempt placement is fully static. Priority marks use one profiling run to pick kernels where many thread blocks share a chip core.\n\n## Results\nTests ran on six GPUs across four generations, against normal nvcc builds.\n- An embedding kernel with uneven work got 31.9% faster from exempt alone.\n- A finance benchmark (BlackScholes) got 21% faster from priority marks, finishing in 36.2K cycles instead of 43.8K.\n- llama.cpp's 4-bit matrix-multiply kernels sped up 2.1% to 4.7%.\n- vLLM's mixture-of-experts kernels sped up as much as 5.4%.\n- End to end, llama.cpp decoding on a mixture-of-experts model ran up to 3.6% faster. Tuned vLLM decoding gained up to 2.3%.\n- The modified builds passed all 18,505 llama.cpp tests and all 10,267 vLLM tests.\n\nA 3.6% gain sounds small, but at data-center scale it is free throughput.\n\n## Why it matters\nTeams running LLM inference can get a few percent more speed just by adding a wrapper around the compiler. It also gives compiler builders and AI kernel-writing agents new knobs to tune.\n\n## Caveats\nGains appear only when the chip runs short of ready work during barrier waits. If other warps keep it busy, stalls drop but total time does not. The tool is cautious and skips shared-memory and general global-memory accesses it cannot prove safe. Priority marks fit few kernels: none of the dense-model kernels qualified. Only two frameworks and two Qwen3 models were tested. Undocumented behavior could change on future chips or drivers.\n\n## Key terms\n- **SASS:** the actual machine instructions an NVIDIA GPU executes.\n- **Control code:** extra bits on each instruction that guide hardware scheduling.\n- **Warp:** a bundle of 32 GPU threads that run the same instruction together.\n- **Barrier:** a sync point where warps wait until all have arrived.\n- **Warp scheduler:** the hardware unit that picks which warp issues next.\n- **Mixture-of-experts (MoE):** a model that sends each token to a few specialist sub-networks."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.11554",
+     "title": "Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation",
+     "authors": [
+      "Yunheng Wang",
+      "Jiaxi Zhang",
+      "Wei Lu",
+      "Yuetong Fang",
+      "Taowen Wang",
+      "Yixiao Feng",
+      "Shuning Zhang",
+      "Junzhe Xu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Starting a humanoid robot's control model from a pretrained human-motion generator, and adding vision with small trainable add-ons, gives better whole-body task success than leading vision-language-action models.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.11554",
+     "pdf_url": "https://arxiv.org/pdf/2611.11554",
+     "summary_md": "## In one sentence\nThe authors take an existing model that generates humanlike whole-body motion from text and teach it to look through a robot's camera, so it can steer a humanoid robot through tasks like carrying boxes, opening doors and sitting on sofas.\n\n## Background you need\nA humanoid doing \"loco-manipulation\" has to walk and use its hands together, like carrying a box across a room. Many recent robot brains are vision-language-action models: big models that see camera images, read an instruction and output movement commands. A text-to-motion model is different: it was trained only to produce realistic body movement, such as \"walk forward and sit down\".\n\n## The problem\nModels trained on images and text know what a sofa is. They know much less about how hips, legs and arms must move together to sit on it. Teaching it from scratch takes lots of costly robot demonstration data, which is scarce for humanoids.\n\n## The idea\nInstead of starting from a model that understands pictures, start from one that already understands movement. It is like teaching a trained dancer to follow stage cues, rather than teaching a film critic to dance. The authors call this family \"Kinematic Action Models\", meaning models whose foundation is body motion.\n\n## How it works\n1. **A frozen motion backbone.** They use Kimodo-G1, a text-to-motion generator built for the Unitree G1 humanoid. It builds a motion by gradually cleaning up random noise. Its weights are \"frozen\", meaning they are never changed.\n2. **Add eyes with small side branches.** Trainable add-ons (in the style of ControlNet, a trick for steering a frozen generator) read features from the robot's head camera. They gently nudge the motion generator's internal signals. Only 92 million of the 678 million total parameters (the model's adjustable numbers) are trained.\n3. **Root, then body, then hands.** The model first decides where the body should go, then how the limbs move, then whether each hand opens or closes.\n4. **Plan short, replan often.** Using up to 100 past frames as context, it plans about 1.7 seconds of future motion. The robot executes only the first half-second, then replans from fresh camera views. A separate controller, called SONIC, turns the planned motion into motor commands.\n5. **Pretrain on robot data.** They first train the add-ons on 419 hours of public humanoid demonstrations, which took about 60 hours on 16 GPUs.\n\n## Results\n- On the HumanoidArena simulated benchmark, one policy trained on seven tasks succeeded 72.1% of the time. That beat GR00T N1.7 (69.7%) and pi-0.5 (53.8%).\n- It was especially good at moving through scenes, such as sitting or navigating (about 84% success). It was weaker at handling objects (about 56%), where GR00T N1.7 scored 62%.\n- On the SIMPLE benchmark it averaged 75.8%, essentially tied with the best baseline, Psi-0, at 75.4%.\n- On eight real-robot tasks with 10 tries each, it succeeded 60% of the time. Baselines GR00T N1.6 and Psi-0 managed about 31% and 35%.\n- The motion foundation matters. Replacing it with a randomly started model dropped object-handling success from 51.7% to 18.3%. Unfreezing the backbone dropped it to 31.7%.\n- More pretraining data helped steadily: 105 hours gave 68.1%, and 419 hours gave 72.1%.\n\n## Why it matters\nFor humanoid builders, clumsy whole-body movement is a key bottleneck. This work suggests motion generators can be a second foundation alongside vision-language models.\n\n## Caveats\nThe system was only tested with one motion controller, SONIC, and one motion model. Real-world results rest on just 10 trials per task in a lab. Many baseline numbers were copied from earlier papers rather than rerun under identical conditions. Object handling still trails the best rivals, and performance drops when scenes are perturbed more.\n\n## Key terms\n- **Loco-manipulation:** walking and using the hands at the same time.\n- **Vision-language-action model:** a model that turns camera images and an instruction into robot movements.\n- **Text-to-motion model:** a generator that produces body movement from a short text description.\n- **Frozen backbone:** a pretrained core model whose weights stay fixed while small add-ons are trained.\n- **Action chunk:** a short sequence of future movements planned at once, then partly executed before replanning."
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.26590",
+     "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+     "authors": [
+      "Jiahao Huang",
+      "Jun Wang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 43,
+     "tldr": "A new lens translates a vision-language model's internal states into words, showing it holds concepts first and only later learns to pick the right one for each question, and that editing those concepts changes its answers.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.26590",
+     "pdf_url": "https://arxiv.org/pdf/2611.26590",
+     "summary_md": "## In one sentence\nThe authors build a \"lens\" that reads which concepts an image-reading AI holds internally, then edit those concepts to show the model really uses them.\n\n## Background you need\nA vision-language model (VLM) answers text questions about images. A vision encoder turns the picture into numbers; a language decoder reads them with the question and writes the answer. Interpretability research inspects intermediate states (numbers passed between layers) to see what the model \"knows\" mid-computation. Global workspace theory, from brain science, says only some information gets broadcast to a shared stage everything else can use.\n\n## The problem\nWe see what goes into a VLM and what comes out, but not what happens between. Comparing raw internal states with similarity scores often misses when two states mean the same thing. Older lenses tied each concept to one exact word, like \"Canada\", though models may spread an idea across many words. And finding information inside a model does not prove it is used. Auditors and debuggers need both answers.\n\n## The idea\nTranslate every internal state into the model's own vocabulary. It is like asking a busy kitchen \"which ingredients are on the counter?\" and hearing answers in menu words. Since vision and language sides share one word list, they compare directly. Then you swap an ingredient and see if the dish changes.\n\n## How it works\n1. **Translate states into words.** The Multimodal Concept Lens (MC-Lens) uses a Jacobian (how a small nudge to one internal state changes the final state) to rank vocabulary words for any state, in both the vision encoder and the language decoder.\n2. **Use word sets, not single words.** A concept is a small group of directions: either spelling variants and aliases, or words greedily picked to rebuild the concept's signal (which surfaced helpers like \"maple\" for Canada).\n3. **Test selective access.** On 100 COCO photos with three objects each, the model answers one question per object, named only by colour, position or relation. A grey image is the control.\n4. **Edit concepts.** For a Canadian flag image, the \"Canada\" part of an internal state is swapped for \"Australia\", leaving the rest, the image and the question unchanged.\n\n## Results\nOn COCO, sensitivity to the asked-about object is near zero in early decoder layers, then rises sharply in a band the authors call the workspace. With the grey image the rise is much smaller, so the signal comes from the picture.\n\nIn flag edits on Qwen3-VL-8B, \"which country?\" flipped to Australia with any word set. The capital question, one extra reasoning step, was harder: greedy sets redirected almost all answers to Canberra, the broadest spelling set fewer than half, and swapping just the word \"Canada\" left Ottawa.\n\nOn 40 multi-step flag questions, editing only the country produced the new answer 70% of the time; editing country and capital, 87.5%. Replacing the whole state, the upper-bound control, hit 100%.\n\nTwo new tracking scores showed, in controlled training, that models first learn to hold concepts and only later to pick the right one. Similar patterns appeared across Qwen, DeepSeek and Gemma families.\n\n## Why it matters\nResearchers can check not just what a model sees but what it uses, helping debug wrong answers, spot shortcuts and audit safety. The training result suggests \"knowing\" and \"focusing\" are separate skills to monitor during model building.\n\n## Caveats\n\"Conscious\" is meant functionally; the authors say it implies nothing about experience. They have not yet shown how accessed information spreads to later processes, a core part of the theory. The multi-step test is small (40 cases), main numbers come from one model, and successful edits do not prove the edited route is the only one.\n\n## Key terms\n- **Vision-language model (VLM):** an AI that reads images and text together and answers in text.\n- **Jacobian:** a measure of how a small change in one place affects a later output.\n- **Concept direction set:** a group of word directions that together represent one idea.\n- **Counterfactual intervention:** changing one internal concept to see whether the answer changes.\n- **Global workspace:** a shared stage where selected information becomes available to the whole system.\n"
+    }
+   ]
+  }
+ ]
+}
