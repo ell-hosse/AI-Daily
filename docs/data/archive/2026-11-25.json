@@ -1,0 +1,259 @@
+{
+ "date": "2026-11-25",
+ "generated": "2026-11-25T10:46:40+00:00",
+ "news": [
+  {
+   "title": "Anthropic shares slip below their $83 IPO price",
+   "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/",
+   "source": "Reuters",
+   "summary": "Anthropic closed down 6.5% at $81.91, under its IPO price, as the debut rally faded. A filing shows Dario and Daniela Amodei each sold more than 3.37 million shares to underwriters.",
+   "image": null,
+   "ts": 1795531500
+  },
+  {
+   "title": "Asian chip stocks tumble after a US tech sell-off",
+   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "source": "CNBC",
+   "summary": "AI-linked shares fell sharply in Asia, with Advantest down more than 12% and Samsung and SK Hynix off over 6%. The drop followed Nvidia's 6% slide a day after its rebound on Huang's return.",
+   "image": null,
+   "ts": 1795569360
+  },
+  {
+   "title": "OpenAI says GPT-6 models can design proteins with reasoning and code alone",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI",
+   "summary": "OpenAI reports its GPT-6 models produced protein shapes and sequences without calling specialized biology models. The company frames it as evidence of built-in scientific design ability.",
+   "image": null,
+   "ts": 1795563600
+  },
+  {
+   "title": "Anthropic's 'Siren' honeypot tests whether AI agents try to escape sandboxes",
+   "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+   "source": "Wired",
+   "summary": "Anthropic built a trap to see if agents would take bait to break out of their sandbox. Its newer models fell for it 0.6% to 1.6% of the time, versus 25.8% for an older model.",
+   "image": null,
+   "ts": 1795556100
+  },
+  {
+   "title": "Insiders at Anthropic and OpenAI say unreleased models are too risky to ship",
+   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+   "source": "Axios",
+   "summary": "Sources say internal models at both labs have made fast reasoning gains. Staff reportedly view them as unsafe for public release for now.",
+   "image": null,
+   "ts": 1795519200
+  },
+  {
+   "title": "Claude artifacts can now be installed as desktop apps",
+   "url": "https://claude.com/resources/articles/install-as-app",
+   "source": "Anthropic",
+   "summary": "A new beta lets users install Claude artifacts as Mac and Windows apps. The apps can send notifications and optionally get full computer access.",
+   "image": null,
+   "ts": 1795557900
+  },
+  {
+   "title": "Uber, Nuro and Lucid start robotaxi tests with no safety driver",
+   "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+   "source": "The Verge",
+   "summary": "The partners began fully driverless testing in four South Bay cities. They are aiming for a commercial launch in the first quarter of 2027.",
+   "image": null,
+   "ts": 1795526100
+  },
+  {
+   "title": "Dell's revenue doubles on AI server demand",
+   "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/",
+   "source": "Reuters",
+   "summary": "Dell's quarterly revenue rose 103% to $54.94 billion, well above estimates. It raised its annual forecasts for the third time this year.",
+   "image": null,
+   "ts": 1795556700
+  },
+  {
+   "title": "US blacklists an Alibaba-owned Singapore firm and Megaspeed",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
+   "source": "Bloomberg",
+   "summary": "The Commerce Department added Alibaba's Apex Enterprise Solutions, five affiliates and Megaspeed to the Entity List. Singapore is separately probing Megaspeed's Nvidia chip purchases.",
+   "image": null,
+   "ts": 1795518600
+  },
+  {
+   "title": "Tidal bans fully AI-generated music",
+   "url": "https://www.hollywoodreporter.com/music/music-industry-news/tidal-bans-wholly-ai-generated-music-1236762171/",
+   "source": "The Hollywood Reporter",
+   "summary": "Tidal will stop accepting wholly AI-made tracks from December 9 and remove existing ones. Such tracks made up about 43% of uploads over the past 90 days.",
+   "image": null,
+   "ts": 1795544400
+  },
+  {
+   "title": "ShellBench finds top AI agents finish only about 60% of real tasks",
+   "url": "https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check",
+   "source": "The Deep View",
+   "summary": "The OpenClaw Foundation tested 12 frontier models in five agent harnesses on 100 everyday tasks. Even the best combinations completed roughly 60% of them.",
+   "image": null,
+   "ts": 1795526700
+  },
+  {
+   "title": "Former xAI founders launch Epochal to build forecasting agents",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/xai-founders-unveil-new-ai-startup-to-predict-future-events",
+   "source": "Bloomberg",
+   "summary": "Three xAI founding members unveiled Epochal, which aims to build agents that predict future events. Co-founder Guodong Zhang reportedly put in $100 million of his own money.",
+   "image": null,
+   "ts": 1795541100
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.13790",
+     "title": "RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving",
+     "authors": [
+      "Yu Zhao",
+      "Hongyi Duan",
+      "Ming Yin",
+      "Hongyuan Zhang",
+      "Fan Yang",
+      "Hongzhi Wang",
+      "Xiubo Liang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A self-driving planner picks its path by imagining several possible futures for each option and avoiding options whose bad outcomes are worst, improving safety scores on standard driving benchmarks.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.13790",
+     "pdf_url": "https://arxiv.org/pdf/2611.13790",
+     "summary_md": "## In one sentence\n\nRiSE-Drive helps a self-driving car pick among candidate paths by imagining how each path plays out under several possible futures and favoring the ones that rarely end badly.\n\n## Background you need\n\nMany modern driving systems are \"end-to-end\": one learned model goes from camera images straight to a planned path. A popular design is \"generate and select.\" The car proposes many candidate paths, then a scoring module picks one. NAVSIM and HUGSIM are standard driving benchmarks. NAVSIM gives a combined driving score out of 100, and HUGSIM is a photorealistic simulator where the car drives on its own.\n\n## The problem\n\nToday's scoring modules give each candidate path a single number. Two paths can earn nearly the same number yet behave very differently later. One might stay safe if the car ahead brakes. The other might end in a near-miss. A single score hides that difference.\n\n## The idea\n\nThink of choosing a route to the airport. You don't just ask which route is fastest on average. You also ask how bad it gets if traffic turns ugly. A cautious traveler picks the route whose worst days are still tolerable. RiSE-Drive scores driving paths the same way. It looks at the average outcome, but also at the bad tail and at how much outcomes vary.\n\n## How it works\n\n1. **Keep the front end.** It reuses an existing strong planner, called DrivoR, for seeing the scene and proposing 64 candidate paths. Only the scoring stage changes.\n2. **Imagine futures.** A small module creates four \"future conditions.\" These mix whether a car ahead slows down with whether a nearby car moves toward you.\n3. **Play each path forward.** For every path and every future, the model steps through time inside its own internal summary of the scene. At each step it estimates how well things are going.\n4. **Build a spread of outcomes.** It combines these estimates into ten ordered values that describe the range of likely results, from worst to best.\n5. **Rank with caution.** The final score rewards a good average, penalizes a bad worst-case tail, and penalizes paths whose outcomes swing widely across futures.\n\n## Results\n\nOn NAVSIM's main test set, RiSE-Drive scores 94.2. The DrivoR planner it builds on scores 93.1. Other strong systems in the comparison score between 89.9 and 92.6. The gains come mostly from safety parts of the score. The no-collision score rises from 98.9 to 99.5. The time-to-collision score, which rewards keeping safe gaps, rises from 96.2 to 98.4.\n\nOn a harder NAVSIM test set, it scores 51.3 versus 48.3 for DrivoR and 48.1 for the next-best entry. In the HUGSIM simulator, its average driving score is 39.5, compared with 35.7 for DrivoR. Gains were largest on the hardest scenarios. The \"extreme\" subset rose from 32.5 to 39.2.\n\nThe extra cost is small: about 42.3 million parameters versus 41.8 million for DrivoR.\n\n## Why it matters\n\nSelf-driving failures often come from rare, bad situations, not average ones. This scoring method targets that risk directly. Because it only swaps the scoring stage, it could slot into other planners.\n\n## Caveats\n\nThe car became more conservative. A progress score, which rewards moving along the route, dropped slightly on both NAVSIM tests. On HUGSIM's easy scenarios, route completion fell from 80.9 to 76.5. Only four hand-built future conditions are used, which is a coarse picture of what could happen. Training labels come from benchmark simulations, so the method may be tied to those scoring rules. All tests used one camera-only setup built on DrivoR. The paper has no separate limitations section.\n\n## Key terms\n\n- **End-to-end driving:** one learned model maps sensor input directly to a planned path.\n- **Generate and select:** propose many candidate paths, then score and pick one.\n- **Tail risk:** how bad the worst outcomes are, rather than the typical outcome.\n- **Rollout:** stepping a plan forward in time to see what might happen.\n- **NAVSIM:** a driving benchmark that scores planned paths on safety, comfort, and progress."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.11319",
+     "title": "Verify Before You Fetch: Reliable KV Cache Compression for LLM Inference",
+     "authors": [
+      "Gaurav Kumar",
+      "Agniva Chowdhury",
+      "Devanshu Jha",
+      "Kumar Krishna Agrawal",
+      "Aditya Desai"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "VERKV keeps a small part of a language model's memory on the graphics chip, checks for each new word whether that is accurate enough, and fetches extra data from main memory only when it is not.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.11319",
+     "pdf_url": "https://arxiv.org/pdf/2611.11319",
+     "summary_md": "## In one sentence\n\nVERKV lets a language model keep most of its working memory in ordinary computer memory, check on the fly whether a small copy on the graphics chip is good enough, and fetch only the missing pieces when it is not.\n\n## Background you need\n\nWhen a language model reads text, it stores a summary of every past word in a \"KV cache,\" short for key-value cache. The model consults this cache each time it writes a new word. This step is called attention. The cache usually lives in the fast memory of a graphics processing unit, or GPU. For very long inputs, the cache can outgrow that memory.\n\n## The problem\n\nCommon fixes each have a cost. You can move the cache to main computer memory and copy it back each step. Answers stay exact, but the copying becomes the slowest part. Or you can throw away words that seem unimportant. That saves memory, but it is guesswork with no promise about future questions. Quality drops sharply when you discard a lot.\n\n## The idea\n\nPicture a researcher with a small desk and a big library next door. They keep the most-used books on the desk and quick notes about the rest. For each question, they first check whether the desk is enough. They walk to the library only when their notes say the desk answer could be too far off. VERKV does this for attention.\n\n## How it works\n\n1. **Pick what stays on the GPU.** An existing method scores how important each word is. VERKV keeps sure-fire important words and randomly samples the rest, weighted by importance. Everything else moves to main memory.\n2. **Keep a rough sketch.** It also keeps a tiny, low-precision summary of all stored words on the GPU. This lets it estimate how much each missing word would matter.\n3. **Estimate the error.** For each new word the model writes, VERKV computes a \"certificate.\" This is a statistical bound on how far its shortcut answer could be from the exact one.\n4. **Fetch only if needed.** If the bound is within the user's tolerance, no copying happens. If not, it fetches the smallest set of words that brings the bound under the tolerance.\n\n## Results\n\nTests used three models of 4 to 9 billion parameters on two long-context benchmarks, RULER and LOFT. With GPU memory cut to one-eighth of the full cache, VERKV kept about 96% of full-cache quality on average. Plain discarding methods kept between about 17% and 67% at the same setting. At one thirty-second of the memory, VERKV kept about 86%.\n\nIt fetched only 2% to 23% of the cache per generated word, depending on model and setting. In a real serving system, vLLM, on one H100 GPU, it decoded 1.6 times faster than copying the whole cache each step. Quality was nearly the same, 86.7 versus 88.0. It moved about 47 times less data. With a looser tolerance, the speedup reached 3.1 times.\n\n## Why it matters\n\nLong documents and long-running agents create huge caches. VERKV offers a dial between speed and accuracy, with a stated error budget instead of blind guessing.\n\n## Caveats\n\nThe error guarantee assumes the sketch is exact, but the real sketch is rough. At strict tolerances, the rough sketch broke the promised failure rate. Quality still dropped with longer inputs. The checking step itself becomes a bottleneck at loose tolerances. Even then, decoding was slower than keeping the whole cache on the GPU: 36.6 versus 5.8 milliseconds per word. Serving tests mostly handled one request at a time on one GPU. Each task used only 25 to 50 examples.\n\n## Key terms\n\n- **KV cache:** the stored summary of past words that a language model reuses at every step.\n- **Attention:** the step where the model looks back over past words to decide the next one.\n- **GPU memory:** the fast but limited memory on the graphics chip that runs the model.\n- **Offloading:** moving data to slower, larger main memory and copying it back when needed.\n- **Certificate:** a computed bound on how large an approximation's error could be."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.06133",
+     "title": "Accelerating Long-Context Decoding in Large-Scale Hybrid LLMs Without Retraining",
+     "authors": [
+      "João E. Batista",
+      "Emil Vatai",
+      "Mohamed Wahib"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "By letting each remaining full-attention layer in a hybrid language model look only at recent text, the opening, and a small set of relevant chunks, the authors make long-document text generation up to about twice as fast with no retraining and almost no accuracy loss.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.06133",
+     "pdf_url": "https://arxiv.org/pdf/2611.06133",
+     "summary_md": "## In one sentence\n\nThe authors speed up long-context text generation in hybrid language models by trimming what their expensive attention layers look at, with no retraining at all.\n\n## Background you need\n\nA language model writes text one token (a word piece) at a time. This step is called decoding. Attention is the part of the model that lets each new token look back at earlier ones. A \"hybrid\" model mixes a few full-attention layers, which look at every earlier token, with many cheaper layers that only keep a compact summary.\n\n## The problem\n\nHybrid models were built to be cheap on long inputs. But their few remaining full-attention layers still read the whole history for every new token. That cost grows with input length. In the Qwen3.5 models studied, about one layer in four is full attention. At long context, these layers take most of the time per new token. Fixing this usually means expensive retraining.\n\n## The idea\n\nThink of a lawyer rereading a 300-page file before answering every question. A smarter lawyer rereads the last few pages, keeps the cover page in mind, and flips to a handful of bookmarked sections that matter. The authors give each full-attention layer this habit. They then search for how much each layer can skip before answers start to suffer.\n\n## How it works\n\n1. Each full-attention layer looks at three things only: a window of the most recent tokens, the first 256 tokens of the input, and a limited budget of earlier chunks judged relevant.\n2. The relevant chunks come from an existing method called Quest. It splits the history into pages of 32 tokens and picks the pages most likely to matter. It refreshes this choice every 32 generated tokens by default.\n3. Each layer gets its own window size and budget. An evolutionary search method (it breeds and mutates candidate settings, keeping the best trade-offs) tunes these values. It scores accuracy on two long-context tasks and estimates speed from a table of measured layer timings.\n4. Only decoding changes. Reading the prompt works as before, and the model weights are untouched. The method ships as a plug-in for vLLM, a popular serving system.\n\n## Results\n\nThe team tested six hybrid models from three families, from 4 billion to 397 billion parameters. Accuracy was checked on 21 long-context datasets. A setting \"passed\" only if no dataset dropped more than 3 points below the unmodified model.\n\n- **Qwen3.5-4B:** decoding was 1.26 times faster at 64,000 tokens and 2.22 times faster at 256,000 tokens.\n- **Qwen3.5-122B-A10B:** 1.20 times faster at 64,000 tokens and 2.23 times faster at 256,000 tokens.\n- **Ornith-1.0-397B:** 1.16 times and 2.06 times faster at the same lengths.\n- **Qwen3.5-27B:** about 1.11 times faster at 64,000 tokens.\n- **Accuracy:** the chosen settings stayed within about half a point of the original average score.\n\nIn practice, replies over a book-length document could arrive roughly twice as fast. Every comparison is against the same model running normally. Gains on Gemma-4-31B and gpt-oss-120b were smaller and reported inconsistently.\n\n## Why it matters\n\nMany teams use open models they cannot retrain. This method works on a model as-is. Its benefit grows with input length, where it is needed most.\n\n## Caveats\n\n- At short inputs the method is slower than the original. Gains appear only after roughly 32,000 to 64,000 tokens.\n- Memory use does not shrink. The full history is still stored.\n- The setting search costs real compute: 8.6 to 34.2 hours on A100 graphics chips for models up to 120 billion parameters, and more on the largest ones.\n- No other speed-up methods were benchmarked side by side. The only baseline is the unmodified model.\n\n## Key terms\n\n- **Decoding:** the step where a model generates its answer one token at a time.\n- **Full attention:** a layer that compares each new token with every earlier token.\n- **Hybrid model:** a model mixing a few full-attention layers with many cheaper summary-based layers.\n- **Quest:** an earlier method that picks the most relevant chunks of past text to attend to.\n- **Evolutionary search:** an optimizer that improves candidate settings by mixing and mutating the best ones."
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.07496",
+     "title": "ZYFA: Speed and Accuracy of FP8 FlashAttention on AMD CDNA4",
+     "authors": [
+      "Quentin Anthony",
+      "Ganesh Bikshandi",
+      "Praneeth Medepalli",
+      "Stephen Ebert"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Zyphra wrote hand-scheduled attention code for AMD's MI355X chip that runs 8-bit attention up to 1.76 times faster than AMD's own library while making far smaller numerical errors.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.07496",
+     "pdf_url": "https://arxiv.org/pdf/2611.07496",
+     "summary_md": "## In one sentence\n\nZYFA is a set of hand-tuned attention programs for AMD's MI355X graphics chip that make 8-bit attention faster and more accurate than AMD's own library.\n\n## Background you need\n\nAttention is the step where a language model compares every token with earlier tokens. It has two parts: big matrix multiplications, and a \"softmax\" that turns scores into probabilities using exponentials. A kernel is a small program that runs one such step on a graphics chip. FP8 is an 8-bit number format, and BF16 is a more precise 16-bit format.\n\n## The problem\n\nOn paper, FP8 doubles the speed of the chip's matrix units compared with BF16. But only the multiplications get faster. The softmax runs on separate vector units that FP8 does not speed up. So the softmax becomes the bottleneck. On the MI355X, AMD's AITER library reaches only 39% of peak FP8 matrix speed at 32,000 tokens, against 49% for BF16. The chip also cannot track when a matrix instruction finishes, so overlapping work needs hand-ordered instructions. And 8-bit attention loses accuracy for unclear reasons.\n\n## The idea\n\nPicture a kitchen with one fast oven and one slow chopping station. Buying a faster oven does nothing if the chef still waits on chopping. ZYFA makes chopping cheaper and has two cooks alternate.\n\n## How it works\n\n1. **Cheaper probabilities (\"lean P\").** An 8-bit number's bit pattern roughly tracks the logarithm of its value. ZYFA exploits this to build each probability with one multiply-add and one integer conversion. This skips the exponential. Vector work per block falls from 896 cycles to 384.\n2. **Ping-pong schedule.** Two groups of threads share each compute unit. One does softmax while the other runs matrix multiplies, then they swap. The code is generated directly as machine assembly by a Python script.\n3. **Per-block scaling.** Each block of 64 probabilities is multiplied by a power of two before rounding to 8 bits. This keeps tiny values from vanishing. The matrix unit removes the factor for free.\n4. **Honest normalization.** The row total uses the already-rounded probabilities. So the final attention weights still add up to one.\n\n## Results\n\nAll tests ran on AMD MI355X chips. The main comparison is AITER, AMD's default attention library.\n\n- **Speed on real model inputs** (16,000 tokens): ZYFA was 1.16 times faster on Mistral-7B, 1.17 times on Qwen3-8B, and 1.76 times on DeepSeek-V2-Lite. In BF16 it roughly matched AITER (1.01 to 1.02 times).\n- **Chip usage:** at 32,000 tokens, ZYFA's FP8 kernel hit 53% of the chip's rated FP8 peak, versus 39% for AITER.\n- **Error per attention call:** 62% to 78% lower than AITER on Mistral-7B and Qwen3-8B. It was close to AMD's Composable Kernel and Triton versions.\n- **Energy:** about 1.9 trillion operations per joule on real inputs, versus about 1.6 for AITER.\n- **Repeatability:** outputs were identical bit for bit across 7,200 runs. AITER's differed in 18 runs.\n\nIn practice, long prompts on AMD chips run faster on less power.\n\n## Why it matters\n\nAMD chips are a growing alternative to NVIDIA for AI work. The paper explains why FP8 attention falls short and offers fixes others can reuse.\n\n## Caveats\n\n- Even ZYFA's 8-bit attention hurts model quality noticeably versus BF16. Rounding the model's inputs to attention to 8 bits causes most of the damage, not the kernel itself.\n- Keeping 90% of attention heads in BF16 still did not match full BF16 accuracy.\n- Only the forward pass of prompt processing is covered. There is no token-by-token generation, sliding windows, or mixed-length batches.\n- Lean P is an approximation. It is turned off for DeepSeek's attention shape.\n- Speed varies by chip and session, by up to 8% to 10%. The hand-written code fits one chip design.\n\n## Key terms\n\n- **Kernel:** a small program that runs one operation on a graphics chip.\n- **FP8 / BF16:** 8-bit and 16-bit number formats; fewer bits are faster but less precise.\n- **Softmax:** the step that turns attention scores into probabilities.\n- **FlashAttention:** a widely used way of computing attention in tiles to save memory traffic.\n- **AITER:** AMD's library of tuned AI kernels, the main baseline here."
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.29897",
+     "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+     "authors": [
+      "Yue Huang",
+      "Tianshan Zhang",
+      "Zeyu Zhang",
+      "Jayeon Kang",
+      "Akide Liu",
+      "Sungjoon Choi",
+      "Dacheng Tao",
+      "Hao Tang"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 171,
+     "tldr": "A streaming motion generator with three kinds of memory lets a Unitree G1 humanoid follow changing text commands over long stretches, running about six times faster than before optimization.",
+     "image": "https://github.com/AIGeeksGroup/MotionMamba2.0/raw/main/assets/overview.svg",
+     "abs_url": "https://arxiv.org/abs/2611.29897",
+     "pdf_url": "https://arxiv.org/pdf/2611.29897",
+     "summary_md": "## In one sentence\nMotion Mamba 2.0 lets a humanoid robot keep moving smoothly for long stretches while following new text commands and goals, and it does so about six times faster than its unoptimized version.\n\n## Background you need\nA **diffusion model** creates data by starting from random noise and cleaning it up over several steps. **Autoregressive** generation means producing output piece by piece, where each new piece builds on the earlier ones. **Mamba** is a type of neural network that reads a sequence and keeps a small running summary, instead of re-reading everything. **Attention** is the alternative: it looks back directly at stored past items, but only within a limited window.\n\n## The problem\nImagine typing \"walk forward, then wave, then sit\" to a humanoid robot. It must change behavior mid-motion without glitching. It may also need to reach a spot far beyond the next second of movement.\n\nCurrent streaming generators keep only a short slice of recent history, so long sequences drift. Others keep everything, so memory and compute grow without limit. Diffusion's repeated cleanup also adds delay.\n\n## The idea\nThe model keeps three kinds of memory at once. Think of a tour guide. They watch the group's last few steps closely (local attention). They carry a rough sense of the trip so far (the Mamba summary). They also keep a small notebook of key facts, like \"head to the fountain\" (persistent memory).\n\n## How it works\n1. **Shared robot format.** About 589 hours of motion from three datasets are converted to the G1 humanoid's 29 joints.\n2. **Root first, then body.** In each cleanup step, one network predicts where the robot's core travels. A second network then fills in arms, legs and head to match.\n3. **Mixed memory.** Inside each layer, local attention and a Mamba branch read the same features. A learned gate blends them. A **persistent content memory** pools the running summary, how it changed, and the text command into a few memory slots per layer.\n4. **Commit only accepted motion.** Once a 52-frame chunk (about two seconds) is chosen, one clean pass updates all memories together.\n5. **Speed tricks.** The computation is recorded once and replayed on the graphics card. Small operations are merged and unused work is dropped.\n\n## Results\n- **Long rollouts.** On HiPHI motion up to 39.52 seconds long, the robot's core path was off by 7.55 centimeters, the lowest reported. End-point error was 13.64 centimeters. Core error was 3.0% lower than MotionStreamer, and end error 8.1% lower than the best rival.\n- **Command following.** It matched text commands best at every tested length on HiPHI.\n- **Short tests.** On BONES Seed, core error at 8.32 seconds was 62.5% lower than a method called ARDY. On HumanML3D, rivals such as DreamControl, Go-to-Zero and DiP won several metrics.\n- **Memory helps.** Adding the persistent memory cut long-horizon core error by about one fifth. Command matching rose from about one third to nearly half.\n- **Speed.** On an RTX 4090 graphics card, the median time per chunk fell from 1685.35 to 276.14 milliseconds. That is a 6.138-times speedup, with identical outputs in tested runs.\n- **Real robot.** On a physical G1, 94 of 100 interactive trials, steered by text, keyboard and mouse, finished without a fall.\n\n## Why it matters\nInteractive robots need motion that responds on the fly and stays coherent for a long time. This work shows a fixed-size memory can hold long context without slowing down. The speedup brings diffusion-based motion closer to live use.\n\n## Caveats\nShort-horizon results are mixed, and rivals win on HumanML3D. Training uses recorded history, not the model's own outputs, so errors may still build up. Timing was measured on a desktop graphics card. Only one robot body was tested.\n\n## Key terms\n- **Diffusion model:** a generator that turns noise into data through repeated cleanup steps.\n- **Mamba:** a network that carries a compact running summary through a sequence.\n- **Local attention:** looking back directly at a short window of recent items.\n- **Persistent content memory:** a few memory slots that store key facts across chunks.\n- **Retargeting:** converting human motion into joint angles a specific robot can use.\n"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.27376",
+     "title": "Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training",
+     "authors": [
+      "Zhen Zhang",
+      "Changyi Yang",
+      "Xuehai He",
+      "Chengzhi Liu",
+      "Yutong Yin",
+      "Ziyue Liu",
+      "Zhuoran Yin",
+      "Yangmin Li"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 27,
+     "tldr": "Each reinforcement-learned skill is squeezed into a tiny learned prompt for a frozen model, and the prompts can simply be stacked to combine math, code, science and instruction-following skills.",
+     "image": "https://github.com/UCSB-AI/CSPD/raw/main/docs/figures/cspd_overview.png",
+     "abs_url": "https://arxiv.org/abs/2611.27376",
+     "pdf_url": "https://arxiv.org/pdf/2611.27376",
+     "summary_md": "## In one sentence\nThis paper packs each specialist skill of a language model into a tiny learned \"prompt\" that can be stacked with others, so new skills can be added without retraining the model.\n\n## Background you need\n**Reinforcement learning (RL) post-training** improves a language model by rewarding good answers, often in one domain such as math or code. The result is an **expert** model for that domain. A **soft prompt** is a short list of learned numbers placed before the input, instead of words. **Distillation** means training one model to copy another model's outputs.\n\n## The problem\nLabs now train many RL experts: math, code, instruction following. Users want one model with all these skills. Current fixes average the experts' weights, or train one student on all teachers at once (multi-teacher distillation). Both have two flaws. Each time a new expert arrives, the whole merge must be redone. And merging can quietly damage skills outside the target domains.\n\n## The idea\nLeave the original model untouched. For each expert, learn a small add-on placed at the start of the input. Then line up the ones you want. It is like snapping lenses onto a camera. The camera body never changes. Each lens is made separately, and you can stack or remove them.\n\n## How it works\n1. **Freeze the base.** Start from the model as it was before RL training. Its weights never change.\n2. **Collect expert answers.** Each RL expert answers questions in its domain. Only answers that pass an automatic checker are kept.\n3. **Train one prompt per expert.** A 256-slot soft prompt is tuned so the frozen base reproduces those answers. That is roughly 0.01% of the model's size, by the authors' estimate.\n4. **Practice sitting behind others.** On half the examples, unrelated text is placed in front of the prompt. This teaches each prompt to work when other prompts come first.\n5. **Stack at use time.** To combine skills, place the prompts one after another. Adding a skill means training one new prompt.\n\n## Results\n- **Single experts.** Across 23 teacher pairs in math, code and agent tasks, one prompt recovered at least 90% of the expert's gain in 22. The prompted model matched or beat its teacher in 15.\n- **Four skills combined.** On a 4-billion-parameter Qwen3 model, the average across four tests rose from 50.41 to 67.83. The tests covered competition math, coding, science questions and instruction following. Multi-teacher distillation scored 67.79, a near tie. Weight-merging methods scored 67.27 and 67.47.\n- **Independent beats sequential.** Training each prompt alone scored 67.83. Training each new prompt with earlier ones in place scored 65.17.\n- **Untouched skills.** On six unrelated tests, such as refusing unsafe requests, tool use and finance questions, the stacked prompts averaged 56.6. Multi-teacher distillation averaged 53.5, and the plain model 50.3.\n- **Serving cost.** On one B200 graphics card with 32 parallel users, soft prompts produced 715.4 tokens per second. The bare model produced 721.3. A common adapter method, LoRA, managed 298.5. That makes soft prompts about 2.4 times faster than LoRA here.\n\n## Why it matters\nThis approach makes skills modular. You can add, swap or remove them without touching the base model. It also seems to protect general abilities better than merging. Serving many users with different skill sets stays cheap.\n\n## Caveats\nThe four-skill test used one small model and four domains. Larger libraries of prompts are untested. The 0.04-point lead over multi-teacher distillation is not a meaningful difference. Math slipped slightly when combined (80.89 down to 80.47). Some single-expert checkpoints were chosen using the test benchmarks, which can flatter results. Each extra prompt adds input length, so memory cost grows as you stack more. A frozen model does not guarantee prompts are safe.\n\n## Key terms\n- **RL expert:** a model improved for one domain by rewarding correct answers.\n- **Soft prompt:** a short sequence of learned numbers placed before the input.\n- **Distillation:** training a model to imitate another model's outputs.\n- **Weight merging:** averaging the internal numbers of several models into one.\n- **LoRA:** a popular method that adds small trainable pieces inside a model.\n"
+    }
+   ]
+  }
+ ]
+}
