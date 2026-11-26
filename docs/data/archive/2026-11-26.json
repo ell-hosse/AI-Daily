@@ -1,0 +1,262 @@
+{
+ "date": "2026-11-26",
+ "generated": "2026-11-26T10:34:07+00:00",
+ "news": [
+  {
+   "title": "Trump to lead groundbreaking for TSMC's Arizona expansion",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit",
+   "source": "Bloomberg",
+   "summary": "Trump is reportedly set to attend a December 4 ceremony for TSMC's Phoenix chip-plant expansion. It follows his heavy involvement in Nvidia's leadership fight.",
+   "image": null,
+   "ts": 1795649400
+  },
+  {
+   "title": "Pentagon officials floated wartime law to pressure Nvidia's board over Huang",
+   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
+   "source": "Washington Post",
+   "summary": "Sources say Pete Hegseth and Pentagon officials discussed using the Defense Production Act as leverage on Nvidia's board to reinstate Jensen Huang. It adds to scrutiny of how much government pressure shaped his return.",
+   "image": null,
+   "ts": 1795647600
+  },
+  {
+   "title": "42 state attorneys general fight Character.AI's plan to auction user chats",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source": "TechCrunch",
+   "summary": "A bipartisan coalition objects to selling data from over 21 million US accounts, more than 2.1 million of them registered to minors. They say the sale lacks protections for users.",
+   "image": null,
+   "ts": 1795645800
+  },
+  {
+   "title": "New US chip curbs stall billions in data center loans tied to Chinese tech giants",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
+   "source": "Bloomberg",
+   "summary": "Some lenders have paused financing for data centers linked to ByteDance, Alibaba and Tencent, including a $6.6 billion loan. Asian operators are now courting US clients to fill spare compute.",
+   "image": null,
+   "ts": 1795640400
+  },
+  {
+   "title": "FCC lets SpaceX deploy up to 1 million satellites for orbital data centers",
+   "url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/",
+   "source": "Reuters",
+   "summary": "US regulators authorized SpaceX to launch a huge constellation meant to host data centers in orbit. It is a major regulatory step for the idea of running AI computing in space.",
+   "image": null,
+   "ts": 1795636800
+  },
+  {
+   "title": "New York bans AI chatbot toys for five years",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+   "source": "The Guardian",
+   "summary": "The new law bars toys that use internet-connected AI to talk with children. It is one of the strongest state moves yet on AI products aimed at kids.",
+   "image": null,
+   "ts": 1795635000
+  },
+  {
+   "title": "Justice Department never formally investigated Huang before his reinstatement",
+   "url": "https://www.reuters.com/business/us-justice-department-did-not-open-probe-into-jensen-huang-before-reinstatement-2026-11-25/",
+   "source": "Reuters",
+   "summary": "Sources say the DOJ opened no formal probe into the Nvidia CEO. The attorney general cleared him based on separate investigations into Super Micro and Megaspeed.",
+   "image": null,
+   "ts": 1795633200
+  },
+  {
+   "title": "ElevenLabs in early talks to raise at a $33 billion valuation",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+   "source": "Bloomberg",
+   "summary": "The AI voice startup is discussing a 2027 round that would lift its value from $22 billion in September. Sources put its annual recurring revenue near $700 million.",
+   "image": null,
+   "ts": 1795629600
+  },
+  {
+   "title": "Anthropic rewrote its Claude Messages API from Python to Rust",
+   "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+   "source": "Anthropic",
+   "summary": "Anthropic describes migrating the service behind its main API to Rust. It checked the new version's behavior against the old Python service before switching over.",
+   "image": null,
+   "ts": 1795626000
+  },
+  {
+   "title": "Restricted Nvidia B300 servers are still on sale in Shenzhen",
+   "url": "https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-are-still-offer-china-despite-us-ban/",
+   "source": "Washington Post",
+   "summary": "Vendors in Shenzhen's electronics market quote more than $3 million for B300 servers that US rules bar from China. That is up from about $2 million two months ago, suggesting tighter but leaky supply.",
+   "image": null,
+   "ts": 1795622400
+  },
+  {
+   "title": "Meta and Amazon discuss letting Meta's Muse shopping agent into Amazon's store",
+   "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
+   "source": "Fortune",
+   "summary": "The companies are in talks that would end Amazon's block on Meta's AI shopping agent. No deal is guaranteed, and any agreement would need both CEOs' approval.",
+   "image": null,
+   "ts": 1795618800
+  },
+  {
+   "title": "OpenAI preprint claims the matrix multiplication exponent is exactly 9/4",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "source": "OpenAI",
+   "summary": "OpenAI posted a paper claiming to settle a long-open question about how fast matrices can be multiplied. If it holds up under review, it would be a major result in theoretical computer science.",
+   "image": null,
+   "ts": 1795557600
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.32483",
+     "title": "CodeWAM: A Code World Action Model for End-to-End Autonomous Driving",
+     "authors": [
+      "Zhisheng Chen",
+      "Jinpeng Wang",
+      "Beicheng Lou",
+      "Zhengwei Xie",
+      "Hao Wu",
+      "Rui Qian",
+      "Kun Wang",
+      "Vivian W. H. Wong"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A self-driving planner uses a small physics program to predict how the car itself will move under each candidate plan, which helps it pick smoother, more consistent paths.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.32483",
+     "pdf_url": "https://arxiv.org/pdf/2611.32483",
+     "summary_md": "## In one sentence\n\nCodeWAM is a self-driving planner that uses a small program to predict how the car will physically move under each option, then picks plans the car can follow smoothly.\n\n## Background you need\n\nSelf-driving systems often use a \"world model\": an internal forecast of what happens if the car takes a given action. The planner proposes several candidate paths, then uses these forecasts to pick one. NAVSIM is a benchmark that replays recorded driving scenes in simulation and scores the chosen plans out of 100.\n\n## The problem\n\nMost world models learn everything from data with a neural network. That includes how the car's own body responds to a new plan. Learned forecasts can get this wrong.\n\nA plan may look safe on paper but demand a sharp correction. If the car is already turning, that correction causes a sway. Such models can overrate plans the car cannot follow smoothly. Back-to-back decisions then conflict, and passengers feel a jerky ride.\n\n## The idea\n\nPicture carrying a full cup of coffee while you walk. You cannot change direction instantly. Your current momentum limits which turns feel smooth.\n\nCodeWAM splits its forecast into two parts. A short, hand-written program computes how the car would move under each plan, starting from its current speed and heading. A learned visual model handles the outside world: other cars, pedestrians and lanes.\n\n## How it works\n\n1. **Read the situation.** The model takes four camera images, the car's speed, acceleration and turning rate, its recent motion, and the plan it chose last time.\n2. **Propose candidates.** A planning network suggests several paths. The most confident one becomes the default. Extra candidates continue the previous plan, and a small local search adds more.\n3. **Simulate the car's own motion.** For each candidate, the program steps the car forward in short time slices, using a standard steering controller and vehicle model. It checks how smoothly that motion joins the previous plan and recent history, and gives a score from 0 to 1.\n4. **Judge the scene.** A learned model turns the camera views into a bird's-eye map of the road. It samples points along each candidate and scores safety, rule-following and driving quality. It is trained on the kinds of situations the planner will actually meet.\n5. **Decide.** The planner combines both scores. It leaves the default plan only when another candidate beats it by a set margin. The chosen plan becomes context for the next decision.\n\n## Results\n\n- **NAVSIM v1:** 93.6 on the main driving score, the top entry in the paper's table and 1.9 points above the strongest rival.\n- **NAVSIM v2:** 92.1 on a stricter version of the score, 2.8 points ahead of the best comparison. Rivals included end-to-end, language-model and world-model planners.\n- **Hard scenes:** on a tougher split where other road users react, CodeWAM scored 50.6, versus 34.9 for a world-model planner called WorldDrive.\n- **New dataset, no retraining:** on nuScenes, its average position error over one to three seconds was 0.64 meters. The best listed method reached 0.48, so CodeWAM placed third of six. That is competitive, not leading.\n- **Consistency:** with 64 candidates, the motion program raised how often consecutive decisions agreed from 40.2% to 57.8%.\n- **Plug-in use:** bolting the motion score onto two existing planners, with no retraining, raised one from 41.16 to 43.35 and the other from 54.56 to 56.70.\n\n## Why it matters\n\nDriving teams could add a simple motion program to planners they already use. The paper shows gains on two of them. It also gives engineers an explicit, checkable model of the car's motion instead of a black box. Smoother choices could mean fewer abrupt corrections on real roads.\n\n## Caveats\n\n- All results come from simulations built on recorded logs. There are no real-road tests.\n- The plug-in gains are about two points, and only for planners that score candidates. Other planner styles are untested.\n- The program uses one fixed vehicle model and controller. Other vehicle types were not tried.\n- The scene model is still learned and can make mistakes. Some weights and margins were hand-tuned.\n- Running cost at driving speed is not discussed in detail.\n- This is a new preprint and has not been peer reviewed.\n\n## Key terms\n\n- **World model:** an internal forecast of what happens after an action.\n- **Candidate plan:** one possible path and speed profile, scored before choosing.\n- **Rollout:** stepping a motion model forward in time to predict where the car goes.\n- **Driving score:** a 0–100 number built from sub-scores for collisions, comfort, rule-following and progress.\n- **NAVSIM:** a simulated benchmark built from recorded driving scenes.\n"
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.20565",
+     "title": "Memory-Efficient Speculative Decoding with Quantized Draft KV Cache",
+     "authors": [
+      "Saksham Gupta",
+      "Michael Li"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Compressing only the small helper model's memory in speculative decoding cuts that memory by about two-thirds with almost no drop in how often its guesses are accepted, though it does not yet speed things up.",
+     "image": "https://arxiv.org/html/2611.20565v1/figures/quantizer_geometry_explainer_clean.png",
+     "abs_url": "https://arxiv.org/abs/2611.20565",
+     "pdf_url": "https://arxiv.org/pdf/2611.20565",
+     "summary_md": "## In one sentence\n\nThis paper shrinks the memory used by the small helper model in a popular speed-up trick for chatbots, with almost no loss in the helper's usefulness.\n\n## Background you need\n\nLarge language models write text one token (a word or word piece) at a time. Speculative decoding speeds this up: a small \"draft\" model guesses several tokens ahead, and the big \"target\" model checks the whole guess in one pass. Each model keeps a KV cache, its short-term memory of everything it has already read, stored as \"keys\" and \"values.\" Quantization means storing numbers with fewer bits, like rounding prices to the nearest dollar.\n\n## The problem\n\nLong conversations and many users at once fill a graphics chip's memory fast. Speculative decoding makes this worse, because it adds a second cache for the draft model.\n\nThe target's cache must stay exact, since it decides the final text. The draft's cache is the obvious place to save space. But squeezing it could make the draft's guesses worse, so fewer get accepted. Engineers also lack a clear rule for how many bits keys and values need. A common belief says keys need more precision than values.\n\n## The idea\n\nPicture a library. Keys are the index cards that tell you which shelf to visit. Values are the pages you actually read. Blurry index cards seem worse, because they send you to the wrong shelf.\n\nThe authors found that how you group the numbers before rounding matters more than the bit split. If keys are rounded column by column (per feature) instead of token by token, their extra sensitivity mostly disappears. So an even split works: 4 bits for keys and 4 for values, which they call K4V4.\n\n## How it works\n\n1. **Keep the judge exact.** The target model stays at full 16-bit precision, so it still makes the final call on every token.\n2. **Compress the helper's memory.** Groups of numbers share one step size and offset for rounding. Keys share a step size per feature across 32 tokens. Values share one per token. The 128 most recent keys stay uncompressed.\n3. **Test widely.** They tried six draft–target pairs from the Qwen, Llama, OLMo and SmolLM families, from 360 million to 8 billion parameters. Each got 96 web-text prompts of 1,024 tokens. Nothing is retrained; it is a fixed recipe.\n4. **Measure what matters.** The key number is the acceptance rate: how often the target keeps the draft's guesses. They also ran a \"passkey\" test that hides a code in long text and asks the model to find it.\n5. **Build a prototype** that packs the bits tightly, to check real memory savings.\n\n## Results\n\nWith simple per-token rounding, 8-bit keys beat 4-bit keys by 10.87 points in acceptance. With the per-feature grouping, the gap shrank to about zero (−0.25 points). In one controlled test, changing only the key grouping moved a gap from +28.70 to −0.33 points.\n\nK4V4 cut the draft cache by 66.2%. Across both caches, total memory fell 23.95% on average (11.3% to 33.2% depending on the pair). Average acceptance barely moved, from 57.93% to 57.14%. At 32,000 tokens on a 1.5-billion-parameter model, one conversation's packed draft memory fell from 896 to 260 megabytes.\n\nSpeed did not improve. The packed prototype ran 18% to 33% slower than normal speculative decoding, and peak chip memory did not drop.\n\n## Why it matters\n\nTeams serving models on memory-limited chips could fit more users or longer chats. The work also gives a practical rule: choose key and value precision together with the grouping layout, not separately. Because the target stays exact, the saving does not change which answers are correct in principle.\n\n## Caveats\n\n- The prototype is slower and does not lower peak memory; real speed gains need custom low-level code.\n- The fast batched checker was not perfectly exact, so the timing results are preliminary.\n- Timing tests used one model pair and one request at a time.\n- Long-context tests used fewer prompts, and some tests simulated compression rather than running it for real.\n\n## Key terms\n\n- **Speculative decoding:** a small model proposes tokens; a big model checks them in one pass.\n- **KV cache:** stored attention data (keys and values) for tokens already read.\n- **Quantization:** storing numbers with fewer bits by rounding them.\n- **Acceptance rate:** the share of draft guesses the target keeps.\n- **Per-feature vs per-token grouping:** whether one rounding step is shared down a column of features or across one token's numbers.\n"
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.31770",
+     "title": "ET: Efficient Transfer from Softmax to Hybrid Attention",
+     "authors": [
+      "Guangfu Guo",
+      "Xiaoqian Lu",
+      "Linsey Pang",
+      "Weiran Yao",
+      "Haolin Chen",
+      "Long Cheng",
+      "Kunpeng Liu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "ET converts an already-trained image model to a faster attention design by tuning only a few new settings on unlabeled samples, keeping quality close to the original with little or no retraining.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.31770",
+     "pdf_url": "https://arxiv.org/pdf/2611.31770",
+     "summary_md": "## In one sentence\n\nET swaps the slow core of an already-trained AI model for a faster version, then tunes only a small set of new settings so the model keeps almost all of its quality.\n\n## Background you need\n\nTransformers are the model family behind most chatbots and image generators. Their key step, attention, lets every piece of the input (a word, or a patch of an image) look at every other piece. Standard \"softmax\" attention is accurate, but its cost grows with the square of the input size. Double the image patches and the attention work roughly quadruples.\n\n## The problem\n\nHigh-resolution images and long inputs make standard attention very expensive. Faster \"linear\" attention designs exist, whose cost grows only in step with input size. But dropping one into a finished model usually hurts its quality badly.\n\nGetting that quality back normally means fine-tuning: extra training runs that adjust millions of the model's internal weights. That costs GPU time and training data that many teams don't have. So most trained models stay slow.\n\n## The idea\n\nThink of a city that has a slow but thorough mail service. Rebuilding the whole postal system is expensive. Instead, you keep hand delivery for nearby streets and add a cheap bulk service for distant ones. Then you only tune how the two services split the load.\n\nET does the same. It keeps exact attention for nearby pieces of input, uses cheap approximations for distant ones, and learns a small \"mixer\" that decides how much each part counts. The original weights never change.\n\n## How it works\n\n1. **Freeze the original model.** All of its trained weights stay locked.\n2. **Replace standard attention with a hybrid.** The hybrid combines exact attention on a local neighborhood, a cheaper shared-key form of attention, and a global linear correction. Together, the cost grows only in step with input size.\n3. **Add adaptive gating.** A small learned switch weighs the three parts for each layer.\n4. **Calibrate, don't train.** The new settings are solved with alternating least squares, a classic method that fits values in alternating passes. It needs only a small set of unlabeled samples and no gradient-based training (the usual slow, repeated learning loop).\n5. **Optionally polish.** For image generators, a few hundred updates of LoRA (a small add-on set of trainable weights) can close the remaining gap.\n\n## Results\n\n- **Image classification:** converted DeiT-S and DeiT-B models scored 79.64% and 81.55% top-1 accuracy on ImageNet. Both are within 0.25 points of the unmodified originals. In practice, the faster model is almost exactly as good.\n- **High resolution:** at 768 by 768 pixels, ET beat a competing conversion method by 3.59 points at a similar compute budget, again with no gradient training.\n- **Image generation:** the DiT-XL/2 generator reached an image-quality score (FID, where lower is better) of 2.59 after just 250 LoRA updates.\n- **Text-to-image:** Stable Diffusion 3.5 Medium matched its original prompt-following score at 1,000-pixel resolution. The conversion took 0.73 GPU-hours on one A100, about 44 minutes. The converted model generates images 1.39 times faster, so a 14-second image takes about 10 seconds.\n\n## Why it matters\n\nMany teams own a trained model but cannot afford full retraining. ET offers a cheap path to make such models faster, especially at high resolution where attention costs explode. Image and video generation services could serve more requests on the same hardware. The approach could also make it easier to try efficient attention on existing models before committing to costly training.\n\n## Caveats\n\n- This summary is based on the paper's abstract; detailed tables and the authors' own limitations section were not reviewed.\n- All reported results are on image models. Language models are not covered in the headline results.\n- The speedup figure comes from one model and one resolution.\n- How well the method holds at much longer inputs, like video, is not shown.\n- This is a new preprint and has not been peer reviewed.\n\n## Key terms\n\n- **Attention:** the step where a model decides which parts of its input relate to each other.\n- **Softmax attention:** the standard, accurate form, whose cost grows with the square of input size.\n- **Linear attention:** cheaper variants whose cost grows in step with input size.\n- **Fine-tuning:** extra training that adjusts a finished model's weights.\n- **LoRA:** a small add-on set of trainable weights used for light, cheap tuning.\n- **FID:** a score of generated-image quality and variety; lower is better.\n"
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.33817",
+     "title": "SentryWard: Formal Verification of Warp-Specialized GPU Kernels",
+     "authors": [
+      "Mengdi Wu",
+      "Sreeram Vennam",
+      "Stephen Mell",
+      "Advay Kadam",
+      "Ziwei Zhou",
+      "Xinhao Cheng",
+      "Oded Padon",
+      "Zhihao Jia"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "SentryWard mathematically proves that high-performance GPU programs synchronize correctly under every possible timing, found real and suspected bugs in PyTorch, TileLang and CUTLASS, and safely removed unneeded waits to speed kernels up.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.33817",
+     "pdf_url": "https://arxiv.org/pdf/2611.33817",
+     "summary_md": "## In one sentence\n\nSentryWard proves, with logic rather than testing, that a fast and tricky kind of GPU program waits correctly under every possible timing, and it found real bugs in popular AI software along the way.\n\n## Background you need\n\nA GPU kernel is a small program that runs on thousands of threads at once on a graphics chip. Threads run in groups of 32 called warps. \"Warp specialization\" gives each warp its own job, for example one warp loads data while another computes. Formal verification means proving a program's rules hold for every case using logic, not just sample runs.\n\n## The problem\n\nSpecialized warps hand work to each other using barriers: gates that make a warp wait until a step is done. Many steps finish at unpredictable times. One gate in the wrong place lets a warp read data that isn't ready yet.\n\nThe result is silently wrong numbers or a frozen program, and only under rare timings. Ordinary testing only sees the timings that happen to occur. Checking every possible order by brute force is hopeless, because the orders multiply as programs grow. Such bugs, or suspected ones, have appeared in widely used libraries like PyTorch, TileLang and NVIDIA's CUTLASS. The fastest kernels for modern AI chips use exactly this style.\n\n## The idea\n\nThink of a relay race. Each baton pass must happen after the runner arrives. Watching a few practice races shows that passes *usually* work. Proving the rules is stronger.\n\nSentryWard checks two things. First, that every gate counts the same way no matter the timing. Second, that no two runners ever grab the same baton at once. If both hold, the program behaves like a simple step-by-step program in every timing, which is much easier to check.\n\n## How it works\n\n1. **Read the real code.** It takes the kernel's compiled low-level instructions (NVIDIA's PTX format), plus the input sizes and launch settings. It unrolls every loop so each thread has a fixed list of steps.\n2. **Build a map of events.** Each step becomes an event, linked to the steps that must happen before it. Repeated patterns are stored once; one large tile alone would otherwise mean about 130 million multiply-add steps.\n3. **Check the gates.** Every barrier update and wait must belong to the same \"counting round\" in every timing, and no round may finish early.\n4. **Check memory.** Any two accesses to the same spot, where one is a write, must be ordered. Nothing may be used after it is freed. A failure points to the two clashing accesses.\n5. **Check the math.** It runs the kernel with symbols instead of numbers and proves the outputs equal a simple PyTorch reference.\n\n## Results\n\nThe team tested 44 kernels on NVIDIA's B200 chip. They tried removing barriers one at a time, keeping each removal the checker still approved.\n\n- At example input sizes, 48.6% of the barriers tried were unnecessary. 35 kernels got faster, with a median run-time cut of 7.5%.\n- At larger inputs, 42.4% were unnecessary, and 37 kernels got faster by a median 3.0%.\n- Removals don't transfer between sizes. Of the removals found at small sizes, 35 of 44 were rejected at larger sizes, and 34 of those actually hung or crashed on the chip. That shows why size-specific proofs matter.\n- Reduced kernels matched the originals over 500,000 random launches at small sizes and 20,000 at large ones.\n\nBugs found: a timing bug (race) in PyTorch 2.8.0's loss-function code, already fixed in 2.9.0; a buffer in TileLang reused before a multiply finished reading it; and, in CUTLASS, a \"done\" signal sent before a write landed. The last two are reported as potential issues.\n\n## Why it matters\n\nTesting can never cover every timing; this tool gives a clear verdict for all of them, for a given setup. Library authors writing the fastest AI kernels get a safety net. It also offers a safe way to delete unneeded waits, which makes code faster. The project is open source.\n\n## Caveats\n\n- A proof covers only the input sizes and launch settings it was given.\n- Branches or addresses that depend on data values are not handled by default.\n- Some ordering instructions (memory fences) are not modeled, and the chip model follows NVIDIA's partly vague documentation.\n- The math check uses exact numbers, ignoring computer rounding.\n- A failed proof doesn't prove a bug; the TileLang and CUTLASS findings are unconfirmed, and CUTLASS's team could not reproduce stale reads.\n- It currently targets Blackwell-generation chips only.\n\n## Key terms\n\n- **Kernel:** a program run in parallel by many GPU threads.\n- **Warp:** a group of 32 threads that move together.\n- **Barrier:** a gate that makes threads wait until a step finishes.\n- **Race:** two unordered accesses to one memory spot, at least one a write.\n- **Formal verification:** proving a program's rules hold for every case by logic.\n"
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.31201",
+     "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+     "authors": [
+      "Xiao-Ming Wu",
+      "Kang Liao",
+      "Yuexiao Ma",
+      "Taolin Zhang",
+      "Mingqian Zhou",
+      "Nuo Chen",
+      "Ziming Li",
+      "Yihang Luo"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 103,
+     "tldr": "The authors test which design choices make a general AI model work well as a robot's direct controller and turn them into a recipe that beats the previous best such system by 26 points on a simulated benchmark.",
+     "image": "https://arxiv.org/html/2611.31201v1/harness_baselines.png",
+     "abs_url": "https://arxiv.org/abs/2611.31201",
+     "pdf_url": "https://arxiv.org/pdf/2611.31201",
+     "summary_md": "## In one sentence\n\nEmbo-Harness is a careful study of how to plug a general-purpose AI model straight into a robot's control loop, so the model itself chooses the robot's moves, and it turns the findings into a practical recipe.\n\n## Background you need\n\nA robot \"policy\" is the rule that turns what a robot sees into physical motion. Frontier models are the largest general-purpose AI systems, trained mostly on text and images. The \"harness\" is the software around the model. It feeds the model camera images and instructions, collects its answers, and sends commands to the robot.\n\n## The problem\n\nMany teams now build robots around these large models. Yet nobody had clearly shown which design choices matter. Earlier work mostly showed that a system worked, not why.\n\nBuilders must guess how to format commands, how many cameras to use, and whether to write hand-made plans. Each guess costs time and real robot trials. Without clear rules, they cannot tell whether success comes from the model or from their own extra scaffolding.\n\n## The idea\n\nPicture a talented cook in an unfamiliar kitchen. You could hand over a thick binder of rules for every dish. Or you could provide good ingredients and a clear view of the stove, and let the cook work.\n\nThe authors found the second approach wins. Hand-written plans, generic reminders and robot-specific skills added little. Clear images, sensible step sizes and the model's own reasoning did most of the work.\n\n## How it works\n\n1. **Start simple.** The model got the task instruction and two camera images: one from the side and one on the wrist. It planned 15 actions at a time with medium \"reasoning effort\" (how long it may think). The team changed one factor at a time and kept each winner.\n2. **Pick the action format.** Telling the robot where the gripper tip should go worked better than giving each motor's angle. Batches of about eight actions worked best; longer ones made movement slow.\n3. **Tune what the model sees.** Two camera views beat one. Raising image size to 640 by 360 pixels gave the biggest visual gain, and the highest reasoning effort did best. A list of 12 generic reminders drawn from past failures actually lowered success, so it was dropped.\n4. **Add a multi-step tool.** The model may issue about three moves at once without looking in between. It used this in about 30% of steps, improving both success and speed. Asking a second model call to split the task into subtasks did not help.\n5. **Use a robot specialist as an assistant.** A vision-language-action model (a smaller network trained on robot data) proposes moves, and the big model refines them. Letting the big model hand over control entirely did worse, because it handed off too often. No new training was needed.\n\n## Results\n\nOn RoboLab-120, a simulated set of 120 tabletop tasks, the system succeeded 83.3% of the time. The strongest frontier-model rival, SenseNova-RoboRSI, managed 57.1%, so the gain is 26.2 points. Specialist robot models and video-predicting models scored between 3.4% and 42.9%.\n\nOn a real robot arm, it completed 15 of 20 tries with no task-specific training. Block stacking went 5 of 5 (baseline 4), fruit packing 5 of 5 (baseline 3), dish washing 2 of 5 (baseline 0) and flower arranging 3 of 5 (baseline 0). With five tries per task, these numbers are a signal, not proof.\n\nProbe tests hint at why. Controlling joints directly reached only 20%, versus 43.3% when standard math converted tip positions into joint angles. Better images and more thinking cut the average 3D position error from 14.1 to 9.1 centimeters. Knowing *where* things are mattered most.\n\n## Why it matters\n\nTeams building robots on large AI models get a tested checklist instead of guesswork. The study suggests that spatial understanding matters more than fine motor control. Future robot training could focus on locating objects in 3D. It also helps explain why general models can rival specialized robot models.\n\n## Caveats\n\n- Results rest on one model family, GPT-6-Astra; newer models may shift the conclusions.\n- Most tests run in simulation, and the real-world test is small.\n- Dexterous hands, walking and touch sensing are not covered.\n- Real-world failures involved fine detail, like finding a small faucet switch.\n- Runs are slow: 4 to 16 minutes for the 20-task test set.\n- This is a preprint and not yet peer reviewed.\n\n## Key terms\n\n- **Harness:** the software loop around a model that handles inputs, outputs and robot commands.\n- **Policy:** the rule that maps what a robot sees to what it does next.\n- **Vision-language-action model:** a network that turns images and instructions into robot actions.\n- **End-effector:** the tool tip of a robot arm, such as a gripper.\n- **Zero-shot:** doing a new task with no task-specific training or hints.\n"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.25670",
+     "title": "Efficient Latent Reasoning for Vision-Language Model via Dynamics-Aware Quantization and Distillation",
+     "authors": [
+      "Yanjing Li",
+      "Sheng Xu",
+      "Baochang Zhang",
+      "Xianbin Cao",
+      "Yawei Li"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "QL-VLM stores a picture-and-text model's hidden reasoning in 4-bit numbers without wrecking it, reaching 90.43% on a science-question benchmark while running 6.4 times faster than writing out step-by-step reasoning.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.25670",
+     "pdf_url": "https://arxiv.org/pdf/2611.25670",
+     "summary_md": "## In one sentence\n\nThe authors make a picture-and-text AI much cheaper to run by storing both the model and its hidden \"thinking\" in tiny 4-bit numbers, while keeping its answers accurate.\n\n## Background you need\n\nA vision-language model reads images and text and answers questions about them. Chain-of-thought means the model writes out step-by-step reasoning before answering. Latent reasoning keeps those steps as hidden lists of numbers instead of visible words, which is faster. Quantization stores a model's numbers with fewer bits, like rounding 3.14159 to 3.1, to save memory and compute.\n\n## The problem\n\nWritten step-by-step reasoning is slow: every extra word costs time. Latent reasoning shortens it, but the models doing it still use full-size numbers. That makes them heavy to store and costly to run, especially on phones or small devices.\n\nRounding everything to 4 bits would save much more. But the authors report that simple rounding badly damages reasoning, especially when both the model's weights and its working values are rounded. Small errors in one hidden thought can push later thoughts off course in uneven ways. So making each number \"close enough\" isn't enough.\n\n## The idea\n\nPicture a relay of workers passing notes down a line. If every note is squeezed into sloppy shorthand, the errors snowball by the end. A smarter approach protects the parts of each note that steer the next worker.\n\nThat is what \"dynamics-aware\" means here. The method protects how the reasoning unfolds from step to step, not just how close each individual number looks.\n\n## How it works\n\n1. **Start with a full-precision teacher.** This is the normal, full-size reasoning model.\n2. **Round smartly (Dynamics-Guided Quantization).** The model's numbers are rounded to 4 bits using a codebook, a list of allowed values that are not evenly spaced. The codebook is shaped to preserve the model's position-tracking structure, which helps it keep track of where things are in the input.\n3. **Teach the small model to think like the big one (Dynamics-Preserving Distillation).** Distillation means training a student model to copy a teacher. Here the 4-bit student must match three things: its hidden thoughts, the information it pulls out with special lookup slots called latent queries, and its final answers.\n4. **Keep the chain steady.** Matching all three keeps the low-precision reasoning consistent from one hidden step to the next, so errors don't snowball.\n\nThe combined system is called QL-VLM. It was tested on Qwen2-VL-2B-Instruct, a 2-billion-parameter open model.\n\n## Results\n\n- On ScienceQA-IMG, a set of school science questions that come with pictures, the 4-bit QL-VLM scored 90.43% accuracy.\n- The authors report this improves on their 4-bit baseline by 40.33%, showing how much naive rounding had hurt.\n- Compared with writing out full step-by-step reasoning, it uses 16.64 times fewer bit-operations, a rough count of the computing work.\n- It also responds 6.40 times faster in measured time. A reply that took 6.4 seconds would take about 1 second.\n\n## Why it matters\n\nTwo costs drop at once: the model thinks in fewer steps, and each step uses far fewer bits. That combination could let capable picture-and-text assistants run on cheaper hardware, such as phones, robots or cameras. Faster answers also matter for real-time uses.\n\n## Caveats\n\n- This summary is based on the paper's abstract; full result tables and the authors' limitations section were not reviewed.\n- Headline results come from one small model and one benchmark.\n- The exact meaning of the 40.33% gain (points or relative) depends on the baseline details in the paper.\n- Speed depends on the hardware used, which is not described here.\n- No public code was found at the time of writing, and the paper is not yet peer reviewed.\n\n## Key terms\n\n- **Vision-language model:** an AI that handles both pictures and text.\n- **Chain-of-thought:** writing out step-by-step reasoning before answering.\n- **Latent reasoning:** reasoning kept as hidden numbers rather than words.\n- **Quantization:** storing numbers with fewer bits to save memory and compute.\n- **Distillation:** training a small student model to copy a larger teacher.\n"
+    }
+   ]
+  }
+ ]
+}
