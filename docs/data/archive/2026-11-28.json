@@ -1,0 +1,269 @@
+{
+ "date": "2026-11-28",
+ "generated": "2026-11-28T11:19:46+00:00",
+ "news": [
+  {
+   "title": "OpenAI countersues Apple, alleging supplier pressure and trade-secret theft",
+   "url": "https://thenextweb.com/news/openai-countersues-apple-suppliers-pressure-devices",
+   "source": "The Next Web",
+   "summary": "OpenAI filed counterclaims in California federal court answering Apple's July lawsuit, accusing Apple of pressuring shared suppliers to avoid OpenAI's devices and using broad employment agreements to block engineers from joining it.",
+   "image": null,
+   "ts": 1795809600
+  },
+  {
+   "title": "FCC conditionally clears SpaceX's million-satellite Starmind AI compute constellation",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+   "source": "Space.com",
+   "summary": "The FCC gave SpaceX conditional approval to deploy up to one million solar-powered satellites acting as orbital AI data centers, with milestones running from 2033 to 2040; astronomers warn of night-sky impacts.",
+   "image": null,
+   "ts": 1795716000
+  },
+  {
+   "title": "Canada adds C$700M to AI Compute Access Fund, favouring sovereign clouds",
+   "url": "https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/",
+   "source": "BetaKit",
+   "summary": "Ottawa expanded the fund to about C$1 billion and will now cover up to 80% of eligible compute costs for Canadian SMEs when they buy from qualifying Canadian sovereign providers.",
+   "image": null,
+   "ts": 1795791600
+  },
+  {
+   "title": "OpenAI fixes GPT-6.2 billing bug, so Astra users hit limits 40% faster",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "source": "BleepingComputer",
+   "summary": "OpenAI said a billing error had been under-counting usage of GPT-6.2 Astra and Sol; after the fix, limits arrive sooner, while Business users get free Fast Mode through the end of 2026.",
+   "image": null,
+   "ts": 1795788000
+  },
+  {
+   "title": "Banned Nvidia Blackwell rack traced to Shanghai data center linked to Alice Huang",
+   "url": "https://siliconangle.com/2026/11/27/report-links-alice-huang-to-chinese-firms-with-smuggled-nvidia-chips/",
+   "source": "SiliconANGLE",
+   "summary": "Following a Bloomberg investigation, a GB300 server rack containing export-restricted Nvidia chips was traced via a Gigabyte supply chain to a Chinese facility tied to Alice Huang, adding pressure on chip-smuggling enforcement.",
+   "image": null,
+   "ts": 1795795200
+  },
+  {
+   "title": "US chip curbs and distillation crackdown slow Chinese AI labs",
+   "url": "https://www.japantimes.co.jp/business/2026/11/26/companies/china-ai-development-hurdles/",
+   "source": "The Japan Times (Reuters)",
+   "summary": "Sources say Z.ai has slipped behind schedule on its next flagship model and Moonshot AI expects longer gaps between major releases as US chip limits and curbs on distilling US models bite.",
+   "image": null,
+   "ts": 1795687200
+  },
+  {
+   "title": "Anthropic used Claude to migrate its Messages API from Python to Rust",
+   "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+   "source": "Anthropic",
+   "summary": "Anthropic detailed how Claude helped rewrite its core Messages API in Rust, cutting CPU use per request by about 70% and memory by roughly 80%, with faster time to first token.",
+   "image": null,
+   "ts": 1795712400
+  },
+  {
+   "title": "S&P puts Nvidia's AA rating on CreditWatch over governance after Huang saga",
+   "url": "https://thenextweb.com/news/nvidia-credit-rating-sp-creditwatch-governance",
+   "source": "The Next Web",
+   "summary": "S&P Global placed Nvidia's AA credit rating on watch for a possible downgrade citing governance concerns around Jensen Huang's departure and return, while Moody's kept its Aa1 rating with a stable outlook.",
+   "image": null,
+   "ts": 1795780800
+  },
+  {
+   "title": "42 state attorneys general move to block Character.AI's sale of user chats",
+   "url": "https://qz.com/character-ai-state-attorneys-general-chat-auction-112726",
+   "source": "Quartz",
+   "summary": "A coalition of 42 state AGs asked the bankruptcy court to stop Character.AI from auctioning private chat histories from some 21 million accounts as part of its Chapter 11 asset sale.",
+   "image": null,
+   "ts": 1795802400
+  },
+  {
+   "title": "Sber releases GigaChat 4, a 708B open-weight MoE model",
+   "url": "https://www.techtimes.com/articles/331654/20261127/sber-releases-gigachat-4-1m-token-window-lists-35-coding-test-where-deepseek-gets-74.htm",
+   "source": "Tech Times",
+   "summary": "Russia's Sber published GigaChat 4 in 708B (41B active) and 37B versions with 1M-token context; the large model is MIT-licensed, though its coding benchmark trails DeepSeek by a wide margin.",
+   "image": null,
+   "ts": 1795784400
+  },
+  {
+   "title": "Investigation finds undisclosed AI use disrupting UK court cases",
+   "url": "https://www.thebureauinvestigates.com/stories/2026-11-26/ai-is-throwing-the-court-system-into-disarray",
+   "source": "The Bureau of Investigative Journalism",
+   "summary": "The Bureau documented at least 25 cases in England and Wales this year involving fabricated citations, chatbot-drafted witness statements and disputed video, including a police officer using Copilot to prepare a victim impact statement.",
+   "image": null,
+   "ts": 1795694400
+  },
+  {
+   "title": "Kazakhstan deepens AI cooperation with chip-hungry Russia",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/27/kazakhstan-boosts-ai-cooperation-with-russia",
+   "source": "Free Malaysia Today (Reuters)",
+   "summary": "President Tokayev welcomed Sberbank and Yandex into Kazakhstan's AI market, raising questions about whether US-made chips in Kazakh data centers could end up serving Russian AI efforts.",
+   "image": null,
+   "ts": 1795752000
+  }
+ ],
+ "tracks": [
+  {
+   "id": "autonomous",
+   "name": "Autonomous Systems",
+   "color": "#22d3ee",
+   "papers": [
+    {
+     "id": "2611.29123",
+     "title": "Your Diffusion-Based Driving Planner Only Needs a Nudge",
+     "authors": [
+      "Zilin Wang",
+      "Guozheng Ma",
+      "Saeed Rahmani",
+      "Jiong Yang",
+      "Antyanta Bangunharcana",
+      "Yiluan Guo",
+      "Jakob Nicolaus Foerster",
+      "Shimon Whiteson"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Rather than retraining a self-driving planner, a tiny add-on learns to slightly adjust each plan's speed and turning, beating the best previous fine-tuning method on nuPlan with about one sixth of the simulator practice.",
+     "image": "https://zerlinwang.github.io/plannudge/assets/figs/teaser_v6.svg",
+     "abs_url": "https://arxiv.org/abs/2611.29123",
+     "pdf_url": "https://arxiv.org/pdf/2611.29123",
+     "summary_md": "## In one sentence\n\nInstead of retraining a big self-driving planner, the authors bolt on a tiny add-on that slightly tweaks each planned path's speed and turning, and this small nudge fixes many crashes.\n\n## Background you need\n\nA driving planner is the part of a self-driving car that decides the path for the next few seconds. A diffusion planner (one that builds a path by starting from random noise and cleaning it up over several rounds) learns by copying human drivers. Reinforcement learning, or RL, is training by trial and error: the system tries actions in a simulator and gets rewards or penalties.\n\n## The problem\n\nCopying humans works until the car drifts into situations the examples never covered, a problem called covariate shift. Small mistakes pile up, and the planner can end up colliding or leaving the road. RL could teach it to recover, but diffusion planners are awkward to train this way. Each plan takes 10 clean-up rounds, which makes the learning problem 10 times longer. Each plan also has 80 points covering 8 seconds, yet the car follows it for only a tenth of a second before planning again. So most of what the training adjusts is thrown away.\n\n## The idea\n\nThe authors noticed that failing plans are usually almost right. In 72 scenarios where the planner failed, small random tweaks to its plans rescued 53% of failures in at least one of 20 tries. Simply asking the planner for a fresh plan rescued only 2 of the 72, even with 50 tries. It is like a driving instructor who never grabs the wheel, but says \"a bit slower\" or \"turn a touch more\".\n\n## How it works\n\n1. **Freeze the planner.** The pretrained diffusion planner is never changed.\n2. **Add a nudge policy.** A small neural network (a basic stack of layers called an MLP) looks at each plan and outputs just two numbers: a speed offset and a curvature offset (how much sharper or gentler to turn). It runs in one quick pass, 10 times per second.\n3. **Keep a safe default.** A nudge of zero gives back the original plan exactly, so the add-on starts from the planner's existing skill.\n4. **Train with standard RL.** Because the two numbers directly change how the car moves, a common RL setup that learns from stored past experience can train them. A critic network (a second model that predicts how good an action will be) scores each nudge. The reward is a small safety penalty at every step.\n5. **Explore wisely.** Random exploration noise is kept smooth over time. In half the practice drives, scripted pushes and brakes break the planner out of \"stalls\", such as waiting behind a car that already moved.\n\n## Results\n\nTests used nuPlan, a public closed-loop benchmark (the car's own choices shape what happens next) of real driving scenarios scored from 0 to 100. There were three test sets, each run with traffic that either replays logs or reacts to the car. PlanNudge matched or beat PlannerRFT, the best previous RL method, in all six settings. On the hardest set with reactive traffic, it scored 73.44, up from 68.93 for the planner alone and 72.21 for PlannerRFT. It used 6.2 million simulator steps versus PlannerRFT's 40 million. To match PlannerRFT's gain on one test set, it needed about 30 times fewer steps (1.3 million versus 40 million). It used under one fifth of the compute. The scripted pushes and brakes freed 29% of stalls, versus 9% without them.\n\n## Why it matters\n\nSelf-driving teams spend a lot to train large planners. PlanNudge suggests they can keep that model and add a cheap safety layer trained in simulation. Because the add-on only shifts speed and turning slightly, its behavior is easier to inspect and bound.\n\n## Caveats\n\nAll results come from simulation, not real cars. The nudge can only change speed and curvature, so it cannot fix plans that need a completely different route. Gains are about one to four and a half points, real but modest. Results are on one benchmark, and the code was not yet released at posting time.\n\n## Key terms\n\n- **Diffusion planner**: a model that builds a driving path by refining random noise over several rounds.\n- **Reinforcement learning (RL)**: learning by trial and error from rewards and penalties.\n- **Closed loop**: testing where the car's own actions change what happens next.\n- **Curvature**: how sharply the path bends.\n- **nuPlan**: a public benchmark for testing driving planners on real-world scenarios."
+    }
+   ]
+  },
+  {
+   "id": "inference",
+   "name": "Inference Optimization",
+   "color": "#a78bfa",
+   "papers": [
+    {
+     "id": "2611.33111",
+     "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+     "authors": [
+      "Yuxing Liu",
+      "Wei Zuo",
+      "Walid Krichene",
+      "Tong Zhang",
+      "Li Zhang"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Draft models used in speculative decoding are systematically underconfident; turning down their temperature, a one-number fix, lifts accepted tokens by about 9-11% and serving throughput by 5-22% at no cost.",
+     "image": "https://arxiv.org/html/2611.33111v1/topk_set_overlap.png",
+     "abs_url": "https://arxiv.org/abs/2611.33111",
+     "pdf_url": "https://arxiv.org/pdf/2611.33111",
+     "summary_md": "## In one sentence\n\nThe authors found that the small \"helper\" models used to speed up chatbots are too timid, and simply making them more decisive with one setting makes replies arrive up to about 10% faster for free.\n\n## Background you need\n\nLarge language models write text one token (a word or word piece) at a time, which is slow. Speculative decoding speeds this up. A small draft model quickly guesses several next tokens, and the big target model checks them all at once. Each guess is a probability spread over possible tokens. A guess is more likely to be accepted when the draft's spread looks like the target's. The acceptance length is how many guessed tokens survive each check on average; longer means faster.\n\n## The problem\n\nTeams that serve models spend heavily on GPUs, so every extra accepted token saves money and waiting time. The authors asked a simple question: are draft models' probabilities shaped right? They found a consistent flaw. Open-source drafts often pick the same top token as the target, but give it too little probability. For example, one draft gave its top choice about 12 percentage points less probability than the target did. That spread-out, unsure guess wastes acceptances.\n\n## The idea\n\nCalibration means making a model's confidence match how often it is right. Here, the target model is the standard to match. Think of a junior assistant who knows the right answer but always hedges. You do not retrain them; you just tell them to speak up. The tool for this is temperature, a single dial that makes a probability spread sharper (more confident) or flatter. Lowering the draft's temperature sharpens its guesses toward its top choice.\n\n## How it works\n\n1. **Diagnose.** Across nine target–draft pairs, they compared draft and target spreads. Targets included Gemma-4-31B, GPT-OSS-120B and several Qwen models. Drafts came from three popular families: EAGLE-3, DFlash and DSpark. Drafts were consistently less confident and more spread out than their targets.\n2. **Replay cheaply.** They saved the draft's internal states from normal runs. Then they recomputed its guesses under many settings without rerunning the big model.\n3. **Tune one dial.** They picked the best draft temperature from a small menu (from fully greedy to 1.2) on held-out data, using eight coding, math and chat benchmarks.\n4. **Try fancier fixes.** They also tested per-rank temperatures, a learned correction matrix, and small networks that choose a temperature for each token.\n5. **Measure real serving.** They ran the best setting in SGLang, a popular serving engine, on NVIDIA GH200 GPUs with 16 to 128 simultaneous users.\n\n## Results\n\nIn live serving, acceptance length rose 8.8% to 10.9% in all nine tested conditions. Throughput (tokens produced per second) rose 5.1% to 22.1%. For GPT-OSS-120B with an EAGLE-3 draft and 64 users, throughput went from about 1,583 to 1,756 tokens per second. That is roughly one free extra GPU for every ten you run. Typical and slow-end (95th percentile) waiting times dropped in every condition. The fancier methods did not beat the single dial. An idealized per-token \"cheat\" setting showed much more headroom, but learned predictors could not capture it. Drafts trained by DeepSeek were already well calibrated and gained little (0% to 2%).\n\n## Why it matters\n\nThis is a near-free win for anyone already running speculative decoding. It needs no retraining, no new hardware and no change to output quality, since the target model still checks every token. It also shows draft builders that matching the target's confidence matters, not just its top pick.\n\n## Caveats\n\nThe fix only adjusts outputs after training; fixing confidence during training was not tried. Only simple chains of guesses were tested, not tree-shaped guesses. The cheap replay method is an approximation and may not rank every setting exactly like live serving. The cause of the timidity is unknown. The best temperature must be tuned per model pair.\n\n## Key terms\n\n- **Speculative decoding**: a small model drafts tokens and a big model checks them in one go.\n- **Draft model**: the small, fast guesser.\n- **Acceptance length**: average number of drafted tokens kept per check.\n- **Temperature**: a dial that makes a model's guesses more confident or more spread out.\n- **Calibration**: making a model's confidence match the standard it should follow.\n- **Throughput**: how many tokens a server produces per second."
+    }
+   ]
+  },
+  {
+   "id": "transformer-opt",
+   "name": "Transformer Optimization",
+   "color": "#f472b6",
+   "papers": [
+    {
+     "id": "2611.34051",
+     "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+     "authors": [
+      "Xichong Zhang",
+      "Xixuan Hao",
+      "Zhichen Liu",
+      "Le Zhou",
+      "Zeyu Zhang",
+      "Boyu Chen",
+      "Mingfei Lu",
+      "Zehao Lin"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 132,
+     "tldr": "A fix for a fast linear-attention model whose memory can silently grow until long-context training crashes, which also improves long-document retrieval.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.34051",
+     "pdf_url": "https://arxiv.org/pdf/2611.34051",
+     "summary_md": "## In one sentence\nThe authors find why a promising fast-attention design, Gated DeltaNet-2, sometimes blows up during long-context training, and they fix it with a safer memory-update rule.\n\n## Background you need\nStandard attention compares every word with every other word, so its cost grows quickly with text length. Linear attention instead keeps a fixed-size \"state\", a compact memory matrix, updated once per token. Gated DeltaNet-2 (GDN-2) is a recent linear attention design. It has separate per-channel controls, called gates, for erasing old memory and writing new memory.\n\n## The problem\nThose separate erase and write gates help the model retrieve facts from long inputs. But they also make training fragile. When the authors trained 1.6-billion-parameter GDN-2 models on 64,000-token sequences, 3 of 8 pretraining runs and 4 of 8 fine-tuning runs crashed with invalid numbers. In one crash, the memory's size overflowed at token 52,736.\n\n## The idea\nThe erase step in GDN-2 \"reads\" the memory along one direction but \"edits\" it along a slightly different direction. That mismatch can quietly amplify some parts of the memory each step. Over tens of thousands of tokens, the small boosts compound.\n\nThink of a sound system with a slightly mis-aimed microphone. Each pass adds a little echo, and eventually you get feedback squeal. The fix is to aim the erase step so it reads and edits along the same direction. Then erasing can only shrink memory, never inflate it.\n\n## How it works\n1. **Diagnose.** The authors replay a failed run and switch off all new writes. GDN-2's memory keeps growing anyway, while older designs (GDN and KDA) decay. This shows erasing itself causes the growth.\n2. **Symmetric erasure.** They split the erase gate into two equal halves and apply one half on each side. The erase step now uses the same direction for reading and editing. Mathematically, it can no longer enlarge the memory.\n3. **Decay-regulated residual writing.** Symmetric erasure also weakens some useful writes. So they add a small extra write to restore them. Its strength is tied to the memory's decay setting, which caps how much energy it adds.\n4. **Keep it fast.** The new update keeps the same form that allows \"chunkwise\" training, where blocks of tokens are processed in parallel on GPUs. They also prove a limit on how fast memory can grow with length.\n\n## Results\nModels had about 1.6 billion parameters and trained on about 83 billion tokens with 64,000-token context. Baselines were GDN-2, KDA, and two existing stabilization tricks, D-Clip and beta-Guard.\n\n- On RULER, a long-context retrieval benchmark, the pure linear model scored 11.62 at 128,000 tokens. GDN-2 scored 4.82, a gain of 6.80 points.\n- In the hybrid setup (mixing linear layers with some full attention), average accuracy on nine common-sense tasks was 50.53, versus 49.91 for GDN-2.\n- Perplexity, a measure of how well the model predicts text (lower is better), improved over GDN-2 in the pure linear setup. KDA was still lower.\n- Removing either new component hurt accuracy, so both pieces matter.\n\n## Why it matters\nLinear attention is a leading way to make long-context models cheaper to run. A design that silently diverges at long lengths is risky to scale. This work explains the failure and offers a drop-in fix that keeps the speed benefits.\n\n## Caveats\n- Experiments stop at about 1.6 billion parameters. Behavior at larger scale is untested.\n- In the hybrid setup, other stabilizers beat it on RULER at 64,000 and 128,000 tokens.\n- Absolute RULER scores are low for all models at 128,000 tokens.\n- The paper's text gives two different forms of its growth bound, which is confusing.\n- No speed or throughput numbers were found in the sections reviewed.\n\n## Key terms\n- **Linear attention**: an attention variant that keeps a fixed-size memory, so cost grows linearly with text length.\n- **Recurrent state**: the running memory matrix updated after each token.\n- **Gate**: a learned per-channel dial that controls how much to erase or write.\n- **Non-expansive**: an update that can never make the memory larger.\n- **RULER**: a benchmark testing whether models can find and track information in very long inputs.\n- **Hybrid model**: a network mixing linear attention layers with some standard attention layers.\n"
+    }
+   ]
+  },
+  {
+   "id": "gpu",
+   "name": "GPU Kernels",
+   "color": "#34d399",
+   "papers": [
+    {
+     "id": "2611.27765",
+     "title": "Weave: Routing-Adaptive Runtime Warp Scheduling for MoE Megakernels",
+     "authors": [
+      "Ziyu Huang",
+      "Yangjie Zhou",
+      "Chenhao Zhu",
+      "Hongzhe Yan",
+      "Tianwei Qiao",
+      "Sicheng He",
+      "Zihan Liu",
+      "Peng Yu"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "A fused GPU kernel for mixture-of-experts layers that reassigns GPU threads between communication and math at runtime, running MoE layers about 1.2 to 1.4 times faster than the best prior kernels.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.27765",
+     "pdf_url": "https://arxiv.org/pdf/2611.27765",
+     "summary_md": "## In one sentence\nWeave makes the giant fused GPU program behind mixture-of-experts layers reassign its worker threads on the fly, based on where tokens are actually routed.\n\n## Background you need\nA mixture-of-experts (MoE) model has many sub-networks, called experts, and sends each token to only a few. With expert parallelism, experts live on different GPUs, so tokens must travel between GPUs and back. A \"megakernel\" fuses this whole layer, sending, matrix math and returning, into one long-running GPU program. Inside a GPU, threads run in groups of 32 called warps, and each warp can be given a role.\n\n## The problem\nToken routing changes with every batch. One GPU may receive lots of incoming data but little math. Another may get the opposite. Existing systems fix the split between communication work and math work ahead of time. Some dedicate whole processor blocks to communication, leaving their matrix units idle. The fastest prior megakernel, DeepGEMM's MegaMoE, shares each block across roles but fixes warp counts at compile time. So warps often sit waiting.\n\n## The idea\nWeave decides the division of labor at launch, per GPU, using the real routing numbers. It also lets warps change jobs mid-run.\n\nThink of a restaurant kitchen. A fixed plan says four cooks prep and eight cook, every night. Weave looks at tonight's orders first. It sets the split accordingly, and lets prep cooks move to the line once prep runs dry.\n\n## How it works\n1. **Spatial schedule.** Each GPU picks a ratio of communication warps to math warps. Different processor blocks on one GPU can even use different ratios. The options are tuned per chip, for example 4 to 8 or 8 to 4 on NVIDIA's SM103.\n2. **Temporal schedule, start.** At first, every warp helps pull incoming tokens. After a preset number of tokens arrive, the math warps switch to matrix multiplication.\n3. **Temporal schedule, middle and end.** For sending results back, Weave chooses between two paths. In one, freed communication warps stream outputs out. At the end, each token is combined as soon as its expert results arrive. This avoids a global wait for all GPUs.\n4. **On-device cost model.** At launch, one thread block reads routing counts and scores each candidate schedule with a simple latency formula. It accounts for link bandwidth, math time and memory time, then picks the fastest. This takes about 2 to 4 microseconds.\n\n## Results\nTests used real routing traces from ShareGPT chat data on six large MoE models, including Qwen3.5 and MiniMax-M3 variants. Weights were random.\n\n- On 8 NVIDIA SM103 GPUs, Weave beat MegaMoE on all 30 workloads. Average speedup was 1.30x, up to 1.97x. Against FlashInfer it averaged 1.40x.\n- On 8 NVIDIA Hopper-generation SM90 GPUs, it averaged 1.24x over MegaMoE and 1.95x over FlashInfer.\n- On 16 AMD CDNA3 GPUs across two machines, it averaged 1.44x over the fastest official AMD library path, up to 2.87x.\n- The cost model's choices came within 2.6% of the best possible schedule on SM103.\n- Removing the spatial, temporal and cost-model pieces cut the SM103 gain from 1.30x to about 1.0x.\n\n## Why it matters\nMoE layers dominate the cost of many frontier models. Their communication is a known bottleneck when serving across many GPUs. Weave shows that adaptive, fine-grained scheduling inside one kernel recovers idle time. It also works on both NVIDIA and AMD hardware.\n\n## Caveats\n- Full-model gains are much smaller than layer gains. On SM90, end-to-end speedup was 1.08x for generating text and 1.01x for long prompt processing.\n- Benchmarks used random weights with real routing, not full trained models.\n- Combining with expert load balancing (replicating busy experts) shrank the advantage to 1.13x.\n- Code is not yet released.\n- Only GPUs were tested, not other AI accelerators.\n\n## Key terms\n- **Mixture-of-experts (MoE)**: a model that routes each token to a few of many specialist sub-networks.\n- **Expert parallelism**: spreading experts across GPUs, so tokens move between them.\n- **Megakernel**: one long-running GPU program that fuses many steps of a layer.\n- **Warp**: a group of 32 GPU threads that execute together.\n- **Geometric mean speedup**: an average of speedup ratios that is not skewed by a few extreme cases.\n"
+    }
+   ]
+  },
+  {
+   "id": "robotics",
+   "name": "Autonomous Robotics",
+   "color": "#fbbf24",
+   "papers": [
+    {
+     "id": "2611.09892",
+     "title": "On Agentic Manipulation Policies",
+     "authors": [
+      "Chen Chen",
+      "Omid Bagherieh",
+      "Naveen Nikamanth Appiah Balaji",
+      "Jesse T. Gonzalez",
+      "Negin Heravi",
+      "Fahad Islam",
+      "Xueting Li",
+      "Jean-Baptiste Regli"
+     ],
+     "source": "arXiv new",
+     "upvotes": 0,
+     "tldr": "Letting a general AI model write code to control a robot arm, with no robot training data, beats specialist robot policies in simulation and on a real arm.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.09892",
+     "pdf_url": "https://arxiv.org/pdf/2611.09892",
+     "summary_md": "## In one sentence\nApple researchers show that a general-purpose AI model, writing code to steer a robot arm step by step, can beat robot policies trained specifically for manipulation.\n\n## Background you need\nA vision-language-action model is a neural network trained on many robot demonstrations to map camera images and a text instruction straight to motor commands. A world-action model is a similar specialist that also learns to predict how the scene will change. A harness is the software wrapper that lets a language model see, think, and act through tools. The authors call the combination of a frontier model and such a harness an Agentic Manipulation Policy.\n\n## The problem\nSpecialist robot policies need large amounts of demonstration data. They often fail on objects, layouts, or robots they were not trained on. Each new robot body usually means new data collection and new training. The open question is whether those general skills can control a real arm well enough to replace the specialists.\n\n## The idea\nInstead of training a robot reflex, give a capable planner a toolbox and let it work the problem. Think of a skilled contractor who has never seen your house. They look around, measure, try something, and adjust. The general model plays that contractor. It writes small programs, checks the result, and tries again.\n\n## How it works\n1. **A persistent coding sandbox.** The model runs Python in an interpreter that keeps its state between steps. It calls a software kit for color images, depth, camera calibration, and the arm's current state.\n2. **Perception tools.** The kit offers a scene model that segments and tracks objects, so the model can ask where things are.\n3. **Low-level motion only.** The model specifies timed waypoints for the gripper and when to open or close it. The harness checks reach and speed, smooths the path, and computes joint angles. It does not pick grasps or placements for the model.\n4. **Error recovery.** On the real robot, the model can read the arm's status, clear collision safety stops, and replan.\n5. **Memory from experience.** A variant called AMP1+ keeps a folder of notes and code. After each episode the model reflects on what worked and writes to it. No model weights change.\n\n## Results\nIn the RoboLab-120 simulated benchmark, AMP1 succeeded 85.6% of the time with Gemini 4 Argon and 82.8% with Opus 5.5. The best vision-language-action model scored 49.2%, and the best world-action model 42.9%. On the robosuite benchmark it succeeded in all 700 episodes, against 82.6% for human-written programs.\n\nOn a real Franka arm, across 12 tasks and 108 trials, it succeeded 96.3% of the time with error recovery and 87.0% without. The specialist policies FLUX 3 Action and pi-zero-point-five managed 45.4% and 27.8%.\n\nModel choice mattered most. Opus 4.5 reached only 35.2% on RoboLab-120. Replacing images with text descriptions dropped Opus 5.5 to 36.8%, so real vision matters. With practice and memory, AMP1+ rose from 26.4% to 84.1% on 42 two-armed tasks, above the leaderboard's best entry at 68.9%.\n\n## Why it matters\nThe same harness ran unchanged on single-arm, two-arm, and mobile robots. It needed no demonstrations or task-specific training. If this holds, robot capability may track progress in general AI models rather than robot data collection.\n\n## Caveats\nIt is slow. Real-world successes took about 280 seconds on average, versus 44 to 69 seconds for the specialists. The model cannot revise a motion while it runs, so tests used mostly still scenes. Most real failures were collisions tied to calibration and simplified robot geometry. The authors say it is not ready for safety-critical use.\n\n## Key terms\n- **Vision-language-action model:** a network trained on robot demonstrations that maps images and instructions to motor commands.\n- **Harness:** the software layer that gives a language model tools to sense and act.\n- **Waypoint:** a target position and time for the gripper along a path.\n- **Inverse kinematics:** computing joint angles that place the gripper at a desired position.\n- **Zero-shot:** solving a task with no examples or training for that task.\n"
+    }
+   ]
+  },
+  {
+   "id": "llm-vlm",
+   "name": "LLM & VLM",
+   "color": "#fb7185",
+   "papers": [
+    {
+     "id": "2611.34232",
+     "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+     "authors": [
+      "Hui Shen",
+      "Yunta Hsieh",
+      "Jianing Ma",
+      "Zhuoran Yin",
+      "Zhuhan Bao",
+      "Ziyuan Liu",
+      "Qi Han",
+      "Xiuqi Xu"
+     ],
+     "source": "Hugging Face Trending",
+     "upvotes": 110,
+     "tldr": "A new cross-platform benchmark of long computer chores shows the best AI agent completes 68.5% versus 77.3% for people, with big gaps on Apple devices.",
+     "image": null,
+     "abs_url": "https://arxiv.org/abs/2611.34232",
+     "pdf_url": "https://arxiv.org/pdf/2611.34232",
+     "summary_md": "## In one sentence\nOS-Omni is a new test suite that checks whether AI agents can finish long, realistic computer chores across six kinds of devices, and finds they still trail people.\n\n## Background you need\nA computer-using agent is an AI model that operates a computer the way a person does. It looks at the screen, then clicks, types, and scrolls. A benchmark is a fixed set of tasks with an automatic way to score them. OSWorld is a well-known earlier benchmark for such agents on desktop computers.\n\n## The problem\nMost existing agent benchmarks cover one setting: only the web, only phones, or only desktops. Their tasks are also short. Real chores are longer and messier. Booking a trip or reconciling a budget can mean dozens of steps across several apps. Sometimes the work starts on a laptop and ends on a phone. Nobody had a clean way to test one agent across all these settings at once.\n\n## The idea\nBuild one testing ground that spans every major platform and uses long tasks. Then check the end state of the world, not the clicks along the way. Think of a driving test that sends you on a full errand across town. The examiner does not grade each turn. They check that the groceries are home and the car is parked legally.\n\n## How it works\n1. **Six platforms.** The suite covers Windows, Ubuntu Linux, macOS, Apple's iOS, Android, and the Web.\n2. **Versioned task waves.** Tasks arrive in planned releases of 300 each. This first version has 48 tasks per platform, plus 12 workflows that pair a desktop with an Android phone.\n3. **Apps with memory.** The authors built controlled, service-backed apps that keep lasting state. Examples are accounts, shopping carts, budgets, calendars, and messages. An agent's actions therefore have consequences that persist.\n4. **Repeatable setup and logging.** Each task starts from the same initial state. Platform-specific adapters connect the agent to each system. Every step the agent takes is recorded.\n5. **Executable checkers.** After the agent finishes, a program inspects the final state. It confirms, for example, that the right event really landed on the calendar.\n\n## Results\nThe tasks are long. In human studies, people needed about 67.5 interaction steps per task on average. The comparable figure for OSWorld tasks is 15.0 steps. So each task is roughly four times longer.\n\nThe strongest agent tested, Claude Opus 5.5, succeeded on 68.5% of tasks on average. People succeeded on 77.3%. A conference version of the paper reports 69.1% for the same model, so the exact figure shifted slightly between drafts.\n\nThe average hides large swings by platform. Frontier models beat the human reference on Linux. On iOS and macOS, they trailed people by more than 25 percentage points.\n\n## Why it matters\nCompanies are shipping agents that act on real accounts and devices. A score on one platform says little about how an agent will behave on another. OS-Omni gives a single yardstick across the systems people actually use. Its stateful apps also test whether an agent leaves things correctly changed, which is what users care about. The code, environments, and data are released for others to use.\n\n## Caveats\nThis first release is modest in size: 48 tasks per platform and 12 cross-device workflows. Per-platform scores rest on few tasks, so small differences may be noise. The service-backed apps are controlled stand-ins, not the real commercial services. The human reference comes from a study whose size and design are not covered here. The headline score differs slightly between two versions of the paper. This summary is based on the abstract and public descriptions, not the full text.\n\n## Key terms\n- **Computer-using agent:** an AI model that operates software through the screen, keyboard, and mouse.\n- **Long-horizon task:** a job that needs many steps, where early mistakes can derail the end.\n- **Final-state evaluator:** a program that checks the end result instead of the path taken.\n- **Persistent state:** data that remains after an action, such as a saved calendar event.\n- **Cross-platform workflow:** a task that must be finished across two devices, such as a laptop and a phone.\n"
+    }
+   ]
+  }
+ ]
+}
